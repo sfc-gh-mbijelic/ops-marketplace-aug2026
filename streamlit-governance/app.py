@@ -111,14 +111,14 @@ with tab_access:
                                 session.sql(f"CALL ON_GOVERNANCE_RFS.PUBLIC.PROVISION_ACCESS('{rid}')").collect()
                                 st.success(f"Access GRANTED to {req['REQUESTOR_ROLE']}")
                                 st.balloons()
-                                st.rerun()
+                                st.experimental_rerun()
                             except Exception as e:
                                 st.error(str(e))
                     with c_rej:
                         if st.button("Reject", key=f"r_{rid}"):
                             try:
                                 session.sql(f"UPDATE ON_GOVERNANCE_RFS.PUBLIC.ACCESS_REQUESTS SET STATUS='REJECTED',APPROVED_BY=CURRENT_USER(),RESOLVED_AT=CURRENT_TIMESTAMP() WHERE REQUEST_ID='{rid}'").collect()
-                                st.rerun()
+                                st.experimental_rerun()
                             except Exception as e:
                                 st.error(str(e))
         st.subheader("History")
