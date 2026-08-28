@@ -1,0 +1,1001 @@
+PARTICIPANT_ID,AGE,GENDER,REGION,EDUCATION_LEVEL,PRIOR_EMPLOYMENT_MONTHS,TRAINING_PROGRAM,TRAINING_HOURS,CERTIFICATION_EARNED,EMPLOYMENT_OUTCOME,SALARY_POST_TRAINING,INDUSTRY_PLACED,TIME_TO_EMPLOYMENT_DAYS,RETENTION_6_MONTH,SKILL_MATCH_SCORE,FEATURE_IMPORTANCE_RANK,IS_TRAINING_SUITABLE,UPDATE_FREQUENCY,LAST_UPDATED
+PRT-000001,49,M,GTA,Master,105,Healthcare Aide,324,Yes,Further Training,45111,Construction,164,No,0.97,3,Yes,Monthly,2026-06-21
+PRT-000002,21,X,Central,College,111,Advanced Manufacturing,138,Yes,Unemployed,101086,Healthcare,180,Yes,0.75,15,Yes,Monthly,2026-07-16
+PRT-000003,36,X,Southwestern,Less than HS,189,Healthcare Aide,572,No,Self-Employed,77149,Government,132,No,0.45,6,No,Weekly,2026-03-23
+PRT-000004,53,F,Waterloo,College,121,Data Analytics,668,Yes,Employed FT,66283,Construction,48,Yes,0.86,6,No,Monthly,2026-07-12
+PRT-000005,57,F,Durham,Bachelor,81,Advanced Manufacturing,552,No,Self-Employed,51087,Finance,177,No,0.58,9,Yes,Monthly,2026-02-04
+PRT-000006,25,F,Central,College,16,Skilled Trades,623,No,Unemployed,105178,Manufacturing,141,Yes,0.73,10,Yes,Monthly,2026-01-25
+PRT-000007,21,F,Eastern,Bachelor,169,IT Security,365,No,Employed PT,101513,Manufacturing,63,Yes,0.56,6,No,Weekly,2026-07-10
+PRT-000008,57,F,Durham,Bachelor,197,IT Security,313,No,Self-Employed,116190,Manufacturing,67,Yes,0.39,7,Yes,Monthly,2026-07-20
+PRT-000009,61,X,Eastern,Bachelor,127,Healthcare Aide,618,No,Unemployed,34133,Manufacturing,142,No,0.72,6,Yes,Weekly,2026-01-22
+PRT-000010,59,F,Waterloo,Bachelor,106,Skilled Trades,678,Yes,Employed PT,91860,Healthcare,144,No,0.46,16,No,Weekly,2026-03-25
+PRT-000011,40,X,Hamilton,Master,153,Digital Skills,421,No,Further Training,108498,Healthcare,15,No,0.58,2,Yes,Monthly,2026-06-07
+PRT-000012,27,X,Hamilton,College,6,Data Analytics,186,Yes,Employed FT,86876,Finance,26,Yes,0.88,2,No,Weekly,2026-03-27
+PRT-000013,55,F,Southwestern,Less than HS,41,Advanced Manufacturing,666,No,Further Training,83514,Manufacturing,111,No,0.4,2,Yes,Weekly,2026-04-20
+PRT-000014,41,X,Waterloo,Bachelor,114,IT Security,77,Yes,Further Training,46594,Government,77,Yes,0.63,14,Yes,Monthly,2026-01-10
+PRT-000015,26,X,Southwestern,College,110,Advanced Manufacturing,255,Yes,Further Training,81752,Retail,130,No,0.87,16,Yes,Monthly,2026-03-03
+PRT-000016,45,M,Southwestern,Less than HS,108,Skilled Trades,531,Yes,Self-Employed,69834,Finance,31,Yes,0.98,6,Yes,Monthly,2026-02-19
+PRT-000017,42,M,Northern,High School,27,Advanced Manufacturing,208,No,Employed PT,85606,Manufacturing,145,Yes,0.56,18,Yes,Monthly,2026-01-07
+PRT-000018,49,X,Southwestern,High School,210,Skilled Trades,338,No,Unemployed,101794,Technology,102,No,0.68,16,Yes,Monthly,2026-05-14
+PRT-000019,42,F,Southwestern,Bachelor,191,IT Security,145,Yes,Further Training,81261,Retail,133,Yes,0.97,3,Yes,Weekly,2026-03-17
+PRT-000020,56,X,Central,Less than HS,12,Healthcare Aide,185,Yes,Unemployed,109584,Manufacturing,39,Yes,0.69,1,Yes,Monthly,2026-05-12
+PRT-000021,63,M,Central,Less than HS,183,Data Analytics,285,No,Self-Employed,46069,Government,96,Yes,0.64,18,Yes,Monthly,2026-07-15
+PRT-000022,61,X,Waterloo,Bachelor,32,IT Security,260,Yes,Employed FT,110246,Finance,139,Yes,0.86,13,Yes,Monthly,2026-07-05
+PRT-000023,32,M,Central,High School,84,Healthcare Aide,319,Yes,Employed FT,105396,Healthcare,118,No,0.63,2,No,Monthly,2026-06-12
+PRT-000024,60,X,Eastern,High School,219,Healthcare Aide,658,No,Unemployed,62383,Finance,51,No,0.93,7,No,Weekly,2026-02-09
+PRT-000025,30,F,Niagara,College,146,Data Analytics,661,Yes,Further Training,75102,Finance,153,No,0.95,3,Yes,Monthly,2026-07-13
+PRT-000026,34,F,Central,Bachelor,195,Digital Skills,265,Yes,Unemployed,75147,Government,82,Yes,0.91,17,Yes,Weekly,2026-04-15
+PRT-000027,21,X,Niagara,High School,15,IT Security,139,Yes,Further Training,77822,Finance,18,No,0.97,15,Yes,Weekly,2026-05-10
+PRT-000028,49,X,Southwestern,High School,52,Advanced Manufacturing,383,No,Employed FT,82534,Retail,18,No,0.51,9,No,Weekly,2026-02-21
+PRT-000029,23,X,Ottawa,Less than HS,86,Digital Skills,230,No,Employed PT,44625,Retail,25,No,0.64,10,Yes,Weekly,2026-03-06
+PRT-000030,47,M,Ottawa,Master,162,IT Security,463,No,Self-Employed,89409,Technology,88,No,0.86,15,Yes,Monthly,2026-07-13
+PRT-000031,41,M,GTA,College,97,IT Security,766,Yes,Employed PT,69645,Finance,51,No,0.76,14,No,Weekly,2026-05-31
+PRT-000032,40,M,Durham,Less than HS,36,Data Analytics,330,No,Employed FT,51930,Construction,172,No,0.57,13,Yes,Monthly,2026-06-15
+PRT-000033,43,X,Waterloo,College,74,Healthcare Aide,209,Yes,Self-Employed,106306,Government,101,Yes,0.57,15,No,Monthly,2026-03-08
+PRT-000034,21,X,Durham,College,202,Digital Skills,388,No,Self-Employed,83732,Finance,101,Yes,0.77,1,Yes,Monthly,2026-04-11
+PRT-000035,50,X,Durham,Master,139,Green Energy,542,Yes,Employed PT,102192,Finance,18,Yes,0.66,8,Yes,Monthly,2026-01-09
+PRT-000036,50,X,Durham,Bachelor,101,IT Security,122,Yes,Self-Employed,68533,Healthcare,69,Yes,0.44,3,Yes,Monthly,2026-07-09
+PRT-000037,42,M,Hamilton,College,48,Healthcare Aide,587,Yes,Self-Employed,89272,Manufacturing,146,No,0.54,11,Yes,Weekly,2026-06-01
+PRT-000038,54,F,Central,Bachelor,186,IT Security,446,Yes,Employed FT,40532,Construction,127,No,0.87,8,Yes,Weekly,2026-01-21
+PRT-000039,33,X,GTA,High School,159,Digital Skills,744,No,Unemployed,83733,Healthcare,85,No,0.71,6,Yes,Monthly,2026-03-02
+PRT-000040,58,X,Ottawa,High School,198,Healthcare Aide,753,No,Further Training,38644,Construction,9,No,0.67,14,No,Weekly,2026-04-08
+PRT-000041,48,M,Hamilton,College,86,Digital Skills,719,Yes,Employed FT,78456,Construction,33,Yes,0.81,1,Yes,Weekly,2026-02-22
+PRT-000042,54,X,Southwestern,Bachelor,163,Digital Skills,367,No,Employed PT,118590,Government,157,No,0.93,1,Yes,Weekly,2026-02-05
+PRT-000043,39,F,Eastern,Master,98,Healthcare Aide,411,Yes,Further Training,75279,Technology,164,No,0.62,9,Yes,Weekly,2026-04-20
+PRT-000044,36,X,Hamilton,Master,159,Healthcare Aide,275,No,Self-Employed,56941,Government,10,Yes,0.56,13,No,Weekly,2026-06-26
+PRT-000045,48,F,Niagara,High School,75,Data Analytics,136,Yes,Self-Employed,57336,Finance,13,No,0.72,14,No,Weekly,2026-02-07
+PRT-000046,24,M,Hamilton,College,119,IT Security,301,Yes,Employed FT,32167,Technology,10,Yes,0.68,8,Yes,Monthly,2026-01-08
+PRT-000047,57,M,Waterloo,Bachelor,85,Skilled Trades,683,No,Further Training,41026,Healthcare,59,Yes,0.48,16,No,Monthly,2026-05-14
+PRT-000048,22,F,GTA,Less than HS,127,Healthcare Aide,718,Yes,Further Training,88063,Construction,114,Yes,0.93,15,Yes,Monthly,2026-06-29
+PRT-000049,42,F,Northern,College,3,Green Energy,565,No,Employed PT,48551,Retail,60,Yes,0.82,14,Yes,Monthly,2026-04-03
+PRT-000050,22,M,Ottawa,Bachelor,102,Digital Skills,443,No,Unemployed,100520,Government,161,No,0.48,2,Yes,Weekly,2026-04-12
+PRT-000051,44,M,Durham,Less than HS,67,Skilled Trades,623,No,Self-Employed,93378,Technology,54,Yes,0.74,1,Yes,Weekly,2026-07-10
+PRT-000052,46,F,Durham,High School,63,Digital Skills,631,Yes,Further Training,116804,Retail,106,Yes,0.67,11,Yes,Weekly,2026-01-31
+PRT-000053,52,M,Ottawa,Less than HS,204,Green Energy,410,No,Unemployed,80683,Healthcare,25,No,0.86,12,Yes,Weekly,2026-03-22
+PRT-000054,41,M,Waterloo,Less than HS,110,IT Security,672,Yes,Further Training,40975,Healthcare,167,Yes,0.59,3,Yes,Weekly,2026-06-03
+PRT-000055,23,M,Hamilton,High School,212,Data Analytics,709,No,Self-Employed,39499,Manufacturing,9,No,0.41,10,Yes,Weekly,2026-07-18
+PRT-000056,61,F,Waterloo,College,43,Healthcare Aide,632,No,Self-Employed,67570,Technology,178,No,0.67,11,No,Weekly,2026-03-13
+PRT-000057,52,F,Central,Master,109,Green Energy,617,Yes,Unemployed,39346,Healthcare,138,No,0.73,6,Yes,Monthly,2026-06-21
+PRT-000058,32,X,Central,High School,8,Advanced Manufacturing,455,Yes,Further Training,55652,Healthcare,148,No,0.89,4,No,Monthly,2026-07-19
+PRT-000059,40,M,Northern,Master,188,Skilled Trades,673,No,Employed PT,33220,Healthcare,50,Yes,0.96,1,No,Weekly,2026-01-10
+PRT-000060,18,X,GTA,Less than HS,124,IT Security,158,No,Employed FT,55915,Construction,162,No,0.61,18,Yes,Weekly,2026-04-10
+PRT-000061,19,X,Southwestern,High School,111,Data Analytics,432,No,Further Training,39330,Finance,123,Yes,0.71,10,Yes,Weekly,2026-02-14
+PRT-000062,59,X,Waterloo,High School,63,Data Analytics,350,Yes,Self-Employed,119177,Government,175,Yes,0.4,9,Yes,Weekly,2026-05-19
+PRT-000063,47,F,Ottawa,Bachelor,198,IT Security,345,No,Further Training,33594,Technology,87,Yes,0.88,7,Yes,Monthly,2026-02-02
+PRT-000064,46,F,Niagara,Less than HS,76,Skilled Trades,191,No,Further Training,94256,Construction,117,Yes,0.44,2,Yes,Monthly,2026-04-28
+PRT-000065,44,F,GTA,Bachelor,234,Green Energy,361,No,Employed FT,53099,Finance,146,Yes,0.84,4,Yes,Monthly,2026-01-28
+PRT-000066,30,M,Hamilton,Master,72,IT Security,566,No,Self-Employed,43988,Manufacturing,122,Yes,0.49,18,No,Monthly,2026-07-04
+PRT-000067,49,F,Niagara,Less than HS,142,IT Security,44,No,Further Training,60793,Finance,89,No,0.59,5,Yes,Monthly,2026-02-06
+PRT-000068,59,F,Central,Master,9,IT Security,623,No,Self-Employed,115976,Healthcare,171,Yes,0.49,6,No,Monthly,2026-02-02
+PRT-000069,46,F,Central,High School,21,Healthcare Aide,122,Yes,Unemployed,81781,Retail,66,No,0.9,16,Yes,Weekly,2026-05-04
+PRT-000070,42,F,Southwestern,High School,207,Digital Skills,456,No,Employed PT,49998,Manufacturing,37,Yes,0.7,12,No,Monthly,2026-04-15
+PRT-000071,40,F,GTA,Less than HS,213,Advanced Manufacturing,444,Yes,Employed FT,72562,Healthcare,159,Yes,0.34,6,No,Monthly,2026-03-01
+PRT-000072,50,F,Ottawa,Bachelor,169,Data Analytics,624,Yes,Further Training,44895,Government,89,Yes,0.81,12,Yes,Weekly,2026-04-05
+PRT-000073,18,X,Hamilton,Less than HS,117,Healthcare Aide,666,Yes,Unemployed,90862,Technology,123,Yes,0.4,9,Yes,Weekly,2026-05-20
+PRT-000074,33,F,Waterloo,College,152,Advanced Manufacturing,549,Yes,Unemployed,65160,Retail,7,No,0.32,17,Yes,Monthly,2026-04-10
+PRT-000075,57,X,Ottawa,Bachelor,181,IT Security,169,Yes,Further Training,95007,Technology,146,Yes,0.84,6,No,Monthly,2026-02-22
+PRT-000076,34,X,Durham,Bachelor,38,Green Energy,473,Yes,Self-Employed,103491,Manufacturing,147,No,0.99,1,Yes,Monthly,2026-06-09
+PRT-000077,64,M,GTA,High School,56,Digital Skills,662,No,Unemployed,108959,Healthcare,127,Yes,0.57,14,No,Weekly,2026-01-01
+PRT-000078,63,M,Ottawa,Less than HS,202,Healthcare Aide,353,No,Self-Employed,44523,Healthcare,110,Yes,0.85,9,Yes,Weekly,2026-04-10
+PRT-000079,23,X,Waterloo,College,197,Digital Skills,481,Yes,Employed FT,116064,Government,132,No,0.84,5,Yes,Monthly,2026-01-07
+PRT-000080,56,X,Durham,Bachelor,87,Data Analytics,600,No,Employed PT,48402,Manufacturing,75,No,0.85,14,Yes,Weekly,2026-01-03
+PRT-000081,34,F,GTA,College,43,Data Analytics,657,No,Employed PT,111561,Finance,51,Yes,0.35,12,Yes,Weekly,2026-01-27
+PRT-000082,25,X,Hamilton,Master,169,Data Analytics,475,No,Self-Employed,76680,Manufacturing,20,No,0.81,13,Yes,Weekly,2026-04-25
+PRT-000083,33,M,Southwestern,Master,216,Digital Skills,75,No,Employed PT,63270,Manufacturing,130,No,0.98,17,Yes,Monthly,2026-07-25
+PRT-000084,56,M,Central,Bachelor,91,Advanced Manufacturing,510,Yes,Employed FT,99924,Government,109,No,0.6,7,Yes,Weekly,2026-02-05
+PRT-000085,40,M,Southwestern,Bachelor,150,Data Analytics,634,No,Unemployed,116576,Finance,124,Yes,0.78,16,Yes,Weekly,2026-03-15
+PRT-000086,35,F,Central,Bachelor,36,Advanced Manufacturing,662,Yes,Employed FT,81443,Construction,132,No,0.72,6,Yes,Monthly,2026-06-19
+PRT-000087,27,X,Central,Bachelor,115,Data Analytics,397,Yes,Employed PT,114441,Construction,63,No,0.39,17,Yes,Monthly,2026-01-04
+PRT-000088,46,X,Central,High School,175,Healthcare Aide,279,Yes,Unemployed,116381,Technology,102,Yes,0.81,12,No,Weekly,2026-01-17
+PRT-000089,30,M,Northern,College,153,Digital Skills,409,No,Self-Employed,51040,Government,22,Yes,0.42,14,Yes,Monthly,2026-04-23
+PRT-000090,30,F,GTA,Bachelor,128,IT Security,496,Yes,Unemployed,37409,Healthcare,134,No,0.95,18,No,Weekly,2026-02-13
+PRT-000091,53,X,Eastern,High School,17,Advanced Manufacturing,530,No,Further Training,86961,Healthcare,157,No,0.36,16,Yes,Weekly,2026-02-12
+PRT-000092,52,X,Eastern,Less than HS,39,Healthcare Aide,398,No,Employed PT,50704,Manufacturing,55,Yes,0.59,13,Yes,Monthly,2026-05-19
+PRT-000093,41,F,Southwestern,Less than HS,226,IT Security,624,No,Further Training,104695,Government,75,Yes,0.88,3,No,Weekly,2026-01-10
+PRT-000094,35,X,Niagara,High School,79,IT Security,653,No,Self-Employed,36165,Technology,125,Yes,0.38,11,Yes,Weekly,2026-02-07
+PRT-000095,21,F,Waterloo,Master,236,Healthcare Aide,476,No,Employed FT,37453,Construction,18,No,0.84,2,Yes,Weekly,2026-02-13
+PRT-000096,27,X,Central,High School,76,Skilled Trades,252,Yes,Further Training,51900,Technology,128,Yes,0.49,4,No,Weekly,2026-07-29
+PRT-000097,33,X,Ottawa,High School,53,Advanced Manufacturing,662,No,Unemployed,107900,Government,38,No,0.32,4,Yes,Monthly,2026-05-22
+PRT-000098,19,F,Waterloo,Bachelor,194,Digital Skills,726,Yes,Self-Employed,107158,Government,65,No,0.64,10,Yes,Monthly,2026-04-21
+PRT-000099,62,M,Durham,Less than HS,110,Digital Skills,725,No,Employed PT,61944,Technology,125,Yes,0.99,14,No,Weekly,2026-05-28
+PRT-000100,47,F,Southwestern,Less than HS,39,IT Security,221,Yes,Employed FT,54652,Retail,81,No,0.82,15,No,Weekly,2026-07-16
+PRT-000101,34,X,Central,Master,90,Healthcare Aide,602,No,Employed PT,30242,Finance,24,Yes,0.44,11,Yes,Monthly,2026-03-15
+PRT-000102,21,F,Niagara,College,110,Advanced Manufacturing,626,Yes,Further Training,50412,Retail,17,Yes,0.74,11,No,Monthly,2026-04-14
+PRT-000103,23,F,Hamilton,College,80,Data Analytics,571,No,Self-Employed,108717,Government,146,Yes,0.74,16,Yes,Weekly,2026-05-13
+PRT-000104,59,F,Southwestern,Master,138,Healthcare Aide,95,Yes,Unemployed,61987,Manufacturing,125,Yes,0.79,7,Yes,Monthly,2026-01-30
+PRT-000105,42,X,Ottawa,College,34,Skilled Trades,735,No,Further Training,63354,Healthcare,117,Yes,0.66,10,Yes,Weekly,2026-06-17
+PRT-000106,58,M,Eastern,College,2,Skilled Trades,289,Yes,Employed PT,63189,Healthcare,134,No,0.5,13,Yes,Weekly,2026-07-16
+PRT-000107,41,X,Hamilton,Master,170,Data Analytics,400,Yes,Employed PT,74492,Technology,134,Yes,0.69,12,Yes,Monthly,2026-03-28
+PRT-000108,30,M,Southwestern,High School,184,Skilled Trades,113,No,Further Training,82983,Retail,120,No,0.55,4,Yes,Weekly,2026-01-26
+PRT-000109,30,X,Ottawa,College,227,Advanced Manufacturing,592,No,Employed PT,42309,Construction,171,Yes,0.34,2,Yes,Monthly,2026-02-03
+PRT-000110,41,F,Hamilton,High School,193,Healthcare Aide,697,Yes,Self-Employed,101718,Retail,47,No,0.94,6,Yes,Monthly,2026-02-05
+PRT-000111,58,X,Niagara,Master,5,Healthcare Aide,750,Yes,Employed FT,36703,Technology,123,No,0.79,6,Yes,Monthly,2026-07-22
+PRT-000112,20,F,GTA,College,226,Healthcare Aide,158,No,Employed FT,30993,Finance,67,No,0.42,5,Yes,Monthly,2026-05-21
+PRT-000113,45,M,Durham,Master,0,IT Security,796,Yes,Further Training,112968,Manufacturing,39,Yes,0.56,14,No,Weekly,2026-07-18
+PRT-000114,50,F,Ottawa,Bachelor,12,IT Security,725,Yes,Unemployed,110936,Government,68,No,0.71,3,Yes,Monthly,2026-03-06
+PRT-000115,51,F,Hamilton,Master,29,Healthcare Aide,491,No,Self-Employed,94122,Healthcare,174,Yes,0.87,5,No,Monthly,2026-01-18
+PRT-000116,24,F,Hamilton,Master,213,Digital Skills,138,Yes,Unemployed,51853,Manufacturing,111,No,0.45,8,Yes,Monthly,2026-03-08
+PRT-000117,56,X,Central,Master,1,Skilled Trades,289,No,Further Training,116261,Retail,175,No,0.95,17,Yes,Weekly,2026-03-06
+PRT-000118,31,M,Central,College,32,Skilled Trades,235,Yes,Employed FT,42048,Healthcare,103,Yes,0.73,14,Yes,Monthly,2026-03-02
+PRT-000119,32,F,GTA,High School,126,Healthcare Aide,378,Yes,Employed PT,100581,Finance,67,Yes,0.62,6,Yes,Weekly,2026-05-16
+PRT-000120,34,X,Ottawa,College,3,Data Analytics,441,No,Unemployed,112682,Finance,70,Yes,0.74,18,Yes,Monthly,2026-01-08
+PRT-000121,58,X,Niagara,Bachelor,105,Skilled Trades,389,Yes,Unemployed,51298,Construction,137,Yes,0.75,9,Yes,Monthly,2026-05-17
+PRT-000122,33,M,GTA,High School,23,Skilled Trades,759,No,Employed PT,41949,Finance,71,No,0.5,12,Yes,Weekly,2026-05-31
+PRT-000123,49,M,Durham,College,97,Digital Skills,413,No,Employed FT,81129,Manufacturing,94,Yes,0.84,9,No,Monthly,2026-05-06
+PRT-000124,64,X,Southwestern,College,151,IT Security,648,Yes,Self-Employed,53588,Healthcare,79,No,0.7,8,Yes,Monthly,2026-01-21
+PRT-000125,32,X,Waterloo,Bachelor,35,Advanced Manufacturing,164,No,Further Training,40205,Retail,25,Yes,0.68,16,Yes,Weekly,2026-02-01
+PRT-000126,54,F,GTA,Less than HS,212,Advanced Manufacturing,562,Yes,Unemployed,112879,Finance,60,No,0.52,4,Yes,Monthly,2026-01-04
+PRT-000127,57,M,GTA,High School,235,Digital Skills,433,Yes,Further Training,81742,Finance,174,Yes,0.94,8,Yes,Monthly,2026-05-05
+PRT-000128,56,M,Southwestern,Master,158,Advanced Manufacturing,587,No,Employed FT,57299,Technology,66,No,0.98,14,No,Monthly,2026-04-24
+PRT-000129,57,M,GTA,Less than HS,113,Healthcare Aide,45,Yes,Unemployed,76053,Healthcare,148,Yes,0.37,13,Yes,Weekly,2026-04-22
+PRT-000130,40,M,Hamilton,College,143,Green Energy,74,No,Self-Employed,45503,Finance,165,No,0.36,3,Yes,Monthly,2026-02-16
+PRT-000131,40,X,GTA,High School,96,Healthcare Aide,240,No,Unemployed,103685,Technology,148,No,0.75,13,Yes,Weekly,2026-04-23
+PRT-000132,62,X,Durham,Master,85,Data Analytics,265,Yes,Unemployed,77251,Finance,102,No,0.65,10,No,Weekly,2026-04-27
+PRT-000133,59,F,Southwestern,Master,80,Healthcare Aide,525,No,Employed FT,91025,Construction,125,No,0.78,3,Yes,Weekly,2026-07-06
+PRT-000134,56,M,Ottawa,Master,150,Advanced Manufacturing,751,Yes,Employed FT,82066,Healthcare,154,Yes,0.59,9,Yes,Weekly,2026-02-17
+PRT-000135,51,X,Central,High School,2,Skilled Trades,342,Yes,Further Training,58728,Manufacturing,12,Yes,0.42,8,No,Weekly,2026-04-03
+PRT-000136,50,M,Hamilton,High School,79,IT Security,724,No,Self-Employed,80878,Government,86,No,0.63,16,Yes,Weekly,2026-02-15
+PRT-000137,30,M,Eastern,Master,160,Digital Skills,775,No,Employed FT,33042,Healthcare,127,Yes,0.81,18,Yes,Weekly,2026-02-01
+PRT-000138,30,F,Eastern,High School,40,Advanced Manufacturing,233,Yes,Further Training,99546,Construction,116,Yes,0.77,18,No,Weekly,2026-06-12
+PRT-000139,25,F,Southwestern,College,167,Advanced Manufacturing,326,Yes,Employed PT,90899,Healthcare,118,No,0.51,15,Yes,Monthly,2026-03-29
+PRT-000140,48,X,Ottawa,Bachelor,197,Advanced Manufacturing,204,Yes,Self-Employed,65908,Healthcare,115,Yes,0.31,17,Yes,Weekly,2026-06-06
+PRT-000141,64,M,Ottawa,High School,135,Green Energy,271,Yes,Employed FT,83387,Construction,25,Yes,0.5,16,Yes,Weekly,2026-06-20
+PRT-000142,49,M,Southwestern,Master,34,Advanced Manufacturing,397,Yes,Employed FT,43438,Manufacturing,25,Yes,0.75,4,Yes,Weekly,2026-04-11
+PRT-000143,58,M,Niagara,High School,69,Digital Skills,487,No,Employed FT,88469,Manufacturing,36,Yes,0.89,9,Yes,Weekly,2026-03-10
+PRT-000144,57,X,Durham,High School,158,Data Analytics,415,No,Self-Employed,66976,Technology,107,Yes,0.88,7,Yes,Monthly,2026-05-05
+PRT-000145,42,F,Durham,Master,186,Data Analytics,310,No,Self-Employed,97517,Technology,123,No,0.9,16,No,Weekly,2026-02-08
+PRT-000146,51,F,Central,High School,55,Data Analytics,606,Yes,Employed FT,109391,Government,116,No,0.6,4,Yes,Monthly,2026-04-05
+PRT-000147,46,M,Northern,Less than HS,73,Digital Skills,453,No,Employed PT,75860,Government,150,No,0.45,18,No,Monthly,2026-03-26
+PRT-000148,42,X,Hamilton,Master,178,Digital Skills,799,No,Further Training,78083,Healthcare,61,Yes,0.96,3,Yes,Monthly,2026-04-28
+PRT-000149,23,F,Southwestern,Less than HS,208,Skilled Trades,254,Yes,Unemployed,57485,Retail,42,Yes,0.92,11,Yes,Monthly,2026-01-23
+PRT-000150,40,F,Niagara,High School,221,Digital Skills,700,Yes,Further Training,33366,Retail,153,No,0.74,11,No,Weekly,2026-07-30
+PRT-000151,57,M,Waterloo,College,121,Healthcare Aide,524,Yes,Unemployed,33879,Technology,91,Yes,0.51,9,Yes,Monthly,2026-01-04
+PRT-000152,43,M,GTA,College,140,Data Analytics,73,Yes,Employed FT,36725,Government,12,Yes,0.53,4,Yes,Weekly,2026-03-08
+PRT-000153,23,M,Eastern,Master,36,Advanced Manufacturing,192,Yes,Unemployed,43015,Manufacturing,152,Yes,0.76,16,Yes,Monthly,2026-07-13
+PRT-000154,43,M,Northern,College,47,Advanced Manufacturing,222,Yes,Employed FT,58143,Healthcare,82,No,0.57,5,Yes,Monthly,2026-02-23
+PRT-000155,33,X,Eastern,Less than HS,44,Digital Skills,612,No,Employed PT,58379,Manufacturing,126,Yes,0.75,3,No,Weekly,2026-03-29
+PRT-000156,61,X,Niagara,Less than HS,80,Digital Skills,634,No,Further Training,79376,Government,27,Yes,0.4,7,Yes,Monthly,2026-03-28
+PRT-000157,59,X,Hamilton,High School,144,Digital Skills,529,Yes,Employed PT,113085,Construction,61,Yes,0.8,3,No,Monthly,2026-07-18
+PRT-000158,45,F,Durham,High School,78,IT Security,646,No,Employed FT,62245,Healthcare,127,Yes,0.51,9,No,Weekly,2026-02-24
+PRT-000159,24,F,Durham,Bachelor,91,Data Analytics,203,No,Further Training,71842,Finance,39,No,0.46,6,Yes,Weekly,2026-05-12
+PRT-000160,52,M,Central,Bachelor,173,Data Analytics,230,Yes,Employed PT,82794,Healthcare,83,Yes,0.75,17,No,Monthly,2026-06-28
+PRT-000161,51,X,Niagara,Less than HS,159,Data Analytics,369,No,Self-Employed,70465,Retail,126,No,0.56,7,Yes,Monthly,2026-03-22
+PRT-000162,55,M,Hamilton,Bachelor,169,Data Analytics,376,Yes,Unemployed,40078,Retail,178,Yes,0.7,12,Yes,Weekly,2026-03-07
+PRT-000163,35,X,Central,Less than HS,217,Digital Skills,304,Yes,Self-Employed,97686,Healthcare,95,No,0.46,6,No,Monthly,2026-04-24
+PRT-000164,25,F,Northern,Master,70,Data Analytics,439,Yes,Self-Employed,119711,Finance,93,No,0.82,5,Yes,Weekly,2026-04-04
+PRT-000165,20,M,Central,College,34,Green Energy,479,No,Employed FT,43560,Manufacturing,110,Yes,0.71,3,Yes,Weekly,2026-03-19
+PRT-000166,63,X,Waterloo,Master,86,Advanced Manufacturing,227,Yes,Unemployed,114485,Finance,72,No,0.78,16,Yes,Monthly,2026-07-01
+PRT-000167,39,F,GTA,Bachelor,216,Healthcare Aide,684,Yes,Unemployed,51853,Finance,53,Yes,0.35,6,Yes,Weekly,2026-07-11
+PRT-000168,49,M,Niagara,Bachelor,96,Digital Skills,349,No,Unemployed,36301,Finance,105,Yes,0.83,17,Yes,Monthly,2026-01-20
+PRT-000169,18,F,Niagara,High School,62,Digital Skills,621,Yes,Employed FT,108422,Government,172,Yes,0.43,8,Yes,Weekly,2026-03-25
+PRT-000170,63,X,Durham,High School,89,Green Energy,706,Yes,Employed PT,45843,Construction,13,Yes,0.59,7,Yes,Monthly,2026-05-04
+PRT-000171,57,F,Waterloo,Bachelor,118,Skilled Trades,358,Yes,Employed FT,117803,Manufacturing,106,No,0.58,7,Yes,Monthly,2026-04-17
+PRT-000172,21,X,Hamilton,College,223,Green Energy,277,No,Self-Employed,100991,Technology,80,No,0.62,12,Yes,Weekly,2026-04-06
+PRT-000173,36,X,Hamilton,Master,5,Skilled Trades,137,No,Self-Employed,66714,Finance,15,Yes,0.89,17,Yes,Monthly,2026-03-16
+PRT-000174,47,F,GTA,High School,49,Skilled Trades,97,Yes,Unemployed,73412,Manufacturing,106,Yes,0.47,13,Yes,Weekly,2026-07-31
+PRT-000175,56,F,Eastern,Bachelor,185,Healthcare Aide,525,No,Further Training,47176,Healthcare,163,No,0.62,6,Yes,Monthly,2026-05-09
+PRT-000176,25,F,Hamilton,Less than HS,130,Healthcare Aide,84,Yes,Further Training,39679,Manufacturing,63,Yes,0.48,5,Yes,Monthly,2026-06-29
+PRT-000177,30,X,Northern,College,177,Advanced Manufacturing,617,Yes,Further Training,30559,Construction,53,No,0.69,8,Yes,Monthly,2026-07-25
+PRT-000178,52,X,Ottawa,High School,230,Healthcare Aide,386,Yes,Employed FT,49175,Manufacturing,40,Yes,0.74,16,Yes,Weekly,2026-04-20
+PRT-000179,34,X,Eastern,Less than HS,205,Digital Skills,63,Yes,Further Training,68607,Technology,123,Yes,0.55,8,Yes,Monthly,2026-06-07
+PRT-000180,39,F,Central,Less than HS,157,Healthcare Aide,596,No,Further Training,109652,Government,8,Yes,0.87,4,Yes,Weekly,2026-02-06
+PRT-000181,49,M,Ottawa,Master,59,Data Analytics,581,No,Employed PT,43068,Government,99,No,0.83,9,Yes,Monthly,2026-07-22
+PRT-000182,33,M,Eastern,College,23,Data Analytics,524,No,Self-Employed,63575,Technology,169,Yes,0.58,11,Yes,Weekly,2026-07-05
+PRT-000183,54,X,Northern,High School,216,Advanced Manufacturing,110,Yes,Employed FT,34657,Government,18,No,0.41,13,No,Monthly,2026-06-20
+PRT-000184,47,F,Northern,Master,124,Data Analytics,84,No,Employed FT,69656,Finance,95,No,0.59,6,Yes,Weekly,2026-01-02
+PRT-000185,51,X,Northern,College,148,IT Security,65,No,Unemployed,115687,Manufacturing,43,No,0.91,16,Yes,Monthly,2026-04-18
+PRT-000186,49,F,Northern,High School,32,IT Security,391,No,Self-Employed,91246,Construction,125,No,0.71,15,Yes,Weekly,2026-04-01
+PRT-000187,54,M,Southwestern,Bachelor,136,Skilled Trades,391,Yes,Unemployed,107507,Government,157,Yes,0.81,17,No,Monthly,2026-03-09
+PRT-000188,47,X,Ottawa,Bachelor,92,Data Analytics,277,Yes,Unemployed,73908,Retail,19,No,0.35,11,Yes,Monthly,2026-07-18
+PRT-000189,31,F,Waterloo,Bachelor,220,Digital Skills,574,Yes,Employed FT,99749,Manufacturing,7,No,0.37,17,Yes,Weekly,2026-01-05
+PRT-000190,36,F,Hamilton,High School,211,Skilled Trades,630,No,Self-Employed,90569,Retail,108,Yes,0.43,10,Yes,Monthly,2026-06-29
+PRT-000191,53,M,Waterloo,Master,139,Healthcare Aide,481,No,Employed FT,106232,Technology,59,Yes,0.71,13,Yes,Weekly,2026-04-12
+PRT-000192,52,F,GTA,College,210,Skilled Trades,274,Yes,Self-Employed,62348,Finance,80,Yes,0.7,11,Yes,Monthly,2026-06-29
+PRT-000193,25,F,Niagara,College,177,Advanced Manufacturing,352,Yes,Unemployed,102727,Government,79,Yes,0.3,11,Yes,Weekly,2026-05-21
+PRT-000194,47,X,Niagara,Bachelor,233,Healthcare Aide,768,No,Unemployed,110725,Retail,14,Yes,0.97,2,Yes,Monthly,2026-06-13
+PRT-000195,40,F,Northern,High School,178,Healthcare Aide,641,Yes,Further Training,61881,Construction,166,No,0.36,11,Yes,Weekly,2026-03-11
+PRT-000196,38,M,Durham,Less than HS,124,Green Energy,122,No,Further Training,108236,Manufacturing,136,Yes,0.34,5,Yes,Weekly,2026-07-19
+PRT-000197,26,M,Niagara,Bachelor,67,Data Analytics,647,No,Unemployed,96766,Manufacturing,85,Yes,0.51,11,No,Monthly,2026-03-28
+PRT-000198,44,M,GTA,Less than HS,81,Healthcare Aide,596,Yes,Self-Employed,71688,Manufacturing,13,Yes,0.63,1,No,Monthly,2026-06-09
+PRT-000199,54,X,Niagara,Master,91,Green Energy,704,Yes,Unemployed,77042,Technology,55,Yes,0.48,3,No,Monthly,2026-02-20
+PRT-000200,52,X,Northern,Master,10,Advanced Manufacturing,216,Yes,Self-Employed,45646,Manufacturing,139,No,0.68,18,Yes,Monthly,2026-04-22
+PRT-000201,31,F,Hamilton,High School,210,IT Security,285,No,Employed PT,42314,Manufacturing,46,Yes,0.99,8,Yes,Weekly,2026-01-03
+PRT-000202,46,F,GTA,Less than HS,60,Advanced Manufacturing,125,Yes,Employed FT,62224,Construction,43,No,0.95,9,No,Weekly,2026-02-17
+PRT-000203,62,X,Eastern,Master,205,Skilled Trades,301,No,Employed PT,47659,Healthcare,112,No,0.73,2,Yes,Monthly,2026-03-26
+PRT-000204,41,X,Eastern,Bachelor,161,Advanced Manufacturing,734,No,Unemployed,117250,Retail,118,Yes,0.3,14,Yes,Weekly,2026-04-22
+PRT-000205,51,M,Durham,Less than HS,226,IT Security,334,No,Self-Employed,103311,Technology,8,Yes,0.59,15,Yes,Weekly,2026-02-07
+PRT-000206,55,F,Eastern,Bachelor,53,Green Energy,538,No,Employed PT,114314,Finance,111,No,0.92,4,Yes,Weekly,2026-04-05
+PRT-000207,20,F,Niagara,Master,182,Healthcare Aide,302,No,Further Training,62619,Government,72,No,0.78,10,Yes,Weekly,2026-02-21
+PRT-000208,63,F,Hamilton,Less than HS,234,Green Energy,66,Yes,Unemployed,112540,Healthcare,104,No,0.82,13,Yes,Monthly,2026-05-09
+PRT-000209,33,X,Waterloo,Less than HS,200,Digital Skills,302,No,Employed FT,84034,Government,143,Yes,0.72,7,Yes,Weekly,2026-07-27
+PRT-000210,64,M,Hamilton,College,174,Skilled Trades,385,Yes,Unemployed,66750,Retail,42,No,0.58,13,No,Monthly,2026-02-03
+PRT-000211,59,M,Waterloo,Bachelor,127,Healthcare Aide,162,Yes,Self-Employed,54557,Construction,167,No,0.45,11,No,Weekly,2026-05-29
+PRT-000212,56,X,Ottawa,Less than HS,229,IT Security,664,Yes,Unemployed,91379,Finance,35,Yes,0.67,1,Yes,Monthly,2026-04-02
+PRT-000213,23,F,Northern,High School,92,Skilled Trades,743,No,Employed FT,110846,Construction,86,No,0.87,12,Yes,Weekly,2026-05-15
+PRT-000214,36,X,Durham,Bachelor,227,IT Security,742,Yes,Unemployed,100345,Government,78,No,0.49,18,Yes,Monthly,2026-04-02
+PRT-000215,28,F,GTA,Bachelor,6,Data Analytics,371,No,Unemployed,53163,Retail,145,Yes,0.8,6,Yes,Monthly,2026-03-22
+PRT-000216,26,X,Hamilton,High School,106,Digital Skills,116,No,Further Training,108458,Technology,93,No,0.69,18,Yes,Weekly,2026-07-18
+PRT-000217,50,F,Northern,Bachelor,8,Healthcare Aide,397,No,Unemployed,46811,Retail,112,Yes,0.83,1,Yes,Weekly,2026-01-12
+PRT-000218,36,F,Central,Master,62,Advanced Manufacturing,711,Yes,Self-Employed,113522,Retail,108,No,0.81,16,Yes,Monthly,2026-08-01
+PRT-000219,48,X,Durham,Bachelor,202,Data Analytics,89,Yes,Unemployed,39809,Manufacturing,111,No,0.8,10,Yes,Weekly,2026-06-16
+PRT-000220,49,F,Hamilton,Master,52,Green Energy,476,Yes,Self-Employed,114836,Manufacturing,137,Yes,0.83,7,Yes,Weekly,2026-03-13
+PRT-000221,26,F,Northern,College,168,Advanced Manufacturing,272,No,Employed FT,100267,Technology,89,No,0.48,11,Yes,Weekly,2026-03-20
+PRT-000222,56,F,Niagara,College,130,Healthcare Aide,82,Yes,Self-Employed,39878,Healthcare,72,Yes,0.34,14,Yes,Weekly,2026-04-16
+PRT-000223,45,F,Niagara,Master,184,Data Analytics,80,No,Self-Employed,43993,Technology,117,Yes,0.66,11,No,Monthly,2026-07-30
+PRT-000224,47,F,Waterloo,College,161,Data Analytics,91,No,Employed PT,50251,Construction,39,No,0.34,7,Yes,Monthly,2026-02-05
+PRT-000225,32,F,Northern,High School,167,Digital Skills,429,No,Self-Employed,59005,Government,98,No,0.56,1,Yes,Weekly,2026-02-01
+PRT-000226,61,X,GTA,Less than HS,99,Green Energy,480,No,Unemployed,78742,Manufacturing,177,No,0.48,16,Yes,Weekly,2026-07-25
+PRT-000227,64,M,Central,Less than HS,169,Digital Skills,419,No,Employed PT,47412,Construction,80,Yes,0.96,8,Yes,Monthly,2026-05-30
+PRT-000228,35,F,Central,Less than HS,193,Skilled Trades,122,Yes,Unemployed,67599,Construction,131,Yes,0.4,14,Yes,Monthly,2026-01-20
+PRT-000229,60,M,Durham,Bachelor,96,Data Analytics,159,Yes,Employed FT,47162,Government,172,Yes,0.7,15,No,Weekly,2026-02-09
+PRT-000230,31,X,GTA,College,189,Advanced Manufacturing,624,No,Employed FT,115001,Retail,152,No,0.73,16,No,Monthly,2026-04-28
+PRT-000231,61,F,GTA,Master,106,Digital Skills,271,Yes,Further Training,96273,Finance,25,Yes,0.41,14,No,Monthly,2026-06-15
+PRT-000232,40,F,Southwestern,Master,160,Advanced Manufacturing,498,Yes,Employed PT,54729,Government,145,No,0.78,8,No,Weekly,2026-06-20
+PRT-000233,27,M,Durham,College,82,Data Analytics,595,No,Employed PT,104134,Construction,87,No,0.92,17,No,Monthly,2026-05-14
+PRT-000234,43,F,Hamilton,Bachelor,129,Green Energy,679,No,Self-Employed,104368,Manufacturing,92,No,0.8,14,Yes,Monthly,2026-06-27
+PRT-000235,51,M,Central,Less than HS,209,Data Analytics,631,No,Employed FT,57901,Healthcare,84,Yes,0.96,18,Yes,Weekly,2026-04-02
+PRT-000236,20,M,Central,College,70,Advanced Manufacturing,444,Yes,Self-Employed,45851,Manufacturing,79,No,0.33,15,No,Monthly,2026-02-19
+PRT-000237,20,M,Central,Less than HS,49,Healthcare Aide,588,No,Further Training,46174,Retail,71,Yes,0.34,3,Yes,Monthly,2026-05-23
+PRT-000238,31,M,Northern,Master,180,IT Security,753,Yes,Employed FT,96853,Healthcare,115,Yes,0.49,14,Yes,Weekly,2026-07-17
+PRT-000239,44,F,Durham,Master,134,Data Analytics,88,No,Employed PT,87648,Healthcare,103,No,0.92,3,Yes,Weekly,2026-01-09
+PRT-000240,19,M,Central,Master,68,IT Security,569,No,Further Training,90051,Finance,156,No,0.43,13,Yes,Monthly,2026-05-21
+PRT-000241,39,X,Hamilton,Master,217,Green Energy,118,Yes,Self-Employed,68318,Manufacturing,65,Yes,0.83,7,Yes,Monthly,2026-05-13
+PRT-000242,60,X,Southwestern,Bachelor,205,Data Analytics,444,Yes,Further Training,104683,Government,166,Yes,0.61,10,Yes,Monthly,2026-06-24
+PRT-000243,36,F,Durham,High School,62,Data Analytics,285,No,Unemployed,118400,Healthcare,135,No,0.31,1,Yes,Monthly,2026-06-27
+PRT-000244,29,F,Hamilton,College,18,Healthcare Aide,155,Yes,Employed FT,92169,Retail,51,Yes,0.69,10,Yes,Monthly,2026-02-10
+PRT-000245,23,X,Waterloo,High School,208,Skilled Trades,379,No,Employed FT,94076,Technology,97,Yes,0.85,7,Yes,Weekly,2026-04-03
+PRT-000246,27,M,Ottawa,Less than HS,76,IT Security,60,No,Unemployed,112671,Construction,59,Yes,0.31,13,No,Weekly,2026-06-28
+PRT-000247,20,F,GTA,Less than HS,93,Skilled Trades,712,No,Employed FT,115692,Manufacturing,119,No,0.69,15,Yes,Weekly,2026-02-28
+PRT-000248,35,F,Hamilton,Bachelor,176,Digital Skills,354,No,Unemployed,96148,Technology,164,Yes,0.76,18,Yes,Weekly,2026-06-18
+PRT-000249,61,X,Hamilton,High School,4,Healthcare Aide,522,No,Self-Employed,90075,Construction,102,Yes,0.75,7,Yes,Monthly,2026-04-02
+PRT-000250,63,F,Eastern,Bachelor,55,Skilled Trades,503,No,Further Training,65915,Manufacturing,37,Yes,0.33,2,Yes,Weekly,2026-01-15
+PRT-000251,56,F,Southwestern,Bachelor,118,Advanced Manufacturing,666,No,Employed FT,36239,Healthcare,142,Yes,0.45,9,Yes,Monthly,2026-07-17
+PRT-000252,57,M,Niagara,College,40,Data Analytics,369,No,Further Training,54653,Manufacturing,8,Yes,0.43,17,Yes,Monthly,2026-06-28
+PRT-000253,31,M,Niagara,Less than HS,66,Digital Skills,411,Yes,Employed FT,49149,Finance,83,Yes,0.47,1,Yes,Monthly,2026-06-24
+PRT-000254,57,M,Ottawa,Master,23,Skilled Trades,435,Yes,Unemployed,38958,Finance,175,Yes,0.57,16,Yes,Weekly,2026-01-23
+PRT-000255,43,F,Hamilton,High School,132,IT Security,205,Yes,Self-Employed,111932,Healthcare,14,No,0.55,5,Yes,Weekly,2026-08-01
+PRT-000256,39,X,Durham,College,13,Healthcare Aide,546,Yes,Further Training,62147,Technology,125,No,0.32,14,Yes,Weekly,2026-01-31
+PRT-000257,24,X,GTA,High School,9,Healthcare Aide,570,Yes,Employed PT,58615,Retail,168,Yes,0.45,13,Yes,Weekly,2026-03-23
+PRT-000258,44,X,Northern,College,85,Advanced Manufacturing,163,No,Employed PT,108157,Retail,53,Yes,0.45,15,No,Weekly,2026-04-14
+PRT-000259,34,M,Hamilton,College,19,Skilled Trades,518,Yes,Employed FT,34972,Finance,33,Yes,0.73,8,Yes,Monthly,2026-03-18
+PRT-000260,62,M,GTA,High School,176,Advanced Manufacturing,69,No,Employed PT,109634,Technology,60,No,0.78,17,Yes,Monthly,2026-01-06
+PRT-000261,36,M,Niagara,College,203,IT Security,567,No,Self-Employed,61625,Finance,110,Yes,0.33,18,Yes,Weekly,2026-07-31
+PRT-000262,60,F,Eastern,High School,177,Data Analytics,266,Yes,Employed FT,37958,Finance,51,No,0.98,16,Yes,Monthly,2026-07-10
+PRT-000263,64,F,Northern,College,149,Green Energy,256,Yes,Employed PT,56316,Manufacturing,55,No,0.71,5,Yes,Weekly,2026-07-30
+PRT-000264,35,X,Waterloo,High School,103,Green Energy,685,Yes,Unemployed,113039,Government,98,No,0.71,12,No,Weekly,2026-03-30
+PRT-000265,29,X,Waterloo,College,191,Skilled Trades,779,No,Further Training,111664,Healthcare,76,Yes,0.67,5,Yes,Weekly,2026-01-01
+PRT-000266,59,M,Ottawa,College,155,IT Security,491,Yes,Unemployed,100313,Healthcare,17,Yes,0.63,6,Yes,Weekly,2026-06-26
+PRT-000267,64,F,Eastern,Less than HS,36,Healthcare Aide,632,Yes,Unemployed,49980,Retail,34,Yes,0.66,14,Yes,Monthly,2026-04-16
+PRT-000268,33,M,GTA,Bachelor,135,Skilled Trades,519,Yes,Self-Employed,110251,Healthcare,180,Yes,0.38,6,Yes,Weekly,2026-05-05
+PRT-000269,24,F,GTA,Bachelor,75,Skilled Trades,172,Yes,Employed PT,31142,Finance,149,Yes,0.8,6,No,Weekly,2026-07-08
+PRT-000270,34,F,Eastern,Master,83,Skilled Trades,291,Yes,Further Training,87574,Manufacturing,33,Yes,0.84,14,Yes,Monthly,2026-06-18
+PRT-000271,52,F,Niagara,High School,62,Green Energy,378,Yes,Employed FT,47755,Construction,57,Yes,0.8,4,Yes,Monthly,2026-06-06
+PRT-000272,49,X,Southwestern,Master,119,Advanced Manufacturing,85,No,Employed PT,56861,Retail,178,No,0.98,11,Yes,Monthly,2026-04-26
+PRT-000273,50,M,Hamilton,Master,63,Digital Skills,620,No,Employed PT,80545,Healthcare,152,No,0.68,3,No,Monthly,2026-01-01
+PRT-000274,58,X,GTA,Master,222,Advanced Manufacturing,283,No,Employed FT,39570,Retail,143,Yes,0.84,5,Yes,Weekly,2026-02-28
+PRT-000275,35,X,Eastern,Master,29,Healthcare Aide,677,Yes,Self-Employed,56858,Finance,120,Yes,0.5,1,Yes,Weekly,2026-04-07
+PRT-000276,49,X,Durham,Less than HS,73,IT Security,98,No,Employed FT,35806,Healthcare,39,No,0.35,7,No,Weekly,2026-01-18
+PRT-000277,62,F,Southwestern,Bachelor,203,Skilled Trades,479,Yes,Unemployed,81830,Construction,54,No,0.68,17,Yes,Weekly,2026-06-15
+PRT-000278,21,X,GTA,Bachelor,103,IT Security,729,No,Employed PT,82298,Construction,72,Yes,0.58,7,Yes,Weekly,2026-01-24
+PRT-000279,61,X,Durham,College,88,Digital Skills,202,Yes,Employed FT,67022,Manufacturing,152,No,0.43,7,Yes,Monthly,2026-04-01
+PRT-000280,46,F,Southwestern,High School,219,Skilled Trades,593,Yes,Self-Employed,51833,Retail,173,No,0.67,7,Yes,Weekly,2026-03-05
+PRT-000281,63,M,Central,Master,33,Advanced Manufacturing,662,No,Unemployed,58743,Healthcare,130,No,0.46,7,No,Monthly,2026-05-30
+PRT-000282,60,M,Eastern,Master,174,Green Energy,428,Yes,Self-Employed,107531,Construction,77,Yes,0.66,13,Yes,Weekly,2026-03-07
+PRT-000283,31,M,Hamilton,Master,12,IT Security,181,Yes,Unemployed,61389,Retail,77,No,0.8,10,No,Weekly,2026-07-22
+PRT-000284,57,F,Niagara,Bachelor,55,Green Energy,216,No,Self-Employed,56442,Construction,37,Yes,0.56,8,Yes,Weekly,2026-01-19
+PRT-000285,43,F,GTA,Master,212,Healthcare Aide,62,No,Self-Employed,97137,Government,31,No,0.72,8,Yes,Weekly,2026-06-11
+PRT-000286,36,F,Niagara,College,31,IT Security,417,Yes,Employed FT,67791,Healthcare,129,No,0.55,7,Yes,Weekly,2026-01-15
+PRT-000287,60,M,Ottawa,High School,71,Skilled Trades,517,No,Self-Employed,92330,Technology,109,No,0.63,18,No,Weekly,2026-02-19
+PRT-000288,32,X,Central,Master,130,Data Analytics,717,No,Further Training,64433,Healthcare,11,No,0.32,3,Yes,Monthly,2026-01-03
+PRT-000289,29,F,Eastern,Less than HS,185,Healthcare Aide,459,No,Further Training,77849,Construction,159,Yes,0.88,3,Yes,Monthly,2026-03-29
+PRT-000290,41,X,Eastern,Master,188,Green Energy,625,No,Further Training,42175,Finance,157,Yes,0.36,7,Yes,Monthly,2026-06-11
+PRT-000291,39,M,GTA,Less than HS,111,Digital Skills,184,Yes,Self-Employed,44907,Technology,131,No,0.98,18,No,Weekly,2026-03-06
+PRT-000292,40,X,Durham,Master,176,Green Energy,744,Yes,Employed PT,99207,Finance,57,Yes,0.84,11,Yes,Weekly,2026-03-07
+PRT-000293,53,M,Southwestern,Master,136,Healthcare Aide,621,Yes,Employed PT,34148,Construction,15,Yes,0.8,14,Yes,Weekly,2026-06-14
+PRT-000294,52,F,GTA,College,222,Advanced Manufacturing,302,No,Unemployed,72790,Retail,99,No,0.69,13,Yes,Weekly,2026-04-28
+PRT-000295,50,X,GTA,Bachelor,68,Green Energy,127,No,Self-Employed,114687,Government,113,No,0.59,14,Yes,Weekly,2026-06-20
+PRT-000296,23,M,Niagara,Master,50,Advanced Manufacturing,796,Yes,Employed FT,50642,Construction,71,No,0.58,7,Yes,Monthly,2026-03-26
+PRT-000297,46,M,Ottawa,College,214,Data Analytics,199,No,Self-Employed,65783,Retail,39,Yes,0.75,3,Yes,Monthly,2026-04-05
+PRT-000298,39,F,Waterloo,Bachelor,165,Data Analytics,795,No,Further Training,98252,Retail,111,No,0.48,5,Yes,Monthly,2026-06-06
+PRT-000299,37,X,Hamilton,Less than HS,101,Green Energy,194,Yes,Self-Employed,84312,Retail,40,Yes,0.38,12,Yes,Monthly,2026-04-24
+PRT-000300,64,X,Southwestern,Master,234,Data Analytics,437,Yes,Employed PT,76042,Construction,9,Yes,0.7,1,Yes,Monthly,2026-05-16
+PRT-000301,39,X,Northern,Master,153,IT Security,123,No,Employed PT,54366,Manufacturing,173,No,0.75,5,Yes,Weekly,2026-07-26
+PRT-000302,24,F,Eastern,Bachelor,86,Skilled Trades,125,No,Further Training,116867,Technology,142,Yes,0.34,16,No,Monthly,2026-04-28
+PRT-000303,50,M,Southwestern,High School,109,IT Security,53,Yes,Further Training,75240,Construction,115,Yes,0.79,18,Yes,Monthly,2026-03-05
+PRT-000304,47,F,Niagara,Bachelor,199,Skilled Trades,415,No,Employed PT,109920,Construction,35,No,0.6,14,No,Weekly,2026-03-03
+PRT-000305,62,F,Ottawa,College,6,IT Security,483,No,Further Training,31564,Healthcare,178,Yes,0.44,18,No,Weekly,2026-06-16
+PRT-000306,62,F,Southwestern,College,200,Data Analytics,707,Yes,Further Training,77644,Technology,122,No,0.63,4,No,Weekly,2026-03-03
+PRT-000307,30,F,Southwestern,Bachelor,83,Skilled Trades,396,No,Employed PT,97350,Finance,102,No,0.46,9,Yes,Weekly,2026-01-14
+PRT-000308,48,M,Hamilton,College,102,Healthcare Aide,226,Yes,Further Training,48366,Healthcare,95,No,0.79,5,Yes,Monthly,2026-02-03
+PRT-000309,51,F,Hamilton,Master,168,IT Security,385,Yes,Employed FT,38974,Healthcare,91,Yes,0.78,2,No,Weekly,2026-04-07
+PRT-000310,29,M,Niagara,Bachelor,227,Green Energy,153,Yes,Employed PT,37275,Government,37,Yes,0.81,7,Yes,Weekly,2026-04-14
+PRT-000311,63,X,GTA,Bachelor,194,IT Security,639,Yes,Unemployed,96287,Construction,27,No,0.55,14,Yes,Monthly,2026-04-10
+PRT-000312,20,X,Hamilton,High School,216,Green Energy,65,No,Unemployed,73249,Healthcare,139,No,0.54,15,Yes,Weekly,2026-05-18
+PRT-000313,45,X,Ottawa,High School,154,Advanced Manufacturing,660,Yes,Employed FT,102915,Government,137,Yes,0.81,17,No,Monthly,2026-01-05
+PRT-000314,27,M,Eastern,College,23,Skilled Trades,339,Yes,Employed FT,34401,Manufacturing,60,Yes,0.36,18,No,Weekly,2026-07-07
+PRT-000315,60,M,Northern,College,101,IT Security,366,No,Self-Employed,69005,Manufacturing,33,Yes,0.64,11,Yes,Monthly,2026-04-12
+PRT-000316,50,M,Central,Less than HS,98,IT Security,391,No,Employed FT,91723,Technology,44,No,0.98,6,Yes,Weekly,2026-04-03
+PRT-000317,63,X,GTA,College,91,Data Analytics,531,No,Unemployed,73313,Technology,37,No,0.43,2,No,Weekly,2026-02-03
+PRT-000318,46,X,Southwestern,Bachelor,64,Healthcare Aide,777,Yes,Unemployed,41770,Manufacturing,71,Yes,0.8,4,No,Weekly,2026-01-30
+PRT-000319,57,M,Durham,College,223,Advanced Manufacturing,773,No,Employed FT,62839,Manufacturing,165,Yes,0.47,2,Yes,Weekly,2026-01-27
+PRT-000320,25,M,Durham,High School,13,Skilled Trades,212,Yes,Self-Employed,86359,Government,132,No,0.9,17,Yes,Monthly,2026-02-01
+PRT-000321,55,M,Ottawa,Bachelor,142,Digital Skills,456,No,Self-Employed,75470,Retail,112,Yes,0.39,10,Yes,Monthly,2026-04-22
+PRT-000322,24,M,Southwestern,High School,67,Healthcare Aide,140,No,Further Training,103452,Healthcare,65,Yes,0.61,3,No,Monthly,2026-03-28
+PRT-000323,27,F,Ottawa,Less than HS,219,Healthcare Aide,81,Yes,Employed FT,85364,Retail,51,Yes,0.83,14,Yes,Monthly,2026-03-14
+PRT-000324,58,M,Hamilton,Less than HS,142,Healthcare Aide,298,No,Self-Employed,59052,Retail,72,Yes,0.69,6,Yes,Weekly,2026-05-01
+PRT-000325,64,X,Eastern,Less than HS,20,Advanced Manufacturing,426,No,Unemployed,102192,Technology,32,No,0.54,17,Yes,Weekly,2026-05-03
+PRT-000326,47,M,Niagara,High School,197,Skilled Trades,277,Yes,Employed PT,44277,Healthcare,68,Yes,0.33,18,Yes,Weekly,2026-01-19
+PRT-000327,60,M,Durham,Master,124,Skilled Trades,348,No,Employed FT,34596,Government,112,No,0.96,12,Yes,Monthly,2026-07-25
+PRT-000328,18,M,GTA,Master,56,Green Energy,98,No,Self-Employed,61614,Manufacturing,70,Yes,0.92,5,Yes,Weekly,2026-01-15
+PRT-000329,63,M,Durham,College,155,IT Security,403,Yes,Further Training,93802,Retail,112,Yes,0.43,10,No,Weekly,2026-03-14
+PRT-000330,53,F,Southwestern,College,72,Digital Skills,222,No,Self-Employed,33505,Manufacturing,166,Yes,0.32,6,Yes,Weekly,2026-01-18
+PRT-000331,21,M,Waterloo,Bachelor,16,Digital Skills,713,No,Self-Employed,79098,Government,111,Yes,0.91,7,Yes,Monthly,2026-01-24
+PRT-000332,53,M,Ottawa,College,137,Data Analytics,181,Yes,Employed FT,105565,Finance,131,No,0.67,6,Yes,Weekly,2026-06-27
+PRT-000333,19,X,Eastern,Less than HS,121,IT Security,539,No,Employed PT,41494,Retail,25,No,0.56,11,Yes,Weekly,2026-07-30
+PRT-000334,52,X,Durham,High School,230,Advanced Manufacturing,655,Yes,Further Training,111984,Construction,66,No,0.65,7,Yes,Monthly,2026-02-11
+PRT-000335,52,X,Hamilton,College,135,Green Energy,416,Yes,Employed FT,104186,Healthcare,53,No,0.35,5,Yes,Weekly,2026-02-18
+PRT-000336,64,X,Southwestern,Less than HS,235,Digital Skills,194,No,Unemployed,116196,Construction,102,No,0.81,3,No,Weekly,2026-05-07
+PRT-000337,59,M,Northern,Bachelor,23,Skilled Trades,139,Yes,Further Training,81790,Manufacturing,119,No,0.88,5,Yes,Weekly,2026-08-01
+PRT-000338,36,X,Southwestern,Less than HS,33,IT Security,235,Yes,Further Training,100325,Government,94,Yes,0.92,18,Yes,Weekly,2026-05-16
+PRT-000339,58,F,Central,Bachelor,175,Digital Skills,637,No,Self-Employed,85526,Government,94,No,0.73,6,No,Weekly,2026-01-23
+PRT-000340,50,F,Northern,Less than HS,199,Skilled Trades,246,Yes,Further Training,33166,Retail,123,No,0.48,14,No,Weekly,2026-04-07
+PRT-000341,64,X,Central,Less than HS,190,Data Analytics,400,No,Self-Employed,99996,Technology,68,No,0.76,9,Yes,Monthly,2026-04-19
+PRT-000342,31,X,Central,Bachelor,41,Data Analytics,166,No,Employed FT,118831,Government,93,No,0.47,18,Yes,Monthly,2026-01-30
+PRT-000343,41,X,Central,Master,205,Data Analytics,288,No,Further Training,93851,Retail,79,No,0.46,3,Yes,Monthly,2026-06-13
+PRT-000344,53,X,Central,Bachelor,69,IT Security,573,Yes,Employed FT,32113,Healthcare,113,Yes,0.37,7,No,Monthly,2026-01-07
+PRT-000345,47,M,Central,Master,58,Data Analytics,397,No,Further Training,114765,Construction,154,Yes,0.35,2,Yes,Weekly,2026-06-28
+PRT-000346,24,F,Central,Bachelor,159,Skilled Trades,572,No,Self-Employed,105772,Retail,60,No,0.38,14,No,Weekly,2026-04-07
+PRT-000347,41,M,Southwestern,Bachelor,49,Healthcare Aide,573,Yes,Employed PT,47099,Manufacturing,77,No,0.67,16,Yes,Weekly,2026-02-08
+PRT-000348,27,X,Ottawa,Master,209,Skilled Trades,346,Yes,Employed FT,60697,Healthcare,68,No,0.52,18,No,Weekly,2026-07-14
+PRT-000349,28,M,GTA,Bachelor,222,Data Analytics,172,Yes,Employed PT,43028,Retail,25,Yes,0.61,17,Yes,Weekly,2026-03-15
+PRT-000350,60,X,Hamilton,High School,23,Data Analytics,606,Yes,Employed FT,113555,Healthcare,36,No,0.99,16,Yes,Monthly,2026-02-25
+PRT-000351,26,X,Hamilton,High School,80,Advanced Manufacturing,469,Yes,Unemployed,40931,Finance,161,No,0.89,13,No,Weekly,2026-07-17
+PRT-000352,61,X,Northern,Master,76,Skilled Trades,761,Yes,Unemployed,59930,Retail,90,Yes,0.59,8,Yes,Weekly,2026-02-16
+PRT-000353,42,F,Central,Bachelor,152,Healthcare Aide,609,Yes,Employed PT,78027,Technology,88,Yes,0.76,17,Yes,Monthly,2026-02-11
+PRT-000354,39,F,Central,High School,76,Data Analytics,742,No,Unemployed,33748,Healthcare,142,No,0.34,14,Yes,Weekly,2026-03-05
+PRT-000355,55,M,Hamilton,Bachelor,136,Data Analytics,253,Yes,Employed FT,58416,Construction,49,No,0.36,11,No,Monthly,2026-02-08
+PRT-000356,30,X,GTA,Less than HS,107,Data Analytics,426,Yes,Employed FT,60245,Manufacturing,91,Yes,0.6,5,Yes,Monthly,2026-06-15
+PRT-000357,32,M,Southwestern,College,171,IT Security,718,No,Employed PT,66136,Technology,175,No,0.98,7,Yes,Monthly,2026-05-23
+PRT-000358,46,M,Durham,Bachelor,218,Data Analytics,292,Yes,Employed FT,95761,Finance,143,Yes,0.9,14,Yes,Monthly,2026-06-06
+PRT-000359,53,X,Niagara,Bachelor,167,Advanced Manufacturing,199,Yes,Further Training,116506,Finance,130,Yes,0.71,9,Yes,Weekly,2026-01-27
+PRT-000360,61,M,Ottawa,Less than HS,147,Green Energy,518,Yes,Unemployed,42613,Construction,51,No,0.95,8,No,Monthly,2026-02-16
+PRT-000361,59,M,Durham,Bachelor,222,Digital Skills,497,No,Self-Employed,90144,Healthcare,94,Yes,0.86,6,Yes,Monthly,2026-02-04
+PRT-000362,31,M,Durham,College,14,Healthcare Aide,165,Yes,Unemployed,32224,Retail,128,Yes,0.97,6,Yes,Weekly,2026-07-03
+PRT-000363,38,F,Central,College,222,Data Analytics,302,No,Self-Employed,82282,Manufacturing,177,No,0.84,11,No,Weekly,2026-01-08
+PRT-000364,60,X,GTA,College,212,IT Security,781,Yes,Employed FT,77560,Finance,134,No,0.41,10,No,Monthly,2026-05-04
+PRT-000365,31,X,Niagara,Bachelor,143,Skilled Trades,590,No,Employed FT,83598,Technology,85,Yes,0.52,3,Yes,Weekly,2026-06-21
+PRT-000366,39,X,Waterloo,Bachelor,211,Skilled Trades,104,No,Self-Employed,31854,Healthcare,171,No,0.4,10,Yes,Weekly,2026-05-30
+PRT-000367,34,F,Northern,Bachelor,10,Advanced Manufacturing,66,Yes,Employed FT,65845,Manufacturing,23,No,0.8,1,Yes,Weekly,2026-05-24
+PRT-000368,37,M,Waterloo,Bachelor,113,Digital Skills,430,No,Employed FT,30512,Retail,7,Yes,0.58,17,Yes,Weekly,2026-03-27
+PRT-000369,40,M,Eastern,Bachelor,98,Green Energy,217,No,Unemployed,97109,Retail,27,No,0.73,1,Yes,Weekly,2026-03-04
+PRT-000370,58,X,Eastern,Less than HS,169,Skilled Trades,199,Yes,Employed PT,69770,Healthcare,90,No,0.93,12,No,Weekly,2026-02-12
+PRT-000371,61,X,Southwestern,Less than HS,88,Green Energy,345,No,Further Training,62019,Healthcare,65,Yes,0.6,18,Yes,Weekly,2026-07-12
+PRT-000372,30,X,Waterloo,College,4,Data Analytics,556,No,Unemployed,60439,Technology,178,Yes,0.59,6,Yes,Monthly,2026-01-16
+PRT-000373,56,M,Southwestern,College,142,Green Energy,271,No,Unemployed,76685,Finance,35,No,0.61,3,Yes,Monthly,2026-01-30
+PRT-000374,50,F,Durham,College,176,Digital Skills,707,Yes,Employed PT,116429,Government,172,Yes,0.95,11,Yes,Monthly,2026-01-31
+PRT-000375,20,F,GTA,College,135,Data Analytics,431,Yes,Employed FT,48463,Technology,7,No,0.44,4,No,Monthly,2026-06-08
+PRT-000376,27,X,Niagara,Bachelor,179,IT Security,222,Yes,Employed PT,79336,Healthcare,145,No,0.4,13,Yes,Monthly,2026-05-04
+PRT-000377,51,M,Ottawa,Master,49,Healthcare Aide,518,No,Further Training,87844,Construction,20,No,0.61,3,Yes,Weekly,2026-01-08
+PRT-000378,47,M,Niagara,High School,40,IT Security,227,No,Self-Employed,108872,Construction,96,Yes,0.99,12,Yes,Weekly,2026-07-27
+PRT-000379,29,F,Durham,Bachelor,62,Healthcare Aide,220,Yes,Unemployed,109828,Technology,65,No,0.87,9,Yes,Monthly,2026-05-17
+PRT-000380,39,F,Eastern,Less than HS,135,IT Security,405,No,Further Training,80636,Construction,171,Yes,0.72,4,No,Weekly,2026-06-07
+PRT-000381,49,X,Niagara,High School,183,Green Energy,336,No,Employed PT,88403,Retail,60,Yes,0.98,4,No,Monthly,2026-02-02
+PRT-000382,45,M,Waterloo,Bachelor,114,Green Energy,404,Yes,Self-Employed,80238,Manufacturing,117,No,0.53,16,Yes,Monthly,2026-01-03
+PRT-000383,55,M,Central,Bachelor,14,Data Analytics,64,Yes,Employed PT,37529,Retail,164,No,0.41,2,Yes,Monthly,2026-02-08
+PRT-000384,64,X,Hamilton,Bachelor,80,Data Analytics,90,Yes,Unemployed,100222,Healthcare,25,No,0.54,5,Yes,Weekly,2026-05-20
+PRT-000385,31,X,Southwestern,Master,48,IT Security,383,Yes,Self-Employed,64167,Technology,76,Yes,0.41,13,No,Weekly,2026-01-29
+PRT-000386,42,F,Hamilton,High School,88,Digital Skills,51,No,Employed FT,48070,Government,90,Yes,0.54,7,Yes,Monthly,2026-08-01
+PRT-000387,48,X,Hamilton,High School,175,Advanced Manufacturing,646,No,Self-Employed,115152,Finance,122,Yes,0.45,8,Yes,Weekly,2026-07-29
+PRT-000388,59,M,Southwestern,Less than HS,176,Skilled Trades,180,Yes,Unemployed,73439,Manufacturing,114,No,0.35,1,No,Monthly,2026-05-06
+PRT-000389,22,M,Eastern,Bachelor,66,Data Analytics,108,No,Self-Employed,81505,Healthcare,145,No,0.36,13,No,Weekly,2026-06-11
+PRT-000390,22,X,Hamilton,Bachelor,32,Green Energy,326,No,Unemployed,53337,Government,34,No,0.85,12,Yes,Weekly,2026-07-18
+PRT-000391,28,X,Ottawa,Less than HS,210,Digital Skills,162,Yes,Employed FT,107571,Manufacturing,127,Yes,0.62,8,Yes,Weekly,2026-07-21
+PRT-000392,25,M,Southwestern,Bachelor,230,Advanced Manufacturing,248,No,Employed FT,116913,Manufacturing,141,No,0.42,1,Yes,Monthly,2026-07-17
+PRT-000393,36,F,Eastern,Bachelor,43,Data Analytics,596,Yes,Employed PT,116992,Healthcare,114,Yes,0.35,12,Yes,Monthly,2026-02-27
+PRT-000394,21,M,Waterloo,College,179,Healthcare Aide,193,No,Self-Employed,43747,Government,125,Yes,0.44,3,No,Monthly,2026-06-27
+PRT-000395,21,X,Eastern,High School,216,Healthcare Aide,685,Yes,Employed FT,55956,Healthcare,144,Yes,0.42,9,Yes,Weekly,2026-07-14
+PRT-000396,40,M,Ottawa,High School,159,Healthcare Aide,781,Yes,Unemployed,111476,Technology,48,No,0.39,3,Yes,Weekly,2026-02-24
+PRT-000397,32,M,Ottawa,Less than HS,144,Digital Skills,528,Yes,Unemployed,51960,Finance,124,Yes,1.0,4,Yes,Monthly,2026-05-18
+PRT-000398,34,M,GTA,Less than HS,11,Advanced Manufacturing,210,No,Unemployed,107281,Healthcare,154,No,0.87,11,Yes,Weekly,2026-02-27
+PRT-000399,53,X,Northern,Bachelor,207,Advanced Manufacturing,704,No,Self-Employed,48113,Manufacturing,20,No,0.64,12,Yes,Monthly,2026-05-19
+PRT-000400,48,M,Durham,Less than HS,240,Healthcare Aide,748,No,Employed PT,96030,Construction,148,Yes,0.34,3,Yes,Weekly,2026-05-12
+PRT-000401,54,X,Hamilton,High School,199,Skilled Trades,605,No,Employed PT,81930,Retail,49,Yes,0.4,6,Yes,Monthly,2026-07-17
+PRT-000402,21,F,Ottawa,Less than HS,179,Digital Skills,436,No,Employed PT,107230,Healthcare,155,No,0.5,5,Yes,Weekly,2026-01-01
+PRT-000403,31,M,Southwestern,Master,131,Skilled Trades,444,Yes,Unemployed,74312,Construction,57,Yes,0.72,3,No,Monthly,2026-05-06
+PRT-000404,40,M,Central,College,97,Green Energy,756,No,Self-Employed,85657,Construction,52,No,0.5,13,Yes,Monthly,2026-05-05
+PRT-000405,41,X,Central,Less than HS,7,Skilled Trades,693,No,Further Training,82853,Retail,166,Yes,0.68,16,Yes,Monthly,2026-01-19
+PRT-000406,29,X,GTA,High School,22,Healthcare Aide,65,Yes,Employed FT,67768,Retail,8,Yes,0.35,14,No,Monthly,2026-01-17
+PRT-000407,47,X,Northern,Bachelor,158,IT Security,493,No,Employed FT,95797,Technology,129,Yes,0.43,3,Yes,Monthly,2026-05-29
+PRT-000408,26,F,Niagara,Bachelor,204,Healthcare Aide,589,No,Unemployed,86151,Construction,105,No,0.43,6,No,Weekly,2026-05-18
+PRT-000409,23,M,Northern,High School,157,Data Analytics,786,Yes,Unemployed,101391,Construction,126,Yes,0.43,14,Yes,Monthly,2026-06-14
+PRT-000410,43,X,Eastern,Master,18,Digital Skills,767,No,Further Training,114601,Manufacturing,148,No,0.96,10,No,Monthly,2026-01-22
+PRT-000411,63,F,Central,Bachelor,31,Healthcare Aide,597,No,Unemployed,104182,Healthcare,61,No,0.71,15,No,Monthly,2026-06-05
+PRT-000412,23,F,Central,College,97,Healthcare Aide,360,No,Employed PT,108377,Finance,48,No,0.86,9,Yes,Weekly,2026-02-03
+PRT-000413,49,M,Durham,Bachelor,137,Advanced Manufacturing,455,No,Further Training,74069,Retail,117,Yes,0.98,10,Yes,Weekly,2026-05-10
+PRT-000414,52,F,Central,Bachelor,120,Data Analytics,353,No,Employed PT,106962,Government,33,No,0.97,2,Yes,Monthly,2026-04-09
+PRT-000415,62,F,Northern,High School,64,Skilled Trades,762,Yes,Employed FT,104717,Government,104,No,0.74,17,Yes,Weekly,2026-03-19
+PRT-000416,51,X,Waterloo,Less than HS,172,Digital Skills,314,Yes,Employed PT,37860,Technology,109,No,0.92,10,Yes,Monthly,2026-07-15
+PRT-000417,48,M,Ottawa,Bachelor,24,IT Security,745,No,Employed PT,70309,Technology,125,Yes,0.34,4,Yes,Monthly,2026-02-26
+PRT-000418,29,F,Northern,High School,60,Advanced Manufacturing,74,No,Self-Employed,85282,Retail,65,No,0.61,9,Yes,Monthly,2026-03-31
+PRT-000419,21,X,Central,High School,164,Advanced Manufacturing,407,No,Unemployed,81593,Construction,55,Yes,1.0,10,Yes,Monthly,2026-06-30
+PRT-000420,49,F,Hamilton,Bachelor,13,Skilled Trades,777,No,Further Training,68595,Technology,110,No,0.87,15,Yes,Weekly,2026-04-18
+PRT-000421,63,M,Durham,Bachelor,225,Digital Skills,339,No,Unemployed,72070,Retail,123,No,0.33,8,Yes,Weekly,2026-07-05
+PRT-000422,53,X,Waterloo,College,108,Healthcare Aide,736,Yes,Employed PT,73443,Manufacturing,149,No,0.77,9,Yes,Monthly,2026-04-23
+PRT-000423,54,F,Eastern,High School,215,Digital Skills,679,Yes,Employed PT,89331,Manufacturing,72,No,0.67,10,Yes,Weekly,2026-05-16
+PRT-000424,60,F,Hamilton,Master,16,Green Energy,181,Yes,Unemployed,108250,Manufacturing,48,Yes,0.83,14,Yes,Monthly,2026-01-25
+PRT-000425,19,F,Ottawa,Master,82,Green Energy,111,No,Employed FT,99096,Retail,74,No,0.31,7,Yes,Monthly,2026-02-09
+PRT-000426,35,M,Eastern,Master,137,Digital Skills,391,Yes,Unemployed,46746,Healthcare,132,No,0.66,16,Yes,Weekly,2026-03-22
+PRT-000427,20,M,Ottawa,Less than HS,165,Healthcare Aide,69,No,Employed PT,54778,Manufacturing,141,Yes,0.79,12,Yes,Monthly,2026-03-07
+PRT-000428,35,M,GTA,Less than HS,117,Advanced Manufacturing,584,Yes,Further Training,32233,Government,70,No,0.57,11,Yes,Weekly,2026-02-14
+PRT-000429,22,F,Hamilton,Less than HS,125,IT Security,465,No,Unemployed,40251,Technology,90,Yes,0.47,7,Yes,Monthly,2026-02-26
+PRT-000430,28,M,Durham,Master,188,IT Security,588,Yes,Employed PT,114248,Manufacturing,152,Yes,0.43,15,Yes,Monthly,2026-05-18
+PRT-000431,47,M,GTA,Less than HS,171,Healthcare Aide,792,Yes,Further Training,53800,Government,20,No,0.59,17,Yes,Monthly,2026-07-26
+PRT-000432,26,M,Northern,Bachelor,92,Digital Skills,140,Yes,Self-Employed,66482,Retail,121,Yes,0.9,4,No,Monthly,2026-04-14
+PRT-000433,49,M,GTA,High School,136,Advanced Manufacturing,646,Yes,Further Training,32950,Healthcare,167,No,0.99,5,Yes,Weekly,2026-07-30
+PRT-000434,61,X,Eastern,Less than HS,132,Healthcare Aide,687,Yes,Self-Employed,118288,Healthcare,123,No,0.81,3,Yes,Monthly,2026-04-12
+PRT-000435,26,M,Southwestern,Less than HS,136,Skilled Trades,440,Yes,Unemployed,100527,Manufacturing,79,No,0.41,15,Yes,Weekly,2026-03-08
+PRT-000436,63,M,Central,Bachelor,44,Healthcare Aide,249,Yes,Self-Employed,104569,Technology,35,Yes,0.34,9,Yes,Monthly,2026-02-21
+PRT-000437,60,M,GTA,Master,108,IT Security,795,Yes,Employed PT,69678,Healthcare,132,Yes,0.51,4,Yes,Monthly,2026-05-01
+PRT-000438,26,F,Waterloo,Bachelor,90,Data Analytics,758,Yes,Employed PT,109872,Healthcare,77,No,0.84,12,Yes,Monthly,2026-01-17
+PRT-000439,57,F,Waterloo,Less than HS,1,Digital Skills,219,No,Employed PT,84376,Manufacturing,90,No,0.96,10,Yes,Weekly,2026-05-20
+PRT-000440,61,X,Central,College,65,Healthcare Aide,473,No,Unemployed,49044,Finance,84,No,0.59,4,Yes,Weekly,2026-03-10
+PRT-000441,33,F,GTA,Bachelor,223,Advanced Manufacturing,270,No,Further Training,30536,Finance,41,Yes,0.45,11,Yes,Weekly,2026-01-13
+PRT-000442,40,X,Hamilton,Bachelor,122,Skilled Trades,783,Yes,Further Training,71004,Finance,58,Yes,0.71,12,No,Weekly,2026-07-31
+PRT-000443,24,X,Ottawa,Master,47,Digital Skills,258,No,Employed FT,41127,Government,48,Yes,0.94,16,No,Monthly,2026-05-14
+PRT-000444,31,X,Southwestern,Master,140,Green Energy,173,No,Employed PT,94252,Finance,143,Yes,0.42,12,No,Weekly,2026-03-30
+PRT-000445,51,F,Eastern,Less than HS,24,Data Analytics,112,No,Employed FT,85010,Retail,46,Yes,0.32,11,No,Weekly,2026-04-15
+PRT-000446,31,M,Eastern,High School,210,Advanced Manufacturing,177,Yes,Employed FT,38912,Technology,126,No,0.72,12,Yes,Weekly,2026-06-23
+PRT-000447,32,M,Ottawa,Bachelor,173,Skilled Trades,394,No,Further Training,63842,Construction,138,Yes,0.85,15,Yes,Weekly,2026-01-07
+PRT-000448,46,X,Ottawa,College,221,IT Security,212,No,Employed FT,45670,Construction,164,Yes,0.69,12,No,Weekly,2026-01-01
+PRT-000449,49,M,Northern,College,232,Advanced Manufacturing,146,Yes,Employed PT,42784,Healthcare,164,No,0.74,16,Yes,Weekly,2026-04-13
+PRT-000450,32,F,Ottawa,College,193,Green Energy,346,No,Further Training,57700,Manufacturing,112,No,0.81,18,No,Weekly,2026-06-08
+PRT-000451,20,X,Central,High School,29,Data Analytics,733,No,Self-Employed,98328,Government,129,No,0.75,11,Yes,Weekly,2026-06-03
+PRT-000452,33,M,Ottawa,Bachelor,16,Skilled Trades,221,No,Self-Employed,72212,Finance,169,Yes,0.71,11,Yes,Weekly,2026-05-26
+PRT-000453,24,F,Niagara,Bachelor,235,Skilled Trades,610,Yes,Self-Employed,66873,Technology,81,Yes,0.58,12,Yes,Monthly,2026-06-11
+PRT-000454,25,F,GTA,Master,216,Digital Skills,673,No,Further Training,84008,Healthcare,66,Yes,0.36,1,Yes,Monthly,2026-01-28
+PRT-000455,28,X,Northern,High School,90,Green Energy,509,Yes,Employed FT,98260,Construction,13,No,0.99,5,Yes,Weekly,2026-06-21
+PRT-000456,19,F,Waterloo,Bachelor,15,Advanced Manufacturing,733,Yes,Unemployed,117322,Retail,179,Yes,0.65,7,Yes,Monthly,2026-05-04
+PRT-000457,33,F,Northern,Master,7,Digital Skills,731,No,Further Training,47850,Retail,164,Yes,0.69,1,Yes,Monthly,2026-07-29
+PRT-000458,19,F,Ottawa,Bachelor,213,Advanced Manufacturing,557,Yes,Employed PT,62487,Finance,13,Yes,0.46,12,No,Weekly,2026-05-20
+PRT-000459,35,X,Southwestern,College,157,Data Analytics,777,Yes,Employed FT,100452,Manufacturing,75,No,0.31,6,Yes,Monthly,2026-04-29
+PRT-000460,33,F,Eastern,Less than HS,155,Advanced Manufacturing,60,No,Self-Employed,48116,Manufacturing,32,No,0.47,8,Yes,Weekly,2026-01-12
+PRT-000461,54,X,Southwestern,Bachelor,122,IT Security,554,Yes,Unemployed,33643,Technology,145,No,0.68,4,No,Monthly,2026-01-13
+PRT-000462,30,M,Central,Bachelor,227,Advanced Manufacturing,293,No,Self-Employed,104306,Finance,160,No,0.94,6,No,Monthly,2026-03-22
+PRT-000463,31,F,Northern,Bachelor,169,Skilled Trades,220,No,Unemployed,111110,Technology,19,Yes,0.4,3,Yes,Weekly,2026-03-24
+PRT-000464,48,X,Niagara,Master,183,Digital Skills,462,Yes,Unemployed,34461,Technology,123,Yes,0.62,9,Yes,Weekly,2026-01-29
+PRT-000465,49,X,Ottawa,Less than HS,91,Digital Skills,499,No,Employed PT,118308,Healthcare,21,No,0.87,13,No,Weekly,2026-03-14
+PRT-000466,29,F,Niagara,Master,140,IT Security,271,Yes,Unemployed,37507,Finance,180,Yes,0.65,7,Yes,Weekly,2026-01-10
+PRT-000467,34,F,Northern,High School,155,Skilled Trades,667,Yes,Unemployed,97728,Construction,60,No,0.84,3,Yes,Monthly,2026-02-25
+PRT-000468,34,M,Central,Bachelor,174,Digital Skills,764,Yes,Further Training,113748,Technology,158,Yes,0.67,12,Yes,Weekly,2026-07-22
+PRT-000469,43,M,Eastern,High School,71,Data Analytics,759,No,Further Training,31464,Construction,51,Yes,0.7,16,No,Weekly,2026-03-02
+PRT-000470,28,X,Northern,Less than HS,23,Green Energy,408,No,Self-Employed,108307,Retail,17,Yes,0.6,9,Yes,Monthly,2026-02-24
+PRT-000471,27,F,Ottawa,High School,175,Green Energy,547,No,Unemployed,87618,Healthcare,162,No,0.78,15,Yes,Weekly,2026-03-31
+PRT-000472,56,X,Ottawa,Master,178,Digital Skills,640,Yes,Self-Employed,74580,Healthcare,92,Yes,0.47,9,Yes,Monthly,2026-06-19
+PRT-000473,35,F,Waterloo,Bachelor,42,Data Analytics,591,Yes,Self-Employed,91813,Technology,130,Yes,0.99,10,Yes,Weekly,2026-03-01
+PRT-000474,46,X,Durham,College,239,Data Analytics,288,Yes,Unemployed,95498,Government,176,Yes,0.82,4,Yes,Weekly,2026-07-01
+PRT-000475,62,F,Waterloo,College,57,Data Analytics,524,No,Further Training,67369,Government,63,No,0.89,9,Yes,Monthly,2026-04-30
+PRT-000476,56,M,Central,Master,148,Digital Skills,411,Yes,Employed FT,90998,Government,31,Yes,0.67,14,Yes,Monthly,2026-07-28
+PRT-000477,28,F,Durham,High School,239,Advanced Manufacturing,572,No,Self-Employed,105391,Manufacturing,151,No,0.45,7,Yes,Weekly,2026-07-21
+PRT-000478,48,M,Southwestern,Bachelor,205,IT Security,104,No,Self-Employed,107843,Government,115,Yes,0.35,17,Yes,Monthly,2026-06-24
+PRT-000479,57,F,Southwestern,Bachelor,18,Healthcare Aide,352,No,Employed PT,87212,Finance,133,Yes,0.65,2,Yes,Weekly,2026-07-08
+PRT-000480,22,F,Hamilton,Less than HS,224,Advanced Manufacturing,273,No,Self-Employed,71303,Construction,24,No,0.87,7,Yes,Monthly,2026-06-13
+PRT-000481,49,X,Southwestern,Bachelor,43,Data Analytics,107,No,Further Training,118033,Finance,124,Yes,0.61,13,Yes,Weekly,2026-07-07
+PRT-000482,43,M,Niagara,Master,143,Digital Skills,310,Yes,Employed FT,79713,Government,103,No,0.36,8,No,Weekly,2026-01-05
+PRT-000483,40,M,Northern,High School,155,Skilled Trades,378,Yes,Employed FT,89074,Finance,52,No,0.43,9,Yes,Weekly,2026-02-04
+PRT-000484,31,X,Southwestern,Master,149,Healthcare Aide,238,Yes,Self-Employed,43919,Government,24,No,0.45,18,Yes,Monthly,2026-07-26
+PRT-000485,53,F,Durham,College,16,Advanced Manufacturing,190,Yes,Employed PT,48905,Manufacturing,135,No,0.4,8,Yes,Monthly,2026-01-23
+PRT-000486,47,M,Central,College,70,Healthcare Aide,106,No,Employed PT,53207,Technology,38,Yes,0.56,13,Yes,Monthly,2026-03-28
+PRT-000487,42,F,Durham,High School,230,IT Security,539,No,Unemployed,96584,Manufacturing,12,No,0.65,7,Yes,Weekly,2026-07-05
+PRT-000488,49,X,Eastern,Master,121,Data Analytics,183,Yes,Employed PT,95294,Construction,21,Yes,0.68,10,Yes,Monthly,2026-02-08
+PRT-000489,18,M,Ottawa,College,110,Green Energy,417,Yes,Unemployed,73822,Manufacturing,87,Yes,0.54,3,Yes,Monthly,2026-07-28
+PRT-000490,35,X,Central,College,117,Digital Skills,607,Yes,Further Training,34431,Manufacturing,41,No,0.66,13,Yes,Monthly,2026-04-12
+PRT-000491,64,F,Ottawa,Bachelor,51,IT Security,358,Yes,Employed FT,52591,Finance,48,Yes,0.33,7,Yes,Monthly,2026-07-01
+PRT-000492,64,X,Ottawa,College,9,Data Analytics,445,No,Further Training,90695,Retail,95,No,0.91,17,Yes,Monthly,2026-07-31
+PRT-000493,20,X,Northern,Bachelor,94,Green Energy,325,No,Employed PT,57427,Technology,120,Yes,0.57,13,Yes,Weekly,2026-04-27
+PRT-000494,59,X,Southwestern,Bachelor,8,Healthcare Aide,213,Yes,Employed FT,47431,Technology,124,No,0.89,2,Yes,Monthly,2026-04-16
+PRT-000495,46,M,Waterloo,Master,197,Digital Skills,524,No,Unemployed,42887,Construction,159,No,0.98,13,Yes,Monthly,2026-05-29
+PRT-000496,44,M,Durham,Bachelor,90,Advanced Manufacturing,727,No,Unemployed,68470,Healthcare,101,Yes,0.84,3,Yes,Monthly,2026-07-09
+PRT-000497,44,M,Durham,Less than HS,163,Digital Skills,565,No,Self-Employed,118651,Finance,67,No,0.73,17,Yes,Weekly,2026-04-04
+PRT-000498,60,M,Ottawa,Bachelor,100,Digital Skills,721,Yes,Unemployed,112943,Healthcare,110,Yes,0.34,2,Yes,Monthly,2026-03-13
+PRT-000499,21,M,Eastern,Master,176,Skilled Trades,569,Yes,Unemployed,45421,Finance,72,No,0.89,15,No,Monthly,2026-05-05
+PRT-000500,42,F,Central,High School,137,Skilled Trades,117,Yes,Employed PT,77106,Government,74,No,0.78,13,Yes,Weekly,2026-07-09
+PRT-000501,30,M,Eastern,Bachelor,183,IT Security,227,Yes,Self-Employed,113808,Government,174,Yes,0.55,8,Yes,Monthly,2026-07-24
+PRT-000502,31,X,Durham,Less than HS,157,Advanced Manufacturing,674,Yes,Further Training,84262,Technology,31,No,0.9,17,No,Weekly,2026-03-30
+PRT-000503,50,M,GTA,Master,168,Green Energy,657,No,Unemployed,116171,Manufacturing,55,Yes,0.78,12,Yes,Monthly,2026-05-26
+PRT-000504,22,F,Southwestern,Bachelor,207,IT Security,268,No,Employed FT,99331,Government,166,Yes,0.4,18,Yes,Monthly,2026-05-05
+PRT-000505,28,X,Ottawa,High School,140,Green Energy,248,Yes,Unemployed,87493,Technology,156,Yes,0.68,2,Yes,Weekly,2026-03-05
+PRT-000506,40,X,Niagara,College,161,Green Energy,464,Yes,Self-Employed,119548,Retail,17,No,0.8,7,No,Monthly,2026-05-29
+PRT-000507,19,X,Eastern,Less than HS,180,Data Analytics,753,Yes,Employed PT,99125,Technology,152,Yes,0.58,5,Yes,Weekly,2026-05-15
+PRT-000508,60,M,Durham,High School,213,Advanced Manufacturing,471,No,Employed FT,92953,Government,77,No,0.3,14,Yes,Monthly,2026-05-19
+PRT-000509,30,M,Southwestern,Bachelor,89,IT Security,238,No,Employed PT,100905,Manufacturing,46,Yes,0.72,7,No,Monthly,2026-01-16
+PRT-000510,25,F,Southwestern,High School,110,Skilled Trades,725,Yes,Self-Employed,86120,Finance,76,Yes,0.92,13,Yes,Weekly,2026-03-09
+PRT-000511,53,X,Niagara,Master,69,IT Security,424,Yes,Employed PT,95948,Government,21,No,0.62,8,Yes,Monthly,2026-05-06
+PRT-000512,50,X,Niagara,Bachelor,72,Data Analytics,798,No,Further Training,86344,Construction,68,No,0.81,11,Yes,Weekly,2026-06-05
+PRT-000513,49,X,Northern,Master,60,Data Analytics,405,No,Further Training,77039,Construction,58,No,0.38,7,Yes,Weekly,2026-07-30
+PRT-000514,26,F,Waterloo,College,74,Skilled Trades,394,Yes,Self-Employed,50251,Finance,38,No,0.82,2,Yes,Monthly,2026-01-04
+PRT-000515,26,X,Ottawa,Bachelor,117,IT Security,394,Yes,Employed PT,108892,Manufacturing,169,No,0.61,7,Yes,Monthly,2026-06-30
+PRT-000516,32,X,Ottawa,College,164,Advanced Manufacturing,68,Yes,Unemployed,101074,Retail,99,Yes,0.96,11,Yes,Weekly,2026-07-30
+PRT-000517,49,X,Niagara,Master,5,Skilled Trades,399,Yes,Unemployed,106431,Retail,25,Yes,0.83,15,Yes,Monthly,2026-04-18
+PRT-000518,55,X,Northern,High School,236,Healthcare Aide,565,No,Further Training,84076,Retail,91,No,0.98,4,Yes,Weekly,2026-06-29
+PRT-000519,40,X,GTA,High School,165,Advanced Manufacturing,188,Yes,Further Training,43891,Healthcare,29,Yes,0.59,4,Yes,Monthly,2026-02-23
+PRT-000520,40,M,Eastern,Less than HS,156,Green Energy,487,No,Self-Employed,113245,Retail,154,Yes,0.71,15,No,Monthly,2026-06-25
+PRT-000521,39,F,Ottawa,College,223,Healthcare Aide,129,Yes,Further Training,90261,Manufacturing,9,No,0.77,4,Yes,Weekly,2026-06-06
+PRT-000522,25,F,Eastern,Bachelor,209,Data Analytics,464,Yes,Further Training,91515,Finance,180,No,0.48,16,No,Monthly,2026-03-19
+PRT-000523,21,X,Hamilton,High School,65,Healthcare Aide,612,Yes,Employed PT,91186,Technology,147,No,0.58,17,No,Weekly,2026-05-17
+PRT-000524,32,X,Waterloo,Less than HS,8,IT Security,315,Yes,Employed PT,34737,Healthcare,37,No,0.6,2,Yes,Weekly,2026-05-19
+PRT-000525,31,X,Southwestern,Master,139,Skilled Trades,582,No,Employed PT,60370,Finance,82,Yes,0.85,12,No,Weekly,2026-07-11
+PRT-000526,56,X,Niagara,Master,208,Advanced Manufacturing,444,Yes,Self-Employed,85298,Technology,72,No,0.43,2,Yes,Weekly,2026-07-18
+PRT-000527,37,F,Hamilton,Bachelor,68,Data Analytics,548,No,Self-Employed,52701,Construction,96,Yes,0.99,15,Yes,Monthly,2026-01-20
+PRT-000528,56,M,Northern,High School,113,Skilled Trades,160,No,Employed FT,40474,Finance,11,No,0.49,7,Yes,Weekly,2026-02-08
+PRT-000529,54,F,Hamilton,Master,134,Digital Skills,422,Yes,Unemployed,79617,Healthcare,66,No,0.7,12,Yes,Weekly,2026-03-31
+PRT-000530,33,M,Ottawa,High School,67,Digital Skills,489,No,Employed FT,32613,Retail,141,No,0.44,7,Yes,Monthly,2026-07-14
+PRT-000531,31,X,GTA,Bachelor,191,Data Analytics,290,No,Employed PT,75818,Healthcare,63,Yes,0.43,2,Yes,Monthly,2026-05-17
+PRT-000532,43,M,Niagara,College,190,Healthcare Aide,746,No,Employed FT,96946,Technology,35,No,0.41,12,No,Weekly,2026-05-13
+PRT-000533,18,X,Ottawa,College,6,Data Analytics,250,Yes,Self-Employed,63392,Technology,144,No,0.32,15,Yes,Monthly,2026-02-28
+PRT-000534,60,X,Niagara,Bachelor,225,Skilled Trades,317,Yes,Employed PT,77230,Healthcare,49,Yes,0.42,5,Yes,Weekly,2026-02-27
+PRT-000535,40,M,Northern,Less than HS,240,Skilled Trades,519,No,Self-Employed,53262,Finance,71,Yes,0.42,2,Yes,Weekly,2026-07-24
+PRT-000536,54,F,Waterloo,Less than HS,199,Healthcare Aide,789,No,Self-Employed,89855,Construction,94,No,0.41,6,No,Monthly,2026-01-25
+PRT-000537,28,X,Durham,College,88,Data Analytics,543,Yes,Employed FT,118558,Manufacturing,48,Yes,0.53,3,No,Monthly,2026-02-01
+PRT-000538,63,F,Eastern,Bachelor,163,Green Energy,51,Yes,Unemployed,66276,Manufacturing,159,No,0.84,10,Yes,Monthly,2026-01-22
+PRT-000539,46,F,Ottawa,Less than HS,75,Skilled Trades,99,No,Employed PT,115293,Healthcare,59,No,0.44,13,Yes,Weekly,2026-03-30
+PRT-000540,46,X,Ottawa,Bachelor,188,IT Security,69,No,Employed PT,111707,Technology,14,No,0.39,16,Yes,Monthly,2026-02-19
+PRT-000541,39,M,Northern,Bachelor,46,Digital Skills,705,No,Further Training,116901,Government,17,No,0.88,15,Yes,Weekly,2026-01-15
+PRT-000542,41,M,Northern,College,67,Skilled Trades,643,No,Unemployed,71754,Retail,46,No,0.88,1,Yes,Weekly,2026-03-18
+PRT-000543,42,F,Durham,High School,7,Skilled Trades,300,No,Unemployed,85760,Construction,92,No,0.89,17,Yes,Monthly,2026-05-30
+PRT-000544,44,M,Central,Less than HS,48,Digital Skills,740,No,Employed FT,33232,Retail,140,Yes,0.47,11,Yes,Monthly,2026-07-02
+PRT-000545,18,M,Eastern,Less than HS,87,Digital Skills,682,No,Further Training,89831,Healthcare,122,No,0.92,6,Yes,Weekly,2026-02-01
+PRT-000546,58,M,GTA,Less than HS,106,Advanced Manufacturing,232,No,Unemployed,34427,Finance,138,Yes,1.0,8,Yes,Monthly,2026-04-10
+PRT-000547,53,F,Niagara,High School,194,Healthcare Aide,72,Yes,Unemployed,77883,Manufacturing,169,No,0.53,5,Yes,Weekly,2026-01-20
+PRT-000548,60,M,Southwestern,High School,20,IT Security,136,No,Further Training,55189,Finance,126,No,0.39,12,Yes,Monthly,2026-01-28
+PRT-000549,45,M,GTA,High School,148,Skilled Trades,542,Yes,Unemployed,92032,Retail,136,Yes,0.76,12,Yes,Weekly,2026-04-18
+PRT-000550,40,X,Eastern,Master,113,Healthcare Aide,767,No,Employed PT,66775,Retail,161,No,0.39,18,Yes,Weekly,2026-04-20
+PRT-000551,49,M,Southwestern,Bachelor,119,IT Security,783,No,Further Training,96333,Technology,77,Yes,0.6,14,Yes,Monthly,2026-02-17
+PRT-000552,64,X,Northern,Bachelor,118,Skilled Trades,172,Yes,Unemployed,37732,Retail,109,No,0.84,10,Yes,Weekly,2026-04-05
+PRT-000553,58,M,GTA,Bachelor,136,Digital Skills,676,Yes,Employed FT,75518,Healthcare,62,Yes,0.43,14,Yes,Weekly,2026-03-31
+PRT-000554,37,X,Hamilton,High School,67,Data Analytics,760,Yes,Further Training,67325,Technology,162,Yes,0.63,6,No,Monthly,2026-04-07
+PRT-000555,31,X,Central,High School,204,Advanced Manufacturing,560,Yes,Employed FT,111283,Manufacturing,59,No,0.43,16,Yes,Weekly,2026-02-23
+PRT-000556,31,F,Central,Less than HS,78,Digital Skills,93,Yes,Further Training,44927,Government,50,No,0.75,4,Yes,Weekly,2026-07-30
+PRT-000557,38,M,Southwestern,College,177,Green Energy,630,No,Further Training,76936,Government,124,Yes,0.47,18,Yes,Weekly,2026-07-13
+PRT-000558,29,F,Ottawa,High School,143,Healthcare Aide,73,No,Further Training,77539,Technology,39,Yes,0.92,18,No,Monthly,2026-03-18
+PRT-000559,60,X,Eastern,Less than HS,199,Skilled Trades,42,No,Employed FT,33544,Manufacturing,94,Yes,0.89,13,Yes,Monthly,2026-02-26
+PRT-000560,23,X,GTA,Master,80,Green Energy,371,Yes,Self-Employed,48441,Retail,141,No,0.86,14,Yes,Weekly,2026-03-21
+PRT-000561,48,F,Eastern,High School,217,Data Analytics,560,No,Unemployed,77556,Government,99,Yes,0.4,18,No,Monthly,2026-05-18
+PRT-000562,34,M,Northern,College,55,Skilled Trades,127,No,Self-Employed,47710,Construction,50,Yes,0.57,2,Yes,Monthly,2026-04-09
+PRT-000563,39,M,Ottawa,High School,178,Green Energy,183,No,Employed PT,72914,Government,157,Yes,0.71,12,Yes,Monthly,2026-07-14
+PRT-000564,29,M,Northern,Less than HS,126,Green Energy,410,No,Employed PT,53993,Construction,78,No,0.4,1,No,Monthly,2026-05-24
+PRT-000565,38,F,Northern,College,80,Green Energy,353,No,Further Training,88862,Manufacturing,10,No,0.54,4,Yes,Monthly,2026-06-15
+PRT-000566,36,M,Southwestern,Less than HS,61,IT Security,360,Yes,Employed FT,70950,Construction,102,Yes,0.54,14,No,Monthly,2026-04-06
+PRT-000567,53,F,GTA,College,25,Advanced Manufacturing,353,No,Self-Employed,58046,Technology,47,Yes,0.64,14,Yes,Monthly,2026-05-04
+PRT-000568,48,M,Durham,Master,77,Digital Skills,376,No,Further Training,73088,Manufacturing,161,Yes,0.38,4,Yes,Monthly,2026-05-12
+PRT-000569,19,X,Central,Less than HS,184,Skilled Trades,467,No,Unemployed,88599,Finance,176,Yes,0.6,16,Yes,Monthly,2026-04-04
+PRT-000570,34,X,Waterloo,Bachelor,89,IT Security,686,Yes,Unemployed,99785,Government,135,Yes,0.65,17,Yes,Weekly,2026-05-08
+PRT-000571,31,M,GTA,Less than HS,233,IT Security,199,No,Unemployed,119725,Finance,177,No,0.65,16,Yes,Weekly,2026-06-07
+PRT-000572,25,M,GTA,High School,121,Data Analytics,67,No,Employed FT,62827,Manufacturing,84,Yes,0.49,12,No,Weekly,2026-06-21
+PRT-000573,63,X,GTA,Bachelor,186,Digital Skills,539,Yes,Further Training,100140,Construction,35,No,0.37,2,No,Weekly,2026-07-08
+PRT-000574,46,M,Southwestern,High School,194,IT Security,405,No,Unemployed,115706,Manufacturing,44,No,0.46,6,Yes,Weekly,2026-03-09
+PRT-000575,61,F,Eastern,Master,0,Green Energy,666,No,Employed PT,117816,Retail,71,No,0.83,3,Yes,Weekly,2026-07-11
+PRT-000576,62,X,Waterloo,College,135,Skilled Trades,745,Yes,Further Training,55249,Finance,128,No,0.93,5,Yes,Monthly,2026-01-17
+PRT-000577,59,M,Niagara,Master,78,Data Analytics,530,No,Employed FT,75829,Construction,61,Yes,0.89,2,Yes,Weekly,2026-02-27
+PRT-000578,31,X,Ottawa,Bachelor,212,Skilled Trades,764,Yes,Unemployed,105343,Government,79,No,0.89,8,No,Monthly,2026-02-15
+PRT-000579,24,F,Hamilton,High School,0,Skilled Trades,339,No,Employed PT,43662,Retail,53,No,0.74,4,Yes,Weekly,2026-06-04
+PRT-000580,39,F,GTA,College,154,Skilled Trades,624,No,Employed FT,56979,Government,42,Yes,0.4,10,No,Monthly,2026-06-10
+PRT-000581,42,M,GTA,College,22,Skilled Trades,757,Yes,Self-Employed,73467,Manufacturing,125,No,0.96,4,Yes,Weekly,2026-02-03
+PRT-000582,26,X,Hamilton,College,23,IT Security,84,No,Employed PT,72651,Construction,149,Yes,0.41,7,No,Weekly,2026-05-07
+PRT-000583,47,M,GTA,College,148,Digital Skills,131,Yes,Self-Employed,47164,Construction,81,No,0.64,14,Yes,Weekly,2026-02-16
+PRT-000584,46,M,Central,High School,234,Digital Skills,720,Yes,Further Training,104407,Healthcare,157,No,0.52,15,Yes,Weekly,2026-06-11
+PRT-000585,41,F,Durham,College,96,IT Security,664,Yes,Self-Employed,34444,Technology,40,No,0.76,18,Yes,Weekly,2026-05-03
+PRT-000586,58,F,GTA,High School,1,Digital Skills,330,Yes,Employed FT,42392,Government,57,No,0.92,2,No,Monthly,2026-02-27
+PRT-000587,38,F,GTA,High School,215,Advanced Manufacturing,452,Yes,Further Training,112017,Retail,63,Yes,0.75,18,No,Monthly,2026-05-22
+PRT-000588,55,F,GTA,Master,3,Data Analytics,799,No,Employed FT,42474,Government,25,No,0.61,15,No,Monthly,2026-04-09
+PRT-000589,21,F,GTA,Bachelor,24,Healthcare Aide,394,No,Employed PT,99863,Technology,104,No,0.44,17,Yes,Monthly,2026-03-25
+PRT-000590,21,M,Waterloo,College,227,Skilled Trades,474,No,Employed PT,96026,Finance,86,No,0.81,3,No,Monthly,2026-01-05
+PRT-000591,50,M,Eastern,Less than HS,175,Digital Skills,624,No,Self-Employed,45751,Government,104,Yes,0.79,16,Yes,Weekly,2026-05-11
+PRT-000592,43,X,Hamilton,High School,145,Data Analytics,420,Yes,Unemployed,68445,Technology,98,No,0.65,13,Yes,Monthly,2026-01-01
+PRT-000593,57,M,Durham,Bachelor,68,Skilled Trades,490,No,Employed PT,90329,Manufacturing,29,No,0.53,18,Yes,Weekly,2026-03-12
+PRT-000594,50,F,Northern,College,48,Digital Skills,413,No,Unemployed,82829,Manufacturing,127,No,0.98,9,Yes,Weekly,2026-03-02
+PRT-000595,30,X,Waterloo,Bachelor,62,Skilled Trades,188,No,Employed FT,110628,Government,128,Yes,0.55,15,Yes,Monthly,2026-05-14
+PRT-000596,63,M,Niagara,Less than HS,114,Digital Skills,445,Yes,Employed FT,117744,Manufacturing,85,No,0.38,6,No,Monthly,2026-02-06
+PRT-000597,44,M,Eastern,Bachelor,81,Green Energy,714,No,Further Training,80498,Manufacturing,69,Yes,0.43,4,No,Monthly,2026-05-16
+PRT-000598,48,X,Niagara,Less than HS,29,Advanced Manufacturing,255,No,Unemployed,111498,Manufacturing,50,No,0.66,4,Yes,Weekly,2026-04-22
+PRT-000599,61,X,Ottawa,College,60,Skilled Trades,614,Yes,Employed PT,31911,Technology,158,No,0.58,18,No,Monthly,2026-04-03
+PRT-000600,49,M,Durham,Master,59,Green Energy,215,Yes,Employed FT,113970,Retail,16,Yes,0.81,4,No,Monthly,2026-01-24
+PRT-000601,19,X,Durham,High School,135,Healthcare Aide,79,Yes,Further Training,104174,Retail,40,No,0.31,15,Yes,Weekly,2026-04-19
+PRT-000602,35,M,Eastern,Master,71,Healthcare Aide,618,No,Employed FT,86981,Technology,158,Yes,0.58,13,Yes,Monthly,2026-03-29
+PRT-000603,48,X,Durham,Master,105,Green Energy,643,Yes,Further Training,88570,Finance,41,No,0.59,6,No,Monthly,2026-08-01
+PRT-000604,25,X,Hamilton,High School,5,Data Analytics,344,No,Self-Employed,111767,Finance,80,No,0.73,7,No,Monthly,2026-01-04
+PRT-000605,43,X,Eastern,Less than HS,25,IT Security,474,No,Further Training,115817,Healthcare,141,No,0.5,14,Yes,Weekly,2026-01-13
+PRT-000606,54,F,Niagara,College,7,Data Analytics,590,No,Further Training,45629,Government,58,No,0.88,12,Yes,Weekly,2026-02-25
+PRT-000607,49,M,Northern,Less than HS,144,Healthcare Aide,199,Yes,Further Training,52291,Manufacturing,40,No,0.93,18,Yes,Monthly,2026-03-15
+PRT-000608,64,F,Northern,College,220,Green Energy,193,Yes,Employed FT,74297,Construction,49,Yes,0.47,4,No,Monthly,2026-06-19
+PRT-000609,25,X,Waterloo,College,194,Healthcare Aide,242,Yes,Employed FT,84133,Manufacturing,86,Yes,0.92,18,Yes,Monthly,2026-05-02
+PRT-000610,62,F,Durham,Master,54,Digital Skills,180,Yes,Unemployed,117859,Construction,126,Yes,0.3,16,Yes,Weekly,2026-07-31
+PRT-000611,28,F,Durham,High School,121,Data Analytics,138,No,Self-Employed,113699,Technology,120,Yes,0.82,1,Yes,Weekly,2026-03-26
+PRT-000612,43,M,Ottawa,Bachelor,59,Digital Skills,733,No,Self-Employed,31889,Government,98,Yes,0.46,2,Yes,Weekly,2026-05-06
+PRT-000613,59,M,GTA,High School,63,Skilled Trades,581,Yes,Further Training,42047,Finance,84,Yes,0.61,6,No,Monthly,2026-05-27
+PRT-000614,21,F,Eastern,Master,45,Healthcare Aide,198,Yes,Self-Employed,51572,Healthcare,137,No,0.73,2,Yes,Weekly,2026-07-05
+PRT-000615,34,X,Waterloo,College,125,Data Analytics,220,Yes,Further Training,117671,Healthcare,83,No,0.31,11,No,Weekly,2026-02-14
+PRT-000616,50,X,Hamilton,High School,41,IT Security,608,No,Employed PT,105604,Retail,88,No,0.41,12,No,Weekly,2026-02-26
+PRT-000617,38,M,Ottawa,Less than HS,46,Advanced Manufacturing,58,No,Self-Employed,93431,Technology,121,No,0.43,1,Yes,Monthly,2026-06-01
+PRT-000618,18,X,Durham,College,191,Digital Skills,295,Yes,Self-Employed,100498,Technology,171,No,0.68,15,Yes,Monthly,2026-01-17
+PRT-000619,52,M,Niagara,Master,40,IT Security,48,Yes,Unemployed,86489,Manufacturing,57,No,0.75,11,Yes,Weekly,2026-07-14
+PRT-000620,44,M,Northern,Less than HS,159,Digital Skills,211,No,Self-Employed,101179,Retail,42,Yes,0.67,15,Yes,Monthly,2026-07-04
+PRT-000621,39,F,Eastern,College,14,Green Energy,577,Yes,Further Training,119432,Manufacturing,109,Yes,0.78,12,Yes,Monthly,2026-05-11
+PRT-000622,35,X,Durham,Bachelor,42,IT Security,397,No,Unemployed,31640,Government,141,Yes,0.37,16,Yes,Weekly,2026-03-28
+PRT-000623,33,X,Durham,High School,228,Data Analytics,231,Yes,Unemployed,49675,Government,150,Yes,0.63,4,Yes,Weekly,2026-02-07
+PRT-000624,38,F,Eastern,Bachelor,180,Digital Skills,659,No,Further Training,95585,Retail,33,No,0.86,1,Yes,Weekly,2026-03-06
+PRT-000625,18,X,GTA,Bachelor,31,Green Energy,670,Yes,Employed PT,48450,Finance,150,Yes,0.87,7,Yes,Monthly,2026-06-11
+PRT-000626,63,M,GTA,High School,212,IT Security,501,No,Employed FT,80661,Government,155,No,0.9,17,Yes,Weekly,2026-06-10
+PRT-000627,37,F,GTA,College,78,Advanced Manufacturing,95,No,Employed FT,112580,Government,26,Yes,0.74,16,Yes,Monthly,2026-03-26
+PRT-000628,58,M,Ottawa,College,159,IT Security,549,Yes,Unemployed,110246,Manufacturing,172,Yes,0.47,6,No,Monthly,2026-01-15
+PRT-000629,35,M,Ottawa,Less than HS,108,Advanced Manufacturing,288,No,Self-Employed,37607,Healthcare,93,No,0.88,5,Yes,Monthly,2026-02-27
+PRT-000630,23,X,Northern,Bachelor,233,Digital Skills,138,Yes,Self-Employed,100464,Technology,77,No,0.69,14,No,Weekly,2026-06-28
+PRT-000631,56,X,Waterloo,College,40,Advanced Manufacturing,511,No,Self-Employed,93858,Retail,41,No,0.48,3,Yes,Weekly,2026-03-17
+PRT-000632,57,X,Durham,Bachelor,91,Skilled Trades,158,No,Further Training,112591,Healthcare,30,Yes,0.43,11,Yes,Monthly,2026-04-30
+PRT-000633,27,F,Ottawa,Master,44,Digital Skills,237,Yes,Employed PT,97728,Manufacturing,93,Yes,0.86,7,Yes,Monthly,2026-03-05
+PRT-000634,45,M,Niagara,High School,145,IT Security,630,No,Further Training,33921,Construction,164,Yes,0.47,10,Yes,Monthly,2026-05-14
+PRT-000635,63,F,Waterloo,Less than HS,17,Advanced Manufacturing,290,No,Employed FT,118551,Retail,147,No,0.43,14,Yes,Monthly,2026-07-04
+PRT-000636,23,X,Northern,Master,137,Skilled Trades,697,Yes,Employed FT,63440,Finance,152,No,0.31,10,Yes,Weekly,2026-02-25
+PRT-000637,57,M,Niagara,College,205,Green Energy,410,No,Employed FT,79560,Retail,38,No,0.49,14,Yes,Monthly,2026-04-05
+PRT-000638,46,F,Central,High School,142,Digital Skills,117,No,Further Training,41006,Government,141,No,0.42,17,Yes,Weekly,2026-03-05
+PRT-000639,54,M,Niagara,Master,203,Data Analytics,519,No,Employed PT,68043,Construction,173,Yes,0.64,12,No,Monthly,2026-07-20
+PRT-000640,45,F,Eastern,Less than HS,160,Healthcare Aide,45,Yes,Further Training,63277,Retail,112,Yes,0.74,11,Yes,Monthly,2026-06-21
+PRT-000641,63,F,Ottawa,Less than HS,200,Healthcare Aide,239,Yes,Further Training,87339,Construction,85,No,0.44,6,No,Weekly,2026-04-06
+PRT-000642,22,M,Durham,Less than HS,108,IT Security,270,Yes,Further Training,48706,Technology,144,No,0.42,18,Yes,Weekly,2026-02-22
+PRT-000643,43,X,Eastern,Bachelor,27,Data Analytics,553,Yes,Employed FT,93305,Government,62,Yes,0.53,16,No,Monthly,2026-07-06
+PRT-000644,28,X,Hamilton,High School,102,Digital Skills,235,Yes,Further Training,58858,Retail,76,Yes,0.5,7,Yes,Weekly,2026-07-11
+PRT-000645,47,X,Eastern,College,17,IT Security,578,No,Employed FT,91069,Finance,64,No,0.58,8,Yes,Monthly,2026-02-22
+PRT-000646,54,F,Durham,High School,137,Data Analytics,97,Yes,Further Training,61969,Retail,19,No,0.77,17,No,Weekly,2026-07-28
+PRT-000647,50,M,Durham,Master,202,Data Analytics,506,No,Unemployed,93684,Retail,98,No,0.72,3,Yes,Weekly,2026-07-18
+PRT-000648,49,X,Northern,Less than HS,225,IT Security,78,Yes,Further Training,41360,Manufacturing,98,Yes,0.62,15,Yes,Monthly,2026-01-25
+PRT-000649,44,X,Ottawa,Less than HS,67,IT Security,276,No,Further Training,46726,Construction,171,Yes,0.37,16,No,Weekly,2026-02-14
+PRT-000650,54,X,Central,High School,43,Healthcare Aide,618,No,Self-Employed,78754,Construction,155,Yes,0.6,11,No,Monthly,2026-04-16
+PRT-000651,49,X,Hamilton,College,194,Digital Skills,318,Yes,Employed FT,92823,Retail,132,Yes,0.83,4,No,Monthly,2026-04-08
+PRT-000652,49,M,Ottawa,Less than HS,84,Data Analytics,296,No,Further Training,33592,Finance,46,Yes,0.56,6,Yes,Monthly,2026-05-31
+PRT-000653,35,X,Southwestern,Master,216,Healthcare Aide,184,Yes,Employed FT,99793,Government,12,No,0.51,8,Yes,Monthly,2026-02-08
+PRT-000654,29,M,Central,Bachelor,124,Advanced Manufacturing,72,Yes,Unemployed,114485,Retail,13,No,0.39,7,Yes,Monthly,2026-06-09
+PRT-000655,49,M,Durham,Bachelor,138,Skilled Trades,261,Yes,Further Training,43612,Construction,166,No,0.55,5,No,Weekly,2026-02-28
+PRT-000656,22,F,Northern,Bachelor,72,Digital Skills,325,Yes,Employed FT,33519,Construction,24,Yes,0.51,4,Yes,Monthly,2026-03-13
+PRT-000657,53,M,Hamilton,Less than HS,108,Green Energy,269,Yes,Employed FT,80868,Manufacturing,141,Yes,0.39,7,No,Weekly,2026-05-21
+PRT-000658,25,M,GTA,College,124,Data Analytics,506,No,Employed FT,100463,Government,154,No,0.77,13,Yes,Weekly,2026-04-26
+PRT-000659,32,F,Niagara,College,82,Advanced Manufacturing,316,Yes,Unemployed,111164,Government,97,No,0.67,4,Yes,Monthly,2026-03-11
+PRT-000660,61,X,Niagara,High School,104,Data Analytics,508,Yes,Employed FT,68460,Healthcare,173,Yes,0.94,5,Yes,Monthly,2026-06-23
+PRT-000661,18,F,Northern,High School,79,Digital Skills,54,No,Employed PT,42612,Retail,55,No,0.7,9,No,Weekly,2026-05-18
+PRT-000662,46,F,Northern,Bachelor,114,Data Analytics,314,No,Unemployed,55527,Government,125,Yes,0.52,2,Yes,Weekly,2026-05-10
+PRT-000663,43,M,Northern,College,155,IT Security,472,Yes,Further Training,46300,Healthcare,168,No,0.85,15,No,Monthly,2026-01-12
+PRT-000664,27,X,Hamilton,Less than HS,148,Skilled Trades,545,Yes,Employed PT,108641,Government,23,Yes,0.52,12,Yes,Monthly,2026-02-21
+PRT-000665,62,X,Durham,Less than HS,141,Healthcare Aide,668,Yes,Self-Employed,111035,Government,51,Yes,0.59,15,Yes,Monthly,2026-01-28
+PRT-000666,24,M,Northern,Less than HS,186,Green Energy,630,No,Employed FT,33208,Technology,98,No,0.41,2,Yes,Weekly,2026-07-23
+PRT-000667,40,M,Central,Bachelor,177,Green Energy,368,No,Employed FT,97054,Finance,16,No,0.72,13,No,Weekly,2026-07-10
+PRT-000668,45,M,Hamilton,Master,202,Skilled Trades,250,Yes,Self-Employed,108786,Construction,70,No,0.61,13,No,Weekly,2026-03-02
+PRT-000669,23,M,Durham,Bachelor,27,IT Security,73,No,Unemployed,84899,Retail,23,No,0.55,18,No,Weekly,2026-04-08
+PRT-000670,37,X,Northern,Less than HS,9,Digital Skills,191,Yes,Unemployed,34357,Retail,39,Yes,0.49,15,No,Monthly,2026-06-24
+PRT-000671,33,M,Northern,Less than HS,20,IT Security,432,No,Unemployed,118454,Retail,167,No,0.37,16,Yes,Monthly,2026-06-05
+PRT-000672,31,F,Southwestern,High School,34,Healthcare Aide,280,No,Self-Employed,30292,Technology,14,No,0.58,18,Yes,Weekly,2026-07-14
+PRT-000673,51,X,GTA,Master,205,Digital Skills,496,Yes,Unemployed,79102,Government,116,No,0.39,7,No,Monthly,2026-05-13
+PRT-000674,51,X,Hamilton,Less than HS,30,Data Analytics,232,No,Self-Employed,36580,Manufacturing,44,No,0.92,2,Yes,Monthly,2026-07-17
+PRT-000675,29,M,Niagara,Master,150,Data Analytics,238,Yes,Self-Employed,38501,Retail,171,Yes,0.85,1,Yes,Weekly,2026-06-10
+PRT-000676,26,F,Southwestern,College,103,IT Security,457,No,Further Training,106559,Government,55,Yes,0.52,11,Yes,Monthly,2026-03-07
+PRT-000677,38,X,Niagara,Master,172,Advanced Manufacturing,352,Yes,Self-Employed,104580,Retail,60,Yes,0.6,2,Yes,Weekly,2026-03-17
+PRT-000678,39,M,Northern,Less than HS,148,Digital Skills,551,No,Unemployed,95880,Retail,179,Yes,0.85,10,No,Monthly,2026-02-16
+PRT-000679,44,F,Hamilton,Less than HS,238,Green Energy,475,No,Further Training,62223,Healthcare,7,No,0.64,10,Yes,Weekly,2026-06-22
+PRT-000680,54,F,Southwestern,High School,229,IT Security,264,No,Unemployed,67372,Government,33,No,0.45,2,Yes,Monthly,2026-04-21
+PRT-000681,56,X,Eastern,Bachelor,181,Advanced Manufacturing,474,No,Employed PT,103674,Retail,47,Yes,0.79,6,Yes,Monthly,2026-06-22
+PRT-000682,52,F,Durham,College,166,Skilled Trades,115,No,Self-Employed,85735,Construction,72,Yes,0.6,5,Yes,Weekly,2026-03-04
+PRT-000683,20,M,Northern,College,169,Data Analytics,299,Yes,Employed PT,34188,Retail,73,No,0.48,10,Yes,Monthly,2026-04-13
+PRT-000684,38,X,Southwestern,College,196,Skilled Trades,84,No,Employed FT,55728,Retail,22,Yes,0.9,5,Yes,Weekly,2026-04-28
+PRT-000685,42,F,Southwestern,Bachelor,216,Digital Skills,87,No,Employed PT,61779,Government,161,Yes,0.83,4,Yes,Monthly,2026-06-07
+PRT-000686,28,F,Hamilton,High School,173,Advanced Manufacturing,545,Yes,Employed FT,30759,Government,53,No,0.7,3,No,Weekly,2026-06-28
+PRT-000687,26,X,Central,High School,223,Skilled Trades,596,No,Self-Employed,44920,Healthcare,174,Yes,0.85,14,Yes,Weekly,2026-03-04
+PRT-000688,57,M,Ottawa,Master,141,Data Analytics,711,No,Employed PT,101548,Manufacturing,95,Yes,0.49,10,Yes,Monthly,2026-05-14
+PRT-000689,35,F,Niagara,Less than HS,55,Data Analytics,377,No,Unemployed,35840,Technology,170,Yes,0.69,10,Yes,Weekly,2026-04-24
+PRT-000690,19,F,Southwestern,Bachelor,176,IT Security,784,No,Employed PT,30032,Healthcare,160,Yes,0.71,1,Yes,Weekly,2026-02-10
+PRT-000691,36,X,Hamilton,High School,232,Digital Skills,349,No,Employed FT,115308,Government,33,No,0.32,13,Yes,Weekly,2026-01-06
+PRT-000692,22,F,Hamilton,College,127,Skilled Trades,498,Yes,Employed PT,89219,Retail,176,Yes,0.47,5,No,Monthly,2026-06-08
+PRT-000693,43,M,Eastern,Less than HS,54,Green Energy,589,Yes,Self-Employed,44219,Finance,8,No,0.34,9,Yes,Weekly,2026-07-20
+PRT-000694,38,F,Durham,High School,76,Green Energy,660,No,Self-Employed,42688,Retail,27,No,0.66,2,No,Weekly,2026-04-23
+PRT-000695,45,M,GTA,High School,162,Skilled Trades,638,Yes,Self-Employed,62466,Government,84,No,0.4,9,Yes,Monthly,2026-01-18
+PRT-000696,34,F,Niagara,College,110,IT Security,602,Yes,Self-Employed,88980,Healthcare,75,No,0.62,15,Yes,Weekly,2026-04-27
+PRT-000697,29,X,Eastern,Master,52,Green Energy,231,No,Further Training,110981,Retail,147,No,0.61,2,No,Monthly,2026-06-15
+PRT-000698,63,M,Eastern,Bachelor,3,Data Analytics,635,Yes,Employed FT,31963,Construction,161,No,0.54,18,Yes,Weekly,2026-02-01
+PRT-000699,30,M,Northern,Bachelor,44,Advanced Manufacturing,455,Yes,Further Training,52508,Construction,19,Yes,0.88,16,Yes,Weekly,2026-02-10
+PRT-000700,47,X,Northern,Bachelor,210,Healthcare Aide,323,Yes,Unemployed,116257,Retail,71,No,0.4,14,Yes,Weekly,2026-05-07
+PRT-000701,33,F,GTA,College,170,Healthcare Aide,492,Yes,Self-Employed,67708,Technology,100,No,0.73,1,Yes,Monthly,2026-01-01
+PRT-000702,35,F,GTA,Bachelor,88,Healthcare Aide,684,Yes,Employed FT,90154,Technology,154,Yes,0.33,8,Yes,Weekly,2026-02-15
+PRT-000703,23,X,Southwestern,Less than HS,160,Green Energy,525,No,Self-Employed,117302,Retail,129,No,0.66,12,Yes,Monthly,2026-01-09
+PRT-000704,28,X,Central,Bachelor,118,Healthcare Aide,759,No,Self-Employed,74760,Retail,136,No,0.48,10,No,Weekly,2026-04-24
+PRT-000705,58,M,Southwestern,Less than HS,14,IT Security,712,Yes,Employed FT,55323,Government,147,No,0.78,12,Yes,Weekly,2026-05-18
+PRT-000706,39,M,Eastern,College,238,IT Security,477,Yes,Employed FT,117477,Government,166,No,0.71,12,Yes,Monthly,2026-07-16
+PRT-000707,33,X,Southwestern,Bachelor,13,Advanced Manufacturing,643,No,Employed PT,32652,Technology,119,No,0.44,18,Yes,Monthly,2026-06-26
+PRT-000708,63,M,Niagara,Master,67,Healthcare Aide,100,Yes,Further Training,40973,Healthcare,147,No,0.43,14,Yes,Monthly,2026-03-07
+PRT-000709,21,F,Durham,High School,15,Healthcare Aide,508,No,Further Training,108603,Healthcare,157,No,0.43,17,Yes,Weekly,2026-02-20
+PRT-000710,36,M,Northern,Bachelor,148,Healthcare Aide,95,No,Unemployed,49174,Construction,70,No,0.82,2,No,Monthly,2026-05-06
+PRT-000711,57,X,Eastern,High School,25,IT Security,560,No,Self-Employed,113558,Finance,162,No,0.33,4,No,Weekly,2026-06-11
+PRT-000712,18,M,Hamilton,Bachelor,201,Data Analytics,256,No,Self-Employed,107851,Healthcare,76,No,0.46,12,Yes,Weekly,2026-03-12
+PRT-000713,33,M,Central,Master,133,Green Energy,343,No,Self-Employed,101002,Government,65,No,0.49,9,Yes,Monthly,2026-05-11
+PRT-000714,43,F,GTA,Bachelor,147,Green Energy,72,Yes,Employed PT,49331,Government,128,Yes,0.35,17,Yes,Weekly,2026-02-03
+PRT-000715,52,X,Niagara,Bachelor,79,Advanced Manufacturing,160,Yes,Employed PT,82450,Healthcare,85,No,0.83,2,Yes,Monthly,2026-03-05
+PRT-000716,26,M,Durham,Master,170,Healthcare Aide,160,No,Further Training,45440,Retail,142,Yes,0.54,14,Yes,Weekly,2026-04-02
+PRT-000717,55,X,Northern,Master,112,Advanced Manufacturing,199,No,Employed FT,49847,Finance,39,No,0.84,10,No,Weekly,2026-01-19
+PRT-000718,33,M,Durham,Master,167,Healthcare Aide,42,Yes,Unemployed,40448,Construction,100,No,0.86,6,No,Monthly,2026-03-11
+PRT-000719,19,F,Niagara,Less than HS,35,Digital Skills,387,No,Further Training,97687,Finance,126,No,0.45,3,No,Weekly,2026-03-20
+PRT-000720,25,M,Northern,College,93,Healthcare Aide,77,Yes,Employed PT,101087,Technology,170,No,0.52,6,Yes,Weekly,2026-01-11
+PRT-000721,62,M,GTA,Bachelor,26,Advanced Manufacturing,438,No,Further Training,104294,Construction,75,No,0.33,6,Yes,Weekly,2026-05-09
+PRT-000722,60,M,Eastern,Master,239,Skilled Trades,255,No,Employed FT,96930,Finance,61,No,0.9,18,Yes,Monthly,2026-03-15
+PRT-000723,51,M,Eastern,College,170,Skilled Trades,474,Yes,Further Training,80752,Healthcare,150,No,0.65,4,Yes,Weekly,2026-07-13
+PRT-000724,54,M,Ottawa,College,148,IT Security,234,No,Employed FT,83596,Manufacturing,103,Yes,0.39,10,Yes,Weekly,2026-06-21
+PRT-000725,33,X,Ottawa,High School,105,Advanced Manufacturing,52,Yes,Further Training,66469,Finance,147,Yes,0.4,10,Yes,Weekly,2026-06-04
+PRT-000726,38,M,Ottawa,College,74,Healthcare Aide,267,No,Self-Employed,100547,Manufacturing,96,Yes,0.52,1,No,Monthly,2026-04-06
+PRT-000727,55,M,Niagara,College,28,Green Energy,758,No,Further Training,32309,Construction,101,No,0.85,17,No,Weekly,2026-07-07
+PRT-000728,22,X,Southwestern,High School,56,IT Security,355,No,Employed FT,38086,Manufacturing,166,Yes,0.36,9,Yes,Monthly,2026-03-13
+PRT-000729,28,X,Waterloo,College,27,Data Analytics,422,Yes,Employed FT,110999,Government,153,No,0.66,9,No,Monthly,2026-07-18
+PRT-000730,28,F,Northern,Master,19,Skilled Trades,321,No,Employed PT,56496,Finance,119,Yes,0.6,6,Yes,Weekly,2026-07-01
+PRT-000731,49,X,GTA,College,173,Skilled Trades,105,Yes,Unemployed,44964,Manufacturing,54,Yes,0.82,3,Yes,Monthly,2026-04-03
+PRT-000732,44,M,Hamilton,High School,203,Digital Skills,301,Yes,Employed PT,59876,Construction,69,No,0.32,17,Yes,Monthly,2026-02-27
+PRT-000733,57,M,Southwestern,Master,201,Healthcare Aide,225,No,Employed FT,114635,Technology,26,No,0.44,2,Yes,Weekly,2026-01-05
+PRT-000734,31,M,Northern,Master,218,IT Security,524,Yes,Self-Employed,107606,Manufacturing,178,Yes,0.92,9,Yes,Monthly,2026-04-24
+PRT-000735,41,M,Hamilton,Master,125,Advanced Manufacturing,375,Yes,Employed FT,82526,Finance,21,No,0.36,10,Yes,Weekly,2026-05-03
+PRT-000736,31,X,Northern,Bachelor,176,Skilled Trades,139,Yes,Employed FT,57531,Finance,164,Yes,0.52,7,Yes,Weekly,2026-01-04
+PRT-000737,23,X,Ottawa,High School,235,Green Energy,680,Yes,Employed FT,36574,Finance,16,No,0.71,9,Yes,Monthly,2026-01-02
+PRT-000738,48,X,Durham,Master,223,Skilled Trades,172,Yes,Further Training,86798,Retail,160,Yes,1.0,2,Yes,Monthly,2026-07-16
+PRT-000739,61,X,Northern,Less than HS,164,Skilled Trades,222,No,Unemployed,79567,Healthcare,60,No,0.37,1,No,Monthly,2026-04-28
+PRT-000740,62,X,Central,College,34,Digital Skills,511,No,Employed PT,105664,Manufacturing,37,No,0.66,14,Yes,Weekly,2026-05-03
+PRT-000741,58,F,GTA,Bachelor,76,Healthcare Aide,482,No,Further Training,45648,Construction,110,No,0.99,1,No,Weekly,2026-01-08
+PRT-000742,52,F,Northern,High School,130,Advanced Manufacturing,659,Yes,Further Training,70687,Manufacturing,169,Yes,0.62,10,Yes,Monthly,2026-05-27
+PRT-000743,24,X,Central,High School,82,Green Energy,107,No,Self-Employed,70375,Finance,14,Yes,0.87,5,Yes,Monthly,2026-04-05
+PRT-000744,47,M,Durham,College,187,IT Security,394,No,Employed FT,91898,Finance,70,No,0.76,18,Yes,Weekly,2026-02-03
+PRT-000745,49,F,Northern,Less than HS,200,Data Analytics,688,No,Unemployed,105543,Manufacturing,107,No,0.62,14,Yes,Monthly,2026-04-16
+PRT-000746,39,X,Southwestern,Less than HS,129,Green Energy,799,Yes,Unemployed,34784,Retail,24,Yes,0.43,15,No,Weekly,2026-01-12
+PRT-000747,21,F,Hamilton,High School,211,Digital Skills,237,No,Unemployed,95926,Retail,73,Yes,0.8,15,No,Monthly,2026-05-06
+PRT-000748,40,F,GTA,Less than HS,81,Skilled Trades,380,Yes,Employed PT,77027,Construction,84,No,0.63,18,Yes,Monthly,2026-02-17
+PRT-000749,21,F,Southwestern,Bachelor,217,IT Security,165,Yes,Unemployed,39731,Government,172,No,0.55,11,Yes,Weekly,2026-05-06
+PRT-000750,57,X,Central,High School,206,Healthcare Aide,198,No,Further Training,34649,Retail,129,Yes,0.56,14,Yes,Weekly,2026-02-28
+PRT-000751,29,M,Ottawa,High School,109,Healthcare Aide,357,Yes,Unemployed,110493,Technology,76,Yes,0.7,17,Yes,Monthly,2026-04-30
+PRT-000752,24,M,Waterloo,High School,75,Advanced Manufacturing,412,Yes,Employed PT,104901,Construction,16,Yes,0.67,5,No,Monthly,2026-05-04
+PRT-000753,28,X,Durham,Less than HS,26,Green Energy,585,Yes,Further Training,103559,Manufacturing,91,No,0.44,15,Yes,Monthly,2026-06-14
+PRT-000754,58,X,Eastern,High School,87,IT Security,429,No,Further Training,104905,Manufacturing,48,No,0.54,9,No,Monthly,2026-06-28
+PRT-000755,56,F,Southwestern,Bachelor,124,IT Security,395,No,Employed FT,99100,Manufacturing,47,No,0.95,10,Yes,Monthly,2026-03-19
+PRT-000756,52,X,Central,Less than HS,40,Data Analytics,795,Yes,Self-Employed,63481,Construction,18,Yes,1.0,18,Yes,Weekly,2026-03-01
+PRT-000757,24,X,Waterloo,Bachelor,25,Digital Skills,418,Yes,Employed FT,100234,Manufacturing,167,Yes,0.44,4,Yes,Monthly,2026-03-09
+PRT-000758,50,X,Northern,Master,229,Digital Skills,166,Yes,Self-Employed,74544,Construction,73,No,0.76,4,No,Weekly,2026-03-10
+PRT-000759,46,F,Northern,Bachelor,184,Healthcare Aide,721,No,Employed FT,102759,Technology,19,Yes,0.8,8,No,Weekly,2026-03-30
+PRT-000760,44,X,Southwestern,Master,176,Digital Skills,279,No,Unemployed,91441,Manufacturing,15,Yes,0.8,10,No,Weekly,2026-03-13
+PRT-000761,23,M,Ottawa,High School,213,Data Analytics,492,No,Further Training,112788,Manufacturing,53,No,0.78,15,Yes,Monthly,2026-02-02
+PRT-000762,54,X,Waterloo,Bachelor,154,Green Energy,223,No,Further Training,55842,Government,92,Yes,0.97,10,Yes,Monthly,2026-07-24
+PRT-000763,48,M,Niagara,Bachelor,198,Data Analytics,156,Yes,Unemployed,65607,Finance,106,Yes,0.56,14,Yes,Monthly,2026-05-06
+PRT-000764,35,X,GTA,Less than HS,194,Green Energy,207,No,Unemployed,100157,Government,177,No,0.55,13,Yes,Weekly,2026-02-25
+PRT-000765,54,F,Eastern,Less than HS,25,Green Energy,196,Yes,Self-Employed,69290,Retail,113,No,0.32,17,Yes,Monthly,2026-01-11
+PRT-000766,35,X,Eastern,Less than HS,76,Digital Skills,423,Yes,Further Training,96162,Technology,80,No,0.95,17,No,Weekly,2026-07-19
+PRT-000767,25,M,Hamilton,Bachelor,111,Skilled Trades,262,Yes,Employed FT,80346,Technology,24,No,0.52,4,Yes,Monthly,2026-04-10
+PRT-000768,23,F,Northern,High School,25,Advanced Manufacturing,428,Yes,Employed FT,44080,Finance,150,Yes,0.76,14,No,Monthly,2026-07-24
+PRT-000769,47,F,Eastern,Master,200,IT Security,479,Yes,Employed FT,40351,Finance,51,Yes,0.42,3,Yes,Weekly,2026-06-19
+PRT-000770,33,F,Central,Bachelor,21,Data Analytics,424,Yes,Employed PT,44470,Government,52,Yes,0.59,18,Yes,Weekly,2026-05-25
+PRT-000771,64,X,Southwestern,Master,74,Advanced Manufacturing,638,No,Unemployed,45228,Healthcare,138,Yes,0.49,18,Yes,Weekly,2026-04-25
+PRT-000772,23,M,Waterloo,College,139,Green Energy,474,Yes,Self-Employed,35597,Technology,170,No,0.62,14,Yes,Monthly,2026-05-10
+PRT-000773,51,M,Northern,College,50,Advanced Manufacturing,644,Yes,Unemployed,98594,Government,87,Yes,0.5,15,Yes,Monthly,2026-04-14
+PRT-000774,33,M,Northern,Master,138,Healthcare Aide,592,Yes,Further Training,114240,Finance,166,No,0.53,15,Yes,Weekly,2026-04-17
+PRT-000775,26,F,Durham,Less than HS,7,Digital Skills,443,No,Unemployed,114543,Finance,104,No,0.83,9,Yes,Monthly,2026-02-16
+PRT-000776,54,X,Central,Bachelor,169,Digital Skills,165,No,Employed PT,87794,Finance,49,Yes,0.85,16,Yes,Monthly,2026-07-18
+PRT-000777,29,X,Southwestern,High School,13,Healthcare Aide,49,No,Employed PT,110571,Finance,122,No,0.35,12,No,Weekly,2026-03-28
+PRT-000778,61,F,Northern,High School,78,Skilled Trades,797,No,Further Training,53829,Government,135,Yes,0.58,1,Yes,Weekly,2026-06-10
+PRT-000779,45,F,GTA,Less than HS,95,Skilled Trades,701,Yes,Further Training,109198,Technology,38,No,0.38,18,Yes,Weekly,2026-01-09
+PRT-000780,57,F,Niagara,High School,62,Data Analytics,135,Yes,Employed FT,95148,Construction,98,Yes,0.78,12,No,Monthly,2026-04-01
+PRT-000781,32,M,Hamilton,Bachelor,112,IT Security,666,No,Unemployed,75030,Finance,90,Yes,0.9,6,Yes,Monthly,2026-07-01
+PRT-000782,64,M,Hamilton,Master,157,Skilled Trades,689,No,Self-Employed,117109,Finance,98,Yes,0.47,15,No,Monthly,2026-07-17
+PRT-000783,48,F,GTA,High School,66,Digital Skills,612,No,Employed FT,106927,Healthcare,144,Yes,0.88,14,Yes,Weekly,2026-04-05
+PRT-000784,31,M,Niagara,College,121,Data Analytics,747,No,Self-Employed,108626,Technology,110,No,0.52,9,Yes,Monthly,2026-02-17
+PRT-000785,32,F,Eastern,High School,31,Green Energy,748,No,Self-Employed,50129,Finance,164,No,0.53,12,Yes,Monthly,2026-05-14
+PRT-000786,49,F,Durham,Bachelor,140,Digital Skills,258,No,Self-Employed,38036,Retail,71,No,0.74,16,Yes,Weekly,2026-04-08
+PRT-000787,46,F,Niagara,Master,145,IT Security,442,Yes,Employed PT,106785,Construction,159,No,0.96,1,No,Weekly,2026-07-08
+PRT-000788,45,M,Ottawa,College,123,Skilled Trades,278,Yes,Unemployed,96750,Technology,38,Yes,0.83,9,Yes,Weekly,2026-01-20
+PRT-000789,41,M,Northern,Less than HS,171,Digital Skills,457,No,Further Training,42218,Healthcare,71,No,0.77,16,Yes,Monthly,2026-01-13
+PRT-000790,44,F,GTA,Bachelor,70,Data Analytics,145,No,Self-Employed,75540,Construction,127,No,0.89,11,Yes,Weekly,2026-01-17
+PRT-000791,46,X,Ottawa,Less than HS,203,Digital Skills,195,Yes,Self-Employed,48951,Construction,171,Yes,0.45,2,Yes,Monthly,2026-06-19
+PRT-000792,41,F,Waterloo,High School,117,Green Energy,312,Yes,Employed FT,86193,Healthcare,75,Yes,0.52,12,No,Monthly,2026-01-19
+PRT-000793,19,F,Central,High School,194,Healthcare Aide,45,No,Unemployed,86010,Technology,165,Yes,0.56,15,Yes,Weekly,2026-02-20
+PRT-000794,58,M,Eastern,Bachelor,178,Healthcare Aide,215,No,Unemployed,78756,Finance,153,Yes,0.86,7,Yes,Monthly,2026-05-16
+PRT-000795,21,F,GTA,College,164,Advanced Manufacturing,280,No,Employed PT,55408,Finance,81,No,0.61,18,Yes,Weekly,2026-02-23
+PRT-000796,25,F,Central,College,211,Skilled Trades,674,Yes,Further Training,106573,Healthcare,31,No,0.32,11,Yes,Monthly,2026-02-24
+PRT-000797,37,F,GTA,Bachelor,224,Healthcare Aide,376,Yes,Employed PT,63902,Construction,149,No,0.43,11,No,Weekly,2026-04-12
+PRT-000798,50,F,GTA,Master,75,Advanced Manufacturing,287,No,Employed FT,110452,Finance,107,No,0.82,7,Yes,Monthly,2026-07-04
+PRT-000799,40,X,Hamilton,High School,170,Healthcare Aide,553,No,Unemployed,88585,Construction,12,No,0.46,18,No,Monthly,2026-02-08
+PRT-000800,39,X,Southwestern,College,171,Healthcare Aide,761,No,Further Training,118625,Construction,9,Yes,0.56,14,No,Weekly,2026-05-08
+PRT-000801,23,F,Eastern,High School,168,Green Energy,533,No,Further Training,66234,Manufacturing,83,Yes,0.43,9,Yes,Weekly,2026-04-01
+PRT-000802,47,F,Southwestern,College,63,Advanced Manufacturing,760,No,Further Training,98327,Finance,108,No,0.94,17,Yes,Weekly,2026-06-01
+PRT-000803,21,X,Ottawa,College,18,Skilled Trades,375,Yes,Further Training,74105,Manufacturing,162,Yes,0.94,3,No,Weekly,2026-03-25
+PRT-000804,44,M,Waterloo,College,87,Green Energy,665,No,Employed FT,37159,Finance,123,Yes,0.56,1,Yes,Monthly,2026-07-28
+PRT-000805,52,F,Eastern,Master,23,Green Energy,139,Yes,Further Training,88400,Government,152,Yes,0.35,11,No,Monthly,2026-03-28
+PRT-000806,54,X,Durham,Less than HS,216,Digital Skills,613,No,Unemployed,99696,Finance,124,No,0.31,17,Yes,Weekly,2026-05-22
+PRT-000807,62,X,Niagara,High School,121,Healthcare Aide,452,No,Employed FT,79457,Retail,27,No,0.41,10,Yes,Monthly,2026-03-05
+PRT-000808,43,X,GTA,Bachelor,138,Skilled Trades,548,Yes,Unemployed,97633,Government,62,No,0.55,6,Yes,Monthly,2026-05-24
+PRT-000809,35,M,Niagara,College,25,Green Energy,635,Yes,Employed FT,93836,Healthcare,132,Yes,0.56,5,Yes,Weekly,2026-06-15
+PRT-000810,55,F,Eastern,College,26,Advanced Manufacturing,527,Yes,Employed FT,39402,Government,113,No,0.55,14,No,Weekly,2026-03-15
+PRT-000811,19,M,GTA,Bachelor,193,Advanced Manufacturing,781,Yes,Self-Employed,49670,Technology,145,Yes,0.9,11,No,Monthly,2026-01-09
+PRT-000812,18,X,Hamilton,Master,84,Digital Skills,85,No,Employed PT,82730,Government,113,Yes,0.39,5,No,Weekly,2026-01-08
+PRT-000813,53,F,Durham,Master,131,Digital Skills,65,No,Self-Employed,83658,Government,172,Yes,0.9,8,Yes,Monthly,2026-03-09
+PRT-000814,34,X,Waterloo,Master,8,Advanced Manufacturing,324,Yes,Employed PT,72279,Manufacturing,104,Yes,0.77,7,Yes,Monthly,2026-07-14
+PRT-000815,30,M,Durham,Bachelor,102,Green Energy,192,Yes,Self-Employed,114441,Construction,77,Yes,0.86,10,Yes,Monthly,2026-02-10
+PRT-000816,42,F,Waterloo,Bachelor,45,Healthcare Aide,666,No,Employed PT,108372,Manufacturing,91,No,0.6,15,No,Monthly,2026-03-03
+PRT-000817,47,X,Central,Less than HS,16,Data Analytics,642,No,Self-Employed,102520,Retail,110,Yes,0.41,2,Yes,Weekly,2026-07-31
+PRT-000818,60,X,Hamilton,College,147,Green Energy,113,Yes,Unemployed,101002,Manufacturing,90,Yes,0.31,3,Yes,Monthly,2026-08-01
+PRT-000819,31,F,Eastern,College,98,Digital Skills,81,No,Self-Employed,41550,Healthcare,127,No,0.32,10,No,Monthly,2026-02-09
+PRT-000820,62,M,Durham,Bachelor,33,IT Security,353,Yes,Unemployed,44013,Healthcare,23,Yes,0.38,6,Yes,Monthly,2026-03-18
+PRT-000821,48,F,Southwestern,High School,169,IT Security,787,No,Employed PT,36953,Finance,170,No,0.46,1,Yes,Monthly,2026-04-10
+PRT-000822,40,F,Niagara,Master,73,Skilled Trades,47,No,Further Training,112699,Retail,27,No,0.56,1,Yes,Weekly,2026-03-04
+PRT-000823,43,X,Ottawa,Master,10,Skilled Trades,594,Yes,Employed FT,76833,Technology,173,No,0.75,7,Yes,Weekly,2026-06-09
+PRT-000824,48,M,Southwestern,High School,213,Advanced Manufacturing,106,No,Unemployed,79398,Government,110,No,0.91,15,Yes,Weekly,2026-03-20
+PRT-000825,34,X,Southwestern,Less than HS,179,Data Analytics,472,Yes,Unemployed,119173,Construction,145,No,0.89,12,Yes,Weekly,2026-01-10
+PRT-000826,27,M,Southwestern,Bachelor,228,Green Energy,427,No,Further Training,106406,Healthcare,114,No,0.95,9,Yes,Monthly,2026-03-22
+PRT-000827,62,X,Ottawa,College,48,Green Energy,191,No,Employed FT,89626,Manufacturing,83,No,0.71,2,No,Monthly,2026-01-05
+PRT-000828,34,X,Durham,College,49,Digital Skills,789,Yes,Unemployed,86472,Retail,38,Yes,0.6,11,No,Weekly,2026-03-20
+PRT-000829,28,X,Northern,Bachelor,101,Advanced Manufacturing,587,No,Employed PT,51043,Retail,20,Yes,0.68,3,Yes,Monthly,2026-03-21
+PRT-000830,21,F,Northern,Master,87,Green Energy,363,No,Self-Employed,50354,Manufacturing,94,Yes,0.74,13,Yes,Monthly,2026-05-25
+PRT-000831,19,M,Eastern,College,113,Green Energy,512,Yes,Unemployed,35643,Technology,167,Yes,0.69,3,No,Monthly,2026-01-20
+PRT-000832,59,M,Waterloo,Less than HS,199,Green Energy,117,No,Further Training,31129,Healthcare,116,No,0.33,6,Yes,Weekly,2026-02-22
+PRT-000833,45,M,Durham,High School,237,Advanced Manufacturing,234,No,Further Training,107265,Manufacturing,29,No,0.82,3,Yes,Monthly,2026-02-06
+PRT-000834,39,F,Durham,Bachelor,128,Advanced Manufacturing,292,No,Employed FT,67081,Healthcare,107,No,0.52,16,No,Weekly,2026-02-24
+PRT-000835,33,X,Hamilton,Less than HS,109,Advanced Manufacturing,786,Yes,Self-Employed,61718,Government,139,No,0.92,8,No,Weekly,2026-07-07
+PRT-000836,43,X,Durham,College,167,Digital Skills,633,No,Unemployed,78285,Finance,171,No,0.54,4,Yes,Weekly,2026-04-02
+PRT-000837,36,X,Waterloo,High School,99,Skilled Trades,390,No,Unemployed,72650,Manufacturing,149,No,0.46,14,Yes,Monthly,2026-05-21
+PRT-000838,56,X,Waterloo,Bachelor,235,Skilled Trades,307,No,Self-Employed,73880,Finance,22,Yes,0.51,9,Yes,Monthly,2026-01-20
+PRT-000839,24,M,Northern,High School,133,Data Analytics,416,No,Employed PT,74123,Retail,144,No,0.61,3,Yes,Monthly,2026-06-02
+PRT-000840,49,M,Hamilton,Less than HS,154,IT Security,164,Yes,Self-Employed,92397,Construction,27,Yes,0.48,2,Yes,Weekly,2026-05-06
+PRT-000841,20,M,Hamilton,High School,187,Data Analytics,242,Yes,Self-Employed,105867,Manufacturing,65,Yes,0.73,8,Yes,Monthly,2026-04-16
+PRT-000842,23,F,Eastern,Bachelor,135,Advanced Manufacturing,678,No,Self-Employed,51200,Technology,118,Yes,0.82,10,Yes,Weekly,2026-04-14
+PRT-000843,18,M,Northern,Master,209,Data Analytics,785,Yes,Employed PT,92948,Manufacturing,22,Yes,0.66,14,Yes,Weekly,2026-07-04
+PRT-000844,18,M,Waterloo,Bachelor,152,IT Security,260,No,Unemployed,108744,Finance,77,No,0.87,13,Yes,Weekly,2026-01-11
+PRT-000845,61,X,Central,High School,31,Green Energy,204,No,Employed PT,106676,Retail,150,Yes,0.83,16,Yes,Weekly,2026-03-05
+PRT-000846,33,F,Northern,High School,6,Advanced Manufacturing,579,Yes,Employed PT,98101,Manufacturing,119,No,0.51,9,No,Weekly,2026-04-14
+PRT-000847,39,F,Ottawa,High School,235,Green Energy,494,No,Employed PT,56433,Retail,109,No,0.98,3,Yes,Weekly,2026-07-20
+PRT-000848,44,M,Southwestern,Master,152,Digital Skills,346,No,Employed PT,79871,Retail,55,No,0.77,16,Yes,Monthly,2026-01-12
+PRT-000849,49,F,Eastern,Bachelor,21,Healthcare Aide,662,No,Further Training,119274,Construction,135,Yes,0.42,7,Yes,Monthly,2026-07-08
+PRT-000850,23,X,Hamilton,Master,58,IT Security,491,Yes,Self-Employed,43619,Retail,108,No,0.43,3,Yes,Weekly,2026-05-05
+PRT-000851,27,X,Niagara,Less than HS,225,Skilled Trades,481,No,Self-Employed,108428,Technology,75,Yes,0.8,10,No,Weekly,2026-06-23
+PRT-000852,36,F,Niagara,High School,77,Skilled Trades,299,No,Employed FT,48454,Technology,62,Yes,0.67,17,No,Weekly,2026-05-14
+PRT-000853,34,X,GTA,College,225,IT Security,78,Yes,Employed PT,111112,Government,93,Yes,0.82,5,Yes,Weekly,2026-04-26
+PRT-000854,38,X,Central,Less than HS,95,Advanced Manufacturing,139,No,Further Training,110649,Government,133,No,0.66,15,Yes,Monthly,2026-06-17
+PRT-000855,25,M,Hamilton,Bachelor,235,Advanced Manufacturing,445,No,Self-Employed,35818,Government,84,No,0.64,10,Yes,Monthly,2026-04-21
+PRT-000856,36,X,Durham,Master,168,Advanced Manufacturing,368,Yes,Self-Employed,92447,Government,35,No,0.58,4,Yes,Monthly,2026-04-04
+PRT-000857,55,X,Central,Bachelor,177,Healthcare Aide,438,Yes,Self-Employed,87176,Government,129,Yes,0.59,3,Yes,Weekly,2026-06-15
+PRT-000858,53,F,Ottawa,Master,143,Skilled Trades,714,No,Employed FT,30699,Technology,167,Yes,0.57,5,Yes,Weekly,2026-04-04
+PRT-000859,55,X,Ottawa,Master,110,Data Analytics,589,No,Employed FT,76173,Finance,28,Yes,0.38,5,No,Weekly,2026-05-20
+PRT-000860,19,X,Central,Less than HS,149,Data Analytics,707,Yes,Employed FT,54385,Technology,83,Yes,0.37,12,No,Monthly,2026-01-29
+PRT-000861,33,X,Niagara,Master,111,Advanced Manufacturing,312,Yes,Employed PT,56954,Technology,51,Yes,0.35,16,Yes,Monthly,2026-05-08
+PRT-000862,35,X,Hamilton,Master,78,Skilled Trades,125,Yes,Employed FT,108575,Manufacturing,175,Yes,0.9,3,No,Weekly,2026-05-28
+PRT-000863,46,F,Waterloo,Master,149,Digital Skills,438,Yes,Employed PT,57904,Construction,84,Yes,0.68,11,Yes,Weekly,2026-03-06
+PRT-000864,44,M,Eastern,Less than HS,13,Skilled Trades,161,Yes,Employed PT,61263,Manufacturing,68,No,0.66,15,Yes,Monthly,2026-05-04
+PRT-000865,28,F,Waterloo,Less than HS,136,Advanced Manufacturing,46,Yes,Employed FT,40227,Manufacturing,9,Yes,0.67,8,Yes,Monthly,2026-04-09
+PRT-000866,19,M,Ottawa,College,0,Healthcare Aide,136,No,Unemployed,45834,Technology,156,Yes,0.61,17,Yes,Weekly,2026-02-11
+PRT-000867,22,M,Southwestern,College,238,IT Security,774,Yes,Employed FT,63655,Government,45,Yes,0.67,17,Yes,Weekly,2026-06-24
+PRT-000868,32,X,Central,College,79,Skilled Trades,502,Yes,Employed PT,84813,Healthcare,99,Yes,0.82,18,No,Monthly,2026-07-19
+PRT-000869,19,F,Durham,Master,34,IT Security,462,No,Employed FT,60546,Retail,112,No,0.45,7,Yes,Monthly,2026-02-18
+PRT-000870,62,X,Central,High School,189,IT Security,345,No,Unemployed,42224,Healthcare,84,Yes,0.55,10,Yes,Monthly,2026-04-07
+PRT-000871,59,F,Central,High School,225,Green Energy,127,Yes,Unemployed,83028,Retail,128,Yes,0.55,7,Yes,Monthly,2026-06-22
+PRT-000872,36,M,Eastern,Master,197,Skilled Trades,378,No,Employed PT,112585,Technology,156,Yes,0.86,8,Yes,Weekly,2026-02-24
+PRT-000873,39,X,Central,College,7,Green Energy,685,No,Employed FT,44274,Retail,38,Yes,0.77,3,Yes,Monthly,2026-06-16
+PRT-000874,20,X,Southwestern,College,150,Data Analytics,473,Yes,Unemployed,92619,Healthcare,134,Yes,0.64,12,Yes,Weekly,2026-02-22
+PRT-000875,26,F,Eastern,College,236,Healthcare Aide,676,No,Unemployed,33218,Finance,91,Yes,0.48,9,Yes,Weekly,2026-04-07
+PRT-000876,30,F,Waterloo,Bachelor,21,Advanced Manufacturing,780,No,Unemployed,53502,Manufacturing,178,No,0.64,11,Yes,Weekly,2026-03-27
+PRT-000877,56,M,Eastern,High School,3,IT Security,767,No,Unemployed,107736,Retail,93,Yes,0.77,15,Yes,Weekly,2026-07-11
+PRT-000878,58,F,Ottawa,Master,15,Data Analytics,630,No,Self-Employed,75076,Government,162,Yes,0.51,4,Yes,Monthly,2026-02-26
+PRT-000879,24,X,Waterloo,Master,13,Advanced Manufacturing,612,No,Further Training,115705,Manufacturing,152,Yes,0.84,4,No,Weekly,2026-07-16
+PRT-000880,19,M,Eastern,Less than HS,51,Healthcare Aide,776,Yes,Employed PT,64605,Finance,161,No,0.34,4,Yes,Weekly,2026-06-02
+PRT-000881,59,M,Central,College,47,Digital Skills,187,Yes,Employed PT,51133,Manufacturing,160,Yes,0.46,15,Yes,Monthly,2026-07-09
+PRT-000882,59,X,Southwestern,Master,212,Healthcare Aide,456,Yes,Employed PT,65417,Technology,158,Yes,0.53,7,Yes,Weekly,2026-06-24
+PRT-000883,20,M,GTA,Master,74,Skilled Trades,298,Yes,Further Training,107877,Government,126,No,0.63,15,Yes,Monthly,2026-04-07
+PRT-000884,22,X,Northern,College,184,Data Analytics,793,Yes,Unemployed,32263,Technology,54,Yes,0.83,5,Yes,Monthly,2026-07-08
+PRT-000885,19,M,Eastern,High School,203,IT Security,503,No,Employed PT,76816,Construction,92,Yes,0.4,13,Yes,Monthly,2026-07-03
+PRT-000886,45,F,Durham,High School,237,Data Analytics,780,No,Self-Employed,37106,Government,116,No,0.45,15,Yes,Weekly,2026-04-20
+PRT-000887,29,F,Hamilton,Master,67,Advanced Manufacturing,682,No,Unemployed,32075,Government,178,Yes,0.72,10,Yes,Monthly,2026-03-31
+PRT-000888,49,F,Central,Less than HS,23,Advanced Manufacturing,61,No,Further Training,58290,Retail,126,Yes,0.78,18,Yes,Weekly,2026-07-20
+PRT-000889,38,X,Southwestern,Less than HS,43,Data Analytics,601,No,Employed FT,107779,Retail,24,No,0.5,10,No,Weekly,2026-02-03
+PRT-000890,61,M,Waterloo,Bachelor,187,Healthcare Aide,613,Yes,Employed FT,40173,Government,59,Yes,0.53,1,Yes,Weekly,2026-04-26
+PRT-000891,40,M,Central,Less than HS,128,Skilled Trades,68,Yes,Employed FT,69231,Technology,163,No,0.76,17,Yes,Monthly,2026-04-21
+PRT-000892,36,X,Central,College,22,Digital Skills,730,Yes,Unemployed,37305,Finance,124,Yes,0.91,1,Yes,Monthly,2026-05-02
+PRT-000893,29,F,Waterloo,College,136,Healthcare Aide,786,No,Further Training,90043,Manufacturing,120,No,0.66,15,Yes,Weekly,2026-02-07
+PRT-000894,34,F,Hamilton,Master,129,Healthcare Aide,312,No,Unemployed,81787,Finance,131,Yes,0.86,1,Yes,Weekly,2026-02-24
+PRT-000895,60,X,Ottawa,High School,178,Data Analytics,86,No,Self-Employed,62204,Construction,40,No,0.39,6,Yes,Monthly,2026-06-10
+PRT-000896,39,X,Niagara,College,103,Digital Skills,375,Yes,Employed FT,95683,Construction,88,Yes,0.96,14,Yes,Monthly,2026-03-05
+PRT-000897,57,M,Hamilton,College,56,IT Security,543,No,Employed FT,74934,Construction,108,Yes,0.81,18,Yes,Weekly,2026-07-08
+PRT-000898,47,M,Eastern,High School,187,Advanced Manufacturing,568,Yes,Employed FT,59674,Healthcare,48,No,0.77,5,Yes,Weekly,2026-01-05
+PRT-000899,56,M,Durham,Less than HS,70,Skilled Trades,363,Yes,Further Training,108868,Construction,41,Yes,0.64,18,Yes,Weekly,2026-05-11
+PRT-000900,40,X,Waterloo,Less than HS,148,Advanced Manufacturing,276,Yes,Employed PT,61842,Retail,173,Yes,0.34,11,Yes,Weekly,2026-07-06
+PRT-000901,24,F,Ottawa,College,155,Green Energy,443,No,Unemployed,32778,Healthcare,8,No,0.38,5,Yes,Monthly,2026-07-17
+PRT-000902,33,F,Northern,High School,227,Advanced Manufacturing,461,No,Further Training,55105,Retail,72,No,0.58,5,Yes,Weekly,2026-05-07
+PRT-000903,52,F,Northern,Bachelor,76,Data Analytics,46,Yes,Employed PT,80852,Technology,32,Yes,0.45,6,No,Monthly,2026-04-06
+PRT-000904,26,X,Ottawa,High School,62,Green Energy,658,Yes,Further Training,99453,Finance,161,No,0.58,17,Yes,Monthly,2026-03-02
+PRT-000905,35,F,Durham,Bachelor,154,Skilled Trades,667,No,Employed PT,45993,Technology,23,Yes,0.36,15,Yes,Monthly,2026-01-28
+PRT-000906,18,F,Southwestern,College,213,Digital Skills,785,No,Employed FT,31042,Technology,161,Yes,0.36,16,Yes,Weekly,2026-04-26
+PRT-000907,53,X,Northern,Less than HS,69,Advanced Manufacturing,57,No,Further Training,70137,Government,82,No,0.85,17,Yes,Weekly,2026-02-16
+PRT-000908,55,M,Northern,Less than HS,83,Digital Skills,540,No,Employed PT,107144,Finance,45,No,0.67,1,Yes,Monthly,2026-07-23
+PRT-000909,50,X,GTA,High School,98,Healthcare Aide,308,No,Unemployed,95956,Government,175,Yes,0.86,8,No,Weekly,2026-06-12
+PRT-000910,41,M,Central,Bachelor,141,Advanced Manufacturing,545,No,Further Training,82677,Technology,53,No,0.82,8,Yes,Weekly,2026-04-12
+PRT-000911,36,X,Southwestern,College,123,Skilled Trades,338,No,Employed PT,36347,Healthcare,97,Yes,0.99,4,Yes,Weekly,2026-01-31
+PRT-000912,47,F,Northern,High School,114,Digital Skills,757,No,Employed FT,35023,Finance,158,Yes,0.31,6,No,Monthly,2026-05-24
+PRT-000913,48,M,Eastern,College,10,Green Energy,197,Yes,Further Training,40521,Government,52,Yes,0.36,9,Yes,Weekly,2026-02-02
+PRT-000914,21,X,Durham,Bachelor,144,Data Analytics,563,No,Unemployed,47030,Government,180,Yes,0.44,10,Yes,Monthly,2026-01-26
+PRT-000915,51,X,Ottawa,Master,237,Digital Skills,483,No,Employed FT,110408,Healthcare,44,Yes,0.77,7,No,Monthly,2026-04-28
+PRT-000916,29,F,Hamilton,Master,175,IT Security,265,No,Unemployed,94671,Healthcare,146,Yes,0.4,9,No,Monthly,2026-05-01
+PRT-000917,49,F,Durham,College,63,Advanced Manufacturing,571,Yes,Employed PT,103821,Construction,156,Yes,0.66,2,Yes,Monthly,2026-03-20
+PRT-000918,58,X,Central,Bachelor,104,Digital Skills,555,No,Further Training,33955,Government,106,No,0.34,4,Yes,Weekly,2026-01-06
+PRT-000919,29,M,GTA,Bachelor,137,Healthcare Aide,778,No,Employed FT,92142,Retail,108,Yes,0.39,13,Yes,Monthly,2026-07-27
+PRT-000920,31,X,Northern,Less than HS,47,Green Energy,717,No,Employed PT,118917,Retail,36,No,0.84,8,No,Monthly,2026-01-08
+PRT-000921,32,F,Eastern,Less than HS,217,Digital Skills,104,Yes,Employed FT,96463,Healthcare,70,Yes,0.71,8,Yes,Weekly,2026-03-15
+PRT-000922,20,F,GTA,Bachelor,113,Skilled Trades,363,No,Self-Employed,101018,Retail,64,No,0.34,6,No,Weekly,2026-02-03
+PRT-000923,19,M,Hamilton,Less than HS,12,Data Analytics,262,No,Employed PT,51829,Healthcare,155,Yes,0.59,15,Yes,Monthly,2026-05-09
+PRT-000924,32,F,Southwestern,Less than HS,112,Green Energy,750,Yes,Employed PT,70187,Healthcare,16,Yes,0.97,1,Yes,Weekly,2026-04-16
+PRT-000925,51,X,Waterloo,Less than HS,71,Green Energy,116,No,Self-Employed,92850,Healthcare,124,Yes,0.45,17,Yes,Weekly,2026-07-29
+PRT-000926,37,M,Central,Less than HS,220,Skilled Trades,164,Yes,Employed PT,91331,Government,44,No,0.75,13,Yes,Monthly,2026-07-04
+PRT-000927,44,X,Hamilton,Bachelor,54,Healthcare Aide,543,No,Self-Employed,62593,Finance,26,No,0.52,12,No,Weekly,2026-06-05
+PRT-000928,29,F,Eastern,Bachelor,16,Digital Skills,727,No,Further Training,59754,Healthcare,120,Yes,0.37,1,Yes,Monthly,2026-01-02
+PRT-000929,51,X,Southwestern,College,94,Healthcare Aide,682,Yes,Employed FT,58733,Government,177,Yes,0.87,1,No,Monthly,2026-05-09
+PRT-000930,28,F,Northern,Bachelor,214,Data Analytics,275,No,Employed PT,118681,Healthcare,47,No,0.72,7,Yes,Monthly,2026-06-17
+PRT-000931,25,M,Waterloo,Less than HS,184,Skilled Trades,664,Yes,Employed FT,99406,Finance,179,No,0.68,12,Yes,Monthly,2026-03-21
+PRT-000932,58,M,Northern,Bachelor,172,Digital Skills,401,No,Unemployed,34840,Retail,171,Yes,0.8,14,Yes,Monthly,2026-07-26
+PRT-000933,23,X,Northern,High School,237,Digital Skills,308,No,Employed PT,116999,Manufacturing,132,Yes,0.83,8,Yes,Monthly,2026-03-03
+PRT-000934,29,F,Southwestern,College,156,Data Analytics,489,Yes,Unemployed,65440,Construction,113,Yes,0.98,17,No,Monthly,2026-07-06
+PRT-000935,32,F,Northern,Bachelor,104,Skilled Trades,112,No,Unemployed,82760,Construction,85,No,0.81,12,Yes,Monthly,2026-07-01
+PRT-000936,63,X,Central,Less than HS,81,Digital Skills,393,Yes,Further Training,32232,Technology,11,No,0.9,18,Yes,Weekly,2026-04-12
+PRT-000937,43,X,Central,College,77,Healthcare Aide,62,No,Employed FT,101166,Retail,108,No,0.73,3,Yes,Weekly,2026-05-06
+PRT-000938,50,F,Central,High School,211,Data Analytics,241,Yes,Employed PT,108080,Technology,104,Yes,0.41,9,Yes,Monthly,2026-01-12
+PRT-000939,36,X,Niagara,College,237,IT Security,81,No,Further Training,110502,Manufacturing,175,Yes,0.7,4,Yes,Weekly,2026-04-11
+PRT-000940,53,M,Eastern,High School,65,Data Analytics,537,Yes,Employed FT,64230,Healthcare,49,No,0.77,8,Yes,Monthly,2026-04-02
+PRT-000941,52,M,Central,High School,34,Skilled Trades,175,Yes,Self-Employed,60370,Healthcare,95,No,0.46,11,Yes,Monthly,2026-04-06
+PRT-000942,27,X,Eastern,High School,101,Digital Skills,316,Yes,Employed PT,83404,Healthcare,172,Yes,0.88,1,Yes,Weekly,2026-05-28
+PRT-000943,46,M,Ottawa,Bachelor,171,Digital Skills,345,Yes,Employed FT,65195,Healthcare,93,Yes,0.53,2,Yes,Weekly,2026-01-12
+PRT-000944,22,M,Durham,High School,23,Green Energy,436,Yes,Further Training,109383,Technology,127,Yes,0.32,7,No,Monthly,2026-04-03
+PRT-000945,22,M,Niagara,Master,94,Digital Skills,192,Yes,Unemployed,84444,Finance,25,Yes,0.38,5,Yes,Monthly,2026-04-20
+PRT-000946,39,X,GTA,Master,179,Advanced Manufacturing,50,Yes,Employed PT,52312,Finance,41,Yes,0.76,13,No,Monthly,2026-07-05
+PRT-000947,54,F,Ottawa,Master,47,Green Energy,193,No,Employed PT,92824,Manufacturing,112,Yes,0.34,16,Yes,Monthly,2026-06-01
+PRT-000948,37,M,Southwestern,Bachelor,207,Healthcare Aide,784,No,Self-Employed,39033,Retail,112,Yes,0.92,4,Yes,Monthly,2026-03-16
+PRT-000949,47,M,Ottawa,Master,232,IT Security,329,No,Self-Employed,30419,Finance,56,Yes,0.79,17,No,Weekly,2026-05-11
+PRT-000950,26,M,Niagara,Bachelor,105,IT Security,691,No,Further Training,53051,Healthcare,148,No,1.0,14,Yes,Monthly,2026-05-04
+PRT-000951,58,X,Central,Bachelor,117,Skilled Trades,492,Yes,Unemployed,30310,Healthcare,161,Yes,0.87,2,Yes,Monthly,2026-01-16
+PRT-000952,31,X,Northern,College,196,Advanced Manufacturing,705,No,Employed PT,75597,Retail,155,Yes,0.67,3,Yes,Weekly,2026-03-12
+PRT-000953,21,X,GTA,Bachelor,117,IT Security,450,Yes,Further Training,75685,Manufacturing,69,Yes,0.58,18,Yes,Monthly,2026-02-28
+PRT-000954,22,F,Ottawa,College,7,Healthcare Aide,415,No,Unemployed,109392,Healthcare,145,No,0.52,7,Yes,Monthly,2026-02-08
+PRT-000955,18,M,Central,High School,227,Advanced Manufacturing,480,Yes,Unemployed,61724,Finance,138,Yes,0.58,8,Yes,Weekly,2026-06-20
+PRT-000956,57,F,Durham,Bachelor,197,Data Analytics,209,No,Employed FT,35232,Finance,111,No,0.4,9,Yes,Weekly,2026-02-07
+PRT-000957,50,F,Southwestern,College,85,Advanced Manufacturing,173,No,Unemployed,51584,Healthcare,60,No,0.44,16,Yes,Monthly,2026-01-22
+PRT-000958,22,X,Ottawa,High School,80,Healthcare Aide,109,Yes,Further Training,118397,Government,156,No,0.77,2,No,Monthly,2026-02-15
+PRT-000959,63,F,GTA,Bachelor,178,Skilled Trades,489,No,Further Training,45848,Finance,100,Yes,0.76,7,Yes,Monthly,2026-02-08
+PRT-000960,57,X,Hamilton,Master,76,Green Energy,602,Yes,Further Training,112229,Government,39,Yes,0.9,6,Yes,Monthly,2026-02-01
+PRT-000961,25,F,Hamilton,College,181,Data Analytics,557,Yes,Further Training,99023,Construction,133,No,0.7,11,Yes,Monthly,2026-02-07
+PRT-000962,63,M,GTA,Master,103,Advanced Manufacturing,715,Yes,Employed PT,114039,Technology,65,Yes,0.35,10,No,Weekly,2026-01-26
+PRT-000963,29,X,Durham,High School,15,Healthcare Aide,550,Yes,Unemployed,40241,Manufacturing,101,Yes,0.38,10,Yes,Monthly,2026-07-13
+PRT-000964,58,X,Niagara,College,139,Green Energy,594,Yes,Self-Employed,72675,Healthcare,178,Yes,0.59,5,Yes,Weekly,2026-01-22
+PRT-000965,46,M,Eastern,College,195,IT Security,782,No,Employed FT,65922,Finance,65,Yes,0.9,4,Yes,Monthly,2026-02-13
+PRT-000966,61,X,Hamilton,Master,208,Digital Skills,753,No,Further Training,103440,Construction,17,Yes,0.78,4,Yes,Monthly,2026-03-19
+PRT-000967,55,F,Eastern,Bachelor,149,Green Energy,587,Yes,Self-Employed,46636,Manufacturing,170,No,0.8,13,Yes,Weekly,2026-03-12
+PRT-000968,38,F,Niagara,Less than HS,89,Data Analytics,689,No,Employed FT,81359,Finance,132,Yes,0.34,14,No,Weekly,2026-02-14
+PRT-000969,25,X,Northern,Bachelor,189,IT Security,50,Yes,Further Training,30334,Healthcare,114,Yes,0.97,11,No,Weekly,2026-02-11
+PRT-000970,62,F,Hamilton,College,128,Skilled Trades,787,No,Further Training,57223,Manufacturing,31,No,0.43,18,No,Weekly,2026-07-09
+PRT-000971,56,M,Northern,College,142,Digital Skills,430,Yes,Unemployed,88368,Technology,114,No,0.94,10,No,Weekly,2026-04-28
+PRT-000972,63,X,Central,High School,4,Green Energy,683,No,Employed PT,94662,Manufacturing,150,No,0.73,9,Yes,Weekly,2026-07-15
+PRT-000973,59,F,Ottawa,High School,60,Digital Skills,632,No,Self-Employed,52411,Manufacturing,150,No,0.85,12,No,Weekly,2026-04-20
+PRT-000974,58,X,GTA,Bachelor,142,Healthcare Aide,639,No,Unemployed,44316,Finance,80,No,0.5,7,No,Monthly,2026-03-31
+PRT-000975,50,X,Northern,Less than HS,199,Advanced Manufacturing,399,No,Employed FT,46091,Healthcare,39,No,0.76,17,Yes,Weekly,2026-07-08
+PRT-000976,51,M,Northern,Bachelor,45,Healthcare Aide,728,Yes,Employed PT,112070,Healthcare,61,No,0.42,6,Yes,Monthly,2026-03-07
+PRT-000977,51,M,Hamilton,High School,238,Skilled Trades,311,Yes,Further Training,97908,Manufacturing,31,No,0.72,7,Yes,Monthly,2026-05-10
+PRT-000978,58,M,Niagara,Less than HS,228,IT Security,726,Yes,Self-Employed,48297,Construction,114,No,0.55,10,Yes,Monthly,2026-04-26
+PRT-000979,49,F,GTA,Master,38,Skilled Trades,311,Yes,Employed PT,30860,Technology,54,No,0.45,17,No,Monthly,2026-07-07
+PRT-000980,45,F,Northern,Master,118,Green Energy,595,No,Further Training,35406,Construction,38,Yes,0.32,10,Yes,Monthly,2026-02-02
+PRT-000981,23,M,Eastern,Master,197,IT Security,299,Yes,Further Training,94656,Construction,10,No,0.86,9,Yes,Monthly,2026-07-22
+PRT-000982,27,F,Northern,Less than HS,155,Green Energy,97,No,Employed PT,37924,Construction,159,Yes,0.74,3,Yes,Weekly,2026-03-24
+PRT-000983,58,X,Waterloo,College,172,Healthcare Aide,545,Yes,Employed PT,78628,Technology,177,No,0.37,18,No,Monthly,2026-06-30
+PRT-000984,47,M,Hamilton,College,206,Advanced Manufacturing,386,No,Further Training,91730,Construction,81,Yes,0.96,11,No,Weekly,2026-02-03
+PRT-000985,44,X,Northern,Master,109,Green Energy,471,Yes,Employed FT,70883,Technology,117,No,0.67,5,No,Monthly,2026-01-07
+PRT-000986,44,M,Ottawa,College,9,Data Analytics,205,Yes,Self-Employed,77115,Finance,35,Yes,0.82,7,No,Weekly,2026-06-05
+PRT-000987,57,M,Waterloo,College,233,Data Analytics,580,Yes,Self-Employed,51610,Construction,74,No,0.72,15,Yes,Monthly,2026-01-16
+PRT-000988,53,M,Southwestern,Master,206,Healthcare Aide,749,No,Employed FT,95019,Healthcare,55,Yes,0.95,9,No,Monthly,2026-06-12
+PRT-000989,55,M,Niagara,Bachelor,161,Green Energy,453,Yes,Employed PT,83183,Government,19,Yes,0.93,10,Yes,Monthly,2026-01-14
+PRT-000990,22,F,Hamilton,Master,194,IT Security,143,Yes,Unemployed,51722,Healthcare,69,Yes,0.8,2,Yes,Monthly,2026-06-26
+PRT-000991,18,F,Hamilton,Less than HS,109,Skilled Trades,791,No,Further Training,109766,Manufacturing,142,No,0.58,12,Yes,Monthly,2026-01-06
+PRT-000992,34,M,Central,High School,183,Skilled Trades,657,Yes,Employed PT,118380,Manufacturing,90,Yes,0.57,11,Yes,Monthly,2026-03-11
+PRT-000993,41,X,Central,Bachelor,187,Skilled Trades,327,Yes,Further Training,83533,Construction,39,Yes,0.91,1,Yes,Weekly,2026-02-04
+PRT-000994,52,M,GTA,Less than HS,133,Healthcare Aide,283,Yes,Employed FT,66731,Manufacturing,149,Yes,0.76,16,No,Weekly,2026-07-12
+PRT-000995,54,M,Hamilton,Master,124,Healthcare Aide,240,No,Unemployed,83481,Finance,50,No,0.99,10,Yes,Weekly,2026-01-02
+PRT-000996,23,F,Central,Master,203,IT Security,577,No,Further Training,78383,Technology,15,No,0.6,11,Yes,Weekly,2026-01-16
+PRT-000997,22,F,GTA,Less than HS,79,IT Security,198,Yes,Self-Employed,61340,Technology,141,Yes,0.62,8,Yes,Monthly,2026-07-04
+PRT-000998,48,M,Niagara,Bachelor,173,Data Analytics,533,No,Employed PT,73985,Finance,44,Yes,0.77,13,Yes,Weekly,2026-01-09
+PRT-000999,33,F,Durham,Bachelor,79,Skilled Trades,353,Yes,Unemployed,115174,Finance,161,No,0.31,7,Yes,Monthly,2026-01-04
+PRT-001000,43,X,Eastern,Master,180,Skilled Trades,567,No,Unemployed,32112,Manufacturing,43,No,0.77,12,Yes,Monthly,2026-04-07

@@ -1,0 +1,1001 @@
+CLIENT_ID,AGE_GROUP,GENDER,POSTAL_CODE_PREFIX,REGION,HOUSEHOLD_SIZE,INCOME_BRACKET,EMPLOYMENT_STATUS,EDUCATION_LEVEL,LANGUAGE_PREFERENCE,INDIGENOUS_IDENTITY,DISABILITY_FLAG,IMMIGRATION_STATUS,YEARS_IN_CANADA,MARITAL_STATUS,DEPENDENTS_COUNT,HOUSING_TYPE,DIGITAL_ACCESS,LAST_UPDATED
+CLT-000001,25-34,Male,T3H,Central,4,>$100K,Employed PT,Bachelor,French,Yes,Yes,Citizen,3,Single,4,Own,Limited,2026-07-30
+CLT-000002,55-64,Female,M8O,Durham,1,>$100K,Employed FT,College,English,Yes,Yes,Work Permit,44,Common-Law,0,Social Housing,Limited,2026-06-03
+CLT-000003,25-34,Male,P3B,Southwestern,6,$20-40K,Self-Employed,Bachelor,Other,No,Yes,PR,49,Divorced,3,Rent,Limited,2026-06-14
+CLT-000004,18-24,Male,K2V,Niagara,5,<$20K,Unemployed,Master,Bilingual,No,No,Refugee,0,Common-Law,5,Rent,Yes,2026-08-01
+CLT-000005,18-24,Male,L8G,Eastern,1,$80-100K,Student,Bachelor,French,Prefer Not to Say,No,Other,32,Common-Law,1,Own,Limited,2026-05-30
+CLT-000006,18-24,Non-Binary,K6T,Eastern,4,$60-80K,Self-Employed,College,English,Prefer Not to Say,Yes,Refugee,31,Divorced,3,Own,Limited,2026-05-07
+CLT-000007,45-54,Prefer Not to Say,K8R,Eastern,4,$20-40K,Student,Master,Bilingual,Yes,Yes,Refugee,49,Married,3,Shelter,Yes,2026-06-01
+CLT-000008,25-34,Female,N6N,Hamilton,5,>$100K,Retired,Less than HS,French,No,No,Citizen,25,Common-Law,1,Rent,Limited,2026-06-14
+CLT-000009,55-64,Male,N4S,Waterloo,2,$40-60K,Retired,Master,English,Yes,No,Work Permit,39,Divorced,3,Shelter,Yes,2026-04-22
+CLT-000010,35-44,Prefer Not to Say,N4A,Durham,7,$20-40K,Retired,College,English,No,Yes,Citizen,45,Common-Law,0,Shelter,Yes,2026-07-19
+CLT-000011,45-54,Non-Binary,N8S,Eastern,5,<$20K,On Leave,High School,Bilingual,No,No,Citizen,34,Widowed,3,Own,Limited,2026-01-30
+CLT-000012,35-44,Prefer Not to Say,M0U,Central,7,<$20K,Employed FT,Doctorate,French,No,No,Other,45,Married,4,Shelter,Limited,2026-05-06
+CLT-000013,35-44,Prefer Not to Say,M3U,GTA,7,$20-40K,Retired,High School,English,Yes,Yes,PR,21,Single,0,Other,No,2026-06-10
+CLT-000014,18-24,Prefer Not to Say,L2S,GTA,4,>$100K,Self-Employed,Master,Bilingual,Yes,Yes,PR,14,Married,3,Other,Yes,2026-07-30
+CLT-000015,18-24,Male,N2B,GTA,7,$60-80K,Self-Employed,High School,English,Yes,No,PR,24,Divorced,1,Social Housing,Limited,2026-07-26
+CLT-000016,55-64,Prefer Not to Say,L3P,Southwestern,1,>$100K,On Leave,College,Other,Prefer Not to Say,Yes,Work Permit,19,Divorced,5,Other,No,2026-04-15
+CLT-000017,65+,Prefer Not to Say,L0X,Niagara,5,$60-80K,On Leave,High School,Bilingual,Prefer Not to Say,No,Work Permit,23,Married,2,Social Housing,Limited,2026-01-17
+CLT-000018,35-44,Prefer Not to Say,T6R,Durham,6,$60-80K,Unemployed,Master,French,Prefer Not to Say,No,Other,12,Common-Law,4,Rent,Limited,2026-04-01
+CLT-000019,65+,Prefer Not to Say,T2N,Hamilton,2,$60-80K,Student,College,Bilingual,Yes,Yes,Citizen,42,Divorced,3,Social Housing,Limited,2026-05-01
+CLT-000020,18-24,Non-Binary,K2Y,Niagara,7,$80-100K,Retired,High School,Bilingual,No,Yes,Refugee,38,Common-Law,4,Own,No,2026-01-07
+CLT-000021,65+,Non-Binary,L0L,GTA,5,$20-40K,Retired,College,Other,No,Yes,Citizen,3,Divorced,1,Social Housing,Yes,2026-07-14
+CLT-000022,55-64,Female,P0W,Hamilton,4,$20-40K,Self-Employed,Bachelor,French,Prefer Not to Say,No,Work Permit,40,Common-Law,5,Own,Yes,2026-05-24
+CLT-000023,18-24,Male,N2K,Durham,3,<$20K,Unemployed,Less than HS,French,Prefer Not to Say,Yes,Work Permit,21,Single,5,Rent,Limited,2026-01-25
+CLT-000024,35-44,Female,L3C,Northern,4,$80-100K,Unemployed,Doctorate,French,Yes,No,Other,48,Common-Law,1,Own,Limited,2026-07-05
+CLT-000025,18-24,Male,K3V,Central,5,<$20K,Unemployed,High School,Other,No,Yes,Refugee,16,Married,4,Shelter,Limited,2026-04-08
+CLT-000026,25-34,Non-Binary,M0Q,Central,4,$20-40K,Retired,High School,Bilingual,No,No,Work Permit,5,Common-Law,5,Shelter,Yes,2026-07-24
+CLT-000027,55-64,Male,P3K,Ottawa,1,$60-80K,Self-Employed,College,Bilingual,No,No,PR,44,Divorced,5,Own,No,2026-02-04
+CLT-000028,45-54,Female,P1N,Hamilton,2,$20-40K,Student,College,Other,Yes,Yes,Citizen,42,Common-Law,3,Social Housing,No,2026-07-04
+CLT-000029,65+,Female,N4D,Northern,7,$60-80K,Employed FT,Master,Bilingual,Prefer Not to Say,Yes,Other,50,Divorced,3,Rent,Yes,2026-05-31
+CLT-000030,55-64,Male,N9H,Ottawa,5,$60-80K,Employed PT,Less than HS,French,Prefer Not to Say,No,Citizen,27,Divorced,0,Social Housing,No,2026-01-09
+CLT-000031,65+,Non-Binary,T9S,Durham,2,$20-40K,Self-Employed,Doctorate,Other,No,Yes,Citizen,11,Married,2,Rent,Limited,2026-05-23
+CLT-000032,55-64,Male,L8L,Ottawa,6,$40-60K,Self-Employed,High School,English,Yes,No,Other,15,Divorced,2,Social Housing,Yes,2026-06-23
+CLT-000033,25-34,Female,T3D,Eastern,3,$20-40K,Student,College,Bilingual,No,No,Refugee,11,Widowed,4,Own,Yes,2026-07-03
+CLT-000034,35-44,Non-Binary,P0X,Southwestern,6,$40-60K,Employed PT,Less than HS,French,Prefer Not to Say,No,PR,27,Widowed,2,Rent,Yes,2026-01-10
+CLT-000035,65+,Female,T9P,Hamilton,1,>$100K,Self-Employed,Less than HS,Bilingual,Yes,No,PR,43,Widowed,0,Shelter,Limited,2026-02-02
+CLT-000036,45-54,Non-Binary,M7G,Northern,5,<$20K,On Leave,Bachelor,French,Prefer Not to Say,Yes,Citizen,46,Widowed,3,Rent,Limited,2026-02-09
+CLT-000037,25-34,Male,P8H,Niagara,5,<$20K,On Leave,College,Other,Yes,No,Refugee,49,Divorced,0,Own,No,2026-02-05
+CLT-000038,55-64,Prefer Not to Say,N0O,Southwestern,3,$80-100K,Self-Employed,Master,English,No,Yes,Citizen,16,Common-Law,2,Own,Yes,2026-07-27
+CLT-000039,25-34,Male,K6X,Durham,2,$80-100K,Student,Master,English,Yes,No,Work Permit,3,Married,4,Social Housing,Limited,2026-04-13
+CLT-000040,45-54,Prefer Not to Say,M3U,GTA,3,<$20K,Retired,Doctorate,French,No,No,Refugee,43,Common-Law,2,Own,Limited,2026-07-02
+CLT-000041,65+,Female,K6R,Durham,1,<$20K,Employed FT,High School,French,No,Yes,Citizen,3,Common-Law,0,Rent,Yes,2026-03-13
+CLT-000042,45-54,Male,M8J,Northern,2,<$20K,Employed FT,High School,French,No,Yes,PR,2,Widowed,5,Rent,Limited,2026-07-07
+CLT-000043,18-24,Prefer Not to Say,P1X,Niagara,2,$60-80K,On Leave,Less than HS,French,Prefer Not to Say,Yes,Refugee,15,Divorced,4,Own,No,2026-07-11
+CLT-000044,55-64,Non-Binary,T7N,Hamilton,2,<$20K,Employed FT,Less than HS,Bilingual,Yes,Yes,Work Permit,44,Single,0,Shelter,Yes,2026-04-27
+CLT-000045,18-24,Prefer Not to Say,K4R,Central,7,<$20K,On Leave,Doctorate,Bilingual,Yes,Yes,PR,29,Single,4,Social Housing,Yes,2026-07-15
+CLT-000046,18-24,Male,P4Z,Southwestern,3,$40-60K,Unemployed,Bachelor,Other,Yes,No,Work Permit,21,Divorced,0,Other,Yes,2026-04-27
+CLT-000047,45-54,Prefer Not to Say,M3O,Hamilton,6,>$100K,On Leave,Less than HS,Other,Yes,No,PR,37,Common-Law,3,Own,Yes,2026-07-09
+CLT-000048,45-54,Prefer Not to Say,N8H,GTA,3,$40-60K,Student,High School,Other,Yes,Yes,Other,33,Divorced,5,Social Housing,Yes,2026-02-12
+CLT-000049,65+,Female,K4V,Niagara,1,$40-60K,Unemployed,Bachelor,Other,Yes,No,Refugee,13,Married,0,Social Housing,Limited,2026-01-29
+CLT-000050,18-24,Prefer Not to Say,N1V,Southwestern,2,>$100K,Self-Employed,Less than HS,Bilingual,Yes,No,Other,14,Single,4,Shelter,Limited,2026-07-08
+CLT-000051,45-54,Female,N4P,GTA,7,$40-60K,Student,College,Other,Prefer Not to Say,No,Other,32,Divorced,0,Rent,No,2026-05-22
+CLT-000052,55-64,Female,M0I,Durham,2,$60-80K,Self-Employed,Master,French,No,Yes,Citizen,48,Common-Law,4,Rent,Limited,2026-02-07
+CLT-000053,65+,Male,T2P,GTA,4,$40-60K,Retired,High School,Bilingual,Yes,Yes,Work Permit,3,Divorced,5,Rent,Limited,2026-01-25
+CLT-000054,18-24,Prefer Not to Say,K2Q,Northern,3,$60-80K,Employed FT,Master,French,Yes,Yes,Other,7,Divorced,5,Other,No,2026-06-16
+CLT-000055,18-24,Prefer Not to Say,L7Q,Waterloo,6,>$100K,Retired,Doctorate,Bilingual,Prefer Not to Say,No,Work Permit,37,Widowed,3,Other,Limited,2026-01-15
+CLT-000056,35-44,Female,K1P,Ottawa,1,$40-60K,Retired,Bachelor,Bilingual,No,No,Other,47,Single,4,Other,Limited,2026-06-19
+CLT-000057,18-24,Male,N1P,Eastern,6,>$100K,On Leave,Doctorate,Bilingual,No,Yes,Citizen,26,Married,0,Rent,Limited,2026-04-29
+CLT-000058,35-44,Non-Binary,N2X,Niagara,1,$60-80K,Retired,College,Other,Yes,No,Other,32,Single,0,Other,Yes,2026-05-15
+CLT-000059,65+,Male,N8F,GTA,1,$20-40K,Self-Employed,Less than HS,Other,Yes,No,Refugee,22,Married,5,Rent,Yes,2026-04-10
+CLT-000060,25-34,Female,N1Z,Eastern,1,$60-80K,Retired,Master,Bilingual,No,Yes,Citizen,19,Widowed,0,Rent,No,2026-06-22
+CLT-000061,25-34,Non-Binary,T4L,Durham,7,$40-60K,Retired,High School,Bilingual,Prefer Not to Say,No,PR,43,Widowed,4,Other,Yes,2026-02-09
+CLT-000062,45-54,Non-Binary,T3T,Northern,2,$40-60K,On Leave,College,English,No,No,Citizen,38,Married,2,Other,Yes,2026-06-11
+CLT-000063,65+,Non-Binary,N6F,Ottawa,7,>$100K,Employed PT,Doctorate,French,No,Yes,Citizen,44,Widowed,3,Rent,Limited,2026-06-03
+CLT-000064,35-44,Non-Binary,L1G,Durham,3,$40-60K,Employed PT,Less than HS,Bilingual,No,Yes,Citizen,38,Married,0,Shelter,Limited,2026-04-13
+CLT-000065,55-64,Non-Binary,P0U,Waterloo,4,>$100K,Self-Employed,College,Bilingual,Prefer Not to Say,No,PR,40,Common-Law,5,Own,Limited,2026-07-11
+CLT-000066,55-64,Female,T1O,Hamilton,6,$20-40K,Unemployed,Doctorate,English,No,No,Other,4,Single,1,Rent,Limited,2026-05-01
+CLT-000067,25-34,Prefer Not to Say,N0P,Northern,1,$60-80K,Self-Employed,High School,Bilingual,Yes,Yes,Work Permit,8,Married,5,Rent,Limited,2026-03-11
+CLT-000068,18-24,Female,M6V,Eastern,2,>$100K,Employed PT,Bachelor,Bilingual,No,Yes,Citizen,34,Single,5,Social Housing,No,2026-03-10
+CLT-000069,25-34,Non-Binary,P4E,GTA,2,>$100K,Unemployed,High School,Bilingual,Yes,No,Refugee,26,Common-Law,5,Own,Yes,2026-06-21
+CLT-000070,65+,Prefer Not to Say,T1K,Niagara,3,<$20K,Retired,Master,Bilingual,Yes,No,Refugee,22,Married,4,Other,Limited,2026-06-30
+CLT-000071,18-24,Female,N0K,Southwestern,7,>$100K,Employed PT,College,Bilingual,Yes,Yes,Other,11,Divorced,0,Own,Yes,2026-06-14
+CLT-000072,25-34,Non-Binary,N5T,Southwestern,2,>$100K,Retired,Master,French,Yes,Yes,PR,30,Divorced,5,Shelter,No,2026-05-30
+CLT-000073,65+,Prefer Not to Say,P2Y,Northern,5,$40-60K,Employed PT,High School,Other,Yes,No,Citizen,4,Widowed,1,Other,Limited,2026-01-05
+CLT-000074,55-64,Female,L2I,Northern,3,<$20K,Student,Bachelor,French,Prefer Not to Say,Yes,Work Permit,26,Married,1,Social Housing,Limited,2026-05-13
+CLT-000075,55-64,Female,K4G,Hamilton,3,<$20K,Self-Employed,Master,Other,No,No,Citizen,32,Divorced,2,Social Housing,Yes,2026-03-14
+CLT-000076,25-34,Female,N9E,Durham,3,$40-60K,Employed FT,Bachelor,Bilingual,Yes,No,Citizen,36,Common-Law,1,Other,Limited,2026-05-14
+CLT-000077,55-64,Non-Binary,P4P,GTA,2,$80-100K,Student,Master,Other,No,No,PR,20,Widowed,0,Shelter,No,2026-03-26
+CLT-000078,18-24,Non-Binary,N1Z,Durham,5,$20-40K,Employed FT,Less than HS,Bilingual,No,Yes,Other,32,Divorced,1,Social Housing,No,2026-07-09
+CLT-000079,65+,Prefer Not to Say,T6Q,Niagara,4,$60-80K,Retired,Master,Bilingual,No,Yes,Refugee,44,Single,3,Own,No,2026-05-30
+CLT-000080,18-24,Male,L9O,Ottawa,1,<$20K,On Leave,High School,Bilingual,Prefer Not to Say,No,Citizen,21,Divorced,3,Social Housing,No,2026-04-21
+CLT-000081,65+,Non-Binary,M5C,Durham,6,$80-100K,Student,Less than HS,English,No,No,Work Permit,16,Widowed,5,Rent,Yes,2026-03-14
+CLT-000082,65+,Female,L9U,Niagara,5,$80-100K,Unemployed,Less than HS,Bilingual,No,Yes,Work Permit,50,Divorced,3,Other,Yes,2026-05-05
+CLT-000083,35-44,Non-Binary,M2W,Southwestern,2,$80-100K,Student,Less than HS,Other,Prefer Not to Say,Yes,Work Permit,28,Single,2,Own,Yes,2026-03-26
+CLT-000084,18-24,Female,P5W,Hamilton,4,>$100K,Employed PT,Bachelor,Bilingual,Prefer Not to Say,Yes,Refugee,48,Married,4,Social Housing,Limited,2026-03-04
+CLT-000085,65+,Prefer Not to Say,P0V,Niagara,2,$40-60K,Retired,College,French,Yes,Yes,Citizen,49,Single,1,Shelter,Limited,2026-05-28
+CLT-000086,45-54,Non-Binary,M9U,Eastern,1,$40-60K,Self-Employed,Master,Bilingual,Yes,No,Refugee,22,Widowed,3,Shelter,Yes,2026-02-25
+CLT-000087,45-54,Non-Binary,N2B,Eastern,6,$60-80K,Employed PT,College,Bilingual,Prefer Not to Say,No,PR,40,Widowed,2,Shelter,Limited,2026-07-19
+CLT-000088,55-64,Prefer Not to Say,T3H,Ottawa,5,<$20K,Self-Employed,High School,French,Yes,No,Refugee,43,Divorced,0,Shelter,Limited,2026-07-10
+CLT-000089,18-24,Prefer Not to Say,K1O,Southwestern,3,$40-60K,Student,Bachelor,Other,Yes,No,PR,24,Married,3,Shelter,Limited,2026-03-22
+CLT-000090,65+,Male,P9R,Waterloo,4,$60-80K,Unemployed,Bachelor,Bilingual,Prefer Not to Say,No,Work Permit,41,Married,2,Other,Limited,2026-03-27
+CLT-000091,25-34,Non-Binary,K7X,Hamilton,7,$40-60K,On Leave,Less than HS,French,No,No,Refugee,26,Widowed,3,Social Housing,Yes,2026-03-09
+CLT-000092,25-34,Male,N6O,Central,1,$40-60K,Retired,Bachelor,Bilingual,Yes,No,Citizen,4,Common-Law,3,Rent,Limited,2026-07-18
+CLT-000093,25-34,Male,P9B,GTA,6,>$100K,Employed FT,Master,Bilingual,Prefer Not to Say,Yes,Refugee,23,Divorced,2,Other,Yes,2026-03-03
+CLT-000094,65+,Non-Binary,T4K,Eastern,5,$40-60K,Self-Employed,Doctorate,Other,No,Yes,Work Permit,11,Married,5,Rent,No,2026-04-21
+CLT-000095,18-24,Male,M4O,GTA,7,$80-100K,Self-Employed,Less than HS,English,Yes,Yes,Work Permit,37,Common-Law,3,Own,Yes,2026-06-03
+CLT-000096,65+,Prefer Not to Say,L1C,Durham,1,>$100K,Unemployed,Master,French,Prefer Not to Say,No,Work Permit,25,Divorced,0,Social Housing,Limited,2026-03-20
+CLT-000097,45-54,Prefer Not to Say,N1Q,Niagara,5,$60-80K,Self-Employed,Less than HS,Bilingual,Prefer Not to Say,No,Other,26,Divorced,5,Shelter,Limited,2026-02-07
+CLT-000098,65+,Male,T5W,Northern,3,$60-80K,Unemployed,Master,Bilingual,Yes,Yes,Work Permit,45,Married,5,Rent,Limited,2026-03-01
+CLT-000099,18-24,Female,P2P,Niagara,3,<$20K,Unemployed,College,Other,Prefer Not to Say,Yes,Other,34,Divorced,1,Rent,Yes,2026-03-06
+CLT-000100,18-24,Non-Binary,M3C,Durham,4,$60-80K,Employed FT,College,Other,No,No,PR,13,Widowed,4,Own,No,2026-04-27
+CLT-000101,65+,Non-Binary,K4O,Southwestern,7,$40-60K,On Leave,High School,English,Yes,No,Other,16,Common-Law,0,Own,Limited,2026-06-22
+CLT-000102,25-34,Female,P7U,Eastern,7,$40-60K,Employed FT,Master,Other,No,No,Refugee,30,Common-Law,0,Rent,Yes,2026-02-22
+CLT-000103,35-44,Male,P3A,Northern,3,$80-100K,Unemployed,High School,Bilingual,No,No,Other,5,Common-Law,1,Other,Limited,2026-07-18
+CLT-000104,55-64,Non-Binary,T2W,Ottawa,4,$80-100K,Retired,College,Bilingual,Prefer Not to Say,Yes,Other,33,Common-Law,5,Own,Yes,2026-05-22
+CLT-000105,45-54,Non-Binary,L8D,Niagara,4,$40-60K,On Leave,Master,French,Yes,Yes,Citizen,37,Married,2,Other,Limited,2026-01-24
+CLT-000106,55-64,Male,T0G,Durham,1,$40-60K,On Leave,Bachelor,French,No,Yes,Other,11,Common-Law,1,Own,Limited,2026-06-05
+CLT-000107,35-44,Prefer Not to Say,T3Y,GTA,7,$80-100K,Self-Employed,Less than HS,French,Yes,No,PR,30,Married,2,Own,Yes,2026-03-17
+CLT-000108,65+,Prefer Not to Say,M3H,Ottawa,3,>$100K,Unemployed,College,French,Yes,Yes,Work Permit,14,Single,1,Own,No,2026-03-17
+CLT-000109,18-24,Prefer Not to Say,N8C,Ottawa,1,$80-100K,Self-Employed,Bachelor,Bilingual,Prefer Not to Say,No,Work Permit,20,Divorced,3,Shelter,Yes,2026-07-11
+CLT-000110,35-44,Non-Binary,L1Z,Durham,6,$20-40K,Retired,Master,English,Yes,No,Other,38,Common-Law,2,Rent,Yes,2026-04-17
+CLT-000111,35-44,Male,P1A,Niagara,1,>$100K,Self-Employed,Bachelor,Other,Prefer Not to Say,Yes,Citizen,3,Widowed,5,Rent,Yes,2026-06-20
+CLT-000112,35-44,Female,T1M,Durham,2,$60-80K,On Leave,Master,French,Yes,Yes,Refugee,22,Divorced,1,Shelter,Limited,2026-05-26
+CLT-000113,45-54,Female,M8G,Southwestern,4,$80-100K,On Leave,Doctorate,English,Prefer Not to Say,Yes,Citizen,22,Widowed,1,Rent,Limited,2026-07-24
+CLT-000114,65+,Non-Binary,N2Y,Northern,5,>$100K,Student,Less than HS,French,Yes,Yes,Citizen,2,Divorced,2,Other,No,2026-06-07
+CLT-000115,45-54,Female,L3R,Hamilton,1,$20-40K,Retired,College,English,No,No,PR,45,Single,2,Other,Limited,2026-01-06
+CLT-000116,65+,Female,T8M,GTA,7,$60-80K,Employed FT,College,English,Yes,Yes,Work Permit,0,Divorced,2,Social Housing,No,2026-03-09
+CLT-000117,45-54,Prefer Not to Say,T9K,GTA,6,$80-100K,Employed FT,College,English,Prefer Not to Say,No,Refugee,25,Common-Law,1,Own,Yes,2026-04-10
+CLT-000118,35-44,Non-Binary,N2H,Durham,5,$60-80K,Retired,Master,Other,Prefer Not to Say,No,Work Permit,27,Widowed,4,Rent,Yes,2026-02-22
+CLT-000119,45-54,Male,N2E,Waterloo,1,<$20K,Employed FT,Doctorate,French,Prefer Not to Say,No,Citizen,17,Divorced,4,Social Housing,Limited,2026-07-12
+CLT-000120,45-54,Male,P9A,Eastern,5,<$20K,Employed PT,College,English,Prefer Not to Say,No,Other,37,Common-Law,5,Rent,Limited,2026-02-13
+CLT-000121,65+,Non-Binary,L1S,Ottawa,3,$60-80K,On Leave,Master,English,No,Yes,Work Permit,28,Married,4,Rent,Limited,2026-04-02
+CLT-000122,18-24,Prefer Not to Say,N3U,GTA,7,$80-100K,Unemployed,Doctorate,French,Yes,No,Refugee,0,Widowed,2,Other,Limited,2026-04-14
+CLT-000123,65+,Prefer Not to Say,L6W,Northern,5,$20-40K,Unemployed,Doctorate,French,Yes,Yes,Other,0,Single,4,Rent,Yes,2026-03-04
+CLT-000124,35-44,Female,M6Q,Durham,3,$60-80K,Retired,Doctorate,Bilingual,Prefer Not to Say,No,Refugee,26,Divorced,4,Own,Limited,2026-04-13
+CLT-000125,35-44,Non-Binary,P3P,Southwestern,6,$40-60K,Retired,College,Other,No,Yes,Citizen,14,Common-Law,5,Rent,Yes,2026-05-03
+CLT-000126,35-44,Non-Binary,T5T,Northern,5,>$100K,Retired,Bachelor,Bilingual,Prefer Not to Say,No,Work Permit,5,Single,5,Social Housing,Limited,2026-04-09
+CLT-000127,65+,Female,N7K,Ottawa,7,>$100K,Self-Employed,Less than HS,Other,No,No,Work Permit,14,Common-Law,4,Shelter,No,2026-07-21
+CLT-000128,35-44,Male,L6J,Ottawa,5,$60-80K,Student,Master,Other,Yes,Yes,Citizen,36,Married,2,Other,Yes,2026-01-16
+CLT-000129,18-24,Prefer Not to Say,K0C,Central,5,$60-80K,Self-Employed,Doctorate,French,Yes,No,PR,8,Widowed,2,Other,Limited,2026-02-25
+CLT-000130,35-44,Female,N6N,Durham,1,$80-100K,Self-Employed,Master,Bilingual,No,Yes,Citizen,40,Widowed,0,Social Housing,Yes,2026-07-23
+CLT-000131,25-34,Female,L8A,Ottawa,7,$40-60K,On Leave,High School,Other,Prefer Not to Say,Yes,Work Permit,50,Widowed,3,Shelter,Limited,2026-05-05
+CLT-000132,18-24,Non-Binary,L4I,Niagara,1,$40-60K,Employed PT,Master,French,No,Yes,Other,27,Divorced,2,Shelter,Limited,2026-06-29
+CLT-000133,25-34,Prefer Not to Say,K0U,Central,6,$20-40K,Student,Doctorate,Bilingual,Prefer Not to Say,Yes,Citizen,38,Married,5,Other,No,2026-04-15
+CLT-000134,45-54,Female,P5X,GTA,2,<$20K,Unemployed,College,French,Prefer Not to Say,Yes,Citizen,43,Divorced,3,Social Housing,No,2026-05-21
+CLT-000135,25-34,Male,K6F,Niagara,3,$20-40K,Retired,College,Other,No,No,Work Permit,47,Divorced,0,Shelter,Limited,2026-06-06
+CLT-000136,18-24,Prefer Not to Say,L1V,Waterloo,6,$80-100K,Employed FT,Master,English,No,No,Work Permit,23,Single,1,Other,Limited,2026-06-26
+CLT-000137,35-44,Non-Binary,M4T,Northern,3,$20-40K,Self-Employed,Less than HS,Other,No,Yes,Other,48,Married,4,Social Housing,Limited,2026-05-27
+CLT-000138,45-54,Non-Binary,N7N,Central,4,$40-60K,Retired,Less than HS,Other,Yes,No,Work Permit,19,Widowed,2,Rent,Limited,2026-03-20
+CLT-000139,25-34,Prefer Not to Say,P7V,Hamilton,1,$40-60K,On Leave,Bachelor,French,Yes,Yes,Other,17,Widowed,0,Shelter,No,2026-06-27
+CLT-000140,25-34,Non-Binary,M5G,Central,5,$60-80K,Student,Less than HS,English,Prefer Not to Say,Yes,Citizen,7,Common-Law,5,Social Housing,No,2026-04-27
+CLT-000141,25-34,Non-Binary,P4H,Ottawa,7,>$100K,Unemployed,Doctorate,Other,Yes,Yes,Work Permit,23,Divorced,4,Social Housing,No,2026-03-07
+CLT-000142,18-24,Female,L4U,Hamilton,3,<$20K,Student,Master,Bilingual,Prefer Not to Say,No,Refugee,13,Widowed,5,Social Housing,Yes,2026-03-02
+CLT-000143,25-34,Non-Binary,L5R,GTA,7,>$100K,Self-Employed,Master,Bilingual,No,No,Refugee,23,Widowed,0,Shelter,No,2026-01-12
+CLT-000144,25-34,Non-Binary,T1Y,Eastern,4,$20-40K,Employed PT,High School,Bilingual,No,Yes,Work Permit,1,Divorced,0,Social Housing,No,2026-07-26
+CLT-000145,55-64,Prefer Not to Say,T1I,Hamilton,6,$80-100K,Student,Doctorate,French,No,Yes,Other,22,Common-Law,4,Social Housing,Yes,2026-05-13
+CLT-000146,65+,Female,N4L,Niagara,1,<$20K,Student,Less than HS,French,Prefer Not to Say,No,Citizen,1,Single,3,Social Housing,Limited,2026-06-23
+CLT-000147,18-24,Male,M7X,GTA,4,$60-80K,Retired,Doctorate,Bilingual,Prefer Not to Say,Yes,Refugee,34,Divorced,5,Other,Yes,2026-05-16
+CLT-000148,35-44,Non-Binary,T1M,Northern,1,>$100K,On Leave,College,French,Prefer Not to Say,No,Refugee,25,Married,2,Rent,No,2026-05-05
+CLT-000149,25-34,Non-Binary,T5W,Durham,5,$60-80K,Employed FT,Bachelor,English,No,Yes,PR,34,Widowed,1,Social Housing,Yes,2026-02-24
+CLT-000150,25-34,Non-Binary,M3T,GTA,1,$40-60K,Employed PT,Less than HS,Other,No,Yes,Refugee,40,Common-Law,4,Rent,No,2026-04-14
+CLT-000151,65+,Female,L7W,Waterloo,4,$60-80K,On Leave,Less than HS,Bilingual,Prefer Not to Say,Yes,PR,45,Single,5,Own,No,2026-06-22
+CLT-000152,65+,Female,L6L,Durham,7,$20-40K,Student,Less than HS,French,No,Yes,Refugee,15,Divorced,4,Social Housing,Limited,2026-07-19
+CLT-000153,18-24,Female,P8M,Niagara,5,<$20K,Employed FT,High School,French,Yes,Yes,Citizen,16,Married,2,Rent,No,2026-01-22
+CLT-000154,18-24,Prefer Not to Say,T8S,Northern,7,$40-60K,On Leave,Master,Bilingual,No,No,Refugee,16,Common-Law,3,Social Housing,Limited,2026-02-24
+CLT-000155,25-34,Non-Binary,T5I,Southwestern,1,<$20K,Retired,Less than HS,Bilingual,Yes,Yes,Refugee,28,Married,4,Own,Limited,2026-03-28
+CLT-000156,25-34,Male,K8U,Durham,1,>$100K,Retired,High School,Other,Prefer Not to Say,No,Other,19,Single,4,Social Housing,No,2026-01-21
+CLT-000157,35-44,Prefer Not to Say,T2F,GTA,1,$40-60K,Self-Employed,Master,French,Yes,Yes,Work Permit,17,Single,0,Own,Yes,2026-04-24
+CLT-000158,25-34,Female,N0G,GTA,5,$60-80K,On Leave,Bachelor,Bilingual,No,No,Citizen,46,Widowed,0,Shelter,Limited,2026-06-20
+CLT-000159,45-54,Prefer Not to Say,M8H,Hamilton,4,$20-40K,Self-Employed,Master,Bilingual,Yes,No,Refugee,41,Divorced,5,Own,Limited,2026-04-17
+CLT-000160,25-34,Male,N2B,Southwestern,5,$80-100K,On Leave,Master,Other,Prefer Not to Say,Yes,Work Permit,6,Widowed,3,Other,Yes,2026-01-12
+CLT-000161,25-34,Female,N4U,Central,7,$60-80K,Unemployed,Master,Other,No,No,Citizen,37,Widowed,0,Shelter,Yes,2026-03-24
+CLT-000162,65+,Female,P0M,Southwestern,7,$80-100K,Employed FT,Master,Other,Prefer Not to Say,Yes,PR,19,Married,2,Own,Limited,2026-06-02
+CLT-000163,45-54,Male,M8C,Central,5,$80-100K,Employed FT,High School,Other,Prefer Not to Say,Yes,Other,25,Divorced,0,Shelter,No,2026-02-14
+CLT-000164,18-24,Non-Binary,K1T,Eastern,6,$60-80K,Self-Employed,High School,Bilingual,Yes,No,Citizen,8,Married,0,Shelter,Limited,2026-07-08
+CLT-000165,18-24,Prefer Not to Say,L4Q,GTA,2,$80-100K,Employed PT,High School,Bilingual,Prefer Not to Say,Yes,Other,19,Married,5,Other,Limited,2026-01-22
+CLT-000166,18-24,Prefer Not to Say,L7H,Central,7,<$20K,Student,College,Bilingual,No,No,Other,13,Common-Law,0,Own,Yes,2026-07-08
+CLT-000167,18-24,Non-Binary,M1E,Durham,2,$20-40K,Employed FT,Master,Bilingual,No,No,Other,37,Single,1,Social Housing,Limited,2026-04-27
+CLT-000168,18-24,Prefer Not to Say,N1P,GTA,2,<$20K,Unemployed,Bachelor,Other,Yes,No,Citizen,8,Common-Law,5,Shelter,Yes,2026-03-26
+CLT-000169,18-24,Prefer Not to Say,L8Z,Eastern,7,>$100K,Self-Employed,Master,Bilingual,Yes,Yes,Refugee,24,Widowed,2,Own,Limited,2026-04-27
+CLT-000170,45-54,Prefer Not to Say,N6B,GTA,4,$40-60K,Employed PT,College,Bilingual,Prefer Not to Say,No,PR,5,Divorced,1,Own,Yes,2026-02-27
+CLT-000171,25-34,Non-Binary,P6X,Hamilton,3,$60-80K,Unemployed,College,English,Yes,No,Other,17,Widowed,0,Other,No,2026-06-29
+CLT-000172,45-54,Female,M8C,Central,4,<$20K,On Leave,College,Bilingual,Yes,No,Citizen,29,Widowed,4,Social Housing,Limited,2026-07-03
+CLT-000173,35-44,Prefer Not to Say,N1D,Ottawa,1,$60-80K,Retired,Bachelor,Other,No,No,Work Permit,18,Common-Law,3,Social Housing,No,2026-02-08
+CLT-000174,55-64,Prefer Not to Say,K2M,Waterloo,2,$40-60K,Retired,College,Bilingual,Prefer Not to Say,Yes,PR,37,Single,4,Other,No,2026-06-25
+CLT-000175,45-54,Non-Binary,T6A,Niagara,4,>$100K,Retired,Doctorate,French,Prefer Not to Say,No,Citizen,13,Widowed,1,Shelter,Limited,2026-05-02
+CLT-000176,18-24,Prefer Not to Say,N7O,Waterloo,3,$60-80K,Employed FT,Doctorate,French,Prefer Not to Say,No,PR,24,Married,3,Shelter,Limited,2026-02-17
+CLT-000177,65+,Prefer Not to Say,M1B,Hamilton,7,$20-40K,Unemployed,Less than HS,French,Prefer Not to Say,No,PR,11,Single,3,Other,Limited,2026-02-12
+CLT-000178,35-44,Female,K3G,Eastern,1,$20-40K,Employed PT,Master,French,No,No,Refugee,1,Divorced,5,Own,No,2026-05-25
+CLT-000179,35-44,Female,T0M,Waterloo,3,>$100K,Employed PT,High School,Bilingual,No,No,Work Permit,49,Married,4,Social Housing,Yes,2026-02-04
+CLT-000180,55-64,Non-Binary,K7W,GTA,1,$60-80K,On Leave,College,Bilingual,Prefer Not to Say,No,Work Permit,34,Divorced,2,Rent,Yes,2026-01-30
+CLT-000181,55-64,Male,L2L,Central,3,$20-40K,Retired,Less than HS,Bilingual,Yes,No,Refugee,48,Common-Law,1,Social Housing,No,2026-07-24
+CLT-000182,18-24,Prefer Not to Say,P6R,Durham,6,$60-80K,Retired,Bachelor,English,Prefer Not to Say,Yes,Citizen,14,Widowed,1,Rent,Yes,2026-03-05
+CLT-000183,18-24,Prefer Not to Say,M1T,Central,5,$60-80K,Student,High School,French,Prefer Not to Say,No,Other,33,Divorced,1,Other,No,2026-02-21
+CLT-000184,65+,Male,L2Z,Southwestern,5,$40-60K,On Leave,Bachelor,French,Prefer Not to Say,Yes,Refugee,42,Widowed,3,Social Housing,No,2026-01-30
+CLT-000185,45-54,Male,K3Y,Northern,5,$80-100K,Retired,Less than HS,Other,Yes,Yes,Work Permit,5,Single,1,Other,No,2026-03-21
+CLT-000186,35-44,Male,K0E,Northern,6,>$100K,Self-Employed,Less than HS,English,Prefer Not to Say,No,Work Permit,19,Common-Law,2,Own,No,2026-03-12
+CLT-000187,55-64,Prefer Not to Say,P2V,Ottawa,1,$40-60K,Student,Bachelor,French,No,No,Citizen,49,Single,2,Rent,No,2026-06-24
+CLT-000188,65+,Prefer Not to Say,L4F,GTA,2,>$100K,Student,Less than HS,Other,Prefer Not to Say,No,Work Permit,47,Widowed,1,Rent,Yes,2026-05-27
+CLT-000189,35-44,Prefer Not to Say,K3W,Durham,2,$60-80K,Retired,Doctorate,English,No,Yes,Citizen,16,Common-Law,3,Other,Yes,2026-02-28
+CLT-000190,25-34,Prefer Not to Say,N1I,Durham,3,$80-100K,Self-Employed,Less than HS,Other,Yes,Yes,Work Permit,2,Single,4,Shelter,No,2026-06-05
+CLT-000191,45-54,Female,M9E,Central,1,$80-100K,Employed PT,Less than HS,English,Prefer Not to Say,Yes,Other,46,Common-Law,1,Rent,Yes,2026-06-30
+CLT-000192,25-34,Prefer Not to Say,M4S,Eastern,7,$60-80K,Retired,College,French,Prefer Not to Say,Yes,Work Permit,34,Common-Law,2,Own,Yes,2026-04-20
+CLT-000193,25-34,Prefer Not to Say,M4T,Northern,1,$60-80K,Unemployed,Bachelor,Bilingual,Prefer Not to Say,Yes,Work Permit,11,Common-Law,4,Shelter,Yes,2026-05-30
+CLT-000194,45-54,Female,N2L,Waterloo,1,$80-100K,Retired,High School,English,Yes,No,Other,50,Divorced,5,Shelter,Yes,2026-07-14
+CLT-000195,65+,Prefer Not to Say,T7P,Northern,7,$40-60K,Unemployed,High School,Bilingual,Yes,No,Work Permit,39,Divorced,4,Shelter,Yes,2026-06-04
+CLT-000196,45-54,Non-Binary,N1K,Niagara,7,>$100K,On Leave,College,French,Prefer Not to Say,Yes,PR,39,Widowed,0,Rent,No,2026-05-17
+CLT-000197,65+,Male,T4E,Southwestern,4,$80-100K,On Leave,Bachelor,English,Prefer Not to Say,Yes,Citizen,36,Common-Law,0,Other,Yes,2026-04-18
+CLT-000198,65+,Non-Binary,N3P,Niagara,2,$40-60K,Employed PT,Bachelor,Other,Prefer Not to Say,Yes,PR,23,Common-Law,4,Rent,Yes,2026-02-26
+CLT-000199,45-54,Female,M9Y,Ottawa,6,$40-60K,On Leave,Doctorate,English,Yes,No,PR,29,Married,0,Own,No,2026-02-17
+CLT-000200,25-34,Prefer Not to Say,L1I,Hamilton,7,$40-60K,Student,Master,English,Yes,Yes,Other,17,Married,4,Rent,Yes,2026-03-26
+CLT-000201,55-64,Non-Binary,N4F,Northern,5,$80-100K,Self-Employed,High School,Bilingual,Prefer Not to Say,No,Refugee,44,Divorced,3,Own,No,2026-03-05
+CLT-000202,55-64,Male,K2N,Northern,6,$40-60K,Student,Doctorate,French,No,No,Citizen,2,Married,1,Other,Limited,2026-01-05
+CLT-000203,55-64,Male,T0N,Southwestern,7,$60-80K,Student,Less than HS,Bilingual,No,Yes,Refugee,32,Divorced,1,Social Housing,No,2026-03-08
+CLT-000204,65+,Male,T4F,Eastern,1,$60-80K,Retired,Bachelor,French,Prefer Not to Say,Yes,Refugee,28,Common-Law,2,Other,Yes,2026-06-09
+CLT-000205,25-34,Non-Binary,K9M,Waterloo,1,$40-60K,Unemployed,High School,French,Prefer Not to Say,No,PR,32,Divorced,4,Rent,No,2026-04-27
+CLT-000206,25-34,Female,P1H,Eastern,1,$60-80K,Employed PT,College,Bilingual,Yes,Yes,Citizen,11,Married,3,Social Housing,Yes,2026-02-15
+CLT-000207,25-34,Non-Binary,N4A,Waterloo,5,$40-60K,Employed PT,Doctorate,Other,Yes,Yes,PR,14,Common-Law,0,Social Housing,Yes,2026-04-13
+CLT-000208,18-24,Female,K2K,Ottawa,7,<$20K,Student,Doctorate,English,No,No,Work Permit,34,Divorced,0,Other,No,2026-06-12
+CLT-000209,65+,Male,L2E,Southwestern,3,$60-80K,Unemployed,Less than HS,English,Prefer Not to Say,Yes,Work Permit,23,Single,1,Social Housing,Yes,2026-05-11
+CLT-000210,18-24,Prefer Not to Say,P1S,Ottawa,7,$20-40K,On Leave,Doctorate,Bilingual,Yes,No,PR,46,Common-Law,4,Social Housing,Yes,2026-06-07
+CLT-000211,65+,Prefer Not to Say,M5W,Hamilton,7,$40-60K,Unemployed,Bachelor,English,No,No,PR,11,Widowed,5,Rent,No,2026-04-15
+CLT-000212,25-34,Male,N1X,Niagara,2,<$20K,Self-Employed,Doctorate,Bilingual,Prefer Not to Say,No,PR,20,Married,0,Own,No,2026-04-22
+CLT-000213,18-24,Non-Binary,M4E,GTA,3,$80-100K,Retired,Doctorate,Other,Prefer Not to Say,No,Refugee,38,Divorced,3,Own,No,2026-02-18
+CLT-000214,65+,Female,T6A,Durham,1,>$100K,On Leave,Master,English,Yes,Yes,Citizen,18,Divorced,5,Own,Yes,2026-07-07
+CLT-000215,25-34,Female,N8Q,Durham,5,<$20K,Retired,Master,French,Yes,No,Refugee,42,Single,3,Rent,Limited,2026-05-14
+CLT-000216,18-24,Prefer Not to Say,P7W,Durham,6,$40-60K,Employed FT,Master,Bilingual,No,Yes,Work Permit,40,Single,5,Other,No,2026-03-27
+CLT-000217,45-54,Female,N7F,Durham,1,<$20K,Student,High School,Other,Yes,Yes,Other,7,Common-Law,3,Rent,Limited,2026-02-19
+CLT-000218,45-54,Female,L6J,GTA,4,$80-100K,Employed PT,Doctorate,English,Prefer Not to Say,Yes,Citizen,49,Divorced,4,Shelter,Limited,2026-07-14
+CLT-000219,55-64,Non-Binary,M4L,Southwestern,5,$80-100K,Employed PT,Bachelor,Other,Yes,No,Refugee,30,Common-Law,4,Own,No,2026-04-08
+CLT-000220,55-64,Prefer Not to Say,N5C,Durham,3,$60-80K,Employed FT,Less than HS,Other,No,No,Refugee,2,Common-Law,5,Other,No,2026-07-30
+CLT-000221,45-54,Female,L3Y,Ottawa,5,<$20K,Self-Employed,Doctorate,Other,Yes,Yes,Citizen,46,Single,1,Social Housing,Limited,2026-03-30
+CLT-000222,45-54,Non-Binary,K3Y,Hamilton,6,$60-80K,Student,High School,English,Prefer Not to Say,Yes,Citizen,24,Divorced,5,Other,No,2026-01-28
+CLT-000223,55-64,Female,N1L,Southwestern,5,$60-80K,Self-Employed,High School,English,Yes,Yes,Work Permit,42,Single,1,Social Housing,No,2026-03-28
+CLT-000224,35-44,Male,T0K,Southwestern,5,<$20K,Retired,Doctorate,English,Prefer Not to Say,Yes,Other,31,Divorced,5,Shelter,Yes,2026-05-14
+CLT-000225,55-64,Prefer Not to Say,K4M,Ottawa,4,$20-40K,Employed FT,High School,Bilingual,Yes,Yes,Citizen,1,Single,4,Own,No,2026-02-27
+CLT-000226,35-44,Female,P4T,Eastern,1,$60-80K,Self-Employed,Doctorate,Bilingual,Yes,No,Other,36,Divorced,2,Social Housing,No,2026-07-13
+CLT-000227,45-54,Female,P9P,Eastern,3,<$20K,Retired,Master,Other,Yes,Yes,Work Permit,9,Divorced,2,Shelter,Yes,2026-01-02
+CLT-000228,25-34,Female,K0E,Eastern,3,<$20K,Unemployed,Bachelor,Other,No,Yes,PR,23,Single,5,Social Housing,Limited,2026-05-25
+CLT-000229,65+,Male,L1Q,Northern,7,$80-100K,Employed FT,College,English,No,No,Refugee,2,Widowed,0,Rent,Yes,2026-05-29
+CLT-000230,25-34,Prefer Not to Say,P8J,Southwestern,4,>$100K,Retired,Less than HS,Other,Yes,No,Citizen,20,Married,3,Shelter,Limited,2026-03-24
+CLT-000231,55-64,Non-Binary,L4E,GTA,2,$20-40K,On Leave,College,French,No,No,PR,46,Single,1,Shelter,Yes,2026-04-29
+CLT-000232,18-24,Non-Binary,L0H,Ottawa,7,<$20K,Retired,Less than HS,French,No,No,Other,7,Common-Law,0,Other,Yes,2026-06-21
+CLT-000233,55-64,Prefer Not to Say,M6C,GTA,3,$60-80K,On Leave,Less than HS,English,Yes,Yes,Work Permit,24,Widowed,1,Social Housing,Limited,2026-05-05
+CLT-000234,45-54,Female,L1B,Eastern,3,<$20K,Unemployed,Less than HS,French,Yes,Yes,Citizen,35,Single,2,Own,No,2026-01-22
+CLT-000235,65+,Female,K5U,Ottawa,4,$80-100K,Self-Employed,Less than HS,Bilingual,No,No,Citizen,32,Common-Law,3,Own,Limited,2026-07-10
+CLT-000236,35-44,Male,N7D,Southwestern,6,$80-100K,Student,Master,French,Yes,Yes,PR,6,Common-Law,2,Shelter,No,2026-03-22
+CLT-000237,45-54,Female,K7K,Hamilton,5,$40-60K,On Leave,Less than HS,Other,Prefer Not to Say,No,Citizen,14,Married,3,Social Housing,No,2026-06-08
+CLT-000238,65+,Prefer Not to Say,M9H,Eastern,5,<$20K,Self-Employed,High School,Other,Prefer Not to Say,No,Citizen,11,Divorced,2,Own,Yes,2026-04-09
+CLT-000239,18-24,Female,K6Y,Hamilton,3,$20-40K,Employed FT,Doctorate,English,No,No,Refugee,15,Single,5,Own,Yes,2026-01-07
+CLT-000240,55-64,Prefer Not to Say,T5J,Niagara,7,<$20K,Employed PT,College,French,No,Yes,Refugee,18,Single,0,Social Housing,No,2026-03-16
+CLT-000241,55-64,Prefer Not to Say,N9J,Durham,4,>$100K,Self-Employed,Master,Bilingual,Prefer Not to Say,No,Other,4,Divorced,0,Rent,No,2026-07-26
+CLT-000242,18-24,Male,M7Z,Hamilton,1,<$20K,Student,Bachelor,French,Prefer Not to Say,No,Work Permit,36,Common-Law,4,Rent,Yes,2026-07-28
+CLT-000243,18-24,Prefer Not to Say,P1D,Ottawa,4,<$20K,Retired,Doctorate,Other,Yes,Yes,Work Permit,39,Single,1,Own,No,2026-03-15
+CLT-000244,35-44,Male,L5S,Niagara,4,$40-60K,Employed PT,High School,French,Prefer Not to Say,No,Other,46,Divorced,5,Social Housing,No,2026-02-11
+CLT-000245,25-34,Male,N0G,Eastern,3,$20-40K,Employed FT,Less than HS,Bilingual,Prefer Not to Say,Yes,Refugee,40,Divorced,2,Rent,Limited,2026-04-09
+CLT-000246,65+,Male,T9P,Hamilton,2,<$20K,Student,High School,Bilingual,No,Yes,Work Permit,32,Divorced,5,Rent,Yes,2026-07-22
+CLT-000247,65+,Non-Binary,P6K,Eastern,7,$80-100K,Employed PT,Bachelor,Other,Prefer Not to Say,No,Citizen,16,Single,1,Social Housing,Limited,2026-02-21
+CLT-000248,18-24,Prefer Not to Say,P6O,GTA,4,<$20K,Unemployed,College,English,No,Yes,Work Permit,29,Widowed,1,Own,Limited,2026-02-01
+CLT-000249,45-54,Female,L0M,Waterloo,5,$80-100K,Employed PT,College,Bilingual,No,No,Refugee,13,Widowed,4,Other,No,2026-01-04
+CLT-000250,18-24,Non-Binary,T5L,Hamilton,1,$20-40K,Retired,Doctorate,French,No,Yes,Refugee,44,Single,5,Other,No,2026-04-12
+CLT-000251,65+,Female,L5E,Waterloo,7,>$100K,Employed FT,College,English,Prefer Not to Say,Yes,Refugee,3,Single,0,Own,Yes,2026-06-20
+CLT-000252,65+,Male,M5N,Ottawa,4,<$20K,On Leave,Master,Other,Yes,No,Work Permit,49,Widowed,5,Other,Yes,2026-02-05
+CLT-000253,18-24,Female,M0V,Durham,5,$20-40K,Self-Employed,High School,Bilingual,Prefer Not to Say,No,Other,39,Single,5,Other,No,2026-05-03
+CLT-000254,25-34,Female,T3C,GTA,3,>$100K,Unemployed,Master,English,No,No,PR,40,Divorced,2,Social Housing,Limited,2026-04-18
+CLT-000255,18-24,Female,K1Y,Durham,5,$20-40K,Employed PT,Less than HS,Other,Yes,Yes,Other,46,Divorced,2,Own,No,2026-04-09
+CLT-000256,18-24,Female,M2G,Niagara,3,<$20K,Self-Employed,Doctorate,Other,Prefer Not to Say,Yes,Refugee,32,Married,2,Other,Limited,2026-01-17
+CLT-000257,45-54,Prefer Not to Say,N4A,Eastern,2,$20-40K,On Leave,Master,English,Prefer Not to Say,Yes,PR,21,Married,4,Rent,Limited,2026-07-26
+CLT-000258,45-54,Prefer Not to Say,M2M,Waterloo,2,$60-80K,Retired,College,Bilingual,Yes,Yes,Work Permit,11,Widowed,3,Social Housing,No,2026-03-19
+CLT-000259,65+,Non-Binary,K6Y,Durham,4,$80-100K,Employed FT,Less than HS,English,No,Yes,PR,2,Divorced,2,Own,Limited,2026-07-01
+CLT-000260,55-64,Male,L8P,Hamilton,1,$40-60K,Unemployed,Doctorate,Bilingual,Prefer Not to Say,Yes,Refugee,44,Married,3,Other,No,2026-06-06
+CLT-000261,18-24,Female,L9D,Northern,1,>$100K,Self-Employed,College,Other,Yes,No,PR,7,Divorced,1,Shelter,No,2026-07-05
+CLT-000262,18-24,Female,K3K,Durham,3,<$20K,Retired,Less than HS,French,Prefer Not to Say,No,Work Permit,42,Widowed,4,Other,No,2026-04-30
+CLT-000263,25-34,Prefer Not to Say,P3T,Central,4,$80-100K,Unemployed,College,English,Prefer Not to Say,Yes,Work Permit,46,Divorced,2,Own,Yes,2026-01-17
+CLT-000264,45-54,Female,N7A,Eastern,6,$80-100K,Student,High School,Bilingual,No,No,Refugee,6,Single,1,Social Housing,Limited,2026-03-16
+CLT-000265,65+,Female,K3A,GTA,5,<$20K,Unemployed,Bachelor,French,Yes,Yes,Other,10,Common-Law,5,Other,Yes,2026-05-11
+CLT-000266,45-54,Female,K1B,Hamilton,6,>$100K,Retired,Master,French,Yes,Yes,Refugee,14,Divorced,2,Social Housing,Limited,2026-03-31
+CLT-000267,25-34,Female,M7E,GTA,1,$80-100K,Student,Less than HS,Bilingual,Yes,No,Work Permit,43,Single,3,Rent,No,2026-06-06
+CLT-000268,65+,Prefer Not to Say,K6K,Ottawa,2,$80-100K,Self-Employed,Doctorate,Bilingual,No,No,Citizen,43,Single,0,Social Housing,Yes,2026-01-09
+CLT-000269,55-64,Male,P4W,Durham,7,$40-60K,Self-Employed,High School,French,No,Yes,PR,44,Single,0,Rent,No,2026-01-03
+CLT-000270,45-54,Female,K3K,GTA,2,>$100K,Self-Employed,Master,French,Yes,Yes,Work Permit,43,Married,5,Social Housing,Yes,2026-04-27
+CLT-000271,35-44,Female,P1N,Waterloo,2,$80-100K,Employed FT,Master,English,No,No,PR,7,Divorced,3,Other,No,2026-05-23
+CLT-000272,45-54,Non-Binary,M3G,GTA,3,$40-60K,Unemployed,College,English,Yes,No,Citizen,27,Divorced,2,Other,No,2026-01-02
+CLT-000273,18-24,Non-Binary,L5R,GTA,1,$40-60K,Self-Employed,Doctorate,English,No,No,Work Permit,9,Widowed,3,Rent,Limited,2026-01-01
+CLT-000274,55-64,Female,L1D,Central,1,$40-60K,On Leave,Less than HS,Other,Prefer Not to Say,No,Citizen,46,Married,0,Social Housing,Yes,2026-07-01
+CLT-000275,35-44,Non-Binary,K3W,Northern,2,>$100K,On Leave,Master,English,No,Yes,Refugee,41,Divorced,5,Social Housing,Yes,2026-03-31
+CLT-000276,35-44,Male,T4P,Niagara,2,$40-60K,Self-Employed,Doctorate,French,Prefer Not to Say,No,Citizen,49,Single,0,Own,No,2026-07-18
+CLT-000277,25-34,Non-Binary,L8V,Niagara,7,$20-40K,Student,Bachelor,French,No,Yes,PR,5,Divorced,2,Other,Limited,2026-01-05
+CLT-000278,25-34,Male,L5Z,Durham,7,$80-100K,Employed FT,Doctorate,Other,Yes,No,Citizen,19,Married,1,Other,Yes,2026-04-05
+CLT-000279,65+,Non-Binary,T4V,Central,5,$20-40K,Employed FT,College,Bilingual,Prefer Not to Say,No,Refugee,20,Divorced,3,Other,Limited,2026-01-23
+CLT-000280,18-24,Female,N9Z,Durham,2,<$20K,Self-Employed,College,Bilingual,No,No,PR,28,Common-Law,2,Own,Yes,2026-04-10
+CLT-000281,18-24,Non-Binary,P9O,GTA,7,<$20K,Unemployed,Doctorate,French,Yes,Yes,PR,12,Divorced,5,Other,Limited,2026-07-18
+CLT-000282,45-54,Male,M8G,Southwestern,4,$60-80K,Self-Employed,Doctorate,English,Yes,Yes,Citizen,43,Divorced,2,Shelter,Yes,2026-07-09
+CLT-000283,18-24,Female,T9T,Hamilton,5,$80-100K,Employed PT,Bachelor,English,Prefer Not to Say,No,Refugee,3,Married,1,Other,Limited,2026-05-05
+CLT-000284,65+,Non-Binary,K8L,Durham,7,$80-100K,Retired,Bachelor,English,Prefer Not to Say,No,PR,36,Divorced,3,Rent,Yes,2026-07-02
+CLT-000285,55-64,Male,T0P,Eastern,4,$80-100K,Unemployed,Master,Bilingual,No,No,Refugee,43,Common-Law,2,Social Housing,Yes,2026-01-12
+CLT-000286,45-54,Prefer Not to Say,P2X,Niagara,2,$60-80K,Self-Employed,College,Bilingual,Prefer Not to Say,Yes,Work Permit,49,Divorced,2,Other,Yes,2026-06-26
+CLT-000287,45-54,Male,T4H,Central,5,>$100K,Retired,High School,Bilingual,Prefer Not to Say,Yes,Refugee,38,Widowed,3,Social Housing,Limited,2026-03-22
+CLT-000288,45-54,Female,T7K,Niagara,6,$80-100K,Employed FT,Bachelor,Other,Prefer Not to Say,No,PR,19,Single,3,Rent,Yes,2026-04-24
+CLT-000289,65+,Male,T7O,Niagara,1,>$100K,Self-Employed,High School,Bilingual,Prefer Not to Say,Yes,Citizen,31,Widowed,4,Rent,No,2026-05-30
+CLT-000290,25-34,Female,K3W,Durham,3,$40-60K,Employed FT,High School,French,No,No,PR,35,Common-Law,5,Own,Limited,2026-02-17
+CLT-000291,25-34,Male,K6K,Eastern,2,$60-80K,Employed PT,College,Bilingual,Yes,No,Other,28,Married,2,Other,Limited,2026-01-14
+CLT-000292,25-34,Female,K3I,Hamilton,4,<$20K,Unemployed,Bachelor,Bilingual,Yes,Yes,Work Permit,20,Common-Law,2,Shelter,Yes,2026-02-08
+CLT-000293,18-24,Male,N1P,Southwestern,1,$20-40K,Student,College,Bilingual,No,No,Refugee,25,Single,1,Own,Limited,2026-05-25
+CLT-000294,25-34,Male,T2P,GTA,7,$60-80K,Unemployed,Less than HS,Other,Prefer Not to Say,No,Citizen,9,Married,1,Other,Limited,2026-03-02
+CLT-000295,65+,Male,L6J,Southwestern,4,$80-100K,Self-Employed,College,French,Prefer Not to Say,Yes,Work Permit,23,Common-Law,2,Social Housing,Limited,2026-03-27
+CLT-000296,18-24,Female,N3W,Central,4,<$20K,Student,Bachelor,Other,Prefer Not to Say,No,PR,14,Married,3,Shelter,Yes,2026-05-28
+CLT-000297,65+,Male,L6B,GTA,5,$20-40K,Self-Employed,Doctorate,French,No,No,PR,27,Widowed,0,Rent,Limited,2026-02-17
+CLT-000298,25-34,Male,P7L,Central,6,<$20K,Student,Less than HS,Other,Prefer Not to Say,Yes,Refugee,41,Divorced,0,Own,No,2026-06-23
+CLT-000299,18-24,Female,M0G,Waterloo,7,$20-40K,Unemployed,College,English,No,No,Other,30,Married,0,Shelter,Yes,2026-07-06
+CLT-000300,18-24,Female,T3Y,Eastern,5,>$100K,Self-Employed,Less than HS,French,Prefer Not to Say,No,Other,9,Single,0,Social Housing,Yes,2026-01-07
+CLT-000301,45-54,Male,K2N,GTA,7,<$20K,Retired,High School,French,Prefer Not to Say,Yes,Refugee,28,Common-Law,1,Shelter,Yes,2026-03-22
+CLT-000302,35-44,Non-Binary,N8R,Hamilton,7,$20-40K,Retired,High School,English,No,Yes,PR,10,Widowed,5,Own,Yes,2026-02-12
+CLT-000303,45-54,Male,L4N,Niagara,3,$80-100K,Retired,College,French,Prefer Not to Say,No,Refugee,26,Single,4,Shelter,Limited,2026-07-30
+CLT-000304,18-24,Prefer Not to Say,L7E,Southwestern,7,$40-60K,Employed PT,College,Other,Yes,No,Other,29,Common-Law,3,Shelter,Limited,2026-05-18
+CLT-000305,35-44,Male,N0Z,Waterloo,3,$60-80K,Unemployed,Bachelor,Other,No,Yes,Refugee,5,Married,4,Other,Limited,2026-06-05
+CLT-000306,45-54,Female,P4E,Niagara,5,<$20K,On Leave,Master,French,Prefer Not to Say,Yes,Refugee,43,Single,5,Shelter,No,2026-01-31
+CLT-000307,45-54,Male,M5G,Hamilton,1,>$100K,Retired,Bachelor,English,No,No,Refugee,34,Widowed,0,Rent,Yes,2026-06-26
+CLT-000308,65+,Prefer Not to Say,N4P,Waterloo,7,$40-60K,Self-Employed,Less than HS,French,No,Yes,Citizen,11,Common-Law,1,Other,Limited,2026-04-03
+CLT-000309,25-34,Non-Binary,T4C,Niagara,7,<$20K,Employed FT,Master,English,Prefer Not to Say,No,Other,1,Widowed,3,Own,Limited,2026-01-31
+CLT-000310,45-54,Male,T8Y,Niagara,4,<$20K,Unemployed,High School,English,No,No,Citizen,46,Single,3,Social Housing,Yes,2026-03-14
+CLT-000311,25-34,Female,N8S,Central,6,$60-80K,Retired,Bachelor,Other,Prefer Not to Say,Yes,Work Permit,26,Single,5,Own,No,2026-01-18
+CLT-000312,18-24,Male,P0B,Hamilton,1,<$20K,Student,Master,Bilingual,Yes,Yes,Citizen,23,Single,1,Social Housing,Limited,2026-03-15
+CLT-000313,55-64,Prefer Not to Say,K3W,Waterloo,2,<$20K,Employed FT,Less than HS,French,Prefer Not to Say,No,Work Permit,39,Widowed,3,Social Housing,Limited,2026-04-28
+CLT-000314,65+,Non-Binary,T3T,Niagara,3,$80-100K,On Leave,Doctorate,Other,Prefer Not to Say,No,Work Permit,48,Married,2,Rent,No,2026-06-19
+CLT-000315,65+,Non-Binary,T2B,Southwestern,1,$60-80K,Unemployed,Less than HS,Bilingual,Prefer Not to Say,Yes,Refugee,18,Single,5,Social Housing,Yes,2026-02-18
+CLT-000316,25-34,Prefer Not to Say,P3O,Niagara,7,$60-80K,Self-Employed,Master,Other,No,Yes,Refugee,49,Single,4,Social Housing,No,2026-05-08
+CLT-000317,18-24,Prefer Not to Say,L9V,GTA,7,$40-60K,Retired,College,Other,Prefer Not to Say,Yes,Work Permit,17,Widowed,4,Own,Limited,2026-01-15
+CLT-000318,25-34,Non-Binary,P6F,Southwestern,6,<$20K,Self-Employed,College,Other,No,No,Work Permit,1,Widowed,4,Other,Limited,2026-04-22
+CLT-000319,25-34,Female,L5Y,Eastern,3,$20-40K,Student,Doctorate,English,Yes,Yes,Citizen,44,Single,5,Other,No,2026-07-24
+CLT-000320,65+,Male,P4N,Niagara,5,$80-100K,Retired,Doctorate,Bilingual,Prefer Not to Say,Yes,PR,4,Married,2,Other,No,2026-01-31
+CLT-000321,55-64,Female,M7X,Eastern,6,$40-60K,Self-Employed,Master,English,Yes,Yes,PR,42,Divorced,2,Rent,No,2026-06-07
+CLT-000322,45-54,Female,M5K,Southwestern,5,$20-40K,On Leave,Master,Other,Prefer Not to Say,Yes,Other,9,Single,2,Shelter,Limited,2026-03-07
+CLT-000323,55-64,Non-Binary,N4M,GTA,3,$20-40K,Retired,High School,Other,Yes,No,Other,16,Divorced,1,Own,No,2026-04-21
+CLT-000324,18-24,Prefer Not to Say,K7K,Durham,1,$40-60K,Unemployed,High School,French,No,No,Refugee,39,Widowed,4,Other,No,2026-05-31
+CLT-000325,55-64,Prefer Not to Say,N5J,Southwestern,3,$80-100K,Unemployed,Bachelor,Bilingual,Yes,Yes,Work Permit,0,Single,4,Rent,Limited,2026-05-29
+CLT-000326,65+,Female,N0W,Central,5,$60-80K,Employed PT,Doctorate,Other,No,Yes,Other,13,Common-Law,3,Rent,Limited,2026-06-04
+CLT-000327,18-24,Male,K4Q,Southwestern,7,$40-60K,Student,Master,French,No,No,Refugee,7,Single,2,Shelter,Limited,2026-07-25
+CLT-000328,45-54,Female,T2W,Eastern,7,<$20K,On Leave,Bachelor,English,Prefer Not to Say,No,Work Permit,39,Common-Law,4,Own,No,2026-03-01
+CLT-000329,18-24,Prefer Not to Say,M2W,Northern,4,>$100K,Unemployed,High School,French,Yes,Yes,Refugee,43,Married,5,Shelter,Yes,2026-05-18
+CLT-000330,45-54,Female,L4O,Central,4,$20-40K,On Leave,Less than HS,English,Yes,Yes,PR,34,Single,3,Other,Yes,2026-05-23
+CLT-000331,45-54,Male,N6C,Central,6,$40-60K,Unemployed,Master,Bilingual,Prefer Not to Say,No,Refugee,14,Common-Law,3,Social Housing,Limited,2026-03-17
+CLT-000332,18-24,Male,K8V,Durham,2,$40-60K,Employed PT,Less than HS,French,Prefer Not to Say,No,Refugee,37,Single,2,Other,No,2026-04-10
+CLT-000333,55-64,Non-Binary,K8Q,Northern,6,$80-100K,Unemployed,Bachelor,English,No,Yes,Citizen,15,Single,5,Rent,Limited,2026-02-12
+CLT-000334,55-64,Prefer Not to Say,M2G,Northern,1,$20-40K,On Leave,Bachelor,Other,Prefer Not to Say,No,Work Permit,8,Divorced,5,Shelter,Limited,2026-04-10
+CLT-000335,25-34,Prefer Not to Say,P5F,Hamilton,2,$80-100K,Student,Doctorate,Other,Yes,Yes,PR,0,Widowed,3,Shelter,Limited,2026-02-27
+CLT-000336,35-44,Prefer Not to Say,M0N,Northern,6,$80-100K,Employed PT,High School,Bilingual,Prefer Not to Say,No,Work Permit,30,Married,2,Shelter,Yes,2026-02-19
+CLT-000337,65+,Female,N7U,GTA,1,$40-60K,Unemployed,High School,Bilingual,Prefer Not to Say,No,Other,30,Married,0,Rent,No,2026-02-26
+CLT-000338,65+,Female,K8L,Hamilton,1,$40-60K,Self-Employed,High School,Bilingual,Yes,Yes,Work Permit,21,Common-Law,2,Shelter,Limited,2026-06-04
+CLT-000339,65+,Female,P7O,GTA,3,<$20K,Employed FT,Bachelor,Other,Prefer Not to Say,Yes,Work Permit,50,Widowed,3,Social Housing,No,2026-06-15
+CLT-000340,45-54,Female,P6Z,Central,4,$80-100K,Employed FT,College,Bilingual,Prefer Not to Say,No,Refugee,31,Married,1,Rent,Limited,2026-02-15
+CLT-000341,55-64,Male,T2J,Durham,5,$40-60K,Unemployed,Master,Other,Prefer Not to Say,No,Citizen,0,Divorced,1,Rent,Limited,2026-06-07
+CLT-000342,35-44,Non-Binary,P9V,Southwestern,2,$60-80K,Unemployed,Less than HS,Other,No,Yes,Other,38,Common-Law,1,Own,Yes,2026-02-02
+CLT-000343,65+,Male,K3S,Durham,1,>$100K,Employed FT,High School,Other,Yes,No,PR,34,Married,1,Social Housing,No,2026-05-21
+CLT-000344,55-64,Male,L8Y,Ottawa,1,$80-100K,Self-Employed,Less than HS,English,No,Yes,PR,29,Common-Law,1,Social Housing,No,2026-04-28
+CLT-000345,18-24,Female,T7P,Northern,5,$60-80K,Employed FT,College,Other,No,No,Other,23,Divorced,5,Other,Limited,2026-03-17
+CLT-000346,35-44,Prefer Not to Say,L9K,Waterloo,5,$40-60K,Unemployed,Less than HS,Bilingual,No,Yes,Refugee,8,Widowed,5,Own,No,2026-01-30
+CLT-000347,35-44,Non-Binary,L1R,Eastern,5,$40-60K,Employed PT,Doctorate,Bilingual,Yes,No,PR,3,Divorced,5,Other,Limited,2026-05-09
+CLT-000348,25-34,Male,N5D,Ottawa,5,>$100K,Self-Employed,High School,English,No,No,Refugee,18,Common-Law,2,Rent,Yes,2026-07-25
+CLT-000349,25-34,Male,T2P,Niagara,7,$80-100K,Unemployed,Bachelor,French,Yes,Yes,Work Permit,3,Married,5,Social Housing,Limited,2026-03-03
+CLT-000350,25-34,Male,K4J,GTA,6,>$100K,Employed PT,Master,French,No,Yes,Work Permit,41,Single,4,Social Housing,Yes,2026-02-15
+CLT-000351,65+,Male,P0L,Northern,3,$60-80K,Retired,College,English,Prefer Not to Say,Yes,Work Permit,30,Widowed,2,Own,Yes,2026-07-24
+CLT-000352,65+,Female,K5J,Niagara,1,<$20K,Retired,Master,English,Yes,Yes,Work Permit,47,Married,2,Other,Limited,2026-04-04
+CLT-000353,45-54,Male,K3T,Waterloo,4,>$100K,Employed PT,Bachelor,Other,Prefer Not to Say,No,Citizen,11,Divorced,1,Social Housing,Yes,2026-01-30
+CLT-000354,18-24,Female,M2T,Ottawa,6,>$100K,Employed PT,Master,English,Yes,Yes,Citizen,18,Widowed,2,Other,Yes,2026-02-11
+CLT-000355,55-64,Male,P8U,Durham,6,<$20K,Retired,Bachelor,Other,No,No,PR,12,Single,4,Own,Limited,2026-05-28
+CLT-000356,55-64,Male,P2C,Eastern,2,$40-60K,Student,Master,French,Yes,No,PR,14,Divorced,5,Shelter,No,2026-01-14
+CLT-000357,35-44,Male,N1A,Eastern,6,$80-100K,Retired,Less than HS,English,Prefer Not to Say,No,Work Permit,2,Common-Law,0,Own,Yes,2026-07-04
+CLT-000358,25-34,Female,M3I,Southwestern,5,$40-60K,Student,Less than HS,Other,Yes,No,Other,30,Divorced,2,Own,Limited,2026-05-07
+CLT-000359,45-54,Non-Binary,T2L,Hamilton,2,$20-40K,Employed FT,Bachelor,French,Yes,No,Citizen,12,Divorced,5,Other,Limited,2026-01-20
+CLT-000360,18-24,Male,L7A,Eastern,7,$80-100K,Retired,Bachelor,French,Yes,No,Refugee,29,Single,0,Social Housing,Limited,2026-06-05
+CLT-000361,35-44,Prefer Not to Say,P6M,Waterloo,2,>$100K,Employed PT,High School,French,Prefer Not to Say,No,Citizen,1,Divorced,0,Social Housing,Limited,2026-07-29
+CLT-000362,18-24,Male,P7C,Southwestern,6,<$20K,Retired,Bachelor,French,Yes,Yes,PR,19,Married,0,Shelter,No,2026-05-17
+CLT-000363,45-54,Non-Binary,L8W,Durham,5,$20-40K,Retired,Doctorate,French,Yes,No,Work Permit,38,Single,4,Shelter,Yes,2026-02-06
+CLT-000364,55-64,Non-Binary,P2V,Central,5,$40-60K,Self-Employed,College,Bilingual,No,Yes,PR,39,Single,4,Shelter,Yes,2026-02-24
+CLT-000365,35-44,Female,K6P,Durham,5,$20-40K,Retired,Doctorate,Other,Yes,No,Other,40,Married,1,Rent,Limited,2026-01-05
+CLT-000366,18-24,Non-Binary,T3N,Southwestern,4,$40-60K,Retired,College,Other,No,No,Other,27,Divorced,5,Social Housing,Yes,2026-04-11
+CLT-000367,25-34,Prefer Not to Say,M2B,Niagara,2,<$20K,Student,College,Bilingual,Yes,No,Refugee,25,Single,0,Social Housing,No,2026-05-12
+CLT-000368,35-44,Male,P1D,Southwestern,3,<$20K,Unemployed,Bachelor,French,Prefer Not to Say,Yes,Work Permit,45,Married,5,Shelter,Yes,2026-01-19
+CLT-000369,45-54,Prefer Not to Say,M1J,Niagara,1,$20-40K,Student,Less than HS,English,Prefer Not to Say,Yes,Refugee,47,Single,2,Social Housing,No,2026-07-01
+CLT-000370,65+,Non-Binary,N5I,Northern,6,$60-80K,Retired,High School,Other,Prefer Not to Say,No,PR,31,Divorced,0,Social Housing,Yes,2026-02-20
+CLT-000371,35-44,Non-Binary,T5I,Central,7,$80-100K,Unemployed,Doctorate,Other,No,Yes,Citizen,14,Single,0,Own,Limited,2026-04-16
+CLT-000372,65+,Female,K7Y,Northern,2,$80-100K,Student,Master,Other,No,Yes,Citizen,41,Divorced,5,Rent,No,2026-07-24
+CLT-000373,55-64,Female,P5V,GTA,5,$40-60K,On Leave,Doctorate,Other,Yes,Yes,Work Permit,1,Widowed,4,Own,No,2026-06-24
+CLT-000374,35-44,Male,P1C,Eastern,4,>$100K,On Leave,College,English,Yes,No,Other,40,Common-Law,4,Social Housing,Yes,2026-07-10
+CLT-000375,45-54,Prefer Not to Say,M0W,Niagara,2,$60-80K,Retired,College,Bilingual,Prefer Not to Say,Yes,Work Permit,11,Widowed,2,Social Housing,No,2026-06-06
+CLT-000376,65+,Prefer Not to Say,N9K,Southwestern,2,<$20K,Self-Employed,Doctorate,Other,Prefer Not to Say,No,Refugee,8,Divorced,2,Rent,Limited,2026-01-02
+CLT-000377,18-24,Male,N1U,Hamilton,2,$40-60K,Unemployed,Bachelor,Bilingual,Prefer Not to Say,No,Other,11,Married,2,Own,No,2026-07-02
+CLT-000378,25-34,Female,K6I,Durham,5,$60-80K,Self-Employed,Less than HS,English,Yes,Yes,Refugee,0,Divorced,4,Own,Yes,2026-06-24
+CLT-000379,65+,Non-Binary,T5O,Niagara,1,>$100K,Self-Employed,High School,English,No,No,Other,18,Single,5,Social Housing,Yes,2026-06-10
+CLT-000380,65+,Female,L5Y,Northern,7,$80-100K,Employed PT,Doctorate,French,No,Yes,Other,30,Common-Law,3,Shelter,Limited,2026-05-23
+CLT-000381,18-24,Female,M2N,Central,4,$40-60K,Self-Employed,Bachelor,Other,Yes,Yes,Work Permit,33,Widowed,1,Own,Limited,2026-04-30
+CLT-000382,18-24,Non-Binary,M0P,Waterloo,1,<$20K,Student,Less than HS,English,No,No,Work Permit,16,Divorced,5,Own,Yes,2026-05-30
+CLT-000383,55-64,Female,M9O,Central,7,$40-60K,Employed PT,Doctorate,Bilingual,No,Yes,Other,34,Common-Law,5,Rent,Yes,2026-05-08
+CLT-000384,65+,Prefer Not to Say,L8V,Hamilton,4,<$20K,Employed FT,Bachelor,English,Prefer Not to Say,Yes,Work Permit,15,Married,2,Own,Yes,2026-01-23
+CLT-000385,65+,Male,P2Y,Northern,4,$60-80K,Retired,Master,English,Prefer Not to Say,No,Refugee,26,Single,1,Other,No,2026-04-03
+CLT-000386,65+,Female,P3S,Central,4,<$20K,Student,College,Other,Prefer Not to Say,Yes,Citizen,49,Single,0,Rent,Limited,2026-07-10
+CLT-000387,45-54,Male,T9A,Hamilton,1,$20-40K,Student,Master,English,Prefer Not to Say,No,Refugee,48,Widowed,1,Rent,Yes,2026-05-08
+CLT-000388,65+,Male,P8H,Southwestern,5,$40-60K,Retired,High School,Other,No,No,Other,28,Divorced,5,Rent,Limited,2026-04-15
+CLT-000389,35-44,Male,N4V,Southwestern,7,$40-60K,Student,College,Other,Yes,No,Refugee,25,Common-Law,5,Social Housing,Yes,2026-07-17
+CLT-000390,55-64,Female,P1O,Waterloo,3,$60-80K,Student,Master,Bilingual,Yes,Yes,PR,19,Common-Law,1,Rent,Yes,2026-02-17
+CLT-000391,45-54,Female,N9H,GTA,2,$20-40K,On Leave,Doctorate,Other,Prefer Not to Say,No,Work Permit,10,Common-Law,3,Rent,Yes,2026-01-03
+CLT-000392,55-64,Male,N4Y,GTA,6,$60-80K,Employed PT,College,English,No,No,PR,41,Married,2,Shelter,No,2026-07-10
+CLT-000393,45-54,Non-Binary,M2K,Durham,2,$60-80K,On Leave,Doctorate,English,Yes,No,PR,25,Divorced,4,Rent,Yes,2026-02-04
+CLT-000394,45-54,Prefer Not to Say,K3I,Northern,2,$80-100K,Unemployed,Doctorate,Other,Yes,Yes,Refugee,8,Married,3,Rent,Yes,2026-03-28
+CLT-000395,55-64,Female,M0H,Eastern,6,$60-80K,On Leave,Doctorate,English,Yes,No,PR,41,Married,2,Own,Yes,2026-07-10
+CLT-000396,45-54,Male,L3G,Eastern,7,$20-40K,Self-Employed,Less than HS,French,Prefer Not to Say,No,Work Permit,25,Single,1,Social Housing,Limited,2026-05-05
+CLT-000397,55-64,Male,L7H,Hamilton,1,$80-100K,Retired,Doctorate,Bilingual,Prefer Not to Say,Yes,Refugee,26,Widowed,5,Shelter,Limited,2026-01-05
+CLT-000398,65+,Prefer Not to Say,L5W,Central,3,$40-60K,Self-Employed,Doctorate,French,Yes,No,Refugee,42,Widowed,1,Shelter,Limited,2026-06-21
+CLT-000399,25-34,Prefer Not to Say,L0K,Eastern,6,$20-40K,Self-Employed,Bachelor,French,Prefer Not to Say,No,Other,33,Common-Law,4,Rent,No,2026-07-05
+CLT-000400,25-34,Female,T9B,Eastern,5,$60-80K,Retired,Master,Other,Prefer Not to Say,Yes,PR,5,Common-Law,0,Rent,Yes,2026-01-25
+CLT-000401,55-64,Non-Binary,P6L,Central,7,<$20K,Self-Employed,Doctorate,English,Yes,No,Citizen,25,Divorced,3,Other,No,2026-06-13
+CLT-000402,65+,Male,N7H,Southwestern,4,$60-80K,Student,Less than HS,Bilingual,Prefer Not to Say,No,PR,9,Widowed,4,Social Housing,Limited,2026-06-07
+CLT-000403,18-24,Male,K8K,Northern,3,$20-40K,On Leave,Bachelor,Other,Yes,Yes,Citizen,20,Common-Law,4,Shelter,Yes,2026-06-23
+CLT-000404,45-54,Non-Binary,K9V,Niagara,2,$80-100K,Retired,College,Bilingual,Prefer Not to Say,No,Citizen,12,Widowed,4,Social Housing,No,2026-07-21
+CLT-000405,65+,Non-Binary,N5N,Central,2,<$20K,Student,Less than HS,Other,Yes,Yes,Citizen,9,Single,0,Rent,Limited,2026-07-26
+CLT-000406,45-54,Female,N6H,Northern,3,>$100K,Student,Doctorate,Other,Yes,Yes,PR,46,Married,2,Other,No,2026-03-10
+CLT-000407,55-64,Female,P1N,Niagara,1,<$20K,Retired,Less than HS,English,Prefer Not to Say,Yes,Work Permit,35,Widowed,3,Shelter,Limited,2026-07-06
+CLT-000408,18-24,Prefer Not to Say,K2N,Southwestern,3,$60-80K,On Leave,Master,French,Prefer Not to Say,No,Other,22,Widowed,2,Social Housing,Yes,2026-05-04
+CLT-000409,45-54,Male,P0T,Eastern,4,<$20K,Student,College,Bilingual,Prefer Not to Say,Yes,Citizen,18,Common-Law,3,Rent,Limited,2026-03-11
+CLT-000410,45-54,Prefer Not to Say,P4I,Hamilton,7,$20-40K,Self-Employed,High School,Other,Prefer Not to Say,Yes,Work Permit,8,Widowed,4,Own,Limited,2026-03-26
+CLT-000411,45-54,Prefer Not to Say,L1R,Eastern,4,$80-100K,On Leave,College,Other,No,Yes,Other,33,Widowed,4,Rent,No,2026-03-12
+CLT-000412,25-34,Non-Binary,L0T,Niagara,5,$40-60K,Retired,High School,English,No,Yes,Work Permit,3,Married,1,Own,Limited,2026-05-27
+CLT-000413,65+,Prefer Not to Say,L6Z,Waterloo,6,$20-40K,Unemployed,High School,Bilingual,Yes,No,Work Permit,33,Divorced,4,Social Housing,Yes,2026-01-29
+CLT-000414,25-34,Male,T5M,GTA,7,$20-40K,Retired,Bachelor,English,Yes,Yes,PR,21,Common-Law,3,Other,No,2026-04-08
+CLT-000415,45-54,Male,L9Z,GTA,2,$60-80K,Student,College,Other,No,No,Refugee,47,Widowed,0,Own,No,2026-01-21
+CLT-000416,25-34,Female,M5B,Eastern,6,$80-100K,On Leave,Doctorate,Other,Prefer Not to Say,No,Work Permit,35,Divorced,5,Other,Limited,2026-06-29
+CLT-000417,18-24,Male,M4D,Central,5,$80-100K,Employed PT,High School,French,No,Yes,Other,26,Divorced,0,Own,Yes,2026-05-12
+CLT-000418,35-44,Non-Binary,T0Y,GTA,2,$80-100K,Unemployed,Bachelor,French,Prefer Not to Say,Yes,Citizen,1,Single,1,Social Housing,No,2026-04-30
+CLT-000419,18-24,Male,L8B,Niagara,6,>$100K,On Leave,Less than HS,Bilingual,Prefer Not to Say,Yes,PR,25,Common-Law,0,Social Housing,No,2026-01-31
+CLT-000420,55-64,Male,T9H,Waterloo,4,$80-100K,Student,Less than HS,Other,Prefer Not to Say,No,Citizen,30,Single,4,Own,Limited,2026-03-21
+CLT-000421,55-64,Female,P3W,Northern,7,$80-100K,Self-Employed,College,English,No,Yes,Other,27,Single,1,Other,Yes,2026-02-23
+CLT-000422,25-34,Male,K4S,Central,2,$20-40K,Employed FT,Master,Bilingual,Yes,Yes,PR,30,Single,3,Shelter,No,2026-05-14
+CLT-000423,55-64,Non-Binary,N2W,Hamilton,3,$80-100K,Employed FT,Bachelor,Other,Yes,Yes,PR,26,Married,5,Own,Limited,2026-02-28
+CLT-000424,18-24,Prefer Not to Say,P5C,Niagara,3,$60-80K,Self-Employed,Less than HS,French,Yes,Yes,Other,27,Single,5,Own,Limited,2026-01-21
+CLT-000425,18-24,Female,T3V,Waterloo,7,$80-100K,Employed PT,High School,English,Yes,No,Work Permit,37,Widowed,3,Other,Limited,2026-02-04
+CLT-000426,18-24,Prefer Not to Say,K3D,Southwestern,7,>$100K,Unemployed,Master,Other,Prefer Not to Say,Yes,Citizen,37,Divorced,5,Own,Limited,2026-07-15
+CLT-000427,45-54,Male,L5A,Central,2,<$20K,Employed FT,High School,English,Yes,No,Citizen,33,Single,3,Social Housing,Yes,2026-06-26
+CLT-000428,55-64,Male,L4X,Niagara,7,<$20K,Retired,Doctorate,English,Prefer Not to Say,No,Citizen,16,Single,4,Rent,No,2026-04-19
+CLT-000429,55-64,Non-Binary,L4S,Central,1,$60-80K,Employed FT,Master,Bilingual,Prefer Not to Say,Yes,Refugee,8,Divorced,2,Social Housing,No,2026-04-21
+CLT-000430,55-64,Female,T9U,Durham,7,$40-60K,Retired,Doctorate,English,No,No,PR,38,Common-Law,0,Social Housing,Yes,2026-06-20
+CLT-000431,55-64,Male,L9L,Hamilton,7,>$100K,Student,Bachelor,French,No,Yes,Other,18,Divorced,3,Shelter,Limited,2026-01-22
+CLT-000432,55-64,Non-Binary,K0D,Niagara,7,$40-60K,Student,High School,Other,Yes,No,Work Permit,43,Divorced,4,Social Housing,Limited,2026-01-04
+CLT-000433,25-34,Prefer Not to Say,K9Z,Hamilton,4,<$20K,Employed FT,Bachelor,Other,Yes,No,Refugee,0,Married,2,Other,Limited,2026-02-02
+CLT-000434,35-44,Prefer Not to Say,P9U,Niagara,4,>$100K,Employed FT,Less than HS,Other,No,No,PR,31,Divorced,5,Social Housing,Yes,2026-02-10
+CLT-000435,18-24,Non-Binary,N2G,Ottawa,6,$20-40K,Unemployed,High School,Bilingual,Yes,Yes,Work Permit,9,Common-Law,5,Shelter,Yes,2026-01-01
+CLT-000436,55-64,Non-Binary,T8T,Southwestern,5,$60-80K,Employed FT,Bachelor,French,Yes,No,Citizen,21,Married,0,Social Housing,Limited,2026-02-28
+CLT-000437,35-44,Female,M3X,Ottawa,5,$40-60K,Unemployed,Bachelor,English,No,Yes,Work Permit,42,Married,1,Rent,Yes,2026-07-05
+CLT-000438,65+,Male,M9C,Northern,5,$40-60K,Unemployed,Doctorate,French,Prefer Not to Say,Yes,Work Permit,44,Single,2,Own,Limited,2026-07-22
+CLT-000439,45-54,Female,L3V,Hamilton,7,$60-80K,Retired,Master,French,Prefer Not to Say,No,Citizen,48,Married,0,Own,No,2026-05-16
+CLT-000440,25-34,Female,M3P,Waterloo,5,>$100K,Self-Employed,Master,English,Prefer Not to Say,Yes,Citizen,2,Widowed,3,Rent,No,2026-02-11
+CLT-000441,45-54,Non-Binary,N8Y,Waterloo,7,$60-80K,On Leave,High School,Bilingual,No,No,Refugee,18,Common-Law,1,Shelter,Yes,2026-07-16
+CLT-000442,65+,Non-Binary,P8R,Northern,2,>$100K,On Leave,Bachelor,French,No,No,Work Permit,47,Married,1,Social Housing,Yes,2026-03-25
+CLT-000443,18-24,Male,N8V,Durham,7,$20-40K,Retired,Less than HS,Bilingual,Yes,Yes,Work Permit,21,Common-Law,1,Other,Limited,2026-05-15
+CLT-000444,25-34,Prefer Not to Say,K0I,Hamilton,4,$60-80K,Student,Bachelor,Other,Prefer Not to Say,Yes,Other,8,Widowed,4,Shelter,No,2026-03-24
+CLT-000445,65+,Prefer Not to Say,M2B,Hamilton,3,$20-40K,Employed FT,Doctorate,French,Prefer Not to Say,No,Other,23,Widowed,1,Own,No,2026-07-18
+CLT-000446,65+,Female,N2D,GTA,4,$40-60K,Self-Employed,Less than HS,Bilingual,No,Yes,Citizen,40,Single,0,Shelter,Yes,2026-03-13
+CLT-000447,35-44,Non-Binary,K9Z,Waterloo,4,$40-60K,Unemployed,Doctorate,Other,No,No,PR,13,Single,4,Other,No,2026-01-25
+CLT-000448,18-24,Non-Binary,K3H,Southwestern,7,$80-100K,Student,High School,Other,Prefer Not to Say,No,Citizen,5,Single,0,Rent,Limited,2026-03-19
+CLT-000449,25-34,Non-Binary,L9T,Hamilton,3,>$100K,Self-Employed,Master,Bilingual,Prefer Not to Say,No,Citizen,46,Widowed,4,Other,Yes,2026-05-02
+CLT-000450,55-64,Prefer Not to Say,M2D,Central,5,$80-100K,Employed PT,Bachelor,Bilingual,Yes,No,Refugee,14,Widowed,1,Shelter,No,2026-05-30
+CLT-000451,18-24,Female,K1F,Northern,2,$20-40K,On Leave,Master,Bilingual,No,Yes,Refugee,0,Common-Law,3,Rent,Limited,2026-01-31
+CLT-000452,35-44,Female,N8O,Southwestern,4,$60-80K,Self-Employed,Bachelor,Bilingual,Yes,No,Citizen,14,Divorced,3,Shelter,No,2026-04-13
+CLT-000453,18-24,Male,T7M,Northern,2,$80-100K,On Leave,High School,English,Yes,Yes,Citizen,37,Married,4,Shelter,Limited,2026-02-12
+CLT-000454,45-54,Non-Binary,N2N,Southwestern,6,$20-40K,Retired,High School,French,Yes,No,Work Permit,41,Widowed,3,Other,Yes,2026-06-19
+CLT-000455,18-24,Prefer Not to Say,N6B,Southwestern,5,$40-60K,Employed PT,Less than HS,French,Yes,No,Work Permit,13,Common-Law,4,Social Housing,Limited,2026-05-24
+CLT-000456,18-24,Male,P4Z,Niagara,3,<$20K,Employed PT,College,French,Yes,Yes,Refugee,47,Married,3,Other,Limited,2026-01-23
+CLT-000457,45-54,Male,L8W,Eastern,7,$60-80K,Unemployed,Doctorate,English,Yes,No,Work Permit,37,Common-Law,2,Other,Limited,2026-07-01
+CLT-000458,35-44,Non-Binary,K1T,Eastern,4,$80-100K,On Leave,High School,English,Yes,No,PR,44,Divorced,2,Other,No,2026-02-15
+CLT-000459,45-54,Prefer Not to Say,N6Q,Hamilton,4,$60-80K,Unemployed,Master,French,No,No,Citizen,13,Common-Law,0,Shelter,No,2026-06-02
+CLT-000460,18-24,Non-Binary,K8A,Durham,6,$80-100K,On Leave,College,French,No,No,PR,12,Married,4,Other,Yes,2026-06-23
+CLT-000461,45-54,Prefer Not to Say,M5A,GTA,1,<$20K,Employed FT,High School,English,No,No,Other,0,Common-Law,2,Rent,Limited,2026-02-20
+CLT-000462,45-54,Non-Binary,N9F,Ottawa,3,$80-100K,Retired,Less than HS,English,Yes,No,Citizen,24,Common-Law,3,Other,Yes,2026-03-21
+CLT-000463,65+,Male,L7H,Durham,6,<$20K,Student,Bachelor,Other,No,Yes,Refugee,28,Married,0,Other,Limited,2026-04-11
+CLT-000464,18-24,Male,K3O,Northern,4,$40-60K,Employed PT,Doctorate,French,Yes,No,Other,24,Widowed,4,Shelter,Yes,2026-03-10
+CLT-000465,35-44,Prefer Not to Say,M5L,Hamilton,5,$20-40K,Employed PT,Bachelor,Other,Yes,Yes,Citizen,43,Common-Law,2,Other,Yes,2026-04-30
+CLT-000466,65+,Prefer Not to Say,K2X,Niagara,1,$80-100K,Student,Master,Bilingual,No,No,Citizen,2,Widowed,2,Other,No,2026-02-21
+CLT-000467,35-44,Prefer Not to Say,N9J,Eastern,6,$20-40K,On Leave,Bachelor,Bilingual,No,No,Citizen,10,Divorced,1,Rent,No,2026-04-12
+CLT-000468,45-54,Prefer Not to Say,L9M,Southwestern,6,$40-60K,Retired,Bachelor,Other,No,No,Other,40,Common-Law,3,Own,No,2026-04-01
+CLT-000469,65+,Female,L7I,Central,6,<$20K,Self-Employed,Doctorate,French,No,Yes,Work Permit,15,Divorced,3,Rent,Limited,2026-06-15
+CLT-000470,18-24,Non-Binary,T8T,Niagara,3,$20-40K,Self-Employed,Master,Bilingual,No,Yes,PR,28,Common-Law,2,Other,Yes,2026-07-17
+CLT-000471,45-54,Male,L3R,Eastern,2,>$100K,Retired,College,Other,Prefer Not to Say,Yes,PR,46,Widowed,0,Rent,No,2026-06-03
+CLT-000472,45-54,Non-Binary,T8B,Southwestern,7,<$20K,Student,High School,Other,Yes,Yes,Work Permit,5,Common-Law,0,Shelter,Yes,2026-02-15
+CLT-000473,65+,Non-Binary,M5D,GTA,7,>$100K,Employed PT,Bachelor,Bilingual,Prefer Not to Say,Yes,Other,28,Widowed,3,Rent,Yes,2026-03-16
+CLT-000474,45-54,Prefer Not to Say,L6I,Niagara,7,$60-80K,Self-Employed,Less than HS,French,Yes,Yes,Refugee,12,Widowed,4,Shelter,No,2026-01-29
+CLT-000475,35-44,Female,M9J,Ottawa,1,<$20K,Employed FT,High School,Other,No,Yes,Refugee,34,Single,5,Other,No,2026-01-30
+CLT-000476,45-54,Non-Binary,P4S,Hamilton,4,$80-100K,Self-Employed,Bachelor,French,Prefer Not to Say,Yes,PR,1,Divorced,0,Social Housing,No,2026-02-25
+CLT-000477,35-44,Prefer Not to Say,T5I,Hamilton,5,$80-100K,Employed PT,College,English,No,Yes,Refugee,2,Married,3,Own,Limited,2026-04-14
+CLT-000478,55-64,Prefer Not to Say,L6Y,Hamilton,1,$60-80K,Employed FT,Doctorate,English,Yes,Yes,PR,46,Divorced,0,Rent,Limited,2026-01-29
+CLT-000479,25-34,Female,N7I,Central,5,>$100K,Retired,Master,Bilingual,Prefer Not to Say,Yes,PR,15,Divorced,3,Other,No,2026-01-03
+CLT-000480,35-44,Male,N9C,GTA,6,$60-80K,On Leave,Doctorate,Bilingual,Yes,Yes,Refugee,17,Single,3,Own,No,2026-05-16
+CLT-000481,25-34,Non-Binary,N8X,Southwestern,5,$20-40K,On Leave,Less than HS,French,No,No,Refugee,13,Divorced,2,Social Housing,Limited,2026-06-23
+CLT-000482,18-24,Non-Binary,L9E,Hamilton,2,$80-100K,Employed FT,Master,English,Yes,Yes,Refugee,35,Widowed,1,Shelter,No,2026-03-04
+CLT-000483,65+,Male,N7X,Durham,3,>$100K,Retired,Master,Bilingual,No,No,Citizen,35,Widowed,5,Other,No,2026-07-10
+CLT-000484,55-64,Female,M3F,GTA,4,>$100K,Unemployed,Bachelor,English,Prefer Not to Say,No,PR,27,Widowed,4,Own,Yes,2026-07-10
+CLT-000485,35-44,Female,K0E,Waterloo,5,>$100K,Retired,Bachelor,Other,Yes,Yes,Citizen,38,Married,1,Social Housing,No,2026-04-01
+CLT-000486,35-44,Male,K0O,Waterloo,6,$80-100K,Employed FT,College,Bilingual,Yes,Yes,Refugee,13,Married,0,Own,Yes,2026-06-10
+CLT-000487,55-64,Non-Binary,K1R,Central,1,<$20K,Unemployed,High School,French,Yes,Yes,Citizen,48,Divorced,4,Rent,Yes,2026-03-19
+CLT-000488,55-64,Male,T0S,Eastern,1,$40-60K,Unemployed,Master,Bilingual,Prefer Not to Say,No,PR,33,Common-Law,3,Shelter,Limited,2026-04-25
+CLT-000489,25-34,Female,L5U,Central,2,$80-100K,On Leave,Less than HS,Bilingual,Yes,Yes,Refugee,9,Married,4,Rent,No,2026-03-12
+CLT-000490,25-34,Non-Binary,M8K,Northern,7,$40-60K,Unemployed,Doctorate,Other,Prefer Not to Say,No,Other,50,Widowed,5,Own,No,2026-03-28
+CLT-000491,55-64,Male,K0Q,Ottawa,5,$60-80K,Self-Employed,Doctorate,Bilingual,No,No,Other,29,Divorced,0,Social Housing,Yes,2026-07-31
+CLT-000492,65+,Non-Binary,P8J,Waterloo,6,<$20K,Self-Employed,College,English,Prefer Not to Say,Yes,Work Permit,18,Divorced,5,Social Housing,Yes,2026-03-02
+CLT-000493,35-44,Male,N6T,Central,3,$40-60K,Retired,Doctorate,French,No,No,Other,32,Single,0,Other,Limited,2026-02-04
+CLT-000494,65+,Female,N7Y,Central,3,$60-80K,On Leave,Bachelor,Other,No,No,Work Permit,36,Married,2,Social Housing,Limited,2026-01-31
+CLT-000495,25-34,Female,P7E,Southwestern,6,$80-100K,On Leave,High School,Other,Prefer Not to Say,No,Other,2,Single,3,Own,Limited,2026-03-14
+CLT-000496,35-44,Non-Binary,P4R,Southwestern,5,>$100K,Self-Employed,Bachelor,Other,No,Yes,Refugee,27,Married,1,Other,No,2026-07-21
+CLT-000497,45-54,Prefer Not to Say,M2K,Central,5,$20-40K,Unemployed,Less than HS,French,No,No,Refugee,16,Widowed,5,Own,No,2026-03-19
+CLT-000498,18-24,Female,K7E,Hamilton,4,$40-60K,Employed PT,Less than HS,Bilingual,No,Yes,PR,17,Single,3,Own,Yes,2026-03-28
+CLT-000499,35-44,Non-Binary,L8H,Southwestern,3,$40-60K,Retired,College,Bilingual,No,Yes,Citizen,27,Widowed,5,Rent,Yes,2026-04-06
+CLT-000500,65+,Prefer Not to Say,T6N,Durham,1,$80-100K,On Leave,Master,Bilingual,Yes,No,Other,5,Single,4,Shelter,Limited,2026-01-14
+CLT-000501,35-44,Female,M7C,Central,3,>$100K,Student,Master,Bilingual,Yes,Yes,Other,29,Widowed,1,Rent,No,2026-05-23
+CLT-000502,45-54,Male,P3C,Niagara,1,$80-100K,Retired,Master,Bilingual,Prefer Not to Say,Yes,Citizen,2,Common-Law,2,Other,Yes,2026-06-02
+CLT-000503,18-24,Male,M5G,Northern,1,$20-40K,Student,College,English,Yes,Yes,PR,45,Married,4,Shelter,Yes,2026-05-08
+CLT-000504,55-64,Male,K0V,Eastern,5,$80-100K,Self-Employed,Bachelor,French,Prefer Not to Say,Yes,Other,34,Widowed,1,Other,No,2026-03-14
+CLT-000505,45-54,Male,N7N,Niagara,2,>$100K,Unemployed,High School,English,Prefer Not to Say,Yes,Work Permit,32,Single,1,Social Housing,Yes,2026-07-10
+CLT-000506,45-54,Prefer Not to Say,L7I,Northern,6,$60-80K,Unemployed,College,English,No,No,Other,12,Married,3,Other,No,2026-04-15
+CLT-000507,25-34,Prefer Not to Say,P5Q,Ottawa,6,>$100K,Retired,Bachelor,Other,No,No,Other,36,Married,2,Shelter,Limited,2026-04-25
+CLT-000508,65+,Male,L4M,Waterloo,2,$80-100K,Retired,Doctorate,Bilingual,Yes,Yes,Work Permit,21,Divorced,3,Social Housing,Limited,2026-02-06
+CLT-000509,25-34,Non-Binary,M2U,Niagara,7,$80-100K,On Leave,Less than HS,Other,No,No,Refugee,26,Widowed,0,Own,Limited,2026-05-18
+CLT-000510,25-34,Female,P2H,Northern,3,$60-80K,Retired,Bachelor,French,Yes,Yes,PR,29,Married,1,Shelter,Limited,2026-05-23
+CLT-000511,35-44,Male,N1G,Durham,4,$60-80K,Unemployed,Doctorate,Bilingual,No,Yes,Citizen,16,Common-Law,2,Other,No,2026-06-25
+CLT-000512,35-44,Prefer Not to Say,T6U,Central,7,$60-80K,Retired,Bachelor,English,Yes,No,Work Permit,4,Married,3,Shelter,Limited,2026-04-19
+CLT-000513,35-44,Non-Binary,P4G,Niagara,2,$20-40K,Student,Less than HS,Bilingual,No,Yes,Work Permit,27,Common-Law,1,Social Housing,No,2026-02-15
+CLT-000514,18-24,Male,L2C,Durham,4,$60-80K,Unemployed,Bachelor,English,No,Yes,Citizen,15,Common-Law,0,Other,Yes,2026-05-27
+CLT-000515,55-64,Non-Binary,T0Z,Central,4,$40-60K,Self-Employed,Less than HS,French,Yes,No,Other,20,Single,4,Own,Limited,2026-03-09
+CLT-000516,25-34,Female,K9Q,Hamilton,4,$60-80K,Self-Employed,High School,French,No,Yes,Work Permit,8,Married,1,Other,Yes,2026-01-01
+CLT-000517,45-54,Male,T8T,Ottawa,6,$60-80K,Employed FT,Less than HS,Bilingual,Yes,Yes,Other,5,Widowed,2,Social Housing,No,2026-06-17
+CLT-000518,35-44,Prefer Not to Say,L9T,GTA,3,$20-40K,Student,Less than HS,French,No,No,Citizen,7,Common-Law,1,Social Housing,Limited,2026-07-30
+CLT-000519,25-34,Male,L0U,Hamilton,4,>$100K,Self-Employed,Doctorate,Bilingual,Yes,Yes,Citizen,27,Single,0,Other,Yes,2026-02-05
+CLT-000520,18-24,Prefer Not to Say,P9O,Southwestern,3,$20-40K,On Leave,Bachelor,English,No,No,PR,9,Single,2,Rent,Yes,2026-06-06
+CLT-000521,25-34,Prefer Not to Say,L3Z,Ottawa,2,$60-80K,Student,Bachelor,Bilingual,No,Yes,PR,14,Married,3,Own,No,2026-04-02
+CLT-000522,35-44,Male,N2I,Hamilton,3,$40-60K,Unemployed,High School,Other,No,Yes,Citizen,43,Married,3,Shelter,Limited,2026-01-15
+CLT-000523,25-34,Prefer Not to Say,T5D,GTA,1,$40-60K,Self-Employed,Doctorate,Other,Prefer Not to Say,No,Citizen,27,Widowed,0,Social Housing,No,2026-01-20
+CLT-000524,18-24,Female,M8C,Niagara,4,>$100K,Retired,High School,French,Yes,No,PR,36,Married,5,Rent,Yes,2026-06-11
+CLT-000525,35-44,Non-Binary,P4X,Waterloo,6,$40-60K,Employed FT,Bachelor,Bilingual,No,Yes,Refugee,37,Common-Law,1,Rent,Yes,2026-06-30
+CLT-000526,55-64,Female,M2I,Northern,4,>$100K,Unemployed,Bachelor,Bilingual,Prefer Not to Say,No,Citizen,36,Single,1,Own,No,2026-01-18
+CLT-000527,65+,Male,L4R,Durham,1,$40-60K,Employed FT,Less than HS,French,Yes,No,Refugee,49,Common-Law,5,Rent,Yes,2026-04-17
+CLT-000528,25-34,Female,M5P,Central,6,$40-60K,Employed PT,Bachelor,English,Yes,No,Citizen,25,Common-Law,1,Shelter,No,2026-01-09
+CLT-000529,65+,Female,M7A,Southwestern,4,<$20K,Employed FT,High School,Bilingual,Prefer Not to Say,Yes,Other,43,Married,1,Other,Limited,2026-05-01
+CLT-000530,18-24,Prefer Not to Say,T8L,Niagara,5,<$20K,Student,Bachelor,Other,No,Yes,Work Permit,38,Single,3,Rent,Limited,2026-07-18
+CLT-000531,55-64,Female,M1B,Central,6,$40-60K,On Leave,Master,English,No,Yes,PR,45,Single,3,Other,Yes,2026-04-07
+CLT-000532,35-44,Prefer Not to Say,M8T,Southwestern,6,$40-60K,Employed FT,Bachelor,Bilingual,Prefer Not to Say,No,Work Permit,9,Common-Law,4,Rent,No,2026-04-30
+CLT-000533,18-24,Prefer Not to Say,N5A,Waterloo,3,$60-80K,Employed PT,Less than HS,Other,Prefer Not to Say,No,Refugee,9,Married,3,Own,Limited,2026-06-19
+CLT-000534,25-34,Prefer Not to Say,M2U,Niagara,7,>$100K,On Leave,Less than HS,English,Prefer Not to Say,No,Other,1,Single,0,Other,Yes,2026-04-22
+CLT-000535,18-24,Male,P4S,GTA,7,$80-100K,Employed FT,Doctorate,Other,Yes,Yes,PR,8,Divorced,5,Shelter,Limited,2026-02-13
+CLT-000536,55-64,Male,L8O,Hamilton,7,$60-80K,On Leave,Bachelor,English,Yes,No,Other,29,Married,5,Shelter,Limited,2026-02-03
+CLT-000537,18-24,Male,P5N,Waterloo,4,$40-60K,Student,Less than HS,Other,No,Yes,Work Permit,38,Common-Law,3,Other,Limited,2026-01-29
+CLT-000538,55-64,Female,K0L,Ottawa,2,$40-60K,Student,High School,Other,No,Yes,Work Permit,2,Single,3,Social Housing,Yes,2026-04-19
+CLT-000539,45-54,Non-Binary,T8N,Hamilton,2,$40-60K,Retired,Less than HS,French,Prefer Not to Say,Yes,Refugee,46,Divorced,2,Other,No,2026-03-14
+CLT-000540,45-54,Prefer Not to Say,P3L,Waterloo,5,>$100K,Self-Employed,College,Bilingual,Yes,Yes,Work Permit,24,Widowed,4,Other,No,2026-07-12
+CLT-000541,18-24,Female,L2Y,GTA,7,<$20K,Retired,High School,English,Prefer Not to Say,No,Work Permit,27,Widowed,0,Rent,No,2026-07-27
+CLT-000542,45-54,Male,P1S,Niagara,5,$80-100K,Employed PT,High School,Bilingual,Yes,Yes,PR,40,Single,1,Other,No,2026-05-23
+CLT-000543,25-34,Male,L6Q,Northern,5,>$100K,Self-Employed,Bachelor,Bilingual,Yes,Yes,Work Permit,21,Married,3,Rent,Yes,2026-02-04
+CLT-000544,55-64,Non-Binary,P7I,Hamilton,5,<$20K,Employed FT,High School,French,No,Yes,Work Permit,47,Common-Law,0,Shelter,Yes,2026-05-27
+CLT-000545,25-34,Female,K9H,Ottawa,4,>$100K,Student,Master,Other,No,Yes,PR,36,Common-Law,5,Shelter,No,2026-07-14
+CLT-000546,65+,Male,L5P,Hamilton,6,$60-80K,On Leave,Master,English,No,No,PR,4,Married,5,Social Housing,Yes,2026-03-19
+CLT-000547,65+,Non-Binary,K5H,Durham,6,<$20K,Employed FT,Doctorate,Bilingual,No,No,Citizen,37,Married,3,Rent,Yes,2026-06-08
+CLT-000548,35-44,Male,T3M,Waterloo,6,$40-60K,Student,Doctorate,Bilingual,No,Yes,Other,16,Married,1,Other,Yes,2026-04-15
+CLT-000549,55-64,Prefer Not to Say,N0Z,Durham,5,$40-60K,Unemployed,Less than HS,Other,Prefer Not to Say,No,PR,49,Widowed,5,Social Housing,No,2026-07-25
+CLT-000550,18-24,Male,T1A,Southwestern,2,$60-80K,On Leave,Doctorate,Other,No,Yes,Work Permit,17,Widowed,1,Own,Yes,2026-01-28
+CLT-000551,55-64,Male,P8U,Waterloo,4,$80-100K,Retired,Doctorate,English,Yes,Yes,Other,15,Common-Law,3,Social Housing,Yes,2026-05-16
+CLT-000552,35-44,Male,M1K,Hamilton,1,$20-40K,Unemployed,Bachelor,Bilingual,No,Yes,Citizen,26,Common-Law,5,Rent,No,2026-02-17
+CLT-000553,35-44,Non-Binary,L4N,Northern,1,$20-40K,Employed FT,High School,Bilingual,Prefer Not to Say,No,Refugee,39,Married,1,Rent,Limited,2026-03-14
+CLT-000554,18-24,Prefer Not to Say,M7H,Southwestern,2,$40-60K,Student,Bachelor,English,Prefer Not to Say,No,Work Permit,30,Single,5,Own,No,2026-01-13
+CLT-000555,25-34,Male,M7S,Central,1,$60-80K,Employed PT,College,French,Yes,No,Citizen,47,Married,0,Rent,Yes,2026-03-16
+CLT-000556,65+,Male,N5M,Ottawa,4,$80-100K,Employed FT,Master,Bilingual,No,No,Citizen,33,Common-Law,2,Own,Yes,2026-02-25
+CLT-000557,65+,Female,N6L,GTA,2,$80-100K,Unemployed,Master,English,No,No,Work Permit,35,Single,3,Other,Yes,2026-06-20
+CLT-000558,35-44,Prefer Not to Say,P2S,GTA,6,$40-60K,Employed PT,Doctorate,Bilingual,Prefer Not to Say,Yes,PR,5,Widowed,0,Own,Limited,2026-03-14
+CLT-000559,25-34,Non-Binary,P1J,Ottawa,3,<$20K,On Leave,Less than HS,French,Prefer Not to Say,No,Refugee,36,Widowed,1,Other,Yes,2026-03-14
+CLT-000560,25-34,Prefer Not to Say,L2A,Ottawa,7,$20-40K,On Leave,Doctorate,English,Yes,No,Work Permit,2,Married,0,Other,Limited,2026-06-15
+CLT-000561,35-44,Non-Binary,N9Q,Durham,5,$60-80K,Student,College,Bilingual,Prefer Not to Say,Yes,Other,9,Divorced,1,Other,Yes,2026-03-05
+CLT-000562,65+,Prefer Not to Say,N5T,Ottawa,4,$40-60K,Unemployed,Doctorate,English,No,Yes,PR,46,Single,4,Own,Yes,2026-01-26
+CLT-000563,25-34,Male,P5E,Eastern,1,$40-60K,Student,Master,French,Yes,No,PR,34,Common-Law,5,Own,Limited,2026-02-02
+CLT-000564,25-34,Non-Binary,N2M,Hamilton,7,<$20K,Self-Employed,High School,French,Yes,Yes,Work Permit,15,Common-Law,1,Rent,Limited,2026-04-19
+CLT-000565,45-54,Male,N7M,GTA,3,$20-40K,Retired,Doctorate,French,Prefer Not to Say,No,Refugee,45,Divorced,3,Social Housing,Yes,2026-05-19
+CLT-000566,65+,Prefer Not to Say,N2C,GTA,4,>$100K,Unemployed,High School,Bilingual,Prefer Not to Say,Yes,Citizen,15,Married,5,Own,No,2026-01-19
+CLT-000567,18-24,Prefer Not to Say,K4Z,Hamilton,7,$20-40K,Unemployed,College,French,No,No,Work Permit,4,Divorced,5,Other,Limited,2026-06-21
+CLT-000568,25-34,Female,N6Y,Eastern,5,$80-100K,Unemployed,Doctorate,French,Yes,Yes,Other,10,Widowed,4,Rent,No,2026-06-15
+CLT-000569,25-34,Female,N8U,Niagara,5,<$20K,Student,Doctorate,English,No,Yes,PR,22,Divorced,5,Rent,Yes,2026-05-14
+CLT-000570,55-64,Non-Binary,P3C,Ottawa,6,$60-80K,Self-Employed,Master,French,Prefer Not to Say,Yes,PR,20,Married,2,Shelter,Limited,2026-01-15
+CLT-000571,35-44,Male,N0P,Hamilton,3,<$20K,Self-Employed,Master,Bilingual,Prefer Not to Say,No,Other,39,Widowed,3,Rent,No,2026-04-27
+CLT-000572,45-54,Prefer Not to Say,T6E,Ottawa,2,$80-100K,Employed FT,College,Bilingual,Yes,No,Other,17,Common-Law,2,Rent,Yes,2026-04-05
+CLT-000573,55-64,Non-Binary,L1G,Eastern,6,<$20K,Self-Employed,College,English,No,No,Citizen,37,Divorced,1,Social Housing,Yes,2026-07-11
+CLT-000574,65+,Male,M9N,Hamilton,3,$40-60K,Employed FT,Doctorate,French,No,Yes,Refugee,48,Common-Law,5,Other,Yes,2026-03-27
+CLT-000575,65+,Male,L1P,Eastern,4,$20-40K,Employed PT,High School,Bilingual,Yes,No,Refugee,32,Divorced,0,Rent,Limited,2026-02-14
+CLT-000576,25-34,Male,K8C,Hamilton,1,$80-100K,On Leave,Master,French,No,No,Refugee,47,Common-Law,1,Own,Yes,2026-02-11
+CLT-000577,45-54,Non-Binary,P6H,Hamilton,7,$20-40K,Employed FT,Less than HS,Bilingual,Prefer Not to Say,Yes,PR,6,Single,4,Other,No,2026-02-11
+CLT-000578,25-34,Male,N5Z,Waterloo,3,>$100K,On Leave,Less than HS,English,Yes,Yes,Other,1,Married,5,Shelter,No,2026-05-21
+CLT-000579,35-44,Male,T0B,Northern,1,$80-100K,Employed PT,College,English,Prefer Not to Say,No,Citizen,34,Single,3,Own,Yes,2026-05-13
+CLT-000580,35-44,Prefer Not to Say,M6U,Durham,4,$80-100K,Student,Doctorate,French,Yes,Yes,Work Permit,36,Widowed,4,Shelter,Yes,2026-02-23
+CLT-000581,65+,Female,M4G,Southwestern,6,$60-80K,Unemployed,High School,French,No,No,PR,6,Single,3,Social Housing,Yes,2026-01-12
+CLT-000582,18-24,Non-Binary,N0C,GTA,6,$40-60K,Employed FT,High School,English,Yes,No,Work Permit,21,Divorced,4,Social Housing,Yes,2026-01-13
+CLT-000583,65+,Prefer Not to Say,K2V,Eastern,5,$40-60K,Student,Doctorate,Other,Yes,Yes,Refugee,24,Single,5,Other,Limited,2026-07-14
+CLT-000584,55-64,Prefer Not to Say,T8O,Hamilton,4,$60-80K,Self-Employed,Bachelor,Bilingual,Yes,Yes,Other,30,Divorced,5,Own,Yes,2026-07-22
+CLT-000585,25-34,Male,P9H,Waterloo,4,>$100K,Self-Employed,High School,English,No,No,PR,2,Common-Law,2,Own,Limited,2026-03-06
+CLT-000586,35-44,Non-Binary,T8N,Durham,7,<$20K,Self-Employed,Doctorate,Other,Prefer Not to Say,Yes,Work Permit,7,Widowed,4,Own,No,2026-05-29
+CLT-000587,65+,Prefer Not to Say,L0H,Ottawa,3,$60-80K,On Leave,College,Bilingual,Prefer Not to Say,Yes,Other,6,Widowed,5,Social Housing,Yes,2026-06-19
+CLT-000588,45-54,Female,M5I,Southwestern,5,$20-40K,On Leave,High School,French,No,Yes,Other,20,Common-Law,0,Shelter,Yes,2026-05-13
+CLT-000589,35-44,Prefer Not to Say,N0E,GTA,6,$60-80K,Self-Employed,Less than HS,Bilingual,Yes,No,Other,42,Common-Law,1,Own,Limited,2026-03-30
+CLT-000590,35-44,Non-Binary,T5Y,Eastern,6,$40-60K,Unemployed,College,English,No,No,Refugee,29,Widowed,4,Other,Limited,2026-02-12
+CLT-000591,65+,Female,M0X,GTA,4,$20-40K,Self-Employed,Doctorate,English,No,Yes,Other,19,Divorced,0,Own,Yes,2026-03-17
+CLT-000592,45-54,Male,T7L,Hamilton,5,>$100K,Employed FT,College,English,Yes,No,Other,27,Divorced,3,Own,Limited,2026-04-18
+CLT-000593,35-44,Non-Binary,K6E,Southwestern,3,$60-80K,Employed FT,Doctorate,Bilingual,Prefer Not to Say,No,Refugee,5,Single,0,Own,Limited,2026-04-29
+CLT-000594,45-54,Male,K3F,Central,4,<$20K,Self-Employed,College,Bilingual,Yes,Yes,Refugee,15,Married,2,Shelter,Limited,2026-04-19
+CLT-000595,55-64,Prefer Not to Say,T4T,GTA,7,$20-40K,Self-Employed,Less than HS,Bilingual,Yes,Yes,Refugee,28,Widowed,4,Other,Limited,2026-05-27
+CLT-000596,25-34,Non-Binary,N9F,Southwestern,4,<$20K,Unemployed,Master,English,Yes,Yes,Citizen,5,Widowed,3,Social Housing,Yes,2026-02-04
+CLT-000597,25-34,Male,L5W,Niagara,7,$40-60K,Employed FT,Master,English,Yes,No,Work Permit,38,Single,3,Own,Yes,2026-03-04
+CLT-000598,35-44,Female,N4G,Northern,3,$60-80K,On Leave,Doctorate,Other,No,Yes,Work Permit,13,Divorced,1,Social Housing,Yes,2026-06-16
+CLT-000599,65+,Female,K1C,Central,3,<$20K,Self-Employed,Less than HS,English,Prefer Not to Say,Yes,PR,1,Divorced,0,Shelter,Yes,2026-03-05
+CLT-000600,65+,Prefer Not to Say,T9G,GTA,7,<$20K,Unemployed,High School,French,Yes,No,Work Permit,10,Divorced,3,Rent,Limited,2026-07-13
+CLT-000601,35-44,Female,P4V,Northern,3,$60-80K,Employed FT,Less than HS,Other,Yes,No,Other,36,Widowed,2,Social Housing,Limited,2026-02-06
+CLT-000602,45-54,Male,P4K,Central,2,$60-80K,On Leave,College,French,No,Yes,Other,23,Single,4,Own,No,2026-06-06
+CLT-000603,55-64,Non-Binary,M2Z,Eastern,2,$20-40K,Unemployed,Master,Bilingual,Prefer Not to Say,Yes,Work Permit,32,Single,5,Rent,Limited,2026-07-08
+CLT-000604,65+,Non-Binary,T2Q,Durham,1,$40-60K,Employed FT,Bachelor,Bilingual,Yes,No,Other,5,Widowed,5,Shelter,Yes,2026-04-03
+CLT-000605,35-44,Non-Binary,K5F,Southwestern,6,>$100K,Student,Bachelor,Other,No,No,Work Permit,49,Common-Law,4,Shelter,No,2026-07-23
+CLT-000606,55-64,Female,M4N,Southwestern,7,<$20K,Employed FT,Bachelor,English,No,Yes,Refugee,19,Widowed,3,Rent,Limited,2026-06-21
+CLT-000607,45-54,Non-Binary,L3P,Hamilton,5,$20-40K,On Leave,Master,Bilingual,Prefer Not to Say,No,Refugee,1,Widowed,0,Rent,Yes,2026-01-06
+CLT-000608,35-44,Male,N2L,Southwestern,7,$40-60K,Self-Employed,High School,Other,Yes,Yes,Refugee,3,Widowed,4,Rent,Yes,2026-06-11
+CLT-000609,65+,Non-Binary,N0O,Waterloo,2,$60-80K,Employed PT,College,English,Prefer Not to Say,No,Work Permit,12,Single,5,Shelter,Yes,2026-02-25
+CLT-000610,25-34,Non-Binary,M3X,Waterloo,3,$20-40K,Self-Employed,Doctorate,Bilingual,No,Yes,Refugee,35,Widowed,2,Rent,Limited,2026-03-04
+CLT-000611,45-54,Male,N9I,Waterloo,4,>$100K,Unemployed,College,Bilingual,Prefer Not to Say,No,Other,22,Divorced,5,Other,Yes,2026-02-14
+CLT-000612,45-54,Female,T1P,Southwestern,6,>$100K,On Leave,Doctorate,French,No,Yes,Other,14,Married,1,Social Housing,Yes,2026-02-11
+CLT-000613,25-34,Female,N2P,Niagara,1,$60-80K,Student,College,English,Prefer Not to Say,No,Citizen,17,Divorced,2,Social Housing,Yes,2026-01-21
+CLT-000614,25-34,Prefer Not to Say,K8C,Ottawa,1,$40-60K,Employed FT,High School,French,Prefer Not to Say,Yes,Citizen,30,Common-Law,5,Social Housing,Limited,2026-04-02
+CLT-000615,25-34,Female,N6P,Hamilton,7,$40-60K,Employed PT,High School,French,No,No,PR,48,Married,5,Shelter,Yes,2026-07-07
+CLT-000616,25-34,Prefer Not to Say,P3T,Niagara,7,>$100K,Retired,High School,English,No,Yes,Citizen,0,Married,3,Own,No,2026-04-23
+CLT-000617,25-34,Male,L3U,Southwestern,6,$80-100K,Student,Master,Other,No,Yes,Refugee,4,Common-Law,2,Shelter,Yes,2026-01-29
+CLT-000618,18-24,Non-Binary,K0R,Waterloo,5,$20-40K,Employed FT,Master,Other,Yes,Yes,Other,23,Single,3,Other,Yes,2026-03-01
+CLT-000619,45-54,Prefer Not to Say,K1E,Waterloo,4,$20-40K,Unemployed,Less than HS,Bilingual,Prefer Not to Say,No,Citizen,49,Married,5,Shelter,Limited,2026-04-06
+CLT-000620,55-64,Male,P2N,Durham,6,<$20K,Employed FT,Master,English,No,Yes,PR,1,Widowed,5,Shelter,Yes,2026-02-10
+CLT-000621,18-24,Non-Binary,L2H,Waterloo,6,>$100K,Unemployed,Master,Other,Yes,Yes,PR,13,Single,2,Other,Limited,2026-05-13
+CLT-000622,65+,Prefer Not to Say,L1O,Central,4,$80-100K,Employed FT,High School,French,Yes,Yes,Other,33,Widowed,0,Shelter,Yes,2026-06-04
+CLT-000623,35-44,Male,N5A,Northern,7,>$100K,Unemployed,Less than HS,French,Yes,Yes,Refugee,32,Widowed,3,Shelter,Limited,2026-03-31
+CLT-000624,55-64,Prefer Not to Say,L5V,Durham,3,<$20K,Retired,College,English,No,No,Citizen,18,Widowed,3,Rent,Yes,2026-04-11
+CLT-000625,45-54,Non-Binary,T6E,Hamilton,2,$80-100K,Student,College,English,Prefer Not to Say,Yes,Work Permit,49,Married,0,Social Housing,Yes,2026-06-16
+CLT-000626,55-64,Non-Binary,T5B,Southwestern,4,$20-40K,Employed FT,Bachelor,Other,No,Yes,Work Permit,38,Married,4,Social Housing,Yes,2026-04-19
+CLT-000627,65+,Prefer Not to Say,N4B,Hamilton,5,>$100K,Retired,Doctorate,Other,Prefer Not to Say,No,Other,20,Divorced,2,Other,Yes,2026-07-12
+CLT-000628,18-24,Male,N6O,Northern,4,$40-60K,Employed FT,Master,Other,Prefer Not to Say,Yes,Other,28,Widowed,4,Social Housing,Yes,2026-04-27
+CLT-000629,45-54,Male,M2I,Waterloo,2,<$20K,Student,Doctorate,Bilingual,No,Yes,Work Permit,15,Divorced,4,Own,No,2026-04-23
+CLT-000630,18-24,Non-Binary,M7U,Waterloo,2,$60-80K,Unemployed,Less than HS,Other,No,No,Other,11,Divorced,5,Other,Yes,2026-07-13
+CLT-000631,18-24,Female,T2P,Eastern,3,$60-80K,Employed FT,High School,Bilingual,No,No,PR,4,Married,1,Own,Yes,2026-05-22
+CLT-000632,35-44,Prefer Not to Say,T8S,Central,7,$80-100K,Employed FT,College,French,Yes,No,PR,21,Divorced,3,Own,Yes,2026-05-29
+CLT-000633,55-64,Male,L7Z,Durham,2,$60-80K,Self-Employed,Master,English,Prefer Not to Say,Yes,Citizen,12,Common-Law,0,Rent,Limited,2026-04-14
+CLT-000634,35-44,Female,K9Q,Central,4,>$100K,Retired,College,Other,Prefer Not to Say,No,Citizen,47,Divorced,0,Shelter,Yes,2026-01-07
+CLT-000635,45-54,Non-Binary,N1I,Eastern,2,$60-80K,Employed FT,Less than HS,Bilingual,Prefer Not to Say,Yes,Refugee,19,Common-Law,1,Shelter,Limited,2026-04-23
+CLT-000636,18-24,Prefer Not to Say,K8W,Hamilton,4,$20-40K,On Leave,Less than HS,Bilingual,No,No,Work Permit,0,Common-Law,2,Social Housing,Limited,2026-04-22
+CLT-000637,45-54,Male,P2J,Durham,6,$60-80K,Unemployed,Less than HS,Bilingual,Yes,No,Other,23,Married,5,Own,No,2026-01-28
+CLT-000638,65+,Prefer Not to Say,K6G,Southwestern,6,$80-100K,Employed PT,Less than HS,French,Yes,Yes,PR,36,Widowed,4,Rent,Yes,2026-03-22
+CLT-000639,55-64,Male,M7W,Ottawa,2,$20-40K,Self-Employed,Doctorate,English,No,No,Other,16,Common-Law,3,Shelter,No,2026-01-19
+CLT-000640,35-44,Non-Binary,M7U,Niagara,4,<$20K,Unemployed,College,Other,Prefer Not to Say,Yes,Other,5,Single,3,Social Housing,No,2026-04-23
+CLT-000641,65+,Prefer Not to Say,N7Y,Niagara,3,$60-80K,Self-Employed,Bachelor,Other,No,No,Refugee,25,Single,4,Social Housing,Yes,2026-01-03
+CLT-000642,55-64,Non-Binary,T2S,Niagara,3,$40-60K,Unemployed,High School,English,No,No,Citizen,18,Widowed,4,Other,Limited,2026-05-07
+CLT-000643,55-64,Female,P8Q,Hamilton,2,$60-80K,Unemployed,College,Bilingual,Yes,Yes,Citizen,27,Single,5,Other,No,2026-06-27
+CLT-000644,18-24,Prefer Not to Say,P2T,Durham,4,>$100K,Employed PT,Doctorate,Other,Prefer Not to Say,No,Citizen,3,Divorced,3,Rent,No,2026-04-17
+CLT-000645,45-54,Female,P0H,Northern,7,<$20K,Unemployed,High School,English,Yes,Yes,Other,44,Married,4,Rent,Yes,2026-07-30
+CLT-000646,18-24,Male,M1Z,Durham,3,>$100K,Employed FT,Bachelor,Bilingual,No,No,Work Permit,33,Divorced,2,Social Housing,Yes,2026-06-28
+CLT-000647,35-44,Non-Binary,K9M,Ottawa,3,<$20K,Unemployed,High School,Other,Prefer Not to Say,No,Work Permit,22,Divorced,5,Other,Yes,2026-03-23
+CLT-000648,18-24,Prefer Not to Say,P8G,Durham,4,>$100K,Employed FT,Doctorate,French,No,No,Refugee,27,Widowed,3,Rent,Limited,2026-02-22
+CLT-000649,55-64,Non-Binary,T8N,Southwestern,1,$60-80K,Self-Employed,Master,French,No,No,Citizen,44,Single,4,Other,Limited,2026-05-30
+CLT-000650,18-24,Prefer Not to Say,K4N,Waterloo,3,>$100K,Student,Bachelor,French,Prefer Not to Say,Yes,Refugee,43,Widowed,2,Rent,No,2026-05-15
+CLT-000651,35-44,Male,N9O,Eastern,4,$60-80K,Retired,Doctorate,English,Yes,Yes,PR,41,Divorced,0,Other,Yes,2026-06-23
+CLT-000652,55-64,Non-Binary,T2A,Eastern,5,>$100K,Student,High School,English,Yes,Yes,Work Permit,40,Single,4,Own,Limited,2026-03-12
+CLT-000653,35-44,Prefer Not to Say,K4X,Southwestern,4,>$100K,Employed PT,High School,English,Yes,No,Work Permit,27,Divorced,1,Rent,Limited,2026-02-24
+CLT-000654,65+,Non-Binary,M8E,Southwestern,2,>$100K,Employed PT,Bachelor,French,No,Yes,Other,5,Common-Law,0,Rent,Yes,2026-06-14
+CLT-000655,45-54,Non-Binary,L9Y,Durham,7,$40-60K,Employed FT,Doctorate,Bilingual,Yes,Yes,PR,18,Widowed,2,Rent,No,2026-01-13
+CLT-000656,45-54,Non-Binary,L0Y,Waterloo,2,>$100K,On Leave,High School,French,Prefer Not to Say,Yes,Other,40,Widowed,4,Shelter,Yes,2026-02-05
+CLT-000657,35-44,Non-Binary,M4Z,Eastern,1,<$20K,Retired,Less than HS,Other,No,Yes,Other,11,Married,5,Social Housing,Limited,2026-06-26
+CLT-000658,25-34,Female,N7U,Eastern,4,$60-80K,Unemployed,College,Bilingual,No,No,Citizen,28,Married,3,Social Housing,No,2026-02-27
+CLT-000659,35-44,Non-Binary,L8D,Southwestern,4,<$20K,Employed PT,Bachelor,Other,No,Yes,Work Permit,43,Married,4,Rent,Limited,2026-07-10
+CLT-000660,25-34,Non-Binary,K7W,GTA,7,$20-40K,Employed FT,College,English,Prefer Not to Say,Yes,PR,16,Married,5,Rent,Limited,2026-01-13
+CLT-000661,45-54,Female,N9X,Durham,5,>$100K,Unemployed,Master,French,No,No,Refugee,12,Married,5,Other,Yes,2026-08-01
+CLT-000662,25-34,Male,K7D,Waterloo,1,$20-40K,Student,College,French,Prefer Not to Say,No,Work Permit,29,Single,2,Rent,Yes,2026-07-22
+CLT-000663,65+,Male,N2F,GTA,7,>$100K,Student,Doctorate,Bilingual,Prefer Not to Say,Yes,Citizen,0,Common-Law,2,Rent,No,2026-03-06
+CLT-000664,25-34,Prefer Not to Say,L4I,Eastern,7,$20-40K,Self-Employed,Master,Other,Prefer Not to Say,Yes,Work Permit,9,Married,5,Own,Limited,2026-01-15
+CLT-000665,45-54,Female,K7M,Durham,2,$40-60K,Employed PT,Bachelor,English,Prefer Not to Say,No,Other,20,Divorced,0,Own,Limited,2026-02-25
+CLT-000666,25-34,Non-Binary,K0A,GTA,5,<$20K,Employed FT,Doctorate,Other,Yes,Yes,Work Permit,32,Divorced,5,Shelter,No,2026-03-26
+CLT-000667,35-44,Prefer Not to Say,L8N,Ottawa,4,$20-40K,Retired,Doctorate,Bilingual,No,Yes,PR,18,Common-Law,3,Rent,Yes,2026-02-17
+CLT-000668,65+,Non-Binary,N5U,Niagara,7,$80-100K,Unemployed,Less than HS,Bilingual,No,No,PR,21,Single,3,Social Housing,No,2026-02-22
+CLT-000669,35-44,Male,P5D,Hamilton,4,$80-100K,Self-Employed,Bachelor,Bilingual,Prefer Not to Say,No,Other,26,Common-Law,3,Own,Yes,2026-07-21
+CLT-000670,65+,Female,T3O,Central,2,$20-40K,Retired,Bachelor,Bilingual,Prefer Not to Say,No,PR,5,Single,4,Rent,Yes,2026-02-02
+CLT-000671,35-44,Male,T4K,Central,4,$80-100K,Self-Employed,College,French,No,Yes,PR,31,Divorced,3,Own,No,2026-01-18
+CLT-000672,35-44,Female,N4G,GTA,2,$80-100K,On Leave,Bachelor,English,Prefer Not to Say,Yes,PR,50,Divorced,1,Rent,Limited,2026-05-24
+CLT-000673,25-34,Male,M9Y,Eastern,3,>$100K,On Leave,High School,Bilingual,Prefer Not to Say,Yes,Other,9,Married,4,Social Housing,Yes,2026-01-23
+CLT-000674,65+,Non-Binary,P6E,Durham,3,<$20K,Student,Bachelor,Bilingual,Yes,Yes,Other,29,Widowed,1,Social Housing,No,2026-04-14
+CLT-000675,45-54,Male,M7Q,Northern,3,$40-60K,Student,Bachelor,Other,No,No,Other,14,Divorced,5,Own,Limited,2026-05-25
+CLT-000676,65+,Non-Binary,K8N,Durham,2,>$100K,Self-Employed,College,English,Prefer Not to Say,No,Work Permit,37,Married,2,Shelter,Yes,2026-05-27
+CLT-000677,45-54,Female,N6S,Northern,2,$20-40K,Unemployed,Bachelor,French,No,Yes,Work Permit,45,Divorced,4,Other,Limited,2026-02-12
+CLT-000678,45-54,Male,T4O,Northern,2,>$100K,Self-Employed,High School,Bilingual,Prefer Not to Say,No,Refugee,26,Divorced,0,Own,No,2026-01-26
+CLT-000679,35-44,Prefer Not to Say,M8B,Niagara,7,$80-100K,Student,High School,Other,Prefer Not to Say,No,Other,10,Common-Law,2,Other,No,2026-01-05
+CLT-000680,25-34,Non-Binary,M8N,Waterloo,6,$40-60K,Student,Less than HS,French,Prefer Not to Say,No,Work Permit,3,Widowed,4,Rent,Limited,2026-06-17
+CLT-000681,25-34,Male,P3R,GTA,1,$60-80K,Retired,Doctorate,French,No,No,Refugee,37,Single,1,Rent,No,2026-05-07
+CLT-000682,55-64,Female,T9R,GTA,1,>$100K,Employed PT,High School,English,Yes,No,PR,6,Widowed,2,Rent,Yes,2026-01-02
+CLT-000683,65+,Female,K9D,Central,2,$20-40K,Employed FT,High School,French,No,Yes,Citizen,18,Single,4,Other,Yes,2026-01-21
+CLT-000684,25-34,Prefer Not to Say,M2H,Ottawa,5,$80-100K,Student,Bachelor,French,Yes,Yes,PR,39,Common-Law,4,Own,Yes,2026-01-26
+CLT-000685,65+,Prefer Not to Say,N5M,Waterloo,6,>$100K,Employed FT,Less than HS,English,Prefer Not to Say,Yes,Other,40,Single,3,Shelter,No,2026-02-24
+CLT-000686,25-34,Non-Binary,L8H,Southwestern,2,$80-100K,On Leave,Bachelor,English,No,Yes,Work Permit,18,Divorced,2,Shelter,Limited,2026-01-30
+CLT-000687,18-24,Prefer Not to Say,T0W,Durham,4,<$20K,Employed PT,Bachelor,French,Prefer Not to Say,Yes,Citizen,16,Single,0,Other,Yes,2026-06-18
+CLT-000688,65+,Male,P3J,Waterloo,6,<$20K,Employed PT,High School,French,Yes,No,Citizen,1,Common-Law,4,Rent,Yes,2026-03-09
+CLT-000689,65+,Male,P3E,Central,2,>$100K,Student,Bachelor,French,No,Yes,Citizen,10,Single,1,Own,Yes,2026-04-22
+CLT-000690,45-54,Non-Binary,T4F,Durham,6,$20-40K,Employed PT,Bachelor,Other,Prefer Not to Say,Yes,Citizen,47,Single,3,Shelter,Limited,2026-01-29
+CLT-000691,18-24,Prefer Not to Say,N8N,Northern,5,<$20K,Employed PT,College,English,No,Yes,Other,25,Common-Law,1,Shelter,No,2026-03-01
+CLT-000692,18-24,Female,K0T,Waterloo,3,<$20K,Student,Doctorate,Bilingual,Yes,Yes,Work Permit,43,Single,2,Rent,Yes,2026-06-05
+CLT-000693,55-64,Non-Binary,M0V,Central,1,$60-80K,Unemployed,College,English,Prefer Not to Say,No,Other,20,Married,4,Social Housing,No,2026-05-06
+CLT-000694,45-54,Male,K7Q,Southwestern,4,$60-80K,Retired,Bachelor,English,Prefer Not to Say,Yes,Other,41,Married,0,Shelter,No,2026-03-11
+CLT-000695,65+,Non-Binary,M5Q,Eastern,3,$40-60K,Self-Employed,Less than HS,English,No,Yes,Refugee,10,Divorced,5,Other,No,2026-03-04
+CLT-000696,65+,Female,P2S,GTA,1,>$100K,Retired,High School,French,Yes,No,Citizen,5,Married,0,Rent,No,2026-01-08
+CLT-000697,45-54,Female,N8A,Ottawa,5,$80-100K,Employed FT,College,English,Yes,No,Citizen,25,Common-Law,0,Own,Limited,2026-05-01
+CLT-000698,65+,Non-Binary,N1X,Ottawa,4,<$20K,Self-Employed,Bachelor,Bilingual,Prefer Not to Say,No,Refugee,36,Divorced,4,Other,No,2026-02-19
+CLT-000699,65+,Male,K4B,Hamilton,6,>$100K,Retired,Less than HS,Bilingual,Prefer Not to Say,No,Other,43,Single,1,Other,Limited,2026-05-14
+CLT-000700,18-24,Male,M1Y,Southwestern,7,$40-60K,Self-Employed,Bachelor,Other,Prefer Not to Say,No,Refugee,28,Divorced,0,Other,No,2026-02-03
+CLT-000701,35-44,Prefer Not to Say,T0D,Hamilton,1,$80-100K,Employed PT,Less than HS,Other,No,No,Work Permit,4,Divorced,3,Own,Yes,2026-02-09
+CLT-000702,65+,Female,P0I,Central,2,$40-60K,Student,Master,French,No,No,PR,20,Married,5,Rent,Yes,2026-06-08
+CLT-000703,35-44,Female,P4Q,Waterloo,5,$60-80K,On Leave,High School,Bilingual,Prefer Not to Say,No,PR,29,Married,4,Other,Yes,2026-02-25
+CLT-000704,65+,Non-Binary,T7V,GTA,2,>$100K,Unemployed,Less than HS,French,Prefer Not to Say,No,Refugee,12,Widowed,4,Social Housing,No,2026-03-15
+CLT-000705,55-64,Non-Binary,L2V,Hamilton,2,$80-100K,Retired,High School,Bilingual,Prefer Not to Say,No,Work Permit,8,Married,4,Own,Limited,2026-07-07
+CLT-000706,55-64,Prefer Not to Say,T7M,Northern,7,$20-40K,Student,High School,Bilingual,Yes,Yes,Work Permit,0,Divorced,5,Rent,Yes,2026-01-27
+CLT-000707,45-54,Prefer Not to Say,K3I,GTA,1,$40-60K,Self-Employed,High School,English,No,No,PR,16,Common-Law,1,Shelter,Yes,2026-04-13
+CLT-000708,25-34,Prefer Not to Say,K3G,Central,4,<$20K,Unemployed,College,Bilingual,No,No,Citizen,47,Common-Law,1,Social Housing,No,2026-02-07
+CLT-000709,18-24,Male,M7K,Southwestern,5,$40-60K,Unemployed,Master,Bilingual,No,No,PR,48,Single,5,Other,Limited,2026-07-03
+CLT-000710,35-44,Female,T4M,Eastern,5,<$20K,Unemployed,Less than HS,French,Prefer Not to Say,Yes,Citizen,26,Common-Law,3,Other,Yes,2026-03-06
+CLT-000711,65+,Prefer Not to Say,L2S,Waterloo,5,$60-80K,Employed PT,College,Other,Prefer Not to Say,Yes,Work Permit,13,Widowed,4,Other,No,2026-04-06
+CLT-000712,65+,Male,L3A,GTA,4,$40-60K,On Leave,Less than HS,Bilingual,No,Yes,Other,14,Common-Law,3,Other,Yes,2026-06-25
+CLT-000713,25-34,Male,L7R,Northern,3,$40-60K,Self-Employed,High School,English,Yes,Yes,PR,16,Divorced,2,Rent,Limited,2026-05-03
+CLT-000714,55-64,Prefer Not to Say,K4G,GTA,7,>$100K,Employed FT,College,Other,Yes,No,Refugee,47,Widowed,3,Own,Limited,2026-01-07
+CLT-000715,45-54,Prefer Not to Say,K7J,Waterloo,1,$20-40K,On Leave,Less than HS,Other,Prefer Not to Say,Yes,Refugee,21,Single,3,Own,No,2026-04-23
+CLT-000716,18-24,Non-Binary,P0D,Ottawa,2,$40-60K,Employed FT,High School,French,Yes,No,Citizen,0,Common-Law,0,Rent,No,2026-02-12
+CLT-000717,55-64,Prefer Not to Say,P3U,Northern,1,$20-40K,Employed FT,Master,Other,Yes,No,Other,35,Common-Law,1,Social Housing,Yes,2026-04-29
+CLT-000718,55-64,Prefer Not to Say,N9T,Hamilton,5,$40-60K,Employed PT,Less than HS,English,Prefer Not to Say,Yes,Work Permit,5,Common-Law,2,Rent,No,2026-04-11
+CLT-000719,18-24,Prefer Not to Say,K7F,Eastern,6,$80-100K,Student,Less than HS,Bilingual,Prefer Not to Say,No,PR,33,Common-Law,5,Other,Limited,2026-06-03
+CLT-000720,35-44,Prefer Not to Say,L7W,Niagara,2,$60-80K,Self-Employed,Master,French,Prefer Not to Say,Yes,Citizen,21,Common-Law,3,Shelter,Limited,2026-05-01
+CLT-000721,65+,Female,N7N,GTA,4,$40-60K,Self-Employed,Doctorate,English,Yes,No,Other,13,Widowed,2,Other,Yes,2026-03-23
+CLT-000722,18-24,Non-Binary,K9B,Eastern,3,$60-80K,Self-Employed,Less than HS,French,Prefer Not to Say,No,Other,40,Divorced,4,Shelter,No,2026-07-03
+CLT-000723,18-24,Prefer Not to Say,K5J,Hamilton,4,<$20K,Student,College,English,Yes,Yes,Citizen,5,Widowed,2,Rent,No,2026-02-12
+CLT-000724,65+,Female,N4U,Southwestern,1,$80-100K,Employed FT,High School,Bilingual,No,No,Citizen,32,Common-Law,4,Rent,No,2026-04-14
+CLT-000725,35-44,Female,L2Z,Southwestern,6,$20-40K,Student,Bachelor,Bilingual,Yes,No,Refugee,43,Common-Law,2,Shelter,Yes,2026-05-05
+CLT-000726,35-44,Non-Binary,T2K,Ottawa,2,$20-40K,Unemployed,Doctorate,Bilingual,No,No,Other,40,Single,0,Shelter,No,2026-07-17
+CLT-000727,25-34,Female,N9Y,Northern,5,$40-60K,Retired,Doctorate,Other,No,Yes,PR,50,Widowed,3,Shelter,No,2026-06-23
+CLT-000728,55-64,Male,K0H,Durham,3,$40-60K,Employed FT,Bachelor,English,Yes,No,Citizen,21,Widowed,5,Own,Yes,2026-03-14
+CLT-000729,25-34,Prefer Not to Say,P5P,Central,2,>$100K,Retired,College,English,Prefer Not to Say,Yes,Other,30,Divorced,5,Rent,No,2026-02-11
+CLT-000730,55-64,Non-Binary,N1J,Northern,6,$60-80K,Self-Employed,High School,English,No,Yes,Other,22,Married,0,Shelter,Yes,2026-02-22
+CLT-000731,35-44,Prefer Not to Say,M1Q,Waterloo,4,$80-100K,Student,High School,Other,Yes,Yes,Refugee,22,Widowed,1,Rent,Limited,2026-05-10
+CLT-000732,18-24,Non-Binary,M9C,Hamilton,1,$60-80K,Employed FT,High School,French,Prefer Not to Say,Yes,Citizen,32,Common-Law,2,Social Housing,Yes,2026-05-16
+CLT-000733,65+,Non-Binary,K6U,Niagara,1,>$100K,Employed PT,Doctorate,English,Prefer Not to Say,Yes,Citizen,14,Divorced,4,Other,Yes,2026-07-07
+CLT-000734,25-34,Male,M9H,Niagara,4,>$100K,Self-Employed,Bachelor,Other,No,No,Refugee,15,Divorced,2,Shelter,No,2026-03-21
+CLT-000735,35-44,Non-Binary,L5T,GTA,2,$40-60K,Retired,Less than HS,Bilingual,Prefer Not to Say,No,PR,22,Single,0,Own,Yes,2026-04-08
+CLT-000736,55-64,Female,P5L,Eastern,2,<$20K,Retired,Master,French,Yes,Yes,PR,41,Single,1,Social Housing,Limited,2026-07-10
+CLT-000737,18-24,Non-Binary,T8K,Central,6,<$20K,Student,Less than HS,French,No,No,Citizen,27,Married,3,Own,No,2026-04-23
+CLT-000738,35-44,Male,L1X,Southwestern,3,$80-100K,Student,Bachelor,French,Yes,No,Work Permit,35,Married,5,Social Housing,Limited,2026-02-04
+CLT-000739,45-54,Prefer Not to Say,K0F,Waterloo,3,<$20K,Student,Master,Bilingual,No,Yes,Work Permit,10,Single,1,Rent,Limited,2026-07-24
+CLT-000740,35-44,Female,N7Y,Ottawa,2,$40-60K,Retired,High School,Bilingual,Prefer Not to Say,Yes,Other,42,Widowed,2,Other,No,2026-01-22
+CLT-000741,45-54,Non-Binary,P9C,Waterloo,3,$40-60K,On Leave,Bachelor,Bilingual,No,No,Work Permit,49,Common-Law,1,Rent,Limited,2026-01-02
+CLT-000742,18-24,Non-Binary,M5F,Southwestern,7,$20-40K,On Leave,Doctorate,Other,No,No,Work Permit,16,Divorced,0,Own,Limited,2026-05-31
+CLT-000743,45-54,Prefer Not to Say,P5Y,GTA,1,>$100K,Unemployed,Bachelor,Other,Yes,Yes,Refugee,31,Married,5,Social Housing,Yes,2026-07-10
+CLT-000744,25-34,Male,M4V,Ottawa,4,$60-80K,Self-Employed,Less than HS,Other,Yes,No,Refugee,2,Married,0,Shelter,Yes,2026-02-26
+CLT-000745,65+,Non-Binary,M7S,Waterloo,2,>$100K,Self-Employed,Less than HS,Other,No,No,Refugee,20,Married,3,Social Housing,No,2026-06-15
+CLT-000746,25-34,Female,K8Y,Niagara,4,>$100K,Retired,College,English,No,Yes,Refugee,25,Widowed,4,Own,No,2026-04-02
+CLT-000747,65+,Prefer Not to Say,M5L,Niagara,6,$60-80K,Employed FT,Bachelor,Other,Prefer Not to Say,No,Citizen,36,Married,3,Rent,No,2026-03-06
+CLT-000748,45-54,Male,L9L,Central,1,>$100K,Student,Less than HS,English,Yes,Yes,Other,21,Divorced,1,Rent,Yes,2026-03-08
+CLT-000749,35-44,Male,P2L,Niagara,5,$60-80K,Employed FT,Master,French,Yes,Yes,Refugee,36,Divorced,5,Social Housing,Limited,2026-07-14
+CLT-000750,65+,Prefer Not to Say,P7R,Southwestern,5,$60-80K,Retired,Master,Other,Prefer Not to Say,Yes,Citizen,36,Divorced,1,Own,No,2026-02-11
+CLT-000751,45-54,Male,L3M,Waterloo,7,$20-40K,Employed PT,College,English,No,No,PR,15,Single,0,Rent,No,2026-03-14
+CLT-000752,45-54,Male,M7M,Eastern,1,$80-100K,Employed FT,Master,Other,Yes,No,Citizen,33,Common-Law,5,Social Housing,Yes,2026-07-27
+CLT-000753,45-54,Male,N2F,Eastern,1,$60-80K,Employed PT,College,Other,No,Yes,Work Permit,31,Divorced,2,Shelter,Limited,2026-07-07
+CLT-000754,35-44,Female,P8J,Ottawa,1,$40-60K,Employed FT,Doctorate,English,Yes,Yes,Refugee,13,Single,1,Rent,No,2026-07-16
+CLT-000755,55-64,Female,T7J,Niagara,2,>$100K,On Leave,College,French,Prefer Not to Say,Yes,Work Permit,26,Single,0,Other,Limited,2026-06-26
+CLT-000756,25-34,Male,K8A,Niagara,7,>$100K,Self-Employed,Doctorate,Bilingual,Prefer Not to Say,No,PR,42,Single,4,Social Housing,Yes,2026-06-16
+CLT-000757,65+,Male,T1D,Northern,5,<$20K,Student,Bachelor,English,Yes,No,Refugee,24,Divorced,1,Shelter,Limited,2026-07-04
+CLT-000758,55-64,Non-Binary,N2Q,Ottawa,6,$20-40K,Employed PT,Bachelor,Bilingual,Prefer Not to Say,No,Work Permit,0,Married,1,Shelter,Limited,2026-01-13
+CLT-000759,65+,Female,T9I,GTA,7,$20-40K,Student,College,French,No,Yes,Citizen,42,Married,1,Social Housing,Limited,2026-03-29
+CLT-000760,25-34,Prefer Not to Say,T5N,Hamilton,7,<$20K,Retired,Doctorate,Bilingual,Yes,Yes,Citizen,23,Divorced,4,Shelter,Limited,2026-01-16
+CLT-000761,45-54,Male,K6K,Northern,3,$80-100K,Unemployed,Master,English,Prefer Not to Say,No,PR,46,Widowed,4,Rent,Limited,2026-05-09
+CLT-000762,25-34,Male,T1K,Ottawa,3,$80-100K,Student,Bachelor,Other,No,No,Other,5,Married,3,Own,No,2026-04-01
+CLT-000763,45-54,Prefer Not to Say,L2Q,Northern,2,>$100K,On Leave,Bachelor,English,Prefer Not to Say,No,Work Permit,45,Widowed,5,Own,Yes,2026-05-25
+CLT-000764,35-44,Non-Binary,P4G,Southwestern,6,$40-60K,Student,Bachelor,Other,No,Yes,PR,34,Widowed,3,Social Housing,Limited,2026-03-29
+CLT-000765,18-24,Male,T9C,Central,5,$40-60K,Self-Employed,Bachelor,Other,Prefer Not to Say,Yes,PR,13,Widowed,5,Social Housing,Limited,2026-07-13
+CLT-000766,25-34,Prefer Not to Say,M1S,Southwestern,1,$20-40K,Self-Employed,Bachelor,English,No,No,Citizen,35,Common-Law,5,Rent,No,2026-01-09
+CLT-000767,65+,Prefer Not to Say,P0O,Northern,1,>$100K,Employed PT,Less than HS,French,Prefer Not to Say,Yes,Other,35,Single,0,Rent,Yes,2026-07-14
+CLT-000768,55-64,Prefer Not to Say,N7N,Eastern,4,$20-40K,Employed FT,High School,Other,Yes,No,Work Permit,32,Married,3,Social Housing,No,2026-05-04
+CLT-000769,18-24,Prefer Not to Say,T1S,GTA,3,$60-80K,Self-Employed,College,Other,No,Yes,Other,26,Divorced,3,Own,No,2026-03-08
+CLT-000770,45-54,Prefer Not to Say,K9H,Ottawa,4,$40-60K,Self-Employed,Master,English,Prefer Not to Say,No,Work Permit,27,Widowed,5,Other,No,2026-07-11
+CLT-000771,25-34,Male,L8Q,Niagara,5,<$20K,Employed FT,High School,Bilingual,Yes,Yes,PR,37,Married,3,Shelter,Yes,2026-03-22
+CLT-000772,35-44,Prefer Not to Say,P0V,GTA,5,$40-60K,Retired,Less than HS,Bilingual,Yes,Yes,Work Permit,24,Single,2,Other,No,2026-07-16
+CLT-000773,65+,Male,M0C,Waterloo,6,<$20K,Employed FT,Bachelor,French,Prefer Not to Say,No,Work Permit,25,Divorced,5,Rent,Limited,2026-03-21
+CLT-000774,65+,Prefer Not to Say,L3M,Waterloo,2,$80-100K,Self-Employed,Less than HS,Bilingual,Yes,Yes,Citizen,36,Widowed,2,Other,No,2026-05-08
+CLT-000775,18-24,Female,K1G,GTA,3,$40-60K,Employed PT,Doctorate,Bilingual,Prefer Not to Say,Yes,Work Permit,40,Single,0,Own,Limited,2026-06-17
+CLT-000776,18-24,Female,L9J,GTA,5,$40-60K,Employed PT,Doctorate,Bilingual,Yes,Yes,Work Permit,36,Divorced,4,Other,Limited,2026-07-30
+CLT-000777,55-64,Male,T3Y,Northern,2,$80-100K,Retired,Doctorate,Other,Prefer Not to Say,No,Refugee,24,Divorced,0,Shelter,Yes,2026-07-06
+CLT-000778,55-64,Non-Binary,M3Y,Southwestern,1,>$100K,Employed PT,Master,Other,Prefer Not to Say,Yes,Other,29,Common-Law,2,Rent,Yes,2026-05-16
+CLT-000779,18-24,Female,N3F,Waterloo,6,$20-40K,Self-Employed,Master,Other,Prefer Not to Say,Yes,PR,24,Divorced,1,Other,Yes,2026-01-02
+CLT-000780,45-54,Male,L4R,Ottawa,5,$40-60K,Employed FT,High School,French,Yes,Yes,Refugee,32,Divorced,0,Social Housing,No,2026-08-01
+CLT-000781,45-54,Prefer Not to Say,N7C,Waterloo,2,>$100K,On Leave,Doctorate,French,Yes,Yes,Citizen,9,Widowed,3,Social Housing,No,2026-03-11
+CLT-000782,18-24,Non-Binary,P9Y,Northern,2,>$100K,On Leave,Less than HS,French,No,Yes,Refugee,28,Divorced,4,Shelter,Yes,2026-06-02
+CLT-000783,65+,Female,L9P,Northern,4,$40-60K,Unemployed,Bachelor,English,Yes,No,Work Permit,36,Divorced,3,Social Housing,Limited,2026-04-04
+CLT-000784,18-24,Non-Binary,L3O,Central,7,$20-40K,Unemployed,Bachelor,Bilingual,No,Yes,Work Permit,8,Divorced,5,Other,Limited,2026-01-13
+CLT-000785,65+,Male,P5D,Ottawa,7,<$20K,Unemployed,Doctorate,Other,No,Yes,PR,34,Common-Law,0,Social Housing,No,2026-04-20
+CLT-000786,35-44,Prefer Not to Say,N0U,Central,1,>$100K,Student,Master,English,Prefer Not to Say,Yes,Other,47,Married,0,Other,Yes,2026-03-08
+CLT-000787,45-54,Non-Binary,T0F,Hamilton,3,$80-100K,Student,Less than HS,French,Prefer Not to Say,No,Work Permit,24,Married,5,Rent,Yes,2026-07-19
+CLT-000788,55-64,Female,K4T,Central,2,$40-60K,On Leave,College,Other,Yes,No,Citizen,20,Common-Law,5,Shelter,Limited,2026-06-13
+CLT-000789,25-34,Prefer Not to Say,K8R,GTA,7,>$100K,Employed PT,High School,Bilingual,Prefer Not to Say,Yes,Refugee,5,Divorced,0,Other,Limited,2026-06-21
+CLT-000790,45-54,Female,T8U,Niagara,5,$60-80K,Self-Employed,College,Other,No,Yes,PR,40,Divorced,0,Rent,Limited,2026-05-23
+CLT-000791,35-44,Non-Binary,N8Y,Hamilton,7,>$100K,Employed PT,Bachelor,English,Prefer Not to Say,Yes,Citizen,50,Widowed,1,Rent,Limited,2026-05-27
+CLT-000792,35-44,Male,T2W,Eastern,2,$80-100K,On Leave,Doctorate,English,No,Yes,Work Permit,15,Widowed,2,Own,Limited,2026-04-03
+CLT-000793,35-44,Non-Binary,L4C,Durham,5,$20-40K,Unemployed,Master,French,Yes,No,Citizen,3,Married,2,Shelter,Yes,2026-01-08
+CLT-000794,25-34,Female,P2N,Hamilton,2,$40-60K,Self-Employed,College,English,No,No,Other,48,Widowed,3,Social Housing,No,2026-01-26
+CLT-000795,45-54,Prefer Not to Say,T2C,Eastern,2,>$100K,On Leave,College,English,Prefer Not to Say,No,PR,34,Divorced,4,Social Housing,No,2026-03-16
+CLT-000796,65+,Female,L7M,GTA,6,>$100K,Retired,Master,French,Yes,Yes,Other,10,Common-Law,4,Shelter,Yes,2026-05-14
+CLT-000797,55-64,Non-Binary,N7V,Eastern,4,$20-40K,Employed FT,Bachelor,French,Yes,Yes,Other,18,Divorced,0,Own,No,2026-02-10
+CLT-000798,65+,Prefer Not to Say,K8Y,GTA,2,$20-40K,Self-Employed,Bachelor,Bilingual,Prefer Not to Say,Yes,Other,18,Divorced,2,Other,Yes,2026-06-11
+CLT-000799,18-24,Prefer Not to Say,K4U,Eastern,7,>$100K,Employed FT,High School,English,Yes,Yes,Refugee,26,Married,3,Shelter,Yes,2026-07-12
+CLT-000800,25-34,Non-Binary,L5J,Ottawa,3,<$20K,Retired,Doctorate,Bilingual,No,No,PR,10,Widowed,2,Own,Yes,2026-06-12
+CLT-000801,18-24,Non-Binary,P6C,GTA,4,>$100K,On Leave,Bachelor,English,Prefer Not to Say,Yes,PR,24,Single,2,Shelter,Limited,2026-01-05
+CLT-000802,65+,Male,N4T,Central,2,$80-100K,On Leave,Doctorate,English,Prefer Not to Say,No,PR,19,Common-Law,0,Own,No,2026-04-10
+CLT-000803,65+,Prefer Not to Say,P8J,Central,4,$20-40K,On Leave,High School,English,No,No,Citizen,11,Common-Law,1,Rent,Limited,2026-05-27
+CLT-000804,25-34,Non-Binary,L4A,Hamilton,1,<$20K,Self-Employed,Less than HS,Other,Yes,No,Citizen,10,Married,5,Own,No,2026-06-13
+CLT-000805,65+,Male,N6O,Ottawa,3,$80-100K,Unemployed,High School,French,Prefer Not to Say,Yes,Citizen,31,Single,2,Shelter,Limited,2026-07-14
+CLT-000806,35-44,Non-Binary,L1F,Waterloo,7,$80-100K,Self-Employed,High School,Bilingual,Prefer Not to Say,Yes,PR,0,Married,4,Other,Yes,2026-04-02
+CLT-000807,65+,Female,M8S,Central,2,<$20K,On Leave,Bachelor,Other,Prefer Not to Say,Yes,Citizen,10,Divorced,4,Shelter,Yes,2026-03-27
+CLT-000808,18-24,Non-Binary,M7X,Eastern,6,$20-40K,Unemployed,Doctorate,English,Yes,No,PR,3,Married,5,Rent,No,2026-01-12
+CLT-000809,65+,Female,N4T,Niagara,7,$20-40K,On Leave,High School,French,Prefer Not to Say,No,Work Permit,3,Married,3,Shelter,No,2026-03-07
+CLT-000810,25-34,Non-Binary,K8Y,Central,6,$80-100K,Employed FT,High School,French,Yes,No,Work Permit,6,Common-Law,4,Shelter,Limited,2026-03-04
+CLT-000811,25-34,Male,P5Z,GTA,3,<$20K,On Leave,College,Other,Prefer Not to Say,Yes,Work Permit,37,Single,2,Own,Limited,2026-02-02
+CLT-000812,25-34,Prefer Not to Say,N2D,GTA,5,<$20K,Student,College,Bilingual,No,No,Other,44,Married,4,Own,Limited,2026-01-19
+CLT-000813,45-54,Male,N4W,GTA,1,$20-40K,Self-Employed,College,Bilingual,No,No,Other,25,Common-Law,5,Shelter,Yes,2026-05-03
+CLT-000814,35-44,Non-Binary,P6M,Niagara,1,$60-80K,Employed PT,High School,Other,No,Yes,Work Permit,50,Divorced,2,Own,Yes,2026-01-02
+CLT-000815,55-64,Male,P0G,Niagara,5,$80-100K,Employed PT,Master,French,No,Yes,Other,43,Widowed,5,Social Housing,Yes,2026-03-20
+CLT-000816,25-34,Female,L1M,GTA,2,$60-80K,Retired,Doctorate,Bilingual,No,No,Work Permit,8,Divorced,3,Other,No,2026-05-24
+CLT-000817,18-24,Female,T1N,Eastern,4,$60-80K,Retired,Less than HS,Other,No,Yes,Work Permit,41,Widowed,0,Rent,No,2026-03-04
+CLT-000818,45-54,Prefer Not to Say,L2T,Durham,2,$80-100K,Employed PT,Less than HS,French,Prefer Not to Say,No,PR,38,Common-Law,1,Shelter,Yes,2026-05-14
+CLT-000819,65+,Non-Binary,K2T,Durham,7,$60-80K,Employed PT,College,English,Yes,Yes,Work Permit,39,Widowed,3,Social Housing,No,2026-03-26
+CLT-000820,35-44,Prefer Not to Say,K7O,GTA,3,$80-100K,Retired,Less than HS,Other,No,Yes,Other,19,Common-Law,3,Social Housing,Limited,2026-05-03
+CLT-000821,45-54,Female,P6D,GTA,6,$20-40K,On Leave,Doctorate,Bilingual,Yes,No,Refugee,13,Divorced,4,Other,Yes,2026-01-14
+CLT-000822,55-64,Male,L1W,Hamilton,3,$60-80K,Retired,Doctorate,Bilingual,Yes,Yes,Refugee,45,Married,0,Other,Limited,2026-07-23
+CLT-000823,55-64,Prefer Not to Say,T7Z,Ottawa,6,>$100K,Student,Master,English,No,No,Other,29,Married,1,Shelter,Yes,2026-03-20
+CLT-000824,18-24,Male,M4R,Central,4,$80-100K,Self-Employed,Bachelor,Other,Yes,Yes,Refugee,20,Divorced,5,Rent,Limited,2026-08-01
+CLT-000825,18-24,Female,P1F,Hamilton,7,$80-100K,Retired,Doctorate,Bilingual,Prefer Not to Say,Yes,Work Permit,36,Widowed,0,Other,No,2026-01-07
+CLT-000826,65+,Non-Binary,M5V,Durham,7,$40-60K,Unemployed,High School,Other,Prefer Not to Say,Yes,Citizen,45,Common-Law,1,Shelter,No,2026-02-22
+CLT-000827,18-24,Non-Binary,L9M,Hamilton,1,$60-80K,On Leave,Less than HS,Other,Prefer Not to Say,No,Work Permit,35,Single,2,Social Housing,Yes,2026-01-02
+CLT-000828,18-24,Non-Binary,M7L,Niagara,1,$20-40K,Employed PT,Less than HS,English,Prefer Not to Say,No,Work Permit,49,Single,3,Other,No,2026-02-10
+CLT-000829,55-64,Prefer Not to Say,P2F,Durham,5,>$100K,Unemployed,Doctorate,Bilingual,Yes,No,PR,47,Common-Law,2,Other,Limited,2026-05-05
+CLT-000830,55-64,Female,L1Z,Waterloo,4,>$100K,Employed PT,Bachelor,Other,Prefer Not to Say,No,Work Permit,28,Common-Law,4,Shelter,Limited,2026-06-29
+CLT-000831,65+,Female,T7C,GTA,7,>$100K,Unemployed,High School,French,No,Yes,Refugee,44,Divorced,3,Own,Limited,2026-03-24
+CLT-000832,25-34,Prefer Not to Say,M1P,Southwestern,2,>$100K,Employed FT,College,English,Yes,No,Refugee,50,Single,0,Social Housing,Yes,2026-02-21
+CLT-000833,18-24,Prefer Not to Say,T6P,Hamilton,3,$20-40K,Student,Less than HS,Other,Yes,Yes,Refugee,36,Divorced,0,Shelter,No,2026-02-24
+CLT-000834,65+,Non-Binary,M6Z,Southwestern,2,>$100K,Student,High School,English,Prefer Not to Say,No,PR,32,Widowed,5,Own,No,2026-07-04
+CLT-000835,45-54,Prefer Not to Say,N2F,Hamilton,1,$20-40K,Self-Employed,College,Bilingual,Yes,Yes,Refugee,40,Married,4,Own,No,2026-05-11
+CLT-000836,35-44,Prefer Not to Say,L7E,Central,4,<$20K,On Leave,College,Other,No,Yes,Citizen,43,Married,3,Other,Yes,2026-04-11
+CLT-000837,65+,Male,L5B,Northern,4,<$20K,Employed PT,College,English,Prefer Not to Say,No,PR,5,Married,1,Own,Limited,2026-04-21
+CLT-000838,45-54,Prefer Not to Say,N6K,Southwestern,6,<$20K,Unemployed,High School,French,No,Yes,Citizen,44,Divorced,4,Social Housing,Yes,2026-03-27
+CLT-000839,25-34,Female,P6C,Hamilton,5,>$100K,Employed FT,College,English,Yes,Yes,Work Permit,28,Married,1,Own,Yes,2026-04-07
+CLT-000840,45-54,Prefer Not to Say,L5K,Central,2,$60-80K,Employed FT,College,English,Yes,No,Citizen,47,Common-Law,5,Social Housing,No,2026-01-03
+CLT-000841,35-44,Female,P5B,Durham,4,$80-100K,Student,College,Bilingual,Yes,Yes,PR,21,Widowed,4,Other,Limited,2026-04-22
+CLT-000842,65+,Female,L8M,Waterloo,2,$60-80K,Employed PT,College,Other,Yes,Yes,Refugee,41,Married,2,Social Housing,Yes,2026-04-04
+CLT-000843,18-24,Prefer Not to Say,P7W,Central,1,$80-100K,Employed PT,Bachelor,Bilingual,Prefer Not to Say,No,PR,4,Married,3,Rent,No,2026-07-15
+CLT-000844,35-44,Non-Binary,P0V,Ottawa,5,$60-80K,Student,Doctorate,French,Yes,Yes,Work Permit,26,Single,3,Social Housing,Limited,2026-04-07
+CLT-000845,18-24,Non-Binary,K6Y,Central,2,$20-40K,On Leave,High School,French,Prefer Not to Say,No,Refugee,2,Widowed,0,Own,Yes,2026-03-11
+CLT-000846,55-64,Male,K9X,Hamilton,1,$80-100K,Retired,Master,Bilingual,Yes,No,PR,28,Common-Law,4,Own,Yes,2026-04-13
+CLT-000847,55-64,Male,N9H,GTA,6,<$20K,Retired,Less than HS,Bilingual,Prefer Not to Say,Yes,Work Permit,41,Widowed,0,Other,Yes,2026-03-10
+CLT-000848,18-24,Female,K4W,GTA,3,<$20K,Retired,Doctorate,English,Prefer Not to Say,Yes,Work Permit,24,Married,2,Other,Limited,2026-07-30
+CLT-000849,65+,Prefer Not to Say,P9B,Northern,1,$20-40K,Employed FT,Less than HS,Other,Prefer Not to Say,No,Other,19,Divorced,0,Rent,Limited,2026-01-20
+CLT-000850,25-34,Non-Binary,N7N,Southwestern,2,$80-100K,Employed FT,High School,Bilingual,Prefer Not to Say,Yes,Refugee,49,Married,0,Shelter,No,2026-06-09
+CLT-000851,55-64,Non-Binary,P5T,Ottawa,7,$20-40K,Student,Less than HS,French,Yes,Yes,PR,5,Common-Law,5,Shelter,No,2026-04-17
+CLT-000852,65+,Non-Binary,N1Y,Niagara,4,$40-60K,Student,Master,English,Yes,Yes,Work Permit,36,Widowed,2,Own,No,2026-03-02
+CLT-000853,55-64,Prefer Not to Say,L1M,Southwestern,3,<$20K,Retired,Bachelor,French,Prefer Not to Say,No,PR,50,Married,1,Rent,Yes,2026-05-01
+CLT-000854,25-34,Non-Binary,T8P,Niagara,3,<$20K,Employed PT,Bachelor,English,Yes,No,Work Permit,31,Common-Law,2,Other,No,2026-01-31
+CLT-000855,55-64,Male,T5Q,Eastern,5,$20-40K,Unemployed,Less than HS,French,No,No,Work Permit,9,Divorced,4,Other,No,2026-05-25
+CLT-000856,55-64,Male,P2A,Niagara,5,$60-80K,Unemployed,Bachelor,French,Yes,No,Other,26,Married,3,Shelter,Limited,2026-02-11
+CLT-000857,25-34,Female,N8H,Ottawa,7,$20-40K,Student,College,French,No,Yes,Other,13,Widowed,5,Other,Limited,2026-07-12
+CLT-000858,35-44,Non-Binary,T7R,GTA,2,$20-40K,Retired,Less than HS,English,No,No,Citizen,43,Single,3,Rent,Limited,2026-03-17
+CLT-000859,35-44,Male,K6V,Waterloo,3,$40-60K,Student,High School,Bilingual,Prefer Not to Say,Yes,Work Permit,6,Common-Law,5,Rent,Limited,2026-01-19
+CLT-000860,18-24,Female,K3X,Ottawa,7,$80-100K,Student,Doctorate,Other,No,Yes,Refugee,27,Divorced,5,Social Housing,No,2026-05-04
+CLT-000861,65+,Female,M1C,GTA,3,<$20K,Retired,High School,Bilingual,Yes,No,Other,11,Divorced,0,Own,Limited,2026-05-20
+CLT-000862,45-54,Prefer Not to Say,T7Z,Waterloo,7,$40-60K,Self-Employed,High School,French,Prefer Not to Say,No,PR,8,Common-Law,1,Other,Yes,2026-06-07
+CLT-000863,25-34,Female,L2L,Hamilton,4,$60-80K,On Leave,High School,Other,No,No,Work Permit,28,Common-Law,0,Rent,Yes,2026-06-18
+CLT-000864,55-64,Non-Binary,K1D,Southwestern,5,$40-60K,Student,Less than HS,French,Prefer Not to Say,No,PR,33,Married,4,Shelter,Limited,2026-07-16
+CLT-000865,55-64,Prefer Not to Say,P8J,Northern,7,<$20K,On Leave,Doctorate,Bilingual,No,No,Other,49,Widowed,1,Social Housing,Limited,2026-05-09
+CLT-000866,55-64,Non-Binary,N7B,Niagara,5,>$100K,Self-Employed,High School,French,Prefer Not to Say,No,PR,8,Single,1,Social Housing,No,2026-04-15
+CLT-000867,18-24,Prefer Not to Say,T7S,Southwestern,4,>$100K,Student,Doctorate,Other,Prefer Not to Say,Yes,Other,48,Widowed,4,Shelter,Yes,2026-07-03
+CLT-000868,45-54,Male,K9K,Waterloo,6,$40-60K,On Leave,Doctorate,Bilingual,Prefer Not to Say,Yes,Citizen,7,Widowed,2,Shelter,Yes,2026-02-28
+CLT-000869,65+,Non-Binary,T0C,Waterloo,3,$60-80K,Employed PT,Bachelor,Other,Prefer Not to Say,No,PR,25,Married,4,Other,No,2026-08-01
+CLT-000870,35-44,Non-Binary,P9P,Hamilton,5,<$20K,Self-Employed,Bachelor,French,Yes,Yes,Citizen,35,Single,0,Own,Yes,2026-07-10
+CLT-000871,35-44,Female,P6V,Niagara,5,<$20K,Student,High School,Bilingual,Yes,No,Refugee,20,Widowed,2,Own,No,2026-05-30
+CLT-000872,18-24,Prefer Not to Say,N1U,GTA,6,$80-100K,Employed FT,Less than HS,Bilingual,Prefer Not to Say,No,Other,44,Divorced,1,Social Housing,Yes,2026-06-18
+CLT-000873,25-34,Prefer Not to Say,T4X,Waterloo,4,$60-80K,Unemployed,Doctorate,French,Prefer Not to Say,No,Other,12,Single,2,Own,No,2026-02-01
+CLT-000874,55-64,Prefer Not to Say,K5C,Northern,6,$20-40K,On Leave,College,French,Yes,No,PR,27,Divorced,2,Shelter,Limited,2026-05-04
+CLT-000875,45-54,Prefer Not to Say,K4X,Northern,4,$40-60K,Retired,Bachelor,Bilingual,Yes,Yes,Citizen,0,Common-Law,5,Other,No,2026-06-03
+CLT-000876,18-24,Non-Binary,M7P,Ottawa,6,>$100K,Self-Employed,High School,English,No,Yes,Other,38,Single,3,Social Housing,No,2026-04-11
+CLT-000877,65+,Prefer Not to Say,P7V,Southwestern,4,$20-40K,On Leave,Doctorate,English,No,Yes,PR,18,Married,2,Shelter,No,2026-05-09
+CLT-000878,65+,Female,T0G,Northern,3,$20-40K,Student,Master,Bilingual,Prefer Not to Say,Yes,Work Permit,20,Widowed,3,Shelter,No,2026-02-22
+CLT-000879,35-44,Male,N8Y,Ottawa,6,<$20K,Self-Employed,Bachelor,French,Prefer Not to Say,Yes,Other,19,Divorced,3,Social Housing,Limited,2026-04-17
+CLT-000880,65+,Male,K6C,Southwestern,5,>$100K,Self-Employed,Master,French,Prefer Not to Say,No,PR,6,Widowed,3,Rent,No,2026-03-27
+CLT-000881,45-54,Non-Binary,L3S,GTA,5,$40-60K,Employed FT,Doctorate,Bilingual,No,No,PR,1,Single,5,Shelter,Yes,2026-04-10
+CLT-000882,25-34,Male,M5V,Ottawa,4,$40-60K,Employed FT,Bachelor,Other,Prefer Not to Say,Yes,Work Permit,32,Single,0,Rent,Limited,2026-06-17
+CLT-000883,35-44,Female,T7X,Eastern,5,$60-80K,Unemployed,High School,Other,Prefer Not to Say,Yes,Other,20,Widowed,5,Other,No,2026-04-23
+CLT-000884,45-54,Prefer Not to Say,T0K,Central,3,$80-100K,Retired,Master,English,No,Yes,PR,44,Widowed,4,Shelter,Limited,2026-07-15
+CLT-000885,55-64,Male,L4W,Durham,2,$60-80K,Employed FT,Less than HS,French,Prefer Not to Say,Yes,PR,49,Single,1,Rent,No,2026-05-11
+CLT-000886,55-64,Female,N4N,GTA,2,<$20K,Employed PT,Bachelor,Bilingual,Yes,No,Refugee,30,Single,5,Rent,Limited,2026-06-05
+CLT-000887,18-24,Non-Binary,K5C,Waterloo,3,$60-80K,On Leave,Less than HS,Other,No,No,Work Permit,35,Widowed,1,Rent,Yes,2026-06-27
+CLT-000888,35-44,Non-Binary,K8K,Durham,4,>$100K,Employed FT,Bachelor,French,Yes,Yes,PR,35,Married,4,Rent,Yes,2026-04-02
+CLT-000889,25-34,Prefer Not to Say,P9P,Ottawa,3,>$100K,Employed PT,College,Other,No,No,PR,26,Widowed,5,Social Housing,Limited,2026-05-08
+CLT-000890,35-44,Prefer Not to Say,L5K,GTA,4,>$100K,Employed PT,Master,French,Yes,Yes,Citizen,35,Common-Law,5,Own,Limited,2026-05-20
+CLT-000891,18-24,Prefer Not to Say,L6X,Southwestern,7,$40-60K,On Leave,Less than HS,Bilingual,Prefer Not to Say,Yes,Citizen,20,Widowed,0,Own,Yes,2026-05-24
+CLT-000892,65+,Prefer Not to Say,N9P,Southwestern,3,$60-80K,Student,Less than HS,French,No,No,Refugee,12,Divorced,5,Social Housing,No,2026-07-15
+CLT-000893,35-44,Female,K3J,Hamilton,4,$40-60K,Self-Employed,Master,Other,Yes,Yes,Refugee,36,Married,1,Shelter,Yes,2026-05-09
+CLT-000894,18-24,Male,L0F,Eastern,4,$40-60K,Employed PT,Master,Other,Yes,No,Work Permit,3,Common-Law,1,Own,Limited,2026-03-16
+CLT-000895,18-24,Non-Binary,T0I,Hamilton,2,$60-80K,Employed FT,Master,Other,Prefer Not to Say,No,PR,38,Single,2,Social Housing,Limited,2026-05-05
+CLT-000896,45-54,Female,N6A,Waterloo,5,>$100K,Unemployed,Master,English,Prefer Not to Say,Yes,Refugee,48,Common-Law,3,Rent,No,2026-04-22
+CLT-000897,35-44,Female,P7U,Durham,5,$40-60K,Retired,Bachelor,Bilingual,Prefer Not to Say,No,Work Permit,28,Single,1,Own,Limited,2026-06-06
+CLT-000898,55-64,Non-Binary,L4Z,Waterloo,4,<$20K,Student,High School,Bilingual,Yes,No,Refugee,16,Divorced,3,Shelter,No,2026-03-02
+CLT-000899,45-54,Female,M2H,Durham,3,$80-100K,Student,Bachelor,Bilingual,No,Yes,Other,5,Widowed,4,Other,No,2026-03-27
+CLT-000900,35-44,Prefer Not to Say,P8H,Northern,6,$20-40K,On Leave,Master,English,Prefer Not to Say,Yes,Citizen,20,Widowed,0,Social Housing,No,2026-03-31
+CLT-000901,65+,Male,N3M,Central,5,$40-60K,Unemployed,Less than HS,Bilingual,Prefer Not to Say,Yes,Other,14,Common-Law,2,Rent,No,2026-04-15
+CLT-000902,25-34,Prefer Not to Say,M2G,Waterloo,2,$20-40K,Employed FT,Bachelor,Bilingual,Yes,Yes,Work Permit,50,Married,5,Social Housing,Limited,2026-05-01
+CLT-000903,35-44,Male,P6Z,Northern,5,$20-40K,Self-Employed,Doctorate,English,Prefer Not to Say,No,Citizen,33,Divorced,4,Shelter,Limited,2026-03-25
+CLT-000904,65+,Prefer Not to Say,P8E,Hamilton,2,$60-80K,On Leave,Bachelor,French,Yes,No,Refugee,14,Widowed,5,Other,Limited,2026-03-05
+CLT-000905,45-54,Prefer Not to Say,N0S,Hamilton,6,$80-100K,Student,Master,Bilingual,No,Yes,Citizen,43,Common-Law,2,Social Housing,Limited,2026-01-12
+CLT-000906,45-54,Female,P6F,Waterloo,6,>$100K,Employed FT,Doctorate,English,Yes,No,Other,14,Married,5,Rent,No,2026-04-02
+CLT-000907,25-34,Prefer Not to Say,P2L,Southwestern,4,$20-40K,Employed FT,College,Bilingual,Prefer Not to Say,Yes,Work Permit,27,Divorced,0,Own,No,2026-04-24
+CLT-000908,35-44,Female,P8Y,Hamilton,2,$40-60K,On Leave,Doctorate,Bilingual,Prefer Not to Say,Yes,Other,50,Widowed,3,Own,Limited,2026-06-21
+CLT-000909,55-64,Non-Binary,M7K,Central,7,$20-40K,Self-Employed,Master,English,No,Yes,Refugee,21,Widowed,5,Shelter,Yes,2026-04-22
+CLT-000910,55-64,Female,P5B,Hamilton,6,>$100K,Employed FT,College,English,Yes,Yes,Refugee,38,Divorced,3,Rent,Yes,2026-07-19
+CLT-000911,25-34,Male,L6R,Eastern,5,$60-80K,On Leave,Less than HS,French,No,No,PR,28,Widowed,4,Rent,Yes,2026-03-15
+CLT-000912,65+,Female,L1H,Hamilton,1,$60-80K,Employed PT,Less than HS,Other,Prefer Not to Say,Yes,Other,2,Widowed,2,Other,Yes,2026-01-09
+CLT-000913,45-54,Non-Binary,T8G,Niagara,7,$80-100K,Employed FT,Bachelor,Other,Yes,Yes,Other,25,Divorced,2,Shelter,Yes,2026-04-13
+CLT-000914,45-54,Prefer Not to Say,L5S,Central,4,$20-40K,Self-Employed,College,Bilingual,Yes,Yes,Work Permit,47,Divorced,3,Rent,No,2026-01-04
+CLT-000915,35-44,Male,K5W,Durham,6,$80-100K,Self-Employed,Master,English,Yes,No,Work Permit,33,Divorced,1,Rent,No,2026-05-05
+CLT-000916,55-64,Non-Binary,L7U,Northern,1,$80-100K,Employed FT,High School,Bilingual,Yes,Yes,Work Permit,5,Common-Law,0,Shelter,Limited,2026-07-15
+CLT-000917,35-44,Female,M6M,GTA,5,>$100K,Employed FT,Bachelor,English,Yes,No,Work Permit,40,Divorced,3,Own,Yes,2026-06-15
+CLT-000918,35-44,Male,T4O,Central,1,<$20K,Employed FT,College,Bilingual,Prefer Not to Say,No,Citizen,41,Widowed,4,Rent,Yes,2026-06-10
+CLT-000919,45-54,Male,N9T,GTA,6,$60-80K,Unemployed,Master,Bilingual,Prefer Not to Say,Yes,Work Permit,27,Common-Law,5,Other,Yes,2026-06-23
+CLT-000920,25-34,Prefer Not to Say,K8G,Niagara,3,$60-80K,Employed PT,High School,Bilingual,No,No,Other,47,Single,3,Own,Limited,2026-07-06
+CLT-000921,25-34,Female,L1Z,Southwestern,7,>$100K,Self-Employed,High School,Bilingual,No,No,Refugee,44,Married,5,Other,Yes,2026-07-17
+CLT-000922,18-24,Male,L5G,Waterloo,6,$80-100K,Employed FT,College,Other,No,Yes,Work Permit,6,Common-Law,0,Other,No,2026-01-29
+CLT-000923,65+,Prefer Not to Say,M9S,Durham,4,$20-40K,Employed FT,Bachelor,English,Prefer Not to Say,Yes,Refugee,26,Widowed,4,Own,Yes,2026-01-05
+CLT-000924,25-34,Non-Binary,N9D,Northern,5,<$20K,Unemployed,Less than HS,English,No,No,Work Permit,16,Divorced,3,Rent,No,2026-04-23
+CLT-000925,25-34,Male,K5H,Niagara,1,$20-40K,Student,Bachelor,Other,No,Yes,PR,50,Widowed,2,Shelter,Limited,2026-06-13
+CLT-000926,55-64,Non-Binary,N4L,GTA,5,<$20K,Self-Employed,Master,Other,Yes,No,PR,41,Married,0,Social Housing,No,2026-01-25
+CLT-000927,45-54,Male,L2M,Ottawa,3,$40-60K,Student,Less than HS,Other,No,Yes,Work Permit,16,Single,2,Rent,No,2026-03-08
+CLT-000928,35-44,Non-Binary,T8X,Northern,5,$60-80K,Self-Employed,Master,Bilingual,Prefer Not to Say,No,Work Permit,5,Widowed,0,Rent,Limited,2026-07-29
+CLT-000929,45-54,Male,L9Q,Hamilton,7,$60-80K,Employed PT,Less than HS,French,Prefer Not to Say,Yes,Refugee,15,Widowed,3,Social Housing,Limited,2026-02-12
+CLT-000930,35-44,Female,N6A,Hamilton,3,>$100K,Self-Employed,Less than HS,Bilingual,No,No,Work Permit,0,Married,3,Own,Yes,2026-04-01
+CLT-000931,25-34,Non-Binary,K5L,Central,4,<$20K,Retired,High School,French,No,Yes,Citizen,13,Widowed,2,Own,Limited,2026-04-03
+CLT-000932,35-44,Male,M9V,Central,3,$20-40K,On Leave,Doctorate,Bilingual,Yes,No,Work Permit,0,Common-Law,3,Other,Limited,2026-06-13
+CLT-000933,18-24,Non-Binary,T8F,GTA,4,$20-40K,Student,Less than HS,French,No,Yes,PR,19,Single,5,Rent,Limited,2026-06-08
+CLT-000934,25-34,Prefer Not to Say,P1X,Eastern,2,$60-80K,Student,High School,Other,Yes,Yes,PR,26,Married,3,Shelter,Limited,2026-04-20
+CLT-000935,45-54,Non-Binary,N9K,Durham,7,$80-100K,On Leave,Less than HS,Bilingual,No,No,Refugee,48,Common-Law,4,Rent,Limited,2026-03-16
+CLT-000936,35-44,Female,M3N,Hamilton,3,>$100K,Student,High School,Other,No,No,Other,0,Common-Law,1,Shelter,Limited,2026-04-19
+CLT-000937,45-54,Female,K0G,Ottawa,4,<$20K,Self-Employed,Doctorate,French,Yes,No,Refugee,38,Single,2,Rent,No,2026-01-11
+CLT-000938,25-34,Female,K3D,Central,7,>$100K,Self-Employed,Less than HS,English,Yes,No,Refugee,17,Widowed,0,Rent,Yes,2026-04-19
+CLT-000939,25-34,Male,M9H,Durham,5,>$100K,Self-Employed,Master,Bilingual,Yes,Yes,Citizen,22,Common-Law,5,Rent,Limited,2026-05-04
+CLT-000940,55-64,Male,L7H,Southwestern,7,<$20K,On Leave,College,English,Yes,No,Refugee,0,Widowed,3,Rent,Yes,2026-07-03
+CLT-000941,45-54,Non-Binary,M4M,GTA,2,$60-80K,Self-Employed,High School,French,No,No,Other,40,Widowed,1,Rent,No,2026-01-27
+CLT-000942,65+,Female,N1Z,Eastern,3,<$20K,Student,High School,English,Yes,No,Citizen,4,Common-Law,3,Other,Limited,2026-05-08
+CLT-000943,65+,Male,N2W,Waterloo,5,<$20K,Employed FT,Master,Other,Prefer Not to Say,No,PR,27,Widowed,3,Shelter,No,2026-01-13
+CLT-000944,55-64,Female,N8C,Niagara,5,>$100K,Employed PT,Less than HS,Bilingual,Yes,No,PR,30,Married,0,Other,Limited,2026-04-27
+CLT-000945,18-24,Non-Binary,K9A,Eastern,5,<$20K,Retired,High School,English,Yes,No,Refugee,11,Divorced,0,Shelter,Yes,2026-06-11
+CLT-000946,25-34,Non-Binary,N4Q,Central,6,$60-80K,Retired,Master,French,Yes,Yes,PR,29,Married,4,Own,No,2026-02-14
+CLT-000947,25-34,Female,K2S,Hamilton,6,>$100K,Employed PT,College,Bilingual,Yes,Yes,Work Permit,37,Married,4,Social Housing,No,2026-07-17
+CLT-000948,35-44,Non-Binary,K1Q,Durham,4,$40-60K,Unemployed,Master,Bilingual,No,Yes,Citizen,30,Widowed,1,Social Housing,No,2026-02-25
+CLT-000949,45-54,Prefer Not to Say,P8H,Hamilton,7,$40-60K,Unemployed,Doctorate,Bilingual,Prefer Not to Say,Yes,Work Permit,21,Widowed,1,Other,No,2026-04-03
+CLT-000950,18-24,Male,T7X,Hamilton,1,$80-100K,Retired,Less than HS,French,Yes,No,PR,6,Single,1,Social Housing,Limited,2026-06-30
+CLT-000951,55-64,Male,L3G,Eastern,1,$40-60K,Self-Employed,Bachelor,Other,No,Yes,Citizen,3,Single,2,Shelter,Yes,2026-01-24
+CLT-000952,55-64,Female,K5F,GTA,7,$60-80K,Employed PT,High School,Other,Yes,Yes,Citizen,24,Common-Law,1,Shelter,No,2026-02-28
+CLT-000953,25-34,Male,N1J,GTA,5,$20-40K,Employed PT,Less than HS,English,Yes,No,Citizen,44,Divorced,0,Other,Limited,2026-03-17
+CLT-000954,35-44,Prefer Not to Say,T4B,Central,7,<$20K,Retired,Doctorate,Bilingual,Yes,Yes,Other,45,Single,0,Social Housing,No,2026-07-17
+CLT-000955,45-54,Female,T5F,Niagara,2,$40-60K,Retired,College,English,No,No,PR,23,Married,2,Own,Yes,2026-06-16
+CLT-000956,18-24,Female,T2Z,Durham,7,$60-80K,Student,Less than HS,English,No,No,Work Permit,47,Divorced,0,Rent,No,2026-05-29
+CLT-000957,25-34,Female,L7O,Hamilton,3,<$20K,Self-Employed,College,English,No,No,Citizen,31,Common-Law,1,Rent,Yes,2026-07-02
+CLT-000958,45-54,Prefer Not to Say,T5F,Niagara,1,$40-60K,Retired,Bachelor,English,No,Yes,Citizen,30,Single,2,Own,Yes,2026-01-18
+CLT-000959,35-44,Female,T4D,Northern,3,>$100K,On Leave,Master,Bilingual,No,No,Refugee,28,Married,0,Rent,No,2026-01-20
+CLT-000960,65+,Prefer Not to Say,T4C,Waterloo,1,>$100K,Student,Bachelor,Bilingual,No,No,Citizen,34,Common-Law,3,Own,Yes,2026-03-07
+CLT-000961,18-24,Male,T1P,Niagara,1,$60-80K,Employed FT,Bachelor,English,Yes,Yes,Citizen,6,Married,3,Rent,Limited,2026-02-26
+CLT-000962,18-24,Male,N2A,Eastern,3,$60-80K,Retired,Bachelor,Bilingual,No,No,Citizen,1,Single,4,Own,Limited,2026-07-18
+CLT-000963,65+,Non-Binary,L2Y,Niagara,6,<$20K,Self-Employed,Bachelor,French,No,Yes,Citizen,26,Common-Law,1,Social Housing,Limited,2026-02-14
+CLT-000964,35-44,Male,M4P,Central,3,>$100K,Student,Bachelor,French,No,Yes,PR,14,Single,5,Shelter,No,2026-02-02
+CLT-000965,65+,Male,M6Q,Southwestern,4,<$20K,Employed PT,Master,Bilingual,Yes,No,Other,9,Married,2,Shelter,No,2026-03-23
+CLT-000966,25-34,Male,N4N,Southwestern,3,$20-40K,On Leave,High School,English,No,No,Other,50,Common-Law,0,Shelter,Yes,2026-07-19
+CLT-000967,35-44,Non-Binary,M1W,Eastern,4,>$100K,Employed FT,High School,Bilingual,Prefer Not to Say,No,PR,40,Single,5,Own,No,2026-05-20
+CLT-000968,55-64,Male,T7R,Niagara,5,>$100K,Self-Employed,College,Other,Prefer Not to Say,No,Citizen,7,Widowed,4,Rent,Yes,2026-03-12
+CLT-000969,18-24,Non-Binary,T4U,Southwestern,4,$40-60K,On Leave,Bachelor,French,Yes,No,PR,23,Widowed,3,Rent,No,2026-07-14
+CLT-000970,55-64,Prefer Not to Say,M1V,Niagara,5,$40-60K,Employed PT,College,French,Yes,No,Work Permit,3,Common-Law,0,Other,Yes,2026-05-02
+CLT-000971,18-24,Male,T1Q,Central,5,$60-80K,Retired,Master,Other,No,Yes,Other,22,Married,4,Own,No,2026-07-05
+CLT-000972,65+,Non-Binary,M9L,Hamilton,5,$20-40K,Retired,Less than HS,Bilingual,No,Yes,Refugee,25,Widowed,0,Shelter,Yes,2026-07-09
+CLT-000973,55-64,Female,L1N,Ottawa,1,$80-100K,Unemployed,College,English,Prefer Not to Say,No,PR,47,Divorced,4,Other,Yes,2026-05-11
+CLT-000974,55-64,Male,N8Z,Eastern,1,<$20K,Employed PT,Doctorate,English,No,No,Other,8,Widowed,1,Rent,Yes,2026-03-03
+CLT-000975,18-24,Female,L6P,Hamilton,2,$40-60K,Employed FT,Doctorate,French,Prefer Not to Say,No,Refugee,7,Divorced,1,Shelter,Limited,2026-01-30
+CLT-000976,35-44,Male,K4Z,Northern,4,>$100K,Self-Employed,Bachelor,French,Yes,Yes,Work Permit,41,Divorced,1,Shelter,No,2026-02-16
+CLT-000977,18-24,Non-Binary,T2A,Waterloo,3,$20-40K,Employed FT,Bachelor,French,No,No,Citizen,23,Widowed,3,Own,Limited,2026-07-01
+CLT-000978,55-64,Non-Binary,K5B,Central,5,$20-40K,Self-Employed,College,French,Prefer Not to Say,Yes,Other,23,Common-Law,5,Other,No,2026-05-07
+CLT-000979,55-64,Female,N4V,Northern,4,$20-40K,Student,Master,Bilingual,No,Yes,PR,33,Single,3,Own,Yes,2026-05-30
+CLT-000980,25-34,Male,K5D,Ottawa,6,>$100K,Employed FT,High School,French,Yes,Yes,Citizen,30,Common-Law,1,Social Housing,Limited,2026-01-12
+CLT-000981,25-34,Non-Binary,N9I,Durham,7,$40-60K,Self-Employed,Doctorate,English,Yes,Yes,PR,46,Married,1,Rent,Yes,2026-01-09
+CLT-000982,55-64,Prefer Not to Say,K8Y,Central,6,$60-80K,Employed FT,Doctorate,Bilingual,Yes,Yes,PR,30,Single,4,Social Housing,Limited,2026-04-23
+CLT-000983,55-64,Female,N9F,Ottawa,2,<$20K,Student,Doctorate,French,Yes,No,Citizen,33,Single,4,Other,Yes,2026-04-25
+CLT-000984,18-24,Non-Binary,M9H,Ottawa,4,$80-100K,Unemployed,College,French,Prefer Not to Say,Yes,PR,28,Common-Law,5,Shelter,Limited,2026-07-25
+CLT-000985,25-34,Male,M3Z,Eastern,4,<$20K,Self-Employed,College,Bilingual,No,Yes,Work Permit,23,Common-Law,2,Own,No,2026-05-05
+CLT-000986,18-24,Male,L3L,Central,6,$80-100K,Retired,High School,French,No,Yes,Citizen,49,Widowed,0,Other,Yes,2026-05-25
+CLT-000987,65+,Female,P5B,Northern,6,$80-100K,Unemployed,Bachelor,Other,Prefer Not to Say,Yes,Work Permit,32,Divorced,5,Social Housing,Yes,2026-04-29
+CLT-000988,18-24,Non-Binary,N4D,Central,7,$20-40K,Employed PT,Doctorate,English,No,Yes,Refugee,26,Divorced,5,Shelter,Yes,2026-06-15
+CLT-000989,65+,Prefer Not to Say,K3C,Ottawa,5,<$20K,Self-Employed,Bachelor,English,Yes,No,Work Permit,47,Married,0,Other,Yes,2026-05-06
+CLT-000990,25-34,Male,K4V,GTA,2,$60-80K,Student,Master,English,No,Yes,PR,31,Widowed,5,Rent,Yes,2026-04-17
+CLT-000991,18-24,Female,M0J,Central,5,$20-40K,Employed FT,Bachelor,French,Yes,No,PR,17,Divorced,5,Social Housing,Yes,2026-03-18
+CLT-000992,45-54,Non-Binary,N3E,Central,7,$40-60K,Employed FT,Bachelor,Bilingual,Yes,Yes,Work Permit,45,Married,3,Shelter,Limited,2026-06-12
+CLT-000993,18-24,Female,M7F,GTA,5,$40-60K,Student,Master,English,Yes,No,Work Permit,0,Widowed,0,Other,Limited,2026-07-12
+CLT-000994,45-54,Non-Binary,L5N,Central,6,$60-80K,Self-Employed,Doctorate,English,Prefer Not to Say,No,Work Permit,18,Married,0,Social Housing,No,2026-01-15
+CLT-000995,65+,Non-Binary,M5W,Central,4,$60-80K,On Leave,College,English,Prefer Not to Say,Yes,Citizen,7,Divorced,5,Shelter,No,2026-06-03
+CLT-000996,65+,Female,M0C,Eastern,3,>$100K,Employed FT,College,English,No,Yes,Refugee,40,Divorced,0,Other,Yes,2026-03-07
+CLT-000997,35-44,Prefer Not to Say,L4Q,Southwestern,1,<$20K,Employed FT,Less than HS,Bilingual,Yes,Yes,Work Permit,45,Divorced,2,Social Housing,No,2026-06-09
+CLT-000998,45-54,Prefer Not to Say,P3J,Durham,7,$60-80K,Unemployed,High School,Bilingual,No,Yes,Work Permit,35,Widowed,4,Rent,No,2026-04-12
+CLT-000999,45-54,Female,L7N,GTA,1,$20-40K,Retired,Less than HS,Other,Prefer Not to Say,No,Citizen,5,Widowed,0,Rent,Limited,2026-01-28
+CLT-001000,45-54,Non-Binary,K5B,Durham,6,<$20K,Unemployed,Master,Bilingual,Prefer Not to Say,Yes,Work Permit,15,Single,2,Own,No,2026-01-19

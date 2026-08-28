@@ -1,0 +1,1001 @@
+VISIT_ID,PATIENT_ID,HOSPITAL_ID,TRIAGE_CATEGORY,WAIT_MINUTES,TREATMENT_MINUTES,ARRIVAL_DATE,ARRIVAL_HOUR,DISCHARGE_STATUS,PHYSICIAN_ID,REGION,HOSPITAL_TYPE,BED_OCCUPANCY_PCT,AMBULANCE_ARRIVAL,RETURN_VISIT_72H,ACUITY_SCORE,CHIEF_COMPLAINT_CATEGORY,LAST_UPDATED
+VST-00000001,PAT-000477,Hospital_002,5,593,205,2025-05-01,2,Discharged,DR-0056,Central,Specialty,90.1,Yes,No,8,Pediatric,2026-02-04
+VST-00000002,PAT-000071,Hospital_004,5,39,87,2026-06-24,0,Left Without Being Seen,DR-0117,Waterloo,Rural,70.5,Yes,Yes,5,Respiratory,2026-03-12
+VST-00000003,PAT-000076,Hospital_023,4,396,363,2025-09-01,1,Left Without Being Seen,DR-0187,Hamilton,Community,77.3,No,Yes,3,Chest Pain,2026-02-11
+VST-00000004,PAT-000117,Hospital_029,3,558,305,2025-07-03,17,Admitted,DR-0145,GTA,Rural,60.7,Yes,Yes,4,Other,2026-07-01
+VST-00000005,PAT-000402,Hospital_045,1,686,248,2025-07-09,0,Admitted,DR-0040,Southwestern,Community,95.7,Yes,Yes,8,Other,2026-04-04
+VST-00000006,PAT-000431,Hospital_032,4,631,153,2026-01-20,12,Deceased,DR-0084,Eastern,Community,65.3,No,No,3,Pediatric,2026-06-16
+VST-00000007,PAT-000576,Hospital_039,5,568,387,2025-02-06,15,Transferred,DR-0092,Hamilton,Rural,74.0,No,No,8,Neurological,2026-04-11
+VST-00000008,PAT-000307,Hospital_024,1,717,312,2025-07-03,8,Admitted,DR-0115,Waterloo,Community,64.6,Yes,No,2,Pediatric,2026-03-30
+VST-00000009,PAT-000148,Hospital_012,5,507,468,2025-08-01,10,Discharged,DR-0023,Durham,Specialty,76.4,No,Yes,5,Abdominal Pain,2026-03-12
+VST-00000010,PAT-000292,Hospital_036,4,686,263,2026-03-28,9,Transferred,DR-0105,Eastern,Specialty,86.2,Yes,Yes,4,Abdominal Pain,2026-05-15
+VST-00000011,PAT-000550,Hospital_029,2,514,264,2026-03-05,1,Transferred,DR-0171,Durham,Specialty,74.1,No,Yes,1,Neurological,2026-06-25
+VST-00000012,PAT-000720,Hospital_002,3,486,288,2025-10-31,12,Admitted,DR-0037,Ottawa,Specialty,61.5,No,No,2,Pediatric,2026-03-23
+VST-00000013,PAT-000791,Hospital_008,3,243,58,2025-05-16,2,Left Without Being Seen,DR-0019,Eastern,Community,84.6,No,Yes,9,Pediatric,2026-06-19
+VST-00000014,PAT-000522,Hospital_028,3,115,342,2025-09-17,13,Transferred,DR-0014,Ottawa,Specialty,50.8,No,Yes,10,Pediatric,2026-04-29
+VST-00000015,PAT-000038,Hospital_007,3,383,369,2025-06-18,5,Transferred,DR-0079,Ottawa,Community,64.5,No,No,6,Injury,2026-06-26
+VST-00000016,PAT-000674,Hospital_048,5,374,382,2026-05-13,17,Transferred,DR-0051,Central,Teaching,70.9,Yes,Yes,1,Injury,2026-02-10
+VST-00000017,PAT-000475,Hospital_046,1,89,124,2025-03-24,16,Discharged,DR-0016,Northern,Teaching,91.1,Yes,Yes,9,Respiratory,2026-04-24
+VST-00000018,PAT-000703,Hospital_021,3,373,243,2026-05-13,7,Left Without Being Seen,DR-0176,Eastern,Community,80.8,Yes,Yes,4,Injury,2026-06-19
+VST-00000019,PAT-000724,Hospital_005,5,654,138,2026-03-02,12,Deceased,DR-0186,Southwestern,Community,69.7,Yes,No,7,Other,2026-02-22
+VST-00000020,PAT-000142,Hospital_037,4,328,276,2025-10-07,10,Transferred,DR-0037,Hamilton,Teaching,99.5,Yes,No,1,Injury,2026-03-08
+VST-00000021,PAT-000307,Hospital_026,5,542,156,2025-12-23,18,Deceased,DR-0158,GTA,Teaching,70.9,Yes,No,8,Mental Health,2026-01-14
+VST-00000022,PAT-000427,Hospital_010,4,302,222,2025-12-06,16,Deceased,DR-0145,Waterloo,Specialty,59.8,No,No,5,Pediatric,2026-03-04
+VST-00000023,PAT-000085,Hospital_010,5,705,158,2025-05-24,21,Discharged,DR-0149,Northern,Specialty,66.8,Yes,Yes,10,Abdominal Pain,2026-06-25
+VST-00000024,PAT-000082,Hospital_010,2,43,108,2025-03-17,10,Discharged,DR-0036,Durham,Rural,54.3,No,No,1,Neurological,2026-03-16
+VST-00000025,PAT-000111,Hospital_046,4,690,184,2025-06-19,7,Transferred,DR-0003,GTA,Specialty,77.4,No,Yes,10,Chest Pain,2026-07-12
+VST-00000026,PAT-000048,Hospital_014,2,167,386,2026-03-18,0,Transferred,DR-0062,Southwestern,Specialty,78.0,No,Yes,3,Pediatric,2026-04-30
+VST-00000027,PAT-000263,Hospital_035,3,437,154,2025-08-13,2,Discharged,DR-0054,Northern,Community,104.1,No,No,4,Other,2026-07-03
+VST-00000028,PAT-000446,Hospital_031,2,61,397,2025-12-31,17,Left Without Being Seen,DR-0138,Northern,Teaching,84.2,No,No,10,Pediatric,2026-05-20
+VST-00000029,PAT-000153,Hospital_009,3,215,62,2025-05-20,21,Discharged,DR-0039,Central,Rural,101.8,Yes,Yes,4,Chest Pain,2026-05-03
+VST-00000030,PAT-000557,Hospital_008,3,118,80,2025-12-04,14,Discharged,DR-0170,Niagara,Specialty,99.7,No,No,10,Injury,2026-03-18
+VST-00000031,PAT-000260,Hospital_046,3,312,391,2026-04-26,10,Deceased,DR-0113,Ottawa,Teaching,62.7,Yes,No,7,Other,2026-02-23
+VST-00000032,PAT-000120,Hospital_044,1,138,167,2025-06-11,12,Left Without Being Seen,DR-0082,Waterloo,Specialty,98.7,No,No,9,Respiratory,2026-04-06
+VST-00000033,PAT-000526,Hospital_014,1,17,424,2025-01-15,6,Left Without Being Seen,DR-0143,Central,Specialty,57.4,Yes,Yes,8,Neurological,2026-01-09
+VST-00000034,PAT-000192,Hospital_032,1,625,94,2026-02-03,9,Admitted,DR-0029,GTA,Community,62.9,No,Yes,9,Chest Pain,2026-05-06
+VST-00000035,PAT-000256,Hospital_028,4,657,172,2026-05-21,1,Transferred,DR-0167,Waterloo,Rural,81.8,Yes,Yes,10,Pediatric,2026-06-19
+VST-00000036,PAT-000646,Hospital_018,2,682,379,2025-09-03,11,Transferred,DR-0037,Eastern,Rural,93.4,Yes,Yes,2,Abdominal Pain,2026-05-11
+VST-00000037,PAT-000483,Hospital_001,1,9,35,2026-07-05,4,Admitted,DR-0033,GTA,Rural,63.0,Yes,Yes,9,Mental Health,2026-05-28
+VST-00000038,PAT-000736,Hospital_023,4,55,285,2026-06-26,0,Left Without Being Seen,DR-0109,Niagara,Teaching,96.7,Yes,Yes,2,Respiratory,2026-05-01
+VST-00000039,PAT-000550,Hospital_012,3,481,437,2025-12-27,18,Deceased,DR-0185,Ottawa,Teaching,99.8,Yes,Yes,7,Pediatric,2026-03-24
+VST-00000040,PAT-000060,Hospital_048,4,532,286,2026-05-30,11,Transferred,DR-0184,Niagara,Teaching,60.1,Yes,Yes,7,Chest Pain,2026-03-03
+VST-00000041,PAT-000357,Hospital_004,2,710,171,2025-12-15,0,Transferred,DR-0052,Northern,Specialty,93.2,Yes,No,3,Respiratory,2026-01-23
+VST-00000042,PAT-000677,Hospital_028,5,268,413,2025-11-18,13,Left Without Being Seen,DR-0098,Durham,Specialty,70.8,No,No,7,Abdominal Pain,2026-03-13
+VST-00000043,PAT-000170,Hospital_046,5,317,19,2025-01-18,0,Discharged,DR-0179,Ottawa,Community,91.8,No,No,4,Other,2026-05-11
+VST-00000044,PAT-000278,Hospital_032,1,22,403,2026-05-02,7,Deceased,DR-0046,Eastern,Community,58.1,Yes,Yes,8,Pediatric,2026-07-19
+VST-00000045,PAT-000790,Hospital_011,2,219,383,2025-08-29,8,Left Without Being Seen,DR-0012,Ottawa,Rural,65.2,No,No,7,Neurological,2026-04-29
+VST-00000046,PAT-000552,Hospital_027,4,85,36,2025-02-21,1,Discharged,DR-0090,Waterloo,Teaching,96.9,Yes,No,3,Respiratory,2026-05-08
+VST-00000047,PAT-000623,Hospital_049,2,643,125,2025-07-31,9,Deceased,DR-0171,Waterloo,Teaching,65.7,Yes,No,10,Pediatric,2026-02-27
+VST-00000048,PAT-000089,Hospital_021,3,653,194,2026-06-23,1,Discharged,DR-0129,Hamilton,Rural,77.4,No,No,6,Abdominal Pain,2026-06-26
+VST-00000049,PAT-000218,Hospital_008,5,233,391,2026-07-19,4,Admitted,DR-0126,GTA,Rural,65.1,No,No,1,Abdominal Pain,2026-06-20
+VST-00000050,PAT-000203,Hospital_041,5,94,140,2026-06-03,11,Left Without Being Seen,DR-0028,Durham,Rural,59.7,Yes,Yes,7,Respiratory,2026-03-24
+VST-00000051,PAT-000465,Hospital_003,1,486,456,2026-04-05,7,Admitted,DR-0125,GTA,Teaching,52.6,No,Yes,7,Chest Pain,2026-03-30
+VST-00000052,PAT-000302,Hospital_047,5,503,57,2025-07-08,15,Deceased,DR-0060,Ottawa,Teaching,79.4,No,Yes,8,Other,2026-03-22
+VST-00000053,PAT-000429,Hospital_050,5,625,375,2025-01-01,13,Discharged,DR-0077,Ottawa,Specialty,83.9,No,Yes,10,Neurological,2026-04-09
+VST-00000054,PAT-000413,Hospital_007,1,574,110,2026-07-18,18,Admitted,DR-0023,GTA,Specialty,67.2,No,No,4,Neurological,2026-05-24
+VST-00000055,PAT-000244,Hospital_002,5,509,179,2025-08-17,6,Transferred,DR-0051,Ottawa,Rural,81.8,Yes,No,10,Abdominal Pain,2026-05-13
+VST-00000056,PAT-000703,Hospital_026,1,680,258,2025-11-24,20,Transferred,DR-0140,Niagara,Community,63.8,No,No,10,Pediatric,2026-03-13
+VST-00000057,PAT-000684,Hospital_044,2,181,29,2026-03-03,18,Deceased,DR-0171,Northern,Rural,92.6,Yes,Yes,1,Mental Health,2026-07-24
+VST-00000058,PAT-000359,Hospital_035,1,684,374,2026-07-20,14,Left Without Being Seen,DR-0104,Eastern,Rural,90.9,Yes,Yes,9,Neurological,2026-03-01
+VST-00000059,PAT-000298,Hospital_036,5,250,58,2025-07-10,14,Admitted,DR-0116,Hamilton,Community,65.9,No,Yes,3,Abdominal Pain,2026-05-23
+VST-00000060,PAT-000092,Hospital_025,4,93,475,2026-05-18,14,Discharged,DR-0031,GTA,Community,65.6,Yes,Yes,8,Mental Health,2026-04-22
+VST-00000061,PAT-000068,Hospital_032,3,332,247,2025-09-25,3,Transferred,DR-0161,Waterloo,Teaching,77.6,Yes,Yes,1,Chest Pain,2026-07-12
+VST-00000062,PAT-000016,Hospital_006,2,249,45,2025-06-22,23,Discharged,DR-0071,Durham,Teaching,64.0,Yes,Yes,2,Mental Health,2026-07-21
+VST-00000063,PAT-000790,Hospital_042,5,170,70,2025-12-30,21,Deceased,DR-0186,Ottawa,Community,75.6,No,Yes,5,Respiratory,2026-03-05
+VST-00000064,PAT-000661,Hospital_029,4,300,180,2026-01-22,2,Deceased,DR-0188,Southwestern,Specialty,80.8,Yes,No,9,Mental Health,2026-02-22
+VST-00000065,PAT-000407,Hospital_022,5,458,173,2026-05-15,1,Deceased,DR-0027,Southwestern,Specialty,90.8,Yes,Yes,10,Chest Pain,2026-05-11
+VST-00000066,PAT-000230,Hospital_015,5,139,446,2026-01-20,11,Transferred,DR-0032,Waterloo,Specialty,79.4,No,Yes,3,Pediatric,2026-04-14
+VST-00000067,PAT-000422,Hospital_044,5,599,75,2026-01-30,23,Deceased,DR-0146,Northern,Specialty,97.8,Yes,No,7,Neurological,2026-04-27
+VST-00000068,PAT-000304,Hospital_035,4,385,445,2026-04-06,14,Left Without Being Seen,DR-0154,Hamilton,Specialty,73.9,Yes,Yes,1,Other,2026-03-23
+VST-00000069,PAT-000035,Hospital_047,4,542,83,2025-07-16,20,Admitted,DR-0200,Hamilton,Community,96.1,Yes,Yes,5,Other,2026-07-17
+VST-00000070,PAT-000290,Hospital_045,1,685,383,2025-06-29,13,Transferred,DR-0144,Durham,Specialty,94.9,No,Yes,8,Mental Health,2026-06-15
+VST-00000071,PAT-000558,Hospital_024,3,417,16,2026-01-04,4,Discharged,DR-0118,Eastern,Community,53.7,Yes,Yes,6,Other,2026-06-24
+VST-00000072,PAT-000574,Hospital_038,2,648,275,2026-06-22,0,Admitted,DR-0183,Northern,Rural,68.4,No,No,10,Mental Health,2026-01-15
+VST-00000073,PAT-000525,Hospital_034,5,225,270,2025-02-02,14,Deceased,DR-0188,Waterloo,Teaching,95.8,Yes,No,3,Mental Health,2026-06-25
+VST-00000074,PAT-000679,Hospital_042,1,359,394,2025-10-16,7,Left Without Being Seen,DR-0076,Waterloo,Teaching,81.0,No,No,8,Chest Pain,2026-06-13
+VST-00000075,PAT-000560,Hospital_019,5,411,264,2025-05-08,3,Transferred,DR-0194,Northern,Rural,83.5,No,No,4,Respiratory,2026-02-21
+VST-00000076,PAT-000433,Hospital_024,1,636,143,2025-04-17,13,Admitted,DR-0162,Niagara,Specialty,59.8,Yes,No,3,Other,2026-01-15
+VST-00000077,PAT-000086,Hospital_046,2,151,448,2025-04-14,11,Transferred,DR-0109,Hamilton,Teaching,53.5,Yes,No,2,Other,2026-01-29
+VST-00000078,PAT-000008,Hospital_018,3,629,308,2025-06-12,22,Discharged,DR-0122,Ottawa,Teaching,58.2,Yes,Yes,2,Pediatric,2026-01-09
+VST-00000079,PAT-000321,Hospital_003,2,324,212,2025-04-22,20,Discharged,DR-0122,Eastern,Rural,54.9,No,No,2,Respiratory,2026-04-15
+VST-00000080,PAT-000354,Hospital_024,3,340,58,2025-07-07,7,Admitted,DR-0088,Central,Teaching,72.8,No,Yes,6,Pediatric,2026-04-14
+VST-00000081,PAT-000199,Hospital_002,2,396,117,2025-08-27,16,Transferred,DR-0184,Southwestern,Specialty,68.3,Yes,No,5,Respiratory,2026-02-23
+VST-00000082,PAT-000334,Hospital_012,3,672,15,2025-03-07,18,Discharged,DR-0106,Central,Community,71.9,No,Yes,7,Pediatric,2026-06-07
+VST-00000083,PAT-000438,Hospital_041,4,502,274,2025-04-12,6,Left Without Being Seen,DR-0017,Southwestern,Rural,58.2,No,No,5,Abdominal Pain,2026-06-25
+VST-00000084,PAT-000324,Hospital_014,3,30,307,2025-01-18,21,Left Without Being Seen,DR-0051,Central,Teaching,95.8,No,Yes,7,Mental Health,2026-06-03
+VST-00000085,PAT-000158,Hospital_039,3,657,389,2026-02-18,11,Discharged,DR-0200,Eastern,Community,100.5,Yes,Yes,1,Respiratory,2026-06-08
+VST-00000086,PAT-000672,Hospital_038,1,182,234,2025-10-14,7,Deceased,DR-0068,Hamilton,Teaching,90.3,Yes,Yes,1,Neurological,2026-01-13
+VST-00000087,PAT-000621,Hospital_007,4,221,137,2025-06-05,21,Admitted,DR-0101,Northern,Rural,82.0,Yes,Yes,9,Pediatric,2026-04-03
+VST-00000088,PAT-000502,Hospital_048,1,118,370,2025-06-22,22,Left Without Being Seen,DR-0147,Ottawa,Community,78.1,Yes,Yes,1,Pediatric,2026-02-14
+VST-00000089,PAT-000245,Hospital_049,5,120,277,2025-08-05,20,Deceased,DR-0044,Southwestern,Rural,56.4,No,Yes,8,Other,2026-04-13
+VST-00000090,PAT-000126,Hospital_044,5,452,19,2026-05-19,19,Discharged,DR-0025,Hamilton,Community,83.7,Yes,Yes,4,Neurological,2026-05-25
+VST-00000091,PAT-000126,Hospital_016,2,375,120,2025-03-26,11,Admitted,DR-0091,Niagara,Community,89.2,No,Yes,5,Neurological,2026-06-28
+VST-00000092,PAT-000649,Hospital_002,3,713,29,2025-09-17,3,Left Without Being Seen,DR-0115,Hamilton,Teaching,91.6,No,Yes,9,Injury,2026-01-20
+VST-00000093,PAT-000550,Hospital_042,2,302,161,2026-01-31,17,Admitted,DR-0025,Niagara,Community,70.6,No,Yes,4,Pediatric,2026-06-14
+VST-00000094,PAT-000292,Hospital_042,4,241,87,2025-06-16,6,Admitted,DR-0036,Southwestern,Community,97.1,Yes,No,9,Mental Health,2026-04-11
+VST-00000095,PAT-000525,Hospital_048,1,167,189,2025-09-15,3,Left Without Being Seen,DR-0088,Northern,Specialty,101.8,No,No,6,Chest Pain,2026-03-13
+VST-00000096,PAT-000265,Hospital_030,3,718,61,2026-03-30,13,Left Without Being Seen,DR-0055,Southwestern,Rural,54.3,No,No,10,Respiratory,2026-06-20
+VST-00000097,PAT-000750,Hospital_003,4,712,179,2025-07-06,11,Admitted,DR-0046,Waterloo,Community,84.8,No,No,5,Mental Health,2026-03-13
+VST-00000098,PAT-000745,Hospital_024,1,595,315,2026-01-13,10,Discharged,DR-0193,Durham,Specialty,76.6,No,No,3,Abdominal Pain,2026-07-10
+VST-00000099,PAT-000330,Hospital_043,4,33,234,2026-03-10,5,Left Without Being Seen,DR-0183,GTA,Teaching,88.8,Yes,Yes,1,Respiratory,2026-02-19
+VST-00000100,PAT-000676,Hospital_029,4,132,147,2025-10-20,17,Transferred,DR-0043,Southwestern,Rural,82.1,Yes,No,2,Neurological,2026-02-14
+VST-00000101,PAT-000532,Hospital_049,2,10,180,2026-03-12,17,Admitted,DR-0187,GTA,Teaching,78.0,Yes,No,9,Chest Pain,2026-06-02
+VST-00000102,PAT-000514,Hospital_033,2,180,33,2025-05-13,11,Admitted,DR-0161,Ottawa,Teaching,85.6,No,Yes,4,Neurological,2026-06-23
+VST-00000103,PAT-000266,Hospital_032,5,88,123,2025-02-20,23,Admitted,DR-0126,Waterloo,Community,82.3,Yes,Yes,6,Abdominal Pain,2026-01-06
+VST-00000104,PAT-000016,Hospital_044,2,178,260,2026-07-29,4,Left Without Being Seen,DR-0119,Waterloo,Community,68.3,No,Yes,3,Pediatric,2026-07-22
+VST-00000105,PAT-000035,Hospital_015,2,179,168,2025-02-20,17,Discharged,DR-0167,Hamilton,Specialty,85.3,Yes,Yes,8,Abdominal Pain,2026-05-06
+VST-00000106,PAT-000109,Hospital_023,1,393,292,2025-12-02,4,Left Without Being Seen,DR-0098,GTA,Rural,95.2,Yes,Yes,9,Neurological,2026-01-30
+VST-00000107,PAT-000367,Hospital_006,2,148,345,2026-06-07,13,Transferred,DR-0012,GTA,Specialty,103.2,No,No,2,Abdominal Pain,2026-07-19
+VST-00000108,PAT-000453,Hospital_008,3,601,474,2025-03-05,7,Transferred,DR-0076,Durham,Specialty,63.6,Yes,No,10,Chest Pain,2026-07-13
+VST-00000109,PAT-000109,Hospital_010,3,621,309,2026-03-13,16,Left Without Being Seen,DR-0134,Eastern,Rural,91.8,Yes,No,9,Pediatric,2026-06-10
+VST-00000110,PAT-000503,Hospital_005,3,324,351,2025-07-08,23,Deceased,DR-0177,Central,Rural,94.2,Yes,No,8,Other,2026-01-14
+VST-00000111,PAT-000046,Hospital_030,1,619,430,2025-03-27,23,Discharged,DR-0060,Central,Community,62.0,Yes,No,10,Injury,2026-01-30
+VST-00000112,PAT-000641,Hospital_031,2,211,151,2025-01-12,10,Discharged,DR-0096,Central,Specialty,73.1,Yes,No,4,Other,2026-01-15
+VST-00000113,PAT-000385,Hospital_008,1,356,170,2025-05-30,3,Discharged,DR-0179,Durham,Rural,83.7,Yes,Yes,7,Neurological,2026-06-21
+VST-00000114,PAT-000595,Hospital_022,1,492,120,2025-08-27,12,Transferred,DR-0109,Southwestern,Teaching,65.3,Yes,Yes,8,Respiratory,2026-01-06
+VST-00000115,PAT-000783,Hospital_048,1,100,305,2026-07-14,1,Discharged,DR-0028,GTA,Specialty,63.6,Yes,Yes,5,Respiratory,2026-03-02
+VST-00000116,PAT-000163,Hospital_025,3,276,306,2025-11-18,2,Deceased,DR-0156,Durham,Teaching,85.3,No,No,6,Abdominal Pain,2026-04-26
+VST-00000117,PAT-000613,Hospital_008,3,296,461,2025-09-02,12,Deceased,DR-0143,GTA,Community,64.8,No,Yes,1,Respiratory,2026-06-07
+VST-00000118,PAT-000280,Hospital_004,5,52,326,2025-03-13,1,Discharged,DR-0107,Waterloo,Rural,72.0,Yes,Yes,4,Mental Health,2026-01-22
+VST-00000119,PAT-000408,Hospital_031,5,177,214,2026-01-30,9,Discharged,DR-0196,Eastern,Teaching,74.6,Yes,No,10,Chest Pain,2026-06-17
+VST-00000120,PAT-000441,Hospital_018,1,533,74,2025-03-03,12,Transferred,DR-0029,GTA,Teaching,74.3,No,No,2,Chest Pain,2026-07-25
+VST-00000121,PAT-000334,Hospital_039,2,31,291,2026-01-27,10,Admitted,DR-0186,Hamilton,Rural,81.9,No,No,9,Mental Health,2026-06-02
+VST-00000122,PAT-000193,Hospital_006,5,378,459,2026-03-22,12,Left Without Being Seen,DR-0066,Waterloo,Community,64.1,No,Yes,3,Pediatric,2026-05-13
+VST-00000123,PAT-000562,Hospital_033,1,12,255,2026-07-26,12,Admitted,DR-0046,GTA,Teaching,82.9,Yes,Yes,1,Other,2026-06-10
+VST-00000124,PAT-000796,Hospital_034,1,480,393,2026-03-10,4,Admitted,DR-0184,Northern,Rural,68.4,Yes,Yes,10,Abdominal Pain,2026-02-12
+VST-00000125,PAT-000756,Hospital_029,4,433,65,2026-01-07,3,Deceased,DR-0008,Hamilton,Rural,67.1,No,No,8,Pediatric,2026-07-20
+VST-00000126,PAT-000717,Hospital_002,1,265,460,2025-05-23,11,Deceased,DR-0114,Niagara,Rural,77.3,Yes,No,5,Respiratory,2026-03-31
+VST-00000127,PAT-000559,Hospital_020,4,586,355,2025-12-28,2,Deceased,DR-0101,Ottawa,Rural,81.6,Yes,Yes,5,Chest Pain,2026-06-27
+VST-00000128,PAT-000602,Hospital_002,3,315,345,2025-11-04,9,Deceased,DR-0109,Northern,Rural,58.0,Yes,No,6,Mental Health,2026-05-22
+VST-00000129,PAT-000630,Hospital_030,2,601,468,2025-02-19,14,Transferred,DR-0100,Niagara,Specialty,69.6,Yes,No,5,Injury,2026-01-04
+VST-00000130,PAT-000247,Hospital_007,3,497,316,2026-05-21,0,Transferred,DR-0089,Durham,Teaching,55.6,Yes,No,6,Chest Pain,2026-07-23
+VST-00000131,PAT-000485,Hospital_029,5,244,238,2025-08-18,10,Discharged,DR-0173,Waterloo,Specialty,90.4,Yes,Yes,10,Injury,2026-02-07
+VST-00000132,PAT-000471,Hospital_008,4,430,102,2025-07-31,19,Admitted,DR-0092,Northern,Specialty,50.1,No,No,3,Pediatric,2026-03-29
+VST-00000133,PAT-000344,Hospital_033,1,213,80,2026-03-22,3,Admitted,DR-0086,Southwestern,Community,95.4,Yes,Yes,9,Injury,2026-02-24
+VST-00000134,PAT-000208,Hospital_042,2,664,336,2025-02-28,1,Admitted,DR-0084,Eastern,Teaching,65.1,No,No,5,Chest Pain,2026-07-19
+VST-00000135,PAT-000465,Hospital_007,5,386,127,2025-08-27,3,Discharged,DR-0088,Niagara,Rural,88.3,Yes,No,7,Injury,2026-07-09
+VST-00000136,PAT-000569,Hospital_030,3,202,366,2025-04-20,16,Left Without Being Seen,DR-0139,Eastern,Community,70.8,Yes,Yes,6,Injury,2026-07-30
+VST-00000137,PAT-000721,Hospital_038,4,264,201,2026-06-18,14,Discharged,DR-0097,Niagara,Community,85.7,Yes,Yes,4,Injury,2026-02-11
+VST-00000138,PAT-000099,Hospital_028,5,530,38,2026-04-23,0,Discharged,DR-0132,Northern,Teaching,95.7,No,No,8,Respiratory,2026-07-27
+VST-00000139,PAT-000690,Hospital_006,2,381,66,2025-07-02,3,Deceased,DR-0140,Eastern,Community,66.0,Yes,No,10,Abdominal Pain,2026-06-01
+VST-00000140,PAT-000312,Hospital_018,3,649,202,2026-04-30,13,Transferred,DR-0149,Niagara,Community,68.9,No,No,2,Abdominal Pain,2026-05-05
+VST-00000141,PAT-000126,Hospital_048,2,49,131,2025-11-09,11,Transferred,DR-0178,Southwestern,Teaching,84.8,No,No,7,Neurological,2026-07-27
+VST-00000142,PAT-000634,Hospital_047,2,218,17,2025-02-18,4,Admitted,DR-0075,Northern,Community,62.7,No,Yes,7,Pediatric,2026-03-21
+VST-00000143,PAT-000234,Hospital_014,2,715,197,2025-03-28,19,Deceased,DR-0159,Hamilton,Community,100.5,Yes,Yes,6,Injury,2026-06-07
+VST-00000144,PAT-000166,Hospital_029,1,635,363,2025-08-06,23,Discharged,DR-0108,Hamilton,Specialty,84.7,Yes,Yes,2,Abdominal Pain,2026-05-08
+VST-00000145,PAT-000778,Hospital_045,2,81,35,2025-03-21,1,Deceased,DR-0030,GTA,Rural,71.6,Yes,No,3,Chest Pain,2026-03-21
+VST-00000146,PAT-000600,Hospital_022,4,432,288,2026-02-15,22,Left Without Being Seen,DR-0023,GTA,Community,80.2,No,Yes,8,Injury,2026-02-04
+VST-00000147,PAT-000471,Hospital_050,5,240,437,2025-07-07,23,Deceased,DR-0003,Northern,Rural,93.4,Yes,No,5,Chest Pain,2026-05-06
+VST-00000148,PAT-000792,Hospital_027,5,451,197,2026-04-19,15,Transferred,DR-0081,Southwestern,Community,81.4,Yes,Yes,5,Pediatric,2026-03-02
+VST-00000149,PAT-000781,Hospital_005,2,676,409,2025-10-30,10,Admitted,DR-0067,Hamilton,Rural,82.0,Yes,Yes,7,Chest Pain,2026-07-06
+VST-00000150,PAT-000522,Hospital_017,4,562,363,2025-05-04,17,Admitted,DR-0038,Northern,Community,85.4,No,No,10,Respiratory,2026-03-13
+VST-00000151,PAT-000465,Hospital_043,3,553,170,2026-06-22,11,Transferred,DR-0200,Waterloo,Rural,66.6,No,Yes,5,Injury,2026-01-31
+VST-00000152,PAT-000645,Hospital_024,4,148,332,2025-04-06,8,Admitted,DR-0098,GTA,Specialty,53.5,Yes,Yes,5,Mental Health,2026-05-17
+VST-00000153,PAT-000133,Hospital_029,4,293,354,2026-02-11,3,Admitted,DR-0055,Waterloo,Rural,67.7,No,Yes,6,Abdominal Pain,2026-02-23
+VST-00000154,PAT-000453,Hospital_012,1,428,421,2026-04-25,14,Admitted,DR-0016,Waterloo,Specialty,80.9,Yes,Yes,5,Pediatric,2026-05-24
+VST-00000155,PAT-000405,Hospital_011,1,495,190,2025-08-06,18,Discharged,DR-0154,Ottawa,Community,80.2,Yes,Yes,9,Mental Health,2026-07-05
+VST-00000156,PAT-000329,Hospital_001,4,246,333,2026-05-28,9,Deceased,DR-0164,Central,Rural,50.6,Yes,No,9,Abdominal Pain,2026-03-30
+VST-00000157,PAT-000097,Hospital_044,1,276,227,2025-05-17,14,Deceased,DR-0086,Niagara,Specialty,58.9,No,No,3,Other,2026-07-03
+VST-00000158,PAT-000182,Hospital_020,2,522,439,2025-05-07,9,Left Without Being Seen,DR-0093,Niagara,Rural,54.6,No,No,6,Mental Health,2026-06-16
+VST-00000159,PAT-000036,Hospital_005,3,270,212,2025-08-06,7,Deceased,DR-0067,Central,Rural,65.6,Yes,Yes,3,Injury,2026-02-05
+VST-00000160,PAT-000076,Hospital_040,5,667,272,2025-11-01,17,Discharged,DR-0053,Ottawa,Community,103.5,No,Yes,1,Mental Health,2026-01-07
+VST-00000161,PAT-000580,Hospital_045,2,674,109,2025-06-05,22,Discharged,DR-0043,Southwestern,Teaching,94.5,No,No,10,Other,2026-01-12
+VST-00000162,PAT-000697,Hospital_026,5,211,371,2026-07-15,5,Deceased,DR-0043,Niagara,Specialty,74.7,Yes,Yes,1,Other,2026-05-05
+VST-00000163,PAT-000227,Hospital_021,3,599,352,2026-02-24,5,Left Without Being Seen,DR-0171,Waterloo,Rural,82.5,Yes,Yes,2,Mental Health,2026-04-04
+VST-00000164,PAT-000341,Hospital_013,1,126,97,2025-12-13,7,Left Without Being Seen,DR-0176,Eastern,Specialty,90.1,No,No,10,Mental Health,2026-04-30
+VST-00000165,PAT-000064,Hospital_028,4,654,183,2026-03-22,9,Left Without Being Seen,DR-0006,Eastern,Teaching,64.7,Yes,Yes,2,Abdominal Pain,2026-06-08
+VST-00000166,PAT-000745,Hospital_017,3,719,267,2025-07-04,0,Left Without Being Seen,DR-0096,Central,Community,58.9,No,No,6,Neurological,2026-01-01
+VST-00000167,PAT-000158,Hospital_025,5,296,423,2026-01-12,0,Left Without Being Seen,DR-0134,Eastern,Specialty,53.0,Yes,Yes,9,Respiratory,2026-07-20
+VST-00000168,PAT-000593,Hospital_037,2,598,91,2026-06-29,20,Deceased,DR-0188,Niagara,Specialty,77.8,Yes,Yes,1,Pediatric,2026-06-11
+VST-00000169,PAT-000695,Hospital_022,2,547,191,2025-10-19,9,Admitted,DR-0009,Central,Community,86.3,No,Yes,5,Abdominal Pain,2026-04-21
+VST-00000170,PAT-000240,Hospital_042,4,23,250,2025-06-15,15,Left Without Being Seen,DR-0181,Northern,Teaching,52.5,No,Yes,3,Respiratory,2026-07-25
+VST-00000171,PAT-000005,Hospital_029,5,633,131,2026-03-30,15,Deceased,DR-0132,Ottawa,Teaching,101.2,No,Yes,6,Chest Pain,2026-07-09
+VST-00000172,PAT-000368,Hospital_017,2,308,299,2026-04-03,16,Left Without Being Seen,DR-0163,GTA,Rural,55.8,No,No,2,Respiratory,2026-01-02
+VST-00000173,PAT-000697,Hospital_033,5,479,264,2025-12-24,2,Left Without Being Seen,DR-0179,Niagara,Community,57.4,Yes,Yes,8,Chest Pain,2026-06-10
+VST-00000174,PAT-000065,Hospital_026,5,541,159,2025-01-15,9,Transferred,DR-0104,Eastern,Community,50.6,No,No,10,Abdominal Pain,2026-03-20
+VST-00000175,PAT-000105,Hospital_021,5,195,407,2026-05-29,9,Admitted,DR-0120,Niagara,Specialty,95.2,No,No,2,Pediatric,2026-03-28
+VST-00000176,PAT-000248,Hospital_050,4,291,223,2026-01-20,14,Deceased,DR-0088,Niagara,Community,87.6,Yes,No,5,Mental Health,2026-04-12
+VST-00000177,PAT-000070,Hospital_042,1,101,222,2026-06-15,11,Deceased,DR-0096,Northern,Rural,53.9,No,Yes,7,Other,2026-03-19
+VST-00000178,PAT-000503,Hospital_036,2,327,223,2025-09-11,8,Admitted,DR-0045,Central,Teaching,50.6,Yes,Yes,3,Mental Health,2026-06-27
+VST-00000179,PAT-000121,Hospital_018,5,687,410,2025-03-11,8,Discharged,DR-0014,Ottawa,Teaching,90.8,Yes,Yes,8,Respiratory,2026-04-30
+VST-00000180,PAT-000265,Hospital_045,5,100,175,2026-05-02,18,Transferred,DR-0025,Waterloo,Rural,98.7,Yes,Yes,3,Abdominal Pain,2026-02-14
+VST-00000181,PAT-000264,Hospital_021,5,162,149,2026-05-05,23,Discharged,DR-0131,GTA,Specialty,52.4,Yes,No,9,Neurological,2026-04-25
+VST-00000182,PAT-000276,Hospital_047,2,424,370,2025-10-23,5,Left Without Being Seen,DR-0071,Northern,Rural,87.3,Yes,Yes,7,Abdominal Pain,2026-06-11
+VST-00000183,PAT-000327,Hospital_043,3,413,222,2026-03-23,19,Admitted,DR-0001,Hamilton,Community,81.4,Yes,Yes,4,Abdominal Pain,2026-07-04
+VST-00000184,PAT-000536,Hospital_042,4,31,275,2026-02-25,22,Admitted,DR-0054,Southwestern,Rural,69.3,No,No,1,Injury,2026-05-26
+VST-00000185,PAT-000670,Hospital_002,2,530,383,2025-11-26,12,Deceased,DR-0129,GTA,Community,80.6,No,Yes,3,Other,2026-05-13
+VST-00000186,PAT-000205,Hospital_027,2,679,208,2026-07-20,22,Left Without Being Seen,DR-0159,Southwestern,Teaching,87.7,No,No,10,Chest Pain,2026-03-09
+VST-00000187,PAT-000294,Hospital_030,3,88,192,2025-08-29,15,Deceased,DR-0043,Niagara,Teaching,96.0,No,Yes,9,Injury,2026-03-05
+VST-00000188,PAT-000700,Hospital_034,2,16,364,2025-01-17,0,Admitted,DR-0153,Hamilton,Teaching,73.2,No,Yes,5,Pediatric,2026-03-22
+VST-00000189,PAT-000647,Hospital_021,2,9,327,2025-05-31,4,Admitted,DR-0044,Ottawa,Community,78.3,Yes,No,10,Chest Pain,2026-02-22
+VST-00000190,PAT-000328,Hospital_035,2,183,382,2025-06-03,7,Admitted,DR-0127,Northern,Community,66.8,Yes,No,2,Pediatric,2026-01-15
+VST-00000191,PAT-000529,Hospital_014,5,542,344,2025-03-25,8,Deceased,DR-0150,Waterloo,Rural,79.8,Yes,Yes,4,Mental Health,2026-02-02
+VST-00000192,PAT-000181,Hospital_033,3,440,401,2026-02-09,3,Deceased,DR-0150,Waterloo,Specialty,54.5,Yes,No,4,Injury,2026-01-29
+VST-00000193,PAT-000246,Hospital_042,2,461,400,2025-11-22,22,Admitted,DR-0021,Southwestern,Rural,86.4,No,No,8,Injury,2026-02-09
+VST-00000194,PAT-000490,Hospital_002,1,275,279,2026-05-20,8,Left Without Being Seen,DR-0043,Northern,Rural,83.7,No,Yes,1,Mental Health,2026-05-06
+VST-00000195,PAT-000260,Hospital_033,3,668,41,2026-06-22,6,Transferred,DR-0069,Eastern,Community,90.4,Yes,No,1,Mental Health,2026-01-01
+VST-00000196,PAT-000655,Hospital_030,4,254,237,2026-01-26,15,Left Without Being Seen,DR-0130,Central,Specialty,99.8,Yes,No,8,Mental Health,2026-02-27
+VST-00000197,PAT-000239,Hospital_022,2,518,123,2026-05-26,18,Discharged,DR-0048,Eastern,Rural,93.0,Yes,No,7,Respiratory,2026-06-23
+VST-00000198,PAT-000470,Hospital_025,1,631,101,2026-04-20,23,Deceased,DR-0031,Northern,Teaching,75.4,No,Yes,5,Chest Pain,2026-05-28
+VST-00000199,PAT-000629,Hospital_023,2,168,149,2025-05-17,14,Left Without Being Seen,DR-0110,Ottawa,Specialty,89.4,No,Yes,1,Abdominal Pain,2026-05-02
+VST-00000200,PAT-000745,Hospital_045,1,70,72,2026-04-02,10,Left Without Being Seen,DR-0086,Niagara,Specialty,75.3,No,No,4,Neurological,2026-01-29
+VST-00000201,PAT-000045,Hospital_027,4,315,458,2025-11-01,8,Deceased,DR-0156,Durham,Teaching,93.2,No,Yes,7,Other,2026-06-10
+VST-00000202,PAT-000504,Hospital_034,5,58,135,2025-01-19,5,Left Without Being Seen,DR-0193,Waterloo,Community,62.1,Yes,Yes,9,Mental Health,2026-02-27
+VST-00000203,PAT-000310,Hospital_008,5,496,427,2025-05-04,10,Left Without Being Seen,DR-0176,GTA,Community,83.9,Yes,Yes,4,Chest Pain,2026-02-18
+VST-00000204,PAT-000770,Hospital_024,3,215,68,2025-09-13,14,Admitted,DR-0028,Northern,Rural,93.8,Yes,No,9,Abdominal Pain,2026-07-17
+VST-00000205,PAT-000632,Hospital_035,4,378,304,2026-04-19,7,Admitted,DR-0178,Northern,Community,98.1,No,Yes,10,Injury,2026-05-14
+VST-00000206,PAT-000241,Hospital_045,5,557,217,2025-08-04,18,Discharged,DR-0162,GTA,Specialty,59.8,No,No,8,Pediatric,2026-02-20
+VST-00000207,PAT-000042,Hospital_050,2,560,47,2026-02-01,18,Discharged,DR-0147,Southwestern,Specialty,76.4,No,No,10,Pediatric,2026-07-29
+VST-00000208,PAT-000263,Hospital_018,3,605,47,2025-05-03,17,Left Without Being Seen,DR-0021,GTA,Teaching,68.9,Yes,No,3,Neurological,2026-03-27
+VST-00000209,PAT-000471,Hospital_015,1,109,273,2025-02-17,16,Transferred,DR-0035,Central,Rural,59.6,Yes,Yes,3,Injury,2026-06-14
+VST-00000210,PAT-000750,Hospital_031,2,501,368,2026-01-17,5,Discharged,DR-0176,Central,Community,76.8,Yes,Yes,2,Abdominal Pain,2026-06-29
+VST-00000211,PAT-000273,Hospital_015,3,74,387,2026-01-31,12,Admitted,DR-0139,Northern,Specialty,75.4,No,No,3,Other,2026-04-23
+VST-00000212,PAT-000478,Hospital_008,5,526,373,2025-10-09,13,Discharged,DR-0091,Eastern,Rural,102.4,No,No,5,Chest Pain,2026-06-07
+VST-00000213,PAT-000391,Hospital_035,2,270,368,2026-07-01,13,Deceased,DR-0130,Hamilton,Teaching,73.5,No,No,3,Injury,2026-05-25
+VST-00000214,PAT-000096,Hospital_049,4,496,399,2025-07-17,12,Discharged,DR-0084,Eastern,Teaching,100.3,Yes,Yes,1,Chest Pain,2026-01-09
+VST-00000215,PAT-000494,Hospital_045,4,558,136,2025-04-30,16,Admitted,DR-0188,Niagara,Community,76.2,No,Yes,10,Other,2026-06-23
+VST-00000216,PAT-000763,Hospital_004,2,192,110,2025-11-22,1,Deceased,DR-0023,Waterloo,Community,62.7,Yes,Yes,8,Respiratory,2026-06-16
+VST-00000217,PAT-000299,Hospital_024,3,680,370,2025-12-25,23,Left Without Being Seen,DR-0197,Southwestern,Specialty,102.1,No,No,10,Injury,2026-03-16
+VST-00000218,PAT-000290,Hospital_029,4,82,248,2025-11-16,0,Transferred,DR-0101,Durham,Specialty,74.7,No,Yes,1,Pediatric,2026-01-31
+VST-00000219,PAT-000224,Hospital_031,4,628,287,2025-06-19,6,Transferred,DR-0097,Ottawa,Community,67.4,Yes,Yes,9,Other,2026-05-13
+VST-00000220,PAT-000790,Hospital_032,5,34,322,2025-03-13,5,Deceased,DR-0020,Northern,Teaching,101.8,No,Yes,6,Abdominal Pain,2026-04-04
+VST-00000221,PAT-000445,Hospital_031,1,39,103,2026-02-03,5,Admitted,DR-0182,Central,Teaching,83.4,Yes,No,7,Injury,2026-07-24
+VST-00000222,PAT-000792,Hospital_033,3,302,132,2026-05-14,21,Admitted,DR-0139,Northern,Rural,51.5,Yes,Yes,6,Injury,2026-01-15
+VST-00000223,PAT-000045,Hospital_017,2,195,38,2026-07-31,2,Deceased,DR-0041,Durham,Teaching,58.4,No,No,7,Pediatric,2026-07-24
+VST-00000224,PAT-000677,Hospital_030,5,216,28,2025-07-17,3,Transferred,DR-0044,Waterloo,Rural,52.8,Yes,No,6,Abdominal Pain,2026-02-24
+VST-00000225,PAT-000499,Hospital_027,5,269,286,2025-04-26,9,Discharged,DR-0183,Waterloo,Specialty,77.2,Yes,No,6,Abdominal Pain,2026-06-09
+VST-00000226,PAT-000158,Hospital_001,5,283,333,2026-03-13,11,Admitted,DR-0132,Central,Teaching,99.9,No,Yes,6,Pediatric,2026-05-19
+VST-00000227,PAT-000297,Hospital_049,3,654,427,2025-08-08,22,Left Without Being Seen,DR-0014,Ottawa,Teaching,96.0,No,Yes,9,Other,2026-07-01
+VST-00000228,PAT-000623,Hospital_040,4,173,86,2025-12-14,15,Left Without Being Seen,DR-0013,Northern,Community,68.5,Yes,Yes,3,Injury,2026-05-02
+VST-00000229,PAT-000173,Hospital_024,3,297,361,2026-01-10,10,Discharged,DR-0064,GTA,Specialty,81.7,Yes,No,5,Pediatric,2026-05-01
+VST-00000230,PAT-000451,Hospital_010,2,638,207,2026-03-29,21,Transferred,DR-0134,Eastern,Teaching,102.8,No,Yes,7,Mental Health,2026-05-20
+VST-00000231,PAT-000005,Hospital_026,4,190,222,2026-05-10,19,Left Without Being Seen,DR-0004,Waterloo,Teaching,75.2,No,Yes,3,Abdominal Pain,2026-05-08
+VST-00000232,PAT-000400,Hospital_018,5,20,126,2026-02-14,2,Left Without Being Seen,DR-0163,Central,Rural,63.8,Yes,Yes,10,Neurological,2026-04-08
+VST-00000233,PAT-000341,Hospital_002,3,540,158,2026-07-28,9,Discharged,DR-0164,Southwestern,Community,94.4,Yes,No,7,Chest Pain,2026-07-01
+VST-00000234,PAT-000137,Hospital_009,5,244,197,2025-03-07,2,Transferred,DR-0198,Southwestern,Specialty,60.4,Yes,Yes,6,Respiratory,2026-04-11
+VST-00000235,PAT-000035,Hospital_031,1,681,421,2025-09-27,7,Left Without Being Seen,DR-0172,Ottawa,Specialty,70.6,Yes,Yes,8,Injury,2026-04-19
+VST-00000236,PAT-000068,Hospital_003,5,694,436,2025-09-27,10,Transferred,DR-0052,Ottawa,Rural,74.6,No,Yes,3,Pediatric,2026-03-27
+VST-00000237,PAT-000052,Hospital_034,5,628,324,2026-05-14,11,Left Without Being Seen,DR-0130,Central,Community,98.8,No,Yes,7,Pediatric,2026-05-12
+VST-00000238,PAT-000651,Hospital_003,5,419,183,2025-03-21,3,Deceased,DR-0141,Durham,Specialty,65.7,No,No,4,Injury,2026-01-22
+VST-00000239,PAT-000487,Hospital_041,4,526,406,2025-11-27,9,Left Without Being Seen,DR-0119,Southwestern,Specialty,100.8,No,Yes,7,Chest Pain,2026-05-14
+VST-00000240,PAT-000789,Hospital_041,3,352,297,2026-06-04,21,Admitted,DR-0080,Durham,Rural,97.4,No,Yes,3,Other,2026-06-30
+VST-00000241,PAT-000374,Hospital_020,1,77,386,2025-11-26,13,Left Without Being Seen,DR-0039,Hamilton,Specialty,52.8,Yes,No,7,Injury,2026-04-10
+VST-00000242,PAT-000411,Hospital_049,5,583,290,2025-03-25,17,Discharged,DR-0095,Northern,Specialty,104.3,Yes,Yes,1,Neurological,2026-03-07
+VST-00000243,PAT-000408,Hospital_016,1,437,383,2025-10-12,22,Transferred,DR-0011,Niagara,Specialty,84.9,Yes,Yes,4,Other,2026-03-27
+VST-00000244,PAT-000337,Hospital_045,5,220,278,2026-06-18,6,Admitted,DR-0059,Ottawa,Rural,82.0,Yes,No,5,Neurological,2026-05-28
+VST-00000245,PAT-000703,Hospital_011,5,650,104,2025-01-09,12,Transferred,DR-0112,Central,Community,64.2,No,Yes,1,Chest Pain,2026-01-06
+VST-00000246,PAT-000156,Hospital_035,1,5,35,2025-01-21,6,Admitted,DR-0192,Niagara,Specialty,72.5,Yes,No,9,Chest Pain,2026-05-11
+VST-00000247,PAT-000735,Hospital_033,4,267,172,2025-03-13,12,Admitted,DR-0127,Hamilton,Specialty,69.0,Yes,No,3,Neurological,2026-01-16
+VST-00000248,PAT-000777,Hospital_006,2,141,431,2025-04-30,11,Admitted,DR-0095,Eastern,Specialty,68.0,Yes,No,2,Other,2026-04-12
+VST-00000249,PAT-000764,Hospital_026,1,389,100,2025-10-23,4,Deceased,DR-0193,Eastern,Community,79.2,Yes,Yes,8,Chest Pain,2026-01-30
+VST-00000250,PAT-000450,Hospital_030,3,320,217,2025-01-21,17,Admitted,DR-0076,Durham,Specialty,64.6,Yes,No,6,Chest Pain,2026-04-27
+VST-00000251,PAT-000561,Hospital_049,2,102,82,2025-07-29,7,Discharged,DR-0082,Eastern,Rural,82.9,No,Yes,2,Other,2026-03-15
+VST-00000252,PAT-000074,Hospital_041,1,657,128,2026-04-09,11,Discharged,DR-0077,Ottawa,Specialty,65.4,No,No,9,Injury,2026-02-18
+VST-00000253,PAT-000625,Hospital_046,4,695,461,2025-07-17,20,Admitted,DR-0114,Durham,Specialty,51.8,No,No,4,Neurological,2026-04-04
+VST-00000254,PAT-000365,Hospital_042,1,74,87,2025-03-09,21,Deceased,DR-0172,Waterloo,Teaching,64.4,No,Yes,6,Mental Health,2026-03-28
+VST-00000255,PAT-000591,Hospital_024,2,12,57,2026-02-01,11,Left Without Being Seen,DR-0146,Hamilton,Teaching,68.5,No,No,6,Abdominal Pain,2026-03-08
+VST-00000256,PAT-000321,Hospital_010,1,9,85,2025-02-08,20,Admitted,DR-0130,Durham,Specialty,50.1,No,Yes,4,Pediatric,2026-01-06
+VST-00000257,PAT-000295,Hospital_009,1,149,65,2025-01-07,1,Left Without Being Seen,DR-0105,Durham,Specialty,83.5,No,Yes,2,Chest Pain,2026-01-16
+VST-00000258,PAT-000539,Hospital_019,5,446,175,2025-11-03,5,Left Without Being Seen,DR-0174,Central,Specialty,101.8,No,Yes,3,Injury,2026-06-08
+VST-00000259,PAT-000057,Hospital_048,3,277,160,2025-04-07,14,Discharged,DR-0005,Central,Specialty,77.4,Yes,Yes,7,Chest Pain,2026-04-30
+VST-00000260,PAT-000010,Hospital_025,3,700,279,2026-05-20,4,Admitted,DR-0086,Durham,Community,102.1,No,Yes,8,Neurological,2026-06-12
+VST-00000261,PAT-000143,Hospital_004,3,480,262,2025-01-24,1,Left Without Being Seen,DR-0134,Eastern,Teaching,87.8,No,No,3,Other,2026-03-05
+VST-00000262,PAT-000175,Hospital_024,3,223,294,2025-06-11,14,Left Without Being Seen,DR-0056,Durham,Community,58.6,No,Yes,3,Neurological,2026-01-15
+VST-00000263,PAT-000436,Hospital_014,3,547,122,2026-04-12,7,Admitted,DR-0060,GTA,Teaching,64.3,No,No,7,Other,2026-04-04
+VST-00000264,PAT-000798,Hospital_002,2,547,43,2025-12-01,23,Left Without Being Seen,DR-0022,Durham,Rural,88.2,Yes,Yes,10,Other,2026-01-27
+VST-00000265,PAT-000045,Hospital_008,1,287,401,2025-10-04,6,Admitted,DR-0010,Central,Teaching,82.1,Yes,Yes,5,Chest Pain,2026-06-19
+VST-00000266,PAT-000594,Hospital_027,1,61,388,2026-06-26,15,Transferred,DR-0129,Southwestern,Specialty,70.5,No,Yes,3,Neurological,2026-02-17
+VST-00000267,PAT-000476,Hospital_029,4,540,195,2026-04-24,10,Left Without Being Seen,DR-0178,Niagara,Rural,67.1,Yes,Yes,8,Other,2026-03-29
+VST-00000268,PAT-000024,Hospital_006,5,220,89,2026-01-04,4,Transferred,DR-0113,Southwestern,Rural,57.6,Yes,Yes,2,Pediatric,2026-04-09
+VST-00000269,PAT-000060,Hospital_040,3,183,112,2026-06-06,3,Left Without Being Seen,DR-0156,Durham,Specialty,54.2,No,Yes,1,Mental Health,2026-06-20
+VST-00000270,PAT-000326,Hospital_030,4,465,333,2025-08-14,3,Admitted,DR-0065,GTA,Rural,82.4,No,Yes,7,Injury,2026-07-13
+VST-00000271,PAT-000235,Hospital_005,4,351,342,2025-12-26,6,Admitted,DR-0188,Hamilton,Community,84.7,No,No,7,Mental Health,2026-01-16
+VST-00000272,PAT-000793,Hospital_046,4,332,289,2025-12-31,16,Admitted,DR-0117,Niagara,Rural,66.5,No,Yes,6,Other,2026-02-26
+VST-00000273,PAT-000651,Hospital_002,2,508,400,2026-06-07,10,Deceased,DR-0027,Southwestern,Rural,85.1,Yes,Yes,7,Other,2026-04-15
+VST-00000274,PAT-000118,Hospital_040,1,476,175,2025-01-25,10,Transferred,DR-0021,Ottawa,Rural,102.1,No,No,2,Chest Pain,2026-05-07
+VST-00000275,PAT-000307,Hospital_039,5,130,302,2026-06-18,12,Deceased,DR-0098,Ottawa,Teaching,70.5,Yes,Yes,8,Abdominal Pain,2026-07-07
+VST-00000276,PAT-000515,Hospital_029,2,611,248,2025-01-09,2,Admitted,DR-0107,Durham,Community,85.3,No,No,3,Respiratory,2026-02-17
+VST-00000277,PAT-000062,Hospital_025,1,388,342,2025-03-12,3,Transferred,DR-0160,Hamilton,Specialty,83.6,No,No,4,Neurological,2026-07-15
+VST-00000278,PAT-000156,Hospital_026,5,133,391,2025-03-10,19,Left Without Being Seen,DR-0182,Hamilton,Teaching,82.0,Yes,Yes,4,Injury,2026-05-08
+VST-00000279,PAT-000724,Hospital_007,1,718,257,2025-09-10,4,Left Without Being Seen,DR-0116,Central,Community,56.6,Yes,Yes,1,Mental Health,2026-03-18
+VST-00000280,PAT-000521,Hospital_040,5,656,46,2025-11-29,13,Left Without Being Seen,DR-0053,Ottawa,Specialty,57.6,Yes,Yes,5,Pediatric,2026-02-23
+VST-00000281,PAT-000790,Hospital_005,1,542,369,2026-01-31,23,Transferred,DR-0005,Ottawa,Specialty,79.4,Yes,No,1,Neurological,2026-03-19
+VST-00000282,PAT-000303,Hospital_024,5,199,70,2026-07-15,3,Admitted,DR-0025,Northern,Rural,66.1,No,Yes,10,Other,2026-02-19
+VST-00000283,PAT-000263,Hospital_007,2,371,348,2025-01-22,10,Left Without Being Seen,DR-0178,GTA,Specialty,99.4,No,No,8,Abdominal Pain,2026-06-16
+VST-00000284,PAT-000570,Hospital_044,4,713,81,2025-10-04,6,Transferred,DR-0141,Ottawa,Community,54.8,No,Yes,10,Respiratory,2026-05-22
+VST-00000285,PAT-000666,Hospital_001,4,141,414,2025-01-24,14,Deceased,DR-0065,Central,Rural,68.1,No,Yes,3,Injury,2026-02-11
+VST-00000286,PAT-000455,Hospital_047,4,392,366,2025-01-06,4,Discharged,DR-0142,GTA,Specialty,91.7,No,Yes,6,Injury,2026-04-25
+VST-00000287,PAT-000605,Hospital_013,3,265,476,2025-10-05,11,Discharged,DR-0183,Waterloo,Teaching,72.3,No,No,3,Abdominal Pain,2026-07-07
+VST-00000288,PAT-000008,Hospital_049,5,201,22,2026-03-02,6,Left Without Being Seen,DR-0076,Eastern,Specialty,55.7,No,Yes,6,Other,2026-07-06
+VST-00000289,PAT-000355,Hospital_018,2,239,250,2025-09-02,10,Admitted,DR-0177,Southwestern,Specialty,56.9,No,No,9,Mental Health,2026-02-12
+VST-00000290,PAT-000166,Hospital_022,2,349,28,2025-07-08,5,Transferred,DR-0115,Southwestern,Specialty,85.2,Yes,Yes,4,Respiratory,2026-05-06
+VST-00000291,PAT-000114,Hospital_015,4,14,188,2026-06-25,15,Transferred,DR-0187,Central,Community,58.9,Yes,Yes,1,Chest Pain,2026-07-07
+VST-00000292,PAT-000313,Hospital_001,2,224,353,2025-10-15,4,Discharged,DR-0049,Eastern,Specialty,85.2,No,No,4,Neurological,2026-01-09
+VST-00000293,PAT-000056,Hospital_009,1,326,354,2026-02-26,7,Deceased,DR-0051,Niagara,Specialty,72.9,No,Yes,7,Neurological,2026-05-10
+VST-00000294,PAT-000385,Hospital_047,5,316,330,2025-03-14,19,Deceased,DR-0123,Durham,Rural,96.9,Yes,Yes,5,Respiratory,2026-07-25
+VST-00000295,PAT-000323,Hospital_047,3,258,371,2025-06-15,19,Transferred,DR-0128,Hamilton,Community,77.0,No,No,3,Mental Health,2026-01-23
+VST-00000296,PAT-000516,Hospital_042,5,542,351,2026-02-08,3,Transferred,DR-0108,Niagara,Community,63.4,No,Yes,9,Chest Pain,2026-06-04
+VST-00000297,PAT-000084,Hospital_007,3,270,389,2025-04-26,12,Deceased,DR-0045,Southwestern,Specialty,75.1,No,No,10,Abdominal Pain,2026-01-19
+VST-00000298,PAT-000691,Hospital_044,3,37,461,2026-03-15,11,Left Without Being Seen,DR-0127,Niagara,Rural,55.3,Yes,No,8,Respiratory,2026-06-02
+VST-00000299,PAT-000018,Hospital_030,3,236,193,2025-04-14,6,Deceased,DR-0064,Southwestern,Rural,72.7,Yes,Yes,5,Neurological,2026-04-19
+VST-00000300,PAT-000339,Hospital_007,3,714,287,2025-06-07,4,Admitted,DR-0014,Waterloo,Rural,76.8,Yes,No,10,Pediatric,2026-04-25
+VST-00000301,PAT-000419,Hospital_048,3,691,405,2026-03-20,2,Admitted,DR-0070,Waterloo,Community,62.7,No,No,2,Respiratory,2026-04-08
+VST-00000302,PAT-000498,Hospital_038,4,600,389,2025-07-29,16,Deceased,DR-0039,Central,Community,96.6,Yes,No,10,Mental Health,2026-05-02
+VST-00000303,PAT-000219,Hospital_049,3,659,348,2025-06-13,19,Discharged,DR-0133,Eastern,Teaching,91.8,Yes,No,9,Pediatric,2026-04-25
+VST-00000304,PAT-000707,Hospital_017,3,463,283,2026-03-24,16,Transferred,DR-0052,Northern,Teaching,75.2,Yes,Yes,7,Respiratory,2026-03-06
+VST-00000305,PAT-000118,Hospital_043,5,151,216,2026-05-26,21,Discharged,DR-0130,Hamilton,Teaching,89.2,No,Yes,10,Other,2026-03-10
+VST-00000306,PAT-000022,Hospital_023,3,84,310,2025-03-08,18,Deceased,DR-0150,Southwestern,Rural,86.1,Yes,Yes,8,Respiratory,2026-02-13
+VST-00000307,PAT-000400,Hospital_006,3,139,87,2026-03-31,9,Discharged,DR-0076,Central,Teaching,104.2,Yes,No,9,Mental Health,2026-06-16
+VST-00000308,PAT-000472,Hospital_002,5,123,40,2025-08-30,11,Transferred,DR-0175,Southwestern,Community,100.0,Yes,Yes,1,Respiratory,2026-06-15
+VST-00000309,PAT-000597,Hospital_012,3,416,33,2025-05-04,4,Deceased,DR-0161,Central,Rural,86.7,No,Yes,7,Mental Health,2026-01-26
+VST-00000310,PAT-000668,Hospital_022,1,529,51,2025-01-09,17,Transferred,DR-0112,Hamilton,Teaching,64.8,Yes,No,8,Chest Pain,2026-02-24
+VST-00000311,PAT-000330,Hospital_018,1,401,153,2025-06-03,23,Deceased,DR-0041,Eastern,Rural,81.3,No,No,7,Abdominal Pain,2026-05-18
+VST-00000312,PAT-000736,Hospital_027,3,535,370,2025-10-17,2,Admitted,DR-0021,Northern,Community,65.5,No,Yes,6,Mental Health,2026-07-13
+VST-00000313,PAT-000512,Hospital_003,4,154,252,2025-05-27,7,Left Without Being Seen,DR-0036,Niagara,Rural,89.2,Yes,No,2,Abdominal Pain,2026-03-04
+VST-00000314,PAT-000531,Hospital_035,4,64,377,2025-11-25,15,Discharged,DR-0111,Northern,Rural,77.4,No,No,9,Other,2026-01-12
+VST-00000315,PAT-000757,Hospital_004,5,445,145,2026-02-26,3,Left Without Being Seen,DR-0097,Waterloo,Rural,78.3,No,No,1,Abdominal Pain,2026-04-22
+VST-00000316,PAT-000433,Hospital_033,3,572,404,2026-02-28,14,Transferred,DR-0135,Waterloo,Rural,62.7,Yes,No,10,Other,2026-07-16
+VST-00000317,PAT-000345,Hospital_014,5,219,36,2025-08-21,20,Transferred,DR-0020,Waterloo,Community,56.9,Yes,Yes,9,Pediatric,2026-01-29
+VST-00000318,PAT-000648,Hospital_024,4,662,421,2025-10-20,4,Admitted,DR-0101,Durham,Community,74.7,Yes,Yes,8,Abdominal Pain,2026-04-30
+VST-00000319,PAT-000075,Hospital_036,4,334,290,2026-07-12,0,Transferred,DR-0073,Niagara,Teaching,88.0,Yes,No,7,Neurological,2026-03-19
+VST-00000320,PAT-000335,Hospital_025,3,449,214,2025-08-15,22,Transferred,DR-0192,Eastern,Specialty,60.7,Yes,Yes,10,Injury,2026-07-23
+VST-00000321,PAT-000676,Hospital_009,2,220,455,2025-03-01,9,Admitted,DR-0025,GTA,Community,77.1,Yes,Yes,5,Other,2026-05-25
+VST-00000322,PAT-000734,Hospital_048,2,515,385,2025-02-17,2,Admitted,DR-0060,Eastern,Rural,92.5,Yes,No,8,Neurological,2026-06-02
+VST-00000323,PAT-000008,Hospital_006,2,619,81,2025-05-13,19,Admitted,DR-0007,Ottawa,Community,61.5,Yes,No,6,Other,2026-03-10
+VST-00000324,PAT-000731,Hospital_001,5,334,40,2026-04-29,22,Left Without Being Seen,DR-0155,Ottawa,Teaching,104.0,Yes,Yes,4,Pediatric,2026-05-29
+VST-00000325,PAT-000433,Hospital_048,3,643,137,2026-07-14,4,Transferred,DR-0144,Eastern,Teaching,63.1,Yes,Yes,4,Mental Health,2026-05-24
+VST-00000326,PAT-000203,Hospital_016,4,471,397,2025-07-23,22,Transferred,DR-0018,Southwestern,Teaching,65.6,No,Yes,10,Respiratory,2026-04-04
+VST-00000327,PAT-000431,Hospital_006,3,553,70,2026-06-02,3,Discharged,DR-0003,Niagara,Rural,86.4,Yes,Yes,3,Mental Health,2026-01-17
+VST-00000328,PAT-000761,Hospital_040,4,521,311,2025-12-18,22,Deceased,DR-0149,Eastern,Community,52.3,Yes,Yes,1,Other,2026-02-10
+VST-00000329,PAT-000236,Hospital_010,2,674,473,2026-05-25,9,Transferred,DR-0133,Eastern,Teaching,55.0,No,No,2,Chest Pain,2026-05-11
+VST-00000330,PAT-000549,Hospital_014,3,280,143,2025-06-05,10,Admitted,DR-0125,Southwestern,Community,64.7,No,Yes,8,Neurological,2026-05-21
+VST-00000331,PAT-000270,Hospital_031,4,49,94,2025-08-09,18,Admitted,DR-0130,Eastern,Teaching,53.0,Yes,No,8,Abdominal Pain,2026-06-02
+VST-00000332,PAT-000096,Hospital_001,3,661,137,2026-04-01,18,Admitted,DR-0062,Southwestern,Teaching,51.5,Yes,No,3,Neurological,2026-01-12
+VST-00000333,PAT-000330,Hospital_039,4,213,69,2025-02-27,12,Admitted,DR-0109,Durham,Rural,65.5,Yes,No,8,Pediatric,2026-06-22
+VST-00000334,PAT-000553,Hospital_040,4,94,368,2026-04-26,13,Deceased,DR-0113,Northern,Specialty,56.9,Yes,No,3,Other,2026-04-04
+VST-00000335,PAT-000727,Hospital_035,1,64,62,2025-11-13,2,Discharged,DR-0185,GTA,Community,68.9,Yes,Yes,1,Pediatric,2026-03-30
+VST-00000336,PAT-000100,Hospital_008,4,428,300,2025-06-14,10,Discharged,DR-0082,Northern,Teaching,104.2,No,No,1,Neurological,2026-03-12
+VST-00000337,PAT-000429,Hospital_037,1,387,446,2025-02-14,16,Left Without Being Seen,DR-0165,Waterloo,Rural,86.2,Yes,No,1,Respiratory,2026-02-02
+VST-00000338,PAT-000051,Hospital_049,3,495,122,2025-01-23,16,Transferred,DR-0144,Durham,Specialty,68.2,Yes,No,4,Injury,2026-02-12
+VST-00000339,PAT-000767,Hospital_034,3,307,74,2025-08-27,7,Admitted,DR-0083,Durham,Teaching,97.4,Yes,Yes,4,Other,2026-07-11
+VST-00000340,PAT-000489,Hospital_001,1,150,137,2025-08-08,10,Deceased,DR-0036,Eastern,Rural,94.3,Yes,No,3,Other,2026-03-21
+VST-00000341,PAT-000686,Hospital_006,3,489,474,2025-02-24,16,Deceased,DR-0052,Northern,Specialty,96.9,No,Yes,7,Abdominal Pain,2026-03-21
+VST-00000342,PAT-000231,Hospital_022,3,230,429,2025-11-08,18,Discharged,DR-0184,Durham,Community,96.2,No,No,8,Respiratory,2026-06-16
+VST-00000343,PAT-000431,Hospital_041,3,243,115,2025-08-25,1,Left Without Being Seen,DR-0005,Eastern,Teaching,86.7,No,Yes,9,Abdominal Pain,2026-04-03
+VST-00000344,PAT-000679,Hospital_033,3,246,190,2025-01-04,13,Admitted,DR-0155,Northern,Rural,102.3,Yes,No,10,Abdominal Pain,2026-05-26
+VST-00000345,PAT-000671,Hospital_050,3,250,241,2025-07-20,7,Admitted,DR-0018,Northern,Community,88.3,No,No,6,Pediatric,2026-07-18
+VST-00000346,PAT-000565,Hospital_022,1,165,471,2025-05-21,0,Deceased,DR-0005,Central,Community,79.9,No,No,10,Injury,2026-04-26
+VST-00000347,PAT-000609,Hospital_024,1,222,454,2025-07-08,23,Left Without Being Seen,DR-0102,Central,Teaching,80.0,No,Yes,5,Pediatric,2026-01-30
+VST-00000348,PAT-000645,Hospital_011,1,122,388,2025-09-29,1,Transferred,DR-0151,Durham,Community,65.1,Yes,No,8,Abdominal Pain,2026-07-25
+VST-00000349,PAT-000704,Hospital_042,4,651,45,2025-04-13,23,Discharged,DR-0144,Eastern,Teaching,97.0,No,Yes,5,Pediatric,2026-02-21
+VST-00000350,PAT-000180,Hospital_007,3,373,128,2025-09-04,19,Transferred,DR-0083,Eastern,Teaching,77.2,No,Yes,9,Pediatric,2026-01-26
+VST-00000351,PAT-000190,Hospital_043,2,266,26,2025-02-18,1,Admitted,DR-0081,Waterloo,Community,77.2,No,Yes,9,Mental Health,2026-03-29
+VST-00000352,PAT-000040,Hospital_041,1,194,89,2026-07-29,15,Left Without Being Seen,DR-0004,Durham,Specialty,70.5,No,No,3,Mental Health,2026-03-30
+VST-00000353,PAT-000084,Hospital_041,5,694,34,2025-06-13,13,Left Without Being Seen,DR-0047,Ottawa,Rural,82.2,No,Yes,7,Mental Health,2026-07-01
+VST-00000354,PAT-000286,Hospital_019,4,484,347,2025-07-11,15,Deceased,DR-0107,Waterloo,Community,84.0,Yes,Yes,6,Neurological,2026-08-01
+VST-00000355,PAT-000083,Hospital_024,4,10,419,2025-09-15,11,Admitted,DR-0189,Eastern,Teaching,65.9,No,No,9,Abdominal Pain,2026-04-03
+VST-00000356,PAT-000581,Hospital_036,5,151,368,2026-02-03,16,Transferred,DR-0075,Southwestern,Community,63.1,No,Yes,2,Respiratory,2026-06-11
+VST-00000357,PAT-000012,Hospital_010,5,26,131,2025-01-21,1,Deceased,DR-0028,GTA,Community,83.4,Yes,Yes,5,Chest Pain,2026-05-06
+VST-00000358,PAT-000353,Hospital_024,5,484,290,2026-03-24,5,Discharged,DR-0107,Eastern,Rural,77.8,No,Yes,1,Neurological,2026-02-24
+VST-00000359,PAT-000309,Hospital_017,4,349,471,2025-12-30,0,Deceased,DR-0038,Eastern,Community,79.1,Yes,No,2,Mental Health,2026-04-28
+VST-00000360,PAT-000669,Hospital_006,5,339,365,2026-06-12,17,Discharged,DR-0126,Eastern,Community,100.0,Yes,No,7,Mental Health,2026-03-31
+VST-00000361,PAT-000352,Hospital_019,2,551,171,2026-03-22,16,Transferred,DR-0055,Durham,Specialty,59.7,Yes,Yes,4,Mental Health,2026-07-15
+VST-00000362,PAT-000159,Hospital_049,2,498,46,2025-11-16,19,Left Without Being Seen,DR-0062,Northern,Specialty,103.2,No,Yes,3,Pediatric,2026-04-01
+VST-00000363,PAT-000352,Hospital_036,3,636,107,2025-09-26,11,Deceased,DR-0013,Northern,Community,89.7,Yes,Yes,1,Abdominal Pain,2026-05-10
+VST-00000364,PAT-000363,Hospital_042,3,554,388,2025-01-25,10,Discharged,DR-0065,Eastern,Community,76.1,No,No,10,Chest Pain,2026-05-31
+VST-00000365,PAT-000587,Hospital_017,3,514,61,2026-07-01,20,Discharged,DR-0185,Eastern,Community,66.3,Yes,No,3,Abdominal Pain,2026-07-04
+VST-00000366,PAT-000292,Hospital_027,1,242,125,2025-12-26,8,Transferred,DR-0049,Eastern,Specialty,53.2,No,No,6,Pediatric,2026-02-18
+VST-00000367,PAT-000298,Hospital_041,5,127,476,2025-09-29,3,Left Without Being Seen,DR-0119,Hamilton,Teaching,104.7,Yes,No,5,Injury,2026-02-06
+VST-00000368,PAT-000770,Hospital_043,2,638,445,2026-03-16,13,Left Without Being Seen,DR-0035,Durham,Rural,88.7,No,Yes,10,Chest Pain,2026-05-12
+VST-00000369,PAT-000776,Hospital_012,4,289,177,2026-04-09,8,Left Without Being Seen,DR-0106,Central,Community,104.8,Yes,No,7,Mental Health,2026-02-28
+VST-00000370,PAT-000487,Hospital_045,2,430,162,2025-07-26,11,Admitted,DR-0127,Ottawa,Community,55.4,No,Yes,1,Other,2026-01-16
+VST-00000371,PAT-000665,Hospital_004,5,341,286,2025-07-31,0,Left Without Being Seen,DR-0044,Durham,Specialty,61.9,Yes,Yes,1,Injury,2026-04-14
+VST-00000372,PAT-000368,Hospital_045,3,514,159,2026-05-04,8,Left Without Being Seen,DR-0155,Eastern,Specialty,71.6,Yes,No,3,Abdominal Pain,2026-04-13
+VST-00000373,PAT-000017,Hospital_034,2,310,38,2025-06-20,16,Deceased,DR-0117,Southwestern,Teaching,84.0,Yes,No,10,Pediatric,2026-03-13
+VST-00000374,PAT-000487,Hospital_039,2,377,127,2025-12-11,12,Admitted,DR-0027,Central,Rural,58.2,No,Yes,7,Other,2026-01-21
+VST-00000375,PAT-000539,Hospital_035,5,663,471,2025-06-11,13,Transferred,DR-0016,Ottawa,Community,73.7,Yes,No,7,Other,2026-02-26
+VST-00000376,PAT-000191,Hospital_010,1,663,249,2026-04-04,11,Deceased,DR-0071,Ottawa,Rural,64.6,No,Yes,1,Respiratory,2026-03-29
+VST-00000377,PAT-000231,Hospital_015,4,401,316,2026-04-13,19,Discharged,DR-0179,Niagara,Community,75.3,Yes,No,4,Pediatric,2026-06-18
+VST-00000378,PAT-000052,Hospital_049,4,231,34,2025-02-09,14,Deceased,DR-0136,Northern,Community,89.0,Yes,No,9,Other,2026-07-13
+VST-00000379,PAT-000210,Hospital_043,3,433,128,2025-07-09,2,Discharged,DR-0129,Hamilton,Teaching,90.8,Yes,No,10,Other,2026-04-23
+VST-00000380,PAT-000226,Hospital_022,1,54,195,2026-04-19,6,Left Without Being Seen,DR-0077,Niagara,Rural,94.3,Yes,Yes,10,Respiratory,2026-04-25
+VST-00000381,PAT-000632,Hospital_044,3,472,402,2025-06-17,18,Admitted,DR-0166,Niagara,Teaching,71.3,No,Yes,10,Chest Pain,2026-05-20
+VST-00000382,PAT-000456,Hospital_037,2,588,216,2026-07-07,12,Admitted,DR-0166,Niagara,Specialty,74.9,No,Yes,10,Pediatric,2026-04-09
+VST-00000383,PAT-000236,Hospital_024,2,491,137,2026-02-17,0,Discharged,DR-0116,Central,Rural,50.6,Yes,No,2,Mental Health,2026-05-11
+VST-00000384,PAT-000237,Hospital_050,5,592,41,2025-04-11,2,Transferred,DR-0082,Northern,Community,50.2,No,Yes,8,Other,2026-06-14
+VST-00000385,PAT-000595,Hospital_043,5,554,363,2026-02-16,3,Deceased,DR-0045,Central,Specialty,88.8,No,No,5,Chest Pain,2026-02-13
+VST-00000386,PAT-000566,Hospital_042,1,139,470,2026-07-29,0,Admitted,DR-0044,Northern,Rural,66.2,No,No,2,Pediatric,2026-03-25
+VST-00000387,PAT-000095,Hospital_031,3,580,236,2026-02-12,13,Admitted,DR-0104,Central,Specialty,94.8,No,Yes,9,Mental Health,2026-02-20
+VST-00000388,PAT-000773,Hospital_037,2,207,359,2026-06-19,8,Discharged,DR-0160,Waterloo,Teaching,60.3,No,Yes,8,Pediatric,2026-07-16
+VST-00000389,PAT-000261,Hospital_037,5,379,244,2026-04-01,9,Admitted,DR-0114,Eastern,Rural,81.2,No,Yes,8,Chest Pain,2026-07-04
+VST-00000390,PAT-000330,Hospital_020,4,163,39,2025-05-17,13,Left Without Being Seen,DR-0100,Central,Community,82.3,No,No,10,Respiratory,2026-05-01
+VST-00000391,PAT-000114,Hospital_033,5,84,374,2026-03-16,13,Deceased,DR-0012,Hamilton,Community,98.4,Yes,Yes,1,Abdominal Pain,2026-04-25
+VST-00000392,PAT-000583,Hospital_031,4,416,211,2025-02-17,1,Admitted,DR-0041,GTA,Teaching,85.7,Yes,No,5,Injury,2026-02-25
+VST-00000393,PAT-000524,Hospital_011,2,259,190,2025-11-24,5,Admitted,DR-0008,Waterloo,Rural,55.6,No,No,7,Injury,2026-06-12
+VST-00000394,PAT-000641,Hospital_007,2,28,101,2026-01-05,8,Discharged,DR-0148,Southwestern,Teaching,54.4,Yes,No,6,Respiratory,2026-03-31
+VST-00000395,PAT-000164,Hospital_022,3,104,242,2026-02-03,10,Transferred,DR-0184,Waterloo,Community,73.2,No,Yes,10,Injury,2026-04-15
+VST-00000396,PAT-000152,Hospital_033,5,498,204,2026-05-18,4,Discharged,DR-0187,Eastern,Teaching,65.8,Yes,Yes,7,Abdominal Pain,2026-03-18
+VST-00000397,PAT-000243,Hospital_012,5,517,202,2026-06-26,18,Deceased,DR-0075,Hamilton,Teaching,83.0,Yes,No,10,Abdominal Pain,2026-05-22
+VST-00000398,PAT-000580,Hospital_009,2,488,51,2025-03-03,8,Left Without Being Seen,DR-0149,GTA,Specialty,55.3,Yes,Yes,7,Respiratory,2026-04-19
+VST-00000399,PAT-000554,Hospital_040,1,399,378,2026-06-30,16,Transferred,DR-0132,Central,Teaching,60.4,Yes,Yes,8,Other,2026-06-08
+VST-00000400,PAT-000039,Hospital_022,2,692,292,2026-05-27,10,Discharged,DR-0185,Durham,Rural,61.7,No,Yes,10,Other,2026-06-14
+VST-00000401,PAT-000056,Hospital_015,5,478,389,2026-05-21,6,Admitted,DR-0132,GTA,Teaching,63.9,Yes,No,4,Injury,2026-06-17
+VST-00000402,PAT-000794,Hospital_045,4,707,345,2025-11-16,20,Left Without Being Seen,DR-0032,GTA,Rural,92.1,Yes,Yes,1,Chest Pain,2026-06-28
+VST-00000403,PAT-000700,Hospital_036,4,378,294,2026-01-20,5,Admitted,DR-0058,Southwestern,Specialty,78.8,Yes,No,3,Abdominal Pain,2026-01-17
+VST-00000404,PAT-000292,Hospital_029,3,411,254,2025-11-19,15,Admitted,DR-0044,Central,Teaching,89.0,No,Yes,6,Pediatric,2026-01-18
+VST-00000405,PAT-000468,Hospital_013,1,186,158,2025-08-20,4,Discharged,DR-0187,Waterloo,Specialty,81.5,Yes,No,8,Pediatric,2026-01-30
+VST-00000406,PAT-000474,Hospital_018,1,238,182,2025-07-29,22,Discharged,DR-0011,Central,Specialty,78.6,No,Yes,8,Injury,2026-05-06
+VST-00000407,PAT-000216,Hospital_018,1,405,304,2026-05-18,10,Left Without Being Seen,DR-0030,Eastern,Community,71.1,Yes,Yes,6,Chest Pain,2026-05-22
+VST-00000408,PAT-000657,Hospital_049,5,139,82,2026-06-01,6,Discharged,DR-0152,Northern,Community,54.2,Yes,Yes,8,Chest Pain,2026-03-06
+VST-00000409,PAT-000684,Hospital_021,1,226,346,2026-06-11,13,Discharged,DR-0128,Northern,Rural,60.7,No,Yes,9,Other,2026-02-18
+VST-00000410,PAT-000791,Hospital_018,3,131,85,2026-01-14,3,Deceased,DR-0114,Northern,Rural,68.3,No,No,10,Mental Health,2026-01-31
+VST-00000411,PAT-000389,Hospital_003,2,489,277,2026-03-12,6,Left Without Being Seen,DR-0137,Hamilton,Specialty,92.8,No,No,2,Injury,2026-05-16
+VST-00000412,PAT-000057,Hospital_027,5,361,177,2025-06-11,3,Discharged,DR-0010,Waterloo,Rural,61.7,No,Yes,6,Pediatric,2026-07-27
+VST-00000413,PAT-000401,Hospital_031,5,706,187,2026-03-31,3,Admitted,DR-0069,Ottawa,Teaching,104.9,Yes,Yes,9,Abdominal Pain,2026-01-03
+VST-00000414,PAT-000277,Hospital_011,2,569,337,2025-11-29,20,Admitted,DR-0065,Hamilton,Specialty,67.6,No,No,6,Chest Pain,2026-07-26
+VST-00000415,PAT-000514,Hospital_021,3,272,291,2026-06-15,10,Deceased,DR-0132,GTA,Specialty,81.6,No,Yes,10,Other,2026-05-12
+VST-00000416,PAT-000541,Hospital_035,5,597,310,2025-10-23,19,Deceased,DR-0078,Southwestern,Teaching,71.8,Yes,No,10,Chest Pain,2026-05-27
+VST-00000417,PAT-000651,Hospital_024,5,319,39,2025-12-20,21,Admitted,DR-0027,Waterloo,Teaching,60.3,Yes,No,8,Other,2026-02-19
+VST-00000418,PAT-000053,Hospital_035,5,97,183,2025-08-24,0,Admitted,DR-0149,Eastern,Community,61.2,No,No,8,Chest Pain,2026-03-30
+VST-00000419,PAT-000145,Hospital_037,4,597,84,2025-12-28,7,Deceased,DR-0079,Ottawa,Community,101.5,No,Yes,4,Injury,2026-04-06
+VST-00000420,PAT-000226,Hospital_016,2,371,281,2026-07-29,16,Left Without Being Seen,DR-0198,GTA,Rural,91.7,No,Yes,8,Respiratory,2026-02-15
+VST-00000421,PAT-000141,Hospital_007,2,692,438,2025-04-25,2,Left Without Being Seen,DR-0078,Southwestern,Rural,85.6,No,Yes,3,Respiratory,2026-07-13
+VST-00000422,PAT-000418,Hospital_045,1,23,362,2025-03-14,12,Deceased,DR-0024,GTA,Specialty,55.6,No,No,10,Other,2026-03-01
+VST-00000423,PAT-000016,Hospital_040,3,102,376,2025-11-07,20,Transferred,DR-0003,Hamilton,Community,97.6,Yes,Yes,5,Chest Pain,2026-03-04
+VST-00000424,PAT-000651,Hospital_012,3,14,160,2025-11-07,0,Discharged,DR-0041,Ottawa,Specialty,80.6,No,Yes,5,Mental Health,2026-04-13
+VST-00000425,PAT-000072,Hospital_018,3,378,436,2025-02-03,2,Admitted,DR-0154,GTA,Rural,63.1,Yes,No,9,Pediatric,2026-04-20
+VST-00000426,PAT-000469,Hospital_029,3,397,165,2026-02-13,19,Deceased,DR-0198,Eastern,Specialty,63.3,Yes,Yes,10,Respiratory,2026-05-14
+VST-00000427,PAT-000762,Hospital_007,4,524,444,2025-12-30,6,Discharged,DR-0150,Waterloo,Teaching,87.8,No,Yes,2,Respiratory,2026-04-08
+VST-00000428,PAT-000116,Hospital_033,4,63,416,2025-06-17,15,Admitted,DR-0160,Northern,Rural,94.0,No,Yes,2,Respiratory,2026-06-26
+VST-00000429,PAT-000398,Hospital_018,2,346,410,2025-01-30,16,Deceased,DR-0188,Northern,Community,57.8,No,Yes,10,Pediatric,2026-05-27
+VST-00000430,PAT-000443,Hospital_041,3,692,244,2026-05-18,6,Admitted,DR-0064,Hamilton,Community,64.1,Yes,Yes,2,Mental Health,2026-03-01
+VST-00000431,PAT-000142,Hospital_020,1,407,51,2026-06-14,12,Deceased,DR-0166,Southwestern,Specialty,51.1,No,Yes,8,Respiratory,2026-04-05
+VST-00000432,PAT-000028,Hospital_024,4,637,198,2026-06-21,5,Transferred,DR-0022,Niagara,Teaching,61.0,Yes,Yes,3,Neurological,2026-05-24
+VST-00000433,PAT-000049,Hospital_012,3,406,101,2025-03-27,19,Transferred,DR-0070,Hamilton,Specialty,52.6,No,Yes,5,Injury,2026-03-10
+VST-00000434,PAT-000112,Hospital_019,2,714,361,2026-03-03,10,Transferred,DR-0040,Niagara,Teaching,97.9,Yes,No,7,Respiratory,2026-03-05
+VST-00000435,PAT-000028,Hospital_047,1,454,97,2025-11-09,14,Transferred,DR-0100,GTA,Rural,92.6,Yes,Yes,4,Other,2026-07-13
+VST-00000436,PAT-000542,Hospital_014,4,295,259,2026-01-21,12,Deceased,DR-0058,Hamilton,Specialty,90.0,Yes,No,3,Respiratory,2026-02-13
+VST-00000437,PAT-000495,Hospital_033,3,713,51,2025-06-30,17,Transferred,DR-0164,Niagara,Teaching,57.3,Yes,No,2,Injury,2026-03-13
+VST-00000438,PAT-000732,Hospital_038,5,571,251,2026-04-05,19,Deceased,DR-0154,Southwestern,Teaching,82.1,Yes,No,9,Abdominal Pain,2026-02-15
+VST-00000439,PAT-000470,Hospital_023,4,97,385,2025-01-11,9,Discharged,DR-0144,Niagara,Specialty,95.8,Yes,Yes,6,Pediatric,2026-05-09
+VST-00000440,PAT-000273,Hospital_034,1,35,208,2025-06-13,8,Transferred,DR-0020,Niagara,Rural,100.4,Yes,No,6,Abdominal Pain,2026-02-16
+VST-00000441,PAT-000027,Hospital_022,3,118,196,2025-05-12,16,Discharged,DR-0187,Hamilton,Specialty,98.4,No,No,8,Chest Pain,2026-01-30
+VST-00000442,PAT-000431,Hospital_038,4,146,23,2025-06-04,21,Admitted,DR-0050,Niagara,Community,77.0,Yes,No,6,Mental Health,2026-06-22
+VST-00000443,PAT-000574,Hospital_005,2,488,291,2025-12-05,12,Admitted,DR-0052,Central,Rural,97.4,No,Yes,3,Chest Pain,2026-03-21
+VST-00000444,PAT-000369,Hospital_035,5,430,127,2026-07-19,11,Deceased,DR-0094,Northern,Rural,94.9,Yes,No,1,Chest Pain,2026-03-13
+VST-00000445,PAT-000324,Hospital_006,1,413,344,2026-01-26,13,Discharged,DR-0096,Durham,Teaching,81.8,Yes,No,4,Abdominal Pain,2026-03-28
+VST-00000446,PAT-000540,Hospital_041,5,257,98,2025-06-08,11,Transferred,DR-0015,Northern,Teaching,55.9,No,No,1,Injury,2026-07-29
+VST-00000447,PAT-000552,Hospital_039,2,542,464,2025-04-06,8,Deceased,DR-0130,Waterloo,Specialty,100.2,No,Yes,8,Abdominal Pain,2026-07-15
+VST-00000448,PAT-000375,Hospital_017,5,720,111,2026-01-29,2,Discharged,DR-0081,Eastern,Community,62.2,No,No,5,Respiratory,2026-06-01
+VST-00000449,PAT-000202,Hospital_019,4,293,132,2025-02-23,7,Left Without Being Seen,DR-0165,Northern,Specialty,101.8,No,No,6,Pediatric,2026-04-22
+VST-00000450,PAT-000750,Hospital_005,1,341,194,2026-02-13,17,Discharged,DR-0105,GTA,Specialty,66.9,Yes,No,8,Other,2026-04-20
+VST-00000451,PAT-000428,Hospital_002,1,487,293,2025-06-11,21,Deceased,DR-0098,Ottawa,Rural,91.2,No,Yes,1,Other,2026-03-16
+VST-00000452,PAT-000555,Hospital_047,1,158,248,2026-05-25,23,Admitted,DR-0128,Eastern,Teaching,56.2,No,No,7,Neurological,2026-07-23
+VST-00000453,PAT-000157,Hospital_007,4,304,462,2026-01-16,20,Transferred,DR-0081,Durham,Rural,60.7,No,No,5,Mental Health,2026-06-26
+VST-00000454,PAT-000571,Hospital_002,4,540,155,2025-04-19,9,Left Without Being Seen,DR-0120,Waterloo,Rural,104.9,No,Yes,9,Abdominal Pain,2026-03-29
+VST-00000455,PAT-000649,Hospital_028,4,596,319,2026-04-26,20,Admitted,DR-0136,Ottawa,Rural,101.1,Yes,Yes,1,Injury,2026-07-22
+VST-00000456,PAT-000643,Hospital_015,2,497,461,2026-02-17,6,Deceased,DR-0024,Niagara,Rural,92.8,No,Yes,10,Other,2026-04-11
+VST-00000457,PAT-000536,Hospital_030,4,380,313,2026-02-23,9,Transferred,DR-0028,Durham,Teaching,87.1,No,No,4,Respiratory,2026-01-10
+VST-00000458,PAT-000595,Hospital_028,1,653,309,2026-03-28,20,Left Without Being Seen,DR-0030,Ottawa,Specialty,67.4,Yes,No,5,Chest Pain,2026-04-16
+VST-00000459,PAT-000052,Hospital_010,1,40,316,2025-04-14,12,Admitted,DR-0111,Waterloo,Specialty,84.1,No,No,3,Other,2026-07-21
+VST-00000460,PAT-000517,Hospital_045,2,224,104,2025-07-02,12,Admitted,DR-0126,Eastern,Teaching,81.0,Yes,No,4,Pediatric,2026-05-29
+VST-00000461,PAT-000513,Hospital_005,2,52,37,2026-03-17,15,Deceased,DR-0177,Waterloo,Specialty,58.7,No,Yes,6,Pediatric,2026-05-30
+VST-00000462,PAT-000089,Hospital_041,3,484,427,2025-01-16,2,Admitted,DR-0159,Durham,Community,102.4,No,No,5,Abdominal Pain,2026-07-20
+VST-00000463,PAT-000392,Hospital_018,4,32,264,2025-04-21,11,Discharged,DR-0001,Niagara,Specialty,69.1,Yes,No,4,Chest Pain,2026-01-09
+VST-00000464,PAT-000267,Hospital_021,3,485,370,2026-06-06,12,Deceased,DR-0086,Waterloo,Community,58.3,Yes,Yes,1,Pediatric,2026-07-23
+VST-00000465,PAT-000355,Hospital_047,5,494,346,2026-04-08,9,Discharged,DR-0077,Southwestern,Community,85.1,Yes,Yes,4,Respiratory,2026-02-06
+VST-00000466,PAT-000002,Hospital_046,4,567,254,2025-06-27,2,Transferred,DR-0008,Southwestern,Specialty,73.0,No,Yes,9,Abdominal Pain,2026-07-24
+VST-00000467,PAT-000501,Hospital_040,4,150,78,2025-03-24,13,Transferred,DR-0028,Northern,Community,52.2,No,No,9,Mental Health,2026-04-12
+VST-00000468,PAT-000374,Hospital_039,5,557,16,2025-04-09,13,Transferred,DR-0092,Durham,Teaching,95.7,No,No,3,Injury,2026-07-14
+VST-00000469,PAT-000157,Hospital_003,5,390,457,2025-03-06,21,Discharged,DR-0036,Ottawa,Community,97.2,No,Yes,10,Pediatric,2026-08-01
+VST-00000470,PAT-000242,Hospital_039,5,271,263,2026-07-18,6,Left Without Being Seen,DR-0136,Durham,Teaching,88.2,No,Yes,9,Injury,2026-03-08
+VST-00000471,PAT-000713,Hospital_029,3,20,394,2026-04-25,18,Left Without Being Seen,DR-0054,Southwestern,Rural,65.7,Yes,No,6,Pediatric,2026-04-20
+VST-00000472,PAT-000395,Hospital_006,5,412,110,2025-03-31,7,Admitted,DR-0061,Waterloo,Community,84.1,Yes,Yes,10,Other,2026-07-27
+VST-00000473,PAT-000394,Hospital_006,1,203,83,2025-04-15,12,Left Without Being Seen,DR-0129,GTA,Specialty,58.3,No,Yes,6,Abdominal Pain,2026-07-06
+VST-00000474,PAT-000118,Hospital_040,2,541,289,2025-08-08,21,Discharged,DR-0155,GTA,Rural,68.8,Yes,No,8,Injury,2026-06-03
+VST-00000475,PAT-000085,Hospital_039,2,15,153,2025-05-13,1,Discharged,DR-0144,Central,Teaching,92.5,Yes,No,4,Abdominal Pain,2026-01-21
+VST-00000476,PAT-000784,Hospital_036,4,408,194,2026-02-25,15,Admitted,DR-0048,Southwestern,Teaching,58.6,No,No,1,Mental Health,2026-05-13
+VST-00000477,PAT-000320,Hospital_008,1,103,361,2025-12-29,18,Deceased,DR-0161,Northern,Community,60.0,Yes,No,5,Respiratory,2026-01-08
+VST-00000478,PAT-000735,Hospital_048,4,447,478,2025-03-29,11,Deceased,DR-0162,Northern,Community,57.4,No,No,5,Pediatric,2026-01-17
+VST-00000479,PAT-000565,Hospital_013,5,177,193,2025-12-12,22,Deceased,DR-0031,Southwestern,Community,59.7,Yes,Yes,8,Injury,2026-03-13
+VST-00000480,PAT-000359,Hospital_025,1,357,54,2026-06-09,5,Discharged,DR-0135,GTA,Specialty,56.3,No,Yes,9,Other,2026-01-29
+VST-00000481,PAT-000205,Hospital_022,2,535,382,2025-11-11,14,Admitted,DR-0039,Southwestern,Community,99.8,No,No,1,Mental Health,2026-04-21
+VST-00000482,PAT-000373,Hospital_037,3,599,110,2025-11-20,15,Discharged,DR-0127,Northern,Specialty,96.3,Yes,Yes,5,Pediatric,2026-07-10
+VST-00000483,PAT-000590,Hospital_048,5,555,402,2025-03-15,2,Transferred,DR-0037,Ottawa,Community,76.4,Yes,No,2,Pediatric,2026-05-06
+VST-00000484,PAT-000095,Hospital_025,4,190,433,2026-05-25,1,Admitted,DR-0038,Southwestern,Teaching,52.1,Yes,No,3,Abdominal Pain,2026-01-05
+VST-00000485,PAT-000548,Hospital_014,1,567,120,2025-07-11,0,Deceased,DR-0023,Southwestern,Community,85.1,Yes,No,2,Neurological,2026-07-25
+VST-00000486,PAT-000254,Hospital_006,1,533,319,2025-06-21,7,Discharged,DR-0124,Eastern,Teaching,62.7,No,Yes,10,Other,2026-07-29
+VST-00000487,PAT-000184,Hospital_034,4,477,52,2025-08-04,23,Discharged,DR-0078,Northern,Community,77.9,No,Yes,10,Chest Pain,2026-01-04
+VST-00000488,PAT-000760,Hospital_031,4,636,233,2025-10-16,5,Transferred,DR-0117,GTA,Specialty,79.1,No,Yes,6,Mental Health,2026-07-16
+VST-00000489,PAT-000602,Hospital_040,1,197,283,2025-11-27,9,Discharged,DR-0058,Ottawa,Specialty,84.5,No,No,9,Neurological,2026-07-27
+VST-00000490,PAT-000716,Hospital_008,5,372,144,2025-10-15,5,Admitted,DR-0053,Southwestern,Rural,52.3,No,No,6,Abdominal Pain,2026-01-03
+VST-00000491,PAT-000539,Hospital_034,5,160,339,2025-04-16,14,Discharged,DR-0001,Durham,Specialty,65.0,No,Yes,2,Neurological,2026-06-04
+VST-00000492,PAT-000647,Hospital_048,5,448,162,2026-02-11,22,Discharged,DR-0144,Hamilton,Community,95.3,No,No,8,Other,2026-05-08
+VST-00000493,PAT-000339,Hospital_016,5,565,75,2026-04-06,13,Deceased,DR-0058,Central,Community,57.1,No,Yes,2,Chest Pain,2026-06-19
+VST-00000494,PAT-000122,Hospital_028,2,121,326,2026-06-17,18,Transferred,DR-0066,Southwestern,Specialty,81.9,Yes,Yes,7,Abdominal Pain,2026-07-26
+VST-00000495,PAT-000713,Hospital_023,1,402,162,2025-04-28,22,Deceased,DR-0005,Hamilton,Teaching,84.8,No,No,2,Pediatric,2026-03-15
+VST-00000496,PAT-000590,Hospital_012,2,30,209,2026-03-12,2,Deceased,DR-0004,Ottawa,Specialty,85.9,No,Yes,6,Injury,2026-03-10
+VST-00000497,PAT-000419,Hospital_030,1,618,126,2025-03-05,12,Left Without Being Seen,DR-0125,Eastern,Teaching,92.4,No,No,4,Neurological,2026-05-17
+VST-00000498,PAT-000670,Hospital_037,5,213,97,2025-10-07,6,Left Without Being Seen,DR-0171,Waterloo,Rural,100.4,Yes,Yes,4,Mental Health,2026-01-18
+VST-00000499,PAT-000733,Hospital_027,5,386,479,2025-10-02,6,Admitted,DR-0063,Northern,Rural,72.8,Yes,No,6,Abdominal Pain,2026-04-18
+VST-00000500,PAT-000632,Hospital_032,5,533,420,2025-07-19,21,Transferred,DR-0122,Hamilton,Community,91.8,No,Yes,10,Other,2026-01-31
+VST-00000501,PAT-000515,Hospital_033,5,700,154,2025-05-26,14,Discharged,DR-0189,Niagara,Specialty,67.4,No,No,6,Mental Health,2026-07-22
+VST-00000502,PAT-000614,Hospital_011,5,272,24,2025-07-28,8,Transferred,DR-0111,Waterloo,Specialty,66.5,No,No,5,Chest Pain,2026-04-17
+VST-00000503,PAT-000403,Hospital_034,5,610,387,2025-11-04,4,Left Without Being Seen,DR-0056,Northern,Community,71.8,Yes,Yes,9,Chest Pain,2026-01-19
+VST-00000504,PAT-000101,Hospital_042,5,506,104,2025-04-27,20,Admitted,DR-0146,Durham,Community,90.1,Yes,Yes,1,Neurological,2026-04-20
+VST-00000505,PAT-000643,Hospital_042,3,463,468,2025-06-18,21,Admitted,DR-0138,Niagara,Teaching,72.4,Yes,Yes,9,Pediatric,2026-01-18
+VST-00000506,PAT-000596,Hospital_007,2,446,361,2025-10-05,1,Transferred,DR-0152,Central,Teaching,93.0,No,Yes,9,Respiratory,2026-01-12
+VST-00000507,PAT-000304,Hospital_042,4,504,138,2025-12-29,1,Admitted,DR-0031,Durham,Rural,82.3,No,Yes,7,Mental Health,2026-02-16
+VST-00000508,PAT-000169,Hospital_034,3,368,223,2025-08-17,7,Transferred,DR-0105,GTA,Community,62.3,Yes,Yes,8,Injury,2026-01-28
+VST-00000509,PAT-000121,Hospital_036,2,552,308,2025-03-13,7,Discharged,DR-0180,Central,Teaching,51.1,No,Yes,10,Chest Pain,2026-04-01
+VST-00000510,PAT-000657,Hospital_034,1,276,250,2026-03-06,21,Discharged,DR-0182,Central,Specialty,57.7,Yes,Yes,10,Respiratory,2026-04-28
+VST-00000511,PAT-000591,Hospital_048,4,418,278,2026-06-24,10,Left Without Being Seen,DR-0051,Southwestern,Specialty,93.9,No,No,9,Injury,2026-06-06
+VST-00000512,PAT-000332,Hospital_017,4,215,458,2026-05-04,6,Admitted,DR-0057,GTA,Teaching,62.2,Yes,No,8,Abdominal Pain,2026-04-08
+VST-00000513,PAT-000684,Hospital_026,2,246,160,2025-06-30,11,Admitted,DR-0191,GTA,Teaching,100.0,Yes,No,1,Chest Pain,2026-01-28
+VST-00000514,PAT-000092,Hospital_009,5,357,83,2025-02-22,15,Deceased,DR-0027,Durham,Specialty,90.4,No,Yes,5,Pediatric,2026-03-31
+VST-00000515,PAT-000427,Hospital_027,2,466,37,2026-05-21,1,Left Without Being Seen,DR-0197,Eastern,Specialty,60.7,No,No,2,Respiratory,2026-03-02
+VST-00000516,PAT-000383,Hospital_016,3,364,394,2025-09-27,13,Admitted,DR-0033,Northern,Rural,75.2,No,No,1,Chest Pain,2026-06-06
+VST-00000517,PAT-000499,Hospital_020,5,6,309,2025-04-04,20,Admitted,DR-0098,Ottawa,Community,70.5,Yes,No,2,Respiratory,2026-01-25
+VST-00000518,PAT-000558,Hospital_024,5,309,44,2025-03-01,9,Deceased,DR-0155,Niagara,Rural,73.9,No,No,10,Neurological,2026-03-11
+VST-00000519,PAT-000687,Hospital_018,5,326,478,2026-01-22,23,Deceased,DR-0120,Hamilton,Rural,70.3,Yes,Yes,4,Respiratory,2026-01-05
+VST-00000520,PAT-000047,Hospital_006,3,141,106,2025-01-27,9,Discharged,DR-0162,Ottawa,Rural,51.4,No,Yes,10,Respiratory,2026-02-13
+VST-00000521,PAT-000024,Hospital_007,2,116,250,2025-05-20,5,Discharged,DR-0152,Southwestern,Community,64.1,Yes,Yes,9,Injury,2026-03-18
+VST-00000522,PAT-000087,Hospital_044,5,565,349,2026-01-04,14,Transferred,DR-0187,Durham,Specialty,61.6,Yes,Yes,8,Injury,2026-02-23
+VST-00000523,PAT-000041,Hospital_046,4,236,176,2026-05-20,3,Admitted,DR-0100,Ottawa,Specialty,75.6,No,No,4,Neurological,2026-02-11
+VST-00000524,PAT-000329,Hospital_035,3,257,429,2025-11-23,10,Deceased,DR-0147,Central,Teaching,67.3,Yes,No,4,Pediatric,2026-01-14
+VST-00000525,PAT-000296,Hospital_016,5,509,80,2025-10-21,7,Discharged,DR-0139,Durham,Rural,80.7,No,Yes,7,Respiratory,2026-06-16
+VST-00000526,PAT-000122,Hospital_020,3,162,200,2025-02-21,18,Transferred,DR-0149,Eastern,Community,93.0,No,No,10,Chest Pain,2026-01-26
+VST-00000527,PAT-000335,Hospital_023,1,546,294,2025-01-02,13,Admitted,DR-0147,Central,Rural,68.3,No,Yes,6,Injury,2026-06-04
+VST-00000528,PAT-000399,Hospital_023,2,499,38,2025-09-18,15,Transferred,DR-0186,Durham,Teaching,83.5,No,No,9,Mental Health,2026-03-22
+VST-00000529,PAT-000056,Hospital_023,1,543,136,2025-10-11,9,Discharged,DR-0047,Hamilton,Rural,70.0,No,Yes,2,Respiratory,2026-02-15
+VST-00000530,PAT-000604,Hospital_022,1,251,337,2025-07-26,13,Deceased,DR-0063,Niagara,Community,66.5,Yes,Yes,2,Chest Pain,2026-03-10
+VST-00000531,PAT-000355,Hospital_020,5,537,36,2025-10-22,12,Discharged,DR-0102,Central,Community,99.9,Yes,Yes,10,Pediatric,2026-04-16
+VST-00000532,PAT-000448,Hospital_013,3,622,78,2026-03-02,12,Discharged,DR-0096,Central,Specialty,74.7,Yes,Yes,5,Neurological,2026-03-28
+VST-00000533,PAT-000653,Hospital_019,2,431,110,2025-08-16,6,Discharged,DR-0154,Eastern,Teaching,88.4,Yes,Yes,9,Abdominal Pain,2026-01-31
+VST-00000534,PAT-000699,Hospital_003,2,560,265,2026-04-28,6,Deceased,DR-0007,GTA,Specialty,90.7,Yes,No,9,Other,2026-01-03
+VST-00000535,PAT-000711,Hospital_027,4,445,275,2026-06-04,9,Admitted,DR-0051,Ottawa,Specialty,67.6,Yes,Yes,9,Abdominal Pain,2026-06-19
+VST-00000536,PAT-000185,Hospital_032,2,305,325,2025-02-15,3,Left Without Being Seen,DR-0014,Central,Rural,61.0,Yes,No,7,Respiratory,2026-05-03
+VST-00000537,PAT-000673,Hospital_016,5,293,142,2025-11-21,6,Transferred,DR-0046,Central,Teaching,55.0,No,Yes,6,Respiratory,2026-05-27
+VST-00000538,PAT-000424,Hospital_010,1,41,119,2025-07-06,7,Discharged,DR-0042,GTA,Teaching,100.2,Yes,No,9,Pediatric,2026-01-16
+VST-00000539,PAT-000114,Hospital_032,2,524,196,2025-11-28,22,Left Without Being Seen,DR-0094,Central,Teaching,69.0,Yes,No,7,Abdominal Pain,2026-03-19
+VST-00000540,PAT-000164,Hospital_025,4,146,166,2025-11-10,7,Transferred,DR-0127,Hamilton,Teaching,95.5,Yes,Yes,1,Chest Pain,2026-01-14
+VST-00000541,PAT-000647,Hospital_012,4,287,331,2025-04-16,6,Left Without Being Seen,DR-0169,Waterloo,Specialty,64.2,No,No,5,Injury,2026-04-06
+VST-00000542,PAT-000154,Hospital_032,3,224,61,2026-03-30,15,Deceased,DR-0018,GTA,Rural,92.7,No,Yes,6,Pediatric,2026-03-30
+VST-00000543,PAT-000395,Hospital_015,2,513,116,2025-09-21,6,Left Without Being Seen,DR-0140,Durham,Teaching,84.0,Yes,Yes,1,Injury,2026-03-06
+VST-00000544,PAT-000182,Hospital_002,1,140,245,2026-04-19,12,Discharged,DR-0100,Niagara,Community,70.5,No,No,9,Other,2026-03-17
+VST-00000545,PAT-000306,Hospital_008,1,137,389,2026-05-31,9,Deceased,DR-0074,Northern,Teaching,76.6,Yes,No,5,Injury,2026-01-20
+VST-00000546,PAT-000727,Hospital_040,3,61,352,2025-10-22,15,Deceased,DR-0186,Waterloo,Teaching,61.1,No,Yes,7,Abdominal Pain,2026-06-11
+VST-00000547,PAT-000428,Hospital_034,3,607,357,2026-05-31,20,Deceased,DR-0154,Ottawa,Community,71.1,Yes,Yes,8,Respiratory,2026-01-23
+VST-00000548,PAT-000314,Hospital_023,3,8,317,2026-04-22,7,Admitted,DR-0051,GTA,Specialty,52.6,Yes,No,3,Neurological,2026-07-11
+VST-00000549,PAT-000160,Hospital_032,1,304,329,2026-04-02,20,Admitted,DR-0072,Southwestern,Rural,101.9,No,Yes,5,Pediatric,2026-03-08
+VST-00000550,PAT-000493,Hospital_017,5,448,450,2025-12-13,18,Discharged,DR-0064,Ottawa,Teaching,50.8,No,Yes,3,Abdominal Pain,2026-06-10
+VST-00000551,PAT-000544,Hospital_006,3,603,196,2026-07-08,17,Discharged,DR-0042,Eastern,Specialty,93.9,No,No,1,Injury,2026-03-01
+VST-00000552,PAT-000152,Hospital_016,3,108,51,2025-09-10,21,Deceased,DR-0085,Northern,Community,67.7,No,No,6,Other,2026-01-05
+VST-00000553,PAT-000215,Hospital_006,4,416,294,2025-04-16,1,Discharged,DR-0194,Eastern,Community,65.3,Yes,No,4,Chest Pain,2026-05-11
+VST-00000554,PAT-000102,Hospital_019,1,289,107,2025-08-17,14,Left Without Being Seen,DR-0113,Southwestern,Rural,87.4,No,Yes,8,Mental Health,2026-07-13
+VST-00000555,PAT-000657,Hospital_013,1,73,223,2025-12-13,22,Left Without Being Seen,DR-0130,Hamilton,Specialty,70.3,Yes,No,10,Abdominal Pain,2026-04-18
+VST-00000556,PAT-000401,Hospital_023,3,656,359,2025-04-06,14,Admitted,DR-0143,Niagara,Rural,58.5,Yes,No,1,Abdominal Pain,2026-05-03
+VST-00000557,PAT-000096,Hospital_020,4,168,465,2025-06-27,21,Admitted,DR-0156,Southwestern,Rural,61.0,Yes,No,6,Abdominal Pain,2026-04-09
+VST-00000558,PAT-000289,Hospital_019,1,565,353,2025-01-16,10,Left Without Being Seen,DR-0003,GTA,Rural,89.9,Yes,No,3,Chest Pain,2026-07-19
+VST-00000559,PAT-000478,Hospital_049,5,412,369,2025-04-20,22,Deceased,DR-0152,GTA,Specialty,82.5,No,No,10,Abdominal Pain,2026-02-27
+VST-00000560,PAT-000104,Hospital_007,5,516,26,2026-06-20,14,Deceased,DR-0190,Ottawa,Rural,74.6,No,Yes,7,Other,2026-01-18
+VST-00000561,PAT-000434,Hospital_021,4,488,40,2026-06-23,13,Transferred,DR-0127,Durham,Rural,56.5,No,Yes,1,Mental Health,2026-05-23
+VST-00000562,PAT-000377,Hospital_010,5,379,254,2025-11-03,1,Discharged,DR-0087,Southwestern,Teaching,86.7,Yes,No,9,Neurological,2026-01-23
+VST-00000563,PAT-000109,Hospital_035,5,661,61,2025-03-24,12,Transferred,DR-0137,Hamilton,Community,65.0,Yes,No,2,Respiratory,2026-06-07
+VST-00000564,PAT-000414,Hospital_027,4,388,249,2025-04-13,22,Transferred,DR-0147,Central,Rural,51.3,Yes,Yes,4,Respiratory,2026-02-17
+VST-00000565,PAT-000703,Hospital_025,5,206,328,2026-01-27,18,Deceased,DR-0089,Hamilton,Teaching,103.1,No,No,1,Chest Pain,2026-01-28
+VST-00000566,PAT-000433,Hospital_036,3,360,48,2025-05-30,5,Left Without Being Seen,DR-0162,GTA,Community,62.2,No,Yes,1,Mental Health,2026-05-18
+VST-00000567,PAT-000119,Hospital_019,4,406,437,2025-02-22,8,Discharged,DR-0147,Niagara,Community,90.6,No,Yes,10,Injury,2026-02-08
+VST-00000568,PAT-000358,Hospital_050,5,370,118,2026-03-29,13,Admitted,DR-0031,GTA,Rural,61.0,No,Yes,8,Injury,2026-07-24
+VST-00000569,PAT-000042,Hospital_028,4,479,203,2025-10-08,18,Discharged,DR-0094,Waterloo,Specialty,61.8,Yes,Yes,8,Neurological,2026-06-20
+VST-00000570,PAT-000248,Hospital_031,3,388,418,2025-03-04,16,Deceased,DR-0053,GTA,Specialty,80.8,Yes,No,9,Abdominal Pain,2026-04-24
+VST-00000571,PAT-000053,Hospital_018,5,710,229,2026-05-15,4,Deceased,DR-0077,Northern,Specialty,89.6,Yes,Yes,7,Mental Health,2026-04-26
+VST-00000572,PAT-000711,Hospital_040,5,34,33,2025-10-03,14,Admitted,DR-0001,Northern,Community,104.4,No,No,1,Other,2026-05-02
+VST-00000573,PAT-000040,Hospital_005,3,688,101,2025-11-04,21,Admitted,DR-0069,Southwestern,Community,54.8,Yes,Yes,3,Abdominal Pain,2026-01-06
+VST-00000574,PAT-000220,Hospital_026,4,673,451,2025-09-28,1,Discharged,DR-0151,Northern,Rural,95.3,No,Yes,8,Chest Pain,2026-07-23
+VST-00000575,PAT-000604,Hospital_033,2,115,369,2026-06-11,3,Deceased,DR-0016,Eastern,Rural,60.3,No,Yes,5,Mental Health,2026-01-11
+VST-00000576,PAT-000339,Hospital_048,3,358,27,2026-07-17,4,Transferred,DR-0164,Central,Specialty,78.5,Yes,No,5,Respiratory,2026-04-17
+VST-00000577,PAT-000672,Hospital_029,3,564,465,2025-06-09,5,Admitted,DR-0044,Durham,Specialty,103.4,No,Yes,6,Chest Pain,2026-03-19
+VST-00000578,PAT-000418,Hospital_018,4,100,371,2026-05-13,9,Admitted,DR-0100,Central,Rural,100.3,No,No,2,Injury,2026-03-11
+VST-00000579,PAT-000354,Hospital_002,1,76,236,2025-02-08,3,Admitted,DR-0164,Southwestern,Teaching,95.9,Yes,Yes,7,Chest Pain,2026-04-27
+VST-00000580,PAT-000407,Hospital_012,1,28,314,2026-02-14,19,Admitted,DR-0105,Northern,Teaching,70.7,No,No,3,Chest Pain,2026-02-10
+VST-00000581,PAT-000049,Hospital_025,2,76,416,2025-11-16,2,Discharged,DR-0152,Northern,Rural,64.1,Yes,No,5,Chest Pain,2026-06-20
+VST-00000582,PAT-000353,Hospital_028,5,404,161,2025-06-01,18,Transferred,DR-0191,Ottawa,Specialty,59.5,No,No,3,Other,2026-06-22
+VST-00000583,PAT-000214,Hospital_005,5,573,306,2026-05-18,1,Transferred,DR-0013,Southwestern,Rural,71.4,Yes,Yes,8,Respiratory,2026-03-15
+VST-00000584,PAT-000750,Hospital_023,4,80,310,2025-03-20,21,Transferred,DR-0175,Hamilton,Community,65.5,Yes,Yes,5,Injury,2026-01-24
+VST-00000585,PAT-000102,Hospital_018,1,479,350,2026-07-26,2,Admitted,DR-0112,Niagara,Rural,82.9,Yes,No,1,Mental Health,2026-05-13
+VST-00000586,PAT-000228,Hospital_037,3,182,251,2025-04-28,23,Admitted,DR-0187,Southwestern,Community,66.4,Yes,No,5,Injury,2026-02-02
+VST-00000587,PAT-000131,Hospital_021,4,104,230,2025-10-25,1,Discharged,DR-0072,Durham,Rural,95.2,No,Yes,5,Mental Health,2026-06-13
+VST-00000588,PAT-000288,Hospital_046,3,444,172,2026-02-23,12,Admitted,DR-0155,Hamilton,Teaching,94.8,Yes,Yes,3,Chest Pain,2026-04-09
+VST-00000589,PAT-000213,Hospital_016,3,510,197,2026-05-04,19,Left Without Being Seen,DR-0153,Hamilton,Rural,99.2,No,No,7,Respiratory,2026-04-07
+VST-00000590,PAT-000676,Hospital_028,4,391,218,2026-03-28,8,Deceased,DR-0183,Ottawa,Community,66.6,Yes,No,10,Respiratory,2026-01-04
+VST-00000591,PAT-000218,Hospital_011,3,150,97,2025-04-24,13,Left Without Being Seen,DR-0191,Central,Community,88.6,No,No,3,Abdominal Pain,2026-03-20
+VST-00000592,PAT-000409,Hospital_007,1,21,160,2026-06-11,6,Left Without Being Seen,DR-0159,GTA,Teaching,68.4,Yes,Yes,7,Neurological,2026-01-20
+VST-00000593,PAT-000782,Hospital_019,4,600,44,2025-11-27,19,Discharged,DR-0138,Eastern,Specialty,72.7,Yes,No,10,Chest Pain,2026-01-10
+VST-00000594,PAT-000329,Hospital_030,5,226,406,2025-09-19,2,Discharged,DR-0139,GTA,Specialty,69.7,No,Yes,4,Neurological,2026-03-11
+VST-00000595,PAT-000382,Hospital_008,2,445,155,2025-02-08,4,Deceased,DR-0077,Northern,Community,87.9,Yes,No,10,Neurological,2026-01-01
+VST-00000596,PAT-000196,Hospital_007,2,719,443,2025-04-10,11,Left Without Being Seen,DR-0147,Central,Rural,81.4,Yes,No,2,Other,2026-01-29
+VST-00000597,PAT-000444,Hospital_026,3,335,480,2025-08-10,12,Discharged,DR-0031,Durham,Teaching,56.0,No,Yes,4,Injury,2026-05-21
+VST-00000598,PAT-000046,Hospital_043,2,159,370,2025-12-30,6,Deceased,DR-0052,Niagara,Teaching,98.2,No,Yes,8,Injury,2026-07-30
+VST-00000599,PAT-000073,Hospital_042,4,351,52,2025-11-16,17,Discharged,DR-0017,Ottawa,Rural,99.4,No,No,3,Pediatric,2026-01-30
+VST-00000600,PAT-000122,Hospital_032,2,494,22,2025-06-27,3,Left Without Being Seen,DR-0054,Durham,Rural,69.3,Yes,No,6,Pediatric,2026-04-29
+VST-00000601,PAT-000230,Hospital_006,2,685,69,2025-06-05,3,Admitted,DR-0200,Ottawa,Community,67.1,No,No,7,Pediatric,2026-02-02
+VST-00000602,PAT-000620,Hospital_008,2,716,427,2026-01-22,5,Discharged,DR-0086,Eastern,Rural,102.5,No,Yes,7,Chest Pain,2026-01-20
+VST-00000603,PAT-000299,Hospital_027,1,717,82,2025-01-10,10,Deceased,DR-0071,Waterloo,Rural,64.2,No,No,4,Mental Health,2026-04-19
+VST-00000604,PAT-000064,Hospital_002,4,308,279,2025-04-22,6,Admitted,DR-0095,Eastern,Community,102.8,Yes,No,10,Respiratory,2026-01-17
+VST-00000605,PAT-000454,Hospital_023,1,518,30,2025-01-04,14,Left Without Being Seen,DR-0099,Central,Community,68.5,No,No,9,Mental Health,2026-05-10
+VST-00000606,PAT-000437,Hospital_036,4,95,87,2025-07-23,21,Left Without Being Seen,DR-0197,Durham,Specialty,83.5,No,Yes,8,Mental Health,2026-01-11
+VST-00000607,PAT-000720,Hospital_048,5,68,261,2025-05-11,18,Left Without Being Seen,DR-0175,Durham,Rural,71.3,Yes,No,7,Pediatric,2026-04-24
+VST-00000608,PAT-000199,Hospital_007,2,621,394,2026-02-19,23,Admitted,DR-0177,Durham,Specialty,63.6,No,No,5,Other,2026-01-06
+VST-00000609,PAT-000121,Hospital_043,1,190,57,2025-10-22,6,Left Without Being Seen,DR-0156,Eastern,Community,81.4,Yes,No,3,Injury,2026-07-23
+VST-00000610,PAT-000546,Hospital_033,1,364,467,2026-03-03,11,Deceased,DR-0195,Niagara,Teaching,66.2,Yes,No,5,Respiratory,2026-04-28
+VST-00000611,PAT-000476,Hospital_002,4,292,292,2025-03-22,6,Admitted,DR-0087,Hamilton,Community,84.0,Yes,No,5,Injury,2026-03-01
+VST-00000612,PAT-000333,Hospital_050,1,420,294,2026-06-14,9,Admitted,DR-0194,Waterloo,Community,82.5,Yes,No,1,Pediatric,2026-06-29
+VST-00000613,PAT-000149,Hospital_028,2,560,375,2025-06-01,7,Deceased,DR-0029,Waterloo,Community,82.2,No,No,5,Neurological,2026-07-22
+VST-00000614,PAT-000263,Hospital_024,4,701,378,2025-01-16,6,Discharged,DR-0167,Durham,Specialty,77.7,No,No,10,Injury,2026-05-02
+VST-00000615,PAT-000612,Hospital_039,3,533,73,2025-06-30,19,Transferred,DR-0076,Central,Rural,78.6,Yes,No,8,Abdominal Pain,2026-05-25
+VST-00000616,PAT-000751,Hospital_047,3,623,56,2025-05-05,19,Deceased,DR-0068,Ottawa,Community,72.0,No,No,8,Injury,2026-05-29
+VST-00000617,PAT-000099,Hospital_008,5,519,160,2025-11-14,1,Discharged,DR-0066,Hamilton,Teaching,80.6,Yes,Yes,10,Pediatric,2026-01-29
+VST-00000618,PAT-000484,Hospital_042,2,366,277,2026-07-14,4,Deceased,DR-0067,Southwestern,Community,102.4,Yes,Yes,5,Neurological,2026-03-25
+VST-00000619,PAT-000627,Hospital_006,2,560,458,2026-01-17,3,Admitted,DR-0028,Hamilton,Rural,91.3,No,No,6,Pediatric,2026-07-12
+VST-00000620,PAT-000744,Hospital_048,2,405,190,2025-05-08,16,Admitted,DR-0199,Hamilton,Teaching,66.7,Yes,Yes,4,Other,2026-07-15
+VST-00000621,PAT-000127,Hospital_042,2,376,26,2026-01-21,16,Admitted,DR-0029,Northern,Teaching,101.0,Yes,No,9,Abdominal Pain,2026-07-19
+VST-00000622,PAT-000247,Hospital_050,5,649,352,2026-04-01,19,Left Without Being Seen,DR-0022,Waterloo,Specialty,84.9,No,No,3,Respiratory,2026-01-09
+VST-00000623,PAT-000375,Hospital_024,5,584,253,2025-06-27,7,Left Without Being Seen,DR-0153,Ottawa,Rural,92.7,No,Yes,3,Injury,2026-06-06
+VST-00000624,PAT-000450,Hospital_031,1,191,201,2026-07-19,9,Left Without Being Seen,DR-0144,Central,Rural,96.3,Yes,Yes,1,Neurological,2026-03-17
+VST-00000625,PAT-000747,Hospital_033,4,187,445,2025-04-24,5,Deceased,DR-0130,Waterloo,Specialty,74.6,Yes,No,4,Other,2026-01-08
+VST-00000626,PAT-000648,Hospital_028,2,154,120,2025-02-22,0,Discharged,DR-0113,Ottawa,Rural,103.1,No,No,7,Mental Health,2026-02-03
+VST-00000627,PAT-000610,Hospital_024,1,407,452,2026-02-28,4,Discharged,DR-0090,Niagara,Specialty,64.8,No,Yes,8,Respiratory,2026-07-29
+VST-00000628,PAT-000504,Hospital_004,2,663,23,2025-08-06,13,Transferred,DR-0063,Durham,Specialty,86.7,Yes,Yes,7,Other,2026-07-31
+VST-00000629,PAT-000120,Hospital_044,4,346,272,2025-09-22,0,Left Without Being Seen,DR-0058,Ottawa,Specialty,68.3,No,Yes,3,Other,2026-04-10
+VST-00000630,PAT-000752,Hospital_008,4,165,251,2025-10-07,13,Discharged,DR-0003,Eastern,Rural,54.9,No,Yes,9,Other,2026-01-08
+VST-00000631,PAT-000242,Hospital_024,1,493,59,2025-10-03,21,Deceased,DR-0114,Southwestern,Rural,50.8,Yes,No,1,Pediatric,2026-03-10
+VST-00000632,PAT-000677,Hospital_017,1,713,257,2025-03-15,20,Admitted,DR-0175,Central,Community,94.0,No,Yes,2,Neurological,2026-03-26
+VST-00000633,PAT-000641,Hospital_022,2,271,337,2025-01-31,4,Transferred,DR-0144,Northern,Teaching,56.2,Yes,Yes,4,Chest Pain,2026-05-12
+VST-00000634,PAT-000668,Hospital_015,5,364,112,2025-04-24,2,Transferred,DR-0164,Waterloo,Rural,85.0,Yes,No,3,Injury,2026-07-13
+VST-00000635,PAT-000211,Hospital_017,3,61,440,2026-07-18,18,Transferred,DR-0008,Hamilton,Teaching,99.7,Yes,No,7,Pediatric,2026-07-26
+VST-00000636,PAT-000479,Hospital_001,5,68,211,2025-01-11,13,Discharged,DR-0088,GTA,Specialty,65.9,No,Yes,2,Mental Health,2026-02-15
+VST-00000637,PAT-000565,Hospital_047,3,27,438,2025-04-10,21,Left Without Being Seen,DR-0186,Southwestern,Teaching,75.0,Yes,No,4,Mental Health,2026-03-24
+VST-00000638,PAT-000231,Hospital_007,4,199,393,2025-05-30,9,Transferred,DR-0028,Central,Rural,58.6,No,Yes,2,Mental Health,2026-03-08
+VST-00000639,PAT-000081,Hospital_019,5,111,85,2026-03-01,23,Deceased,DR-0145,Northern,Specialty,70.3,Yes,No,3,Other,2026-03-03
+VST-00000640,PAT-000550,Hospital_014,5,424,418,2026-05-28,17,Left Without Being Seen,DR-0105,GTA,Specialty,103.3,No,No,7,Respiratory,2026-04-23
+VST-00000641,PAT-000053,Hospital_039,2,87,332,2026-01-19,15,Deceased,DR-0171,Waterloo,Specialty,68.2,Yes,Yes,4,Respiratory,2026-03-07
+VST-00000642,PAT-000664,Hospital_050,5,266,330,2025-08-11,0,Transferred,DR-0167,Durham,Rural,68.1,No,No,10,Chest Pain,2026-07-08
+VST-00000643,PAT-000173,Hospital_049,2,64,260,2026-05-01,3,Left Without Being Seen,DR-0168,Niagara,Rural,100.6,Yes,Yes,9,Pediatric,2026-01-04
+VST-00000644,PAT-000077,Hospital_005,5,260,242,2026-02-23,19,Discharged,DR-0009,Durham,Teaching,93.2,Yes,Yes,8,Chest Pain,2026-01-29
+VST-00000645,PAT-000114,Hospital_003,3,475,16,2026-06-05,20,Left Without Being Seen,DR-0071,Southwestern,Rural,67.4,Yes,Yes,6,Pediatric,2026-05-01
+VST-00000646,PAT-000138,Hospital_006,1,581,363,2025-12-06,2,Discharged,DR-0002,Waterloo,Rural,69.9,Yes,No,6,Injury,2026-01-19
+VST-00000647,PAT-000417,Hospital_022,3,95,168,2026-03-21,5,Discharged,DR-0001,GTA,Specialty,85.3,No,Yes,5,Mental Health,2026-04-28
+VST-00000648,PAT-000456,Hospital_011,2,188,274,2026-01-13,10,Transferred,DR-0149,Eastern,Teaching,96.2,No,Yes,6,Respiratory,2026-05-18
+VST-00000649,PAT-000572,Hospital_005,1,509,117,2025-05-27,14,Transferred,DR-0183,Ottawa,Teaching,63.0,No,No,4,Abdominal Pain,2026-01-25
+VST-00000650,PAT-000010,Hospital_011,3,711,430,2025-07-17,14,Left Without Being Seen,DR-0149,Eastern,Community,68.2,No,Yes,6,Abdominal Pain,2026-06-10
+VST-00000651,PAT-000303,Hospital_037,3,45,355,2025-01-21,15,Left Without Being Seen,DR-0111,Hamilton,Community,62.5,No,Yes,2,Injury,2026-01-25
+VST-00000652,PAT-000775,Hospital_048,1,454,208,2025-02-02,10,Deceased,DR-0094,Central,Specialty,104.7,Yes,No,3,Neurological,2026-02-27
+VST-00000653,PAT-000709,Hospital_029,4,421,318,2026-02-21,15,Admitted,DR-0034,Central,Rural,82.3,No,Yes,8,Chest Pain,2026-02-15
+VST-00000654,PAT-000561,Hospital_041,4,224,400,2026-05-23,4,Admitted,DR-0141,GTA,Rural,75.1,Yes,Yes,7,Pediatric,2026-02-16
+VST-00000655,PAT-000618,Hospital_025,4,539,337,2025-07-05,15,Admitted,DR-0068,Northern,Teaching,86.0,No,Yes,7,Neurological,2026-07-09
+VST-00000656,PAT-000703,Hospital_019,3,408,436,2025-01-04,20,Transferred,DR-0130,Durham,Rural,101.6,Yes,Yes,2,Abdominal Pain,2026-06-21
+VST-00000657,PAT-000759,Hospital_015,2,37,157,2025-11-01,4,Discharged,DR-0123,Waterloo,Rural,104.8,No,No,7,Respiratory,2026-03-31
+VST-00000658,PAT-000767,Hospital_001,3,324,227,2025-06-22,8,Discharged,DR-0199,Southwestern,Rural,104.8,Yes,No,4,Abdominal Pain,2026-04-19
+VST-00000659,PAT-000743,Hospital_043,4,299,446,2025-04-08,15,Discharged,DR-0014,GTA,Community,62.0,Yes,No,8,Respiratory,2026-07-24
+VST-00000660,PAT-000129,Hospital_008,2,45,232,2026-02-09,0,Left Without Being Seen,DR-0173,Durham,Teaching,88.2,No,No,10,Chest Pain,2026-07-12
+VST-00000661,PAT-000135,Hospital_047,5,687,312,2025-04-10,20,Transferred,DR-0014,Durham,Teaching,74.1,Yes,No,3,Chest Pain,2026-05-03
+VST-00000662,PAT-000338,Hospital_016,1,579,369,2026-04-01,14,Admitted,DR-0039,Niagara,Specialty,92.6,No,No,4,Respiratory,2026-06-08
+VST-00000663,PAT-000323,Hospital_034,4,68,60,2025-11-29,22,Discharged,DR-0012,Durham,Rural,93.4,No,No,10,Abdominal Pain,2026-07-02
+VST-00000664,PAT-000299,Hospital_045,4,363,49,2026-03-24,15,Deceased,DR-0044,Ottawa,Community,74.3,No,Yes,7,Abdominal Pain,2026-05-04
+VST-00000665,PAT-000126,Hospital_033,4,486,45,2026-03-17,16,Admitted,DR-0179,Hamilton,Community,98.5,Yes,No,5,Neurological,2026-03-08
+VST-00000666,PAT-000474,Hospital_006,2,229,83,2025-11-30,17,Discharged,DR-0180,Waterloo,Specialty,61.5,Yes,Yes,1,Chest Pain,2026-03-19
+VST-00000667,PAT-000697,Hospital_016,4,152,205,2026-02-05,18,Discharged,DR-0172,Central,Community,102.4,Yes,Yes,6,Abdominal Pain,2026-05-18
+VST-00000668,PAT-000512,Hospital_045,4,174,159,2025-01-04,8,Transferred,DR-0097,Ottawa,Teaching,96.2,Yes,No,2,Neurological,2026-07-10
+VST-00000669,PAT-000520,Hospital_005,4,98,285,2025-07-27,22,Admitted,DR-0147,Durham,Specialty,67.8,No,No,2,Respiratory,2026-04-02
+VST-00000670,PAT-000018,Hospital_043,1,571,51,2026-07-29,15,Deceased,DR-0093,GTA,Community,94.8,No,Yes,7,Abdominal Pain,2026-02-15
+VST-00000671,PAT-000348,Hospital_005,3,175,403,2026-02-01,3,Deceased,DR-0155,Ottawa,Community,67.1,No,Yes,2,Injury,2026-01-21
+VST-00000672,PAT-000669,Hospital_041,5,250,419,2025-08-06,17,Transferred,DR-0053,GTA,Teaching,87.6,Yes,Yes,3,Other,2026-06-04
+VST-00000673,PAT-000711,Hospital_023,4,237,254,2026-04-18,11,Transferred,DR-0190,Southwestern,Teaching,51.2,No,No,3,Chest Pain,2026-05-03
+VST-00000674,PAT-000130,Hospital_050,3,628,154,2025-01-07,6,Transferred,DR-0099,Southwestern,Rural,88.2,Yes,Yes,1,Respiratory,2026-07-07
+VST-00000675,PAT-000328,Hospital_024,2,143,436,2026-01-19,10,Left Without Being Seen,DR-0160,Southwestern,Community,59.3,No,Yes,5,Abdominal Pain,2026-03-02
+VST-00000676,PAT-000771,Hospital_026,2,156,194,2025-11-19,16,Transferred,DR-0028,Eastern,Community,90.4,Yes,Yes,6,Pediatric,2026-01-26
+VST-00000677,PAT-000644,Hospital_015,1,84,78,2025-09-07,15,Admitted,DR-0053,Niagara,Specialty,89.4,Yes,Yes,2,Mental Health,2026-07-09
+VST-00000678,PAT-000380,Hospital_047,2,160,54,2025-05-01,2,Discharged,DR-0133,Waterloo,Teaching,102.0,Yes,Yes,9,Other,2026-05-30
+VST-00000679,PAT-000584,Hospital_014,2,216,38,2025-03-06,6,Deceased,DR-0167,Waterloo,Teaching,84.7,No,Yes,3,Chest Pain,2026-07-14
+VST-00000680,PAT-000523,Hospital_010,5,582,223,2026-06-03,20,Discharged,DR-0140,Ottawa,Rural,63.0,No,No,3,Mental Health,2026-04-05
+VST-00000681,PAT-000518,Hospital_046,5,13,200,2026-07-10,16,Transferred,DR-0125,Waterloo,Specialty,77.5,No,No,9,Other,2026-05-26
+VST-00000682,PAT-000053,Hospital_012,3,295,229,2025-09-25,8,Admitted,DR-0052,Central,Specialty,64.9,No,Yes,10,Injury,2026-06-25
+VST-00000683,PAT-000792,Hospital_031,1,153,310,2025-02-11,15,Left Without Being Seen,DR-0066,Northern,Community,101.0,No,Yes,2,Respiratory,2026-04-29
+VST-00000684,PAT-000397,Hospital_035,5,568,412,2025-08-01,12,Admitted,DR-0166,Waterloo,Teaching,68.5,No,No,9,Pediatric,2026-04-17
+VST-00000685,PAT-000694,Hospital_034,1,284,42,2025-09-10,8,Deceased,DR-0065,Central,Rural,67.8,No,No,10,Mental Health,2026-06-16
+VST-00000686,PAT-000774,Hospital_012,4,199,126,2025-09-24,11,Transferred,DR-0015,Durham,Teaching,53.9,No,No,10,Pediatric,2026-04-15
+VST-00000687,PAT-000089,Hospital_046,3,318,352,2026-03-11,12,Left Without Being Seen,DR-0133,Southwestern,Teaching,78.9,No,No,2,Chest Pain,2026-05-04
+VST-00000688,PAT-000045,Hospital_025,1,103,146,2025-01-15,5,Admitted,DR-0169,Eastern,Rural,99.2,No,Yes,7,Neurological,2026-05-14
+VST-00000689,PAT-000343,Hospital_023,2,187,469,2026-01-06,0,Deceased,DR-0172,Southwestern,Rural,61.8,Yes,No,9,Respiratory,2026-05-17
+VST-00000690,PAT-000674,Hospital_045,4,72,287,2025-04-22,15,Left Without Being Seen,DR-0083,Hamilton,Rural,74.3,Yes,No,4,Pediatric,2026-06-03
+VST-00000691,PAT-000715,Hospital_044,1,655,33,2026-06-04,18,Transferred,DR-0060,GTA,Community,73.3,Yes,No,8,Respiratory,2026-04-19
+VST-00000692,PAT-000449,Hospital_017,2,204,167,2025-01-07,18,Transferred,DR-0014,Central,Rural,68.5,Yes,Yes,4,Mental Health,2026-02-19
+VST-00000693,PAT-000794,Hospital_019,2,96,407,2026-04-27,23,Admitted,DR-0176,Hamilton,Rural,84.2,No,Yes,2,Neurological,2026-03-02
+VST-00000694,PAT-000763,Hospital_017,1,153,215,2025-05-08,21,Discharged,DR-0032,Central,Rural,103.2,Yes,No,4,Injury,2026-02-23
+VST-00000695,PAT-000086,Hospital_003,4,537,449,2025-12-11,15,Transferred,DR-0132,Durham,Rural,73.0,Yes,No,5,Injury,2026-01-05
+VST-00000696,PAT-000768,Hospital_045,1,97,280,2026-03-06,12,Deceased,DR-0045,Hamilton,Community,72.0,No,Yes,2,Abdominal Pain,2026-03-14
+VST-00000697,PAT-000579,Hospital_029,4,267,70,2026-07-17,2,Deceased,DR-0177,Northern,Specialty,54.4,No,Yes,4,Abdominal Pain,2026-06-01
+VST-00000698,PAT-000278,Hospital_034,2,556,301,2025-05-24,14,Transferred,DR-0179,Eastern,Rural,61.5,No,No,4,Neurological,2026-04-25
+VST-00000699,PAT-000752,Hospital_007,5,714,427,2026-06-26,12,Deceased,DR-0195,Eastern,Rural,104.5,No,Yes,8,Respiratory,2026-03-27
+VST-00000700,PAT-000472,Hospital_008,3,713,420,2026-04-03,5,Transferred,DR-0068,Hamilton,Community,56.8,Yes,No,2,Injury,2026-03-05
+VST-00000701,PAT-000195,Hospital_028,4,530,67,2025-05-29,23,Discharged,DR-0085,Central,Rural,101.5,Yes,Yes,8,Mental Health,2026-05-31
+VST-00000702,PAT-000700,Hospital_038,4,467,354,2025-01-21,8,Discharged,DR-0065,Central,Specialty,54.6,No,No,4,Injury,2026-03-04
+VST-00000703,PAT-000377,Hospital_037,1,413,139,2025-05-11,16,Transferred,DR-0116,Central,Rural,101.8,No,Yes,1,Respiratory,2026-02-08
+VST-00000704,PAT-000070,Hospital_001,5,595,263,2026-06-17,16,Left Without Being Seen,DR-0118,Niagara,Teaching,53.8,No,No,7,Other,2026-05-27
+VST-00000705,PAT-000210,Hospital_038,5,196,267,2026-07-05,21,Admitted,DR-0100,GTA,Specialty,82.0,Yes,No,9,Injury,2026-07-28
+VST-00000706,PAT-000017,Hospital_032,5,528,135,2025-09-07,16,Discharged,DR-0004,Ottawa,Community,72.2,Yes,No,1,Mental Health,2026-01-21
+VST-00000707,PAT-000625,Hospital_022,2,392,148,2026-02-09,15,Left Without Being Seen,DR-0065,Central,Specialty,88.0,Yes,Yes,3,Neurological,2026-01-06
+VST-00000708,PAT-000375,Hospital_020,4,482,392,2026-06-19,16,Left Without Being Seen,DR-0129,Durham,Teaching,91.4,No,No,5,Other,2026-03-15
+VST-00000709,PAT-000186,Hospital_001,1,135,287,2025-06-02,7,Left Without Being Seen,DR-0057,Hamilton,Teaching,103.3,Yes,No,4,Chest Pain,2026-07-21
+VST-00000710,PAT-000126,Hospital_016,4,187,352,2025-10-07,19,Admitted,DR-0138,Durham,Rural,95.5,No,No,6,Other,2026-02-27
+VST-00000711,PAT-000542,Hospital_044,3,244,336,2026-04-22,10,Discharged,DR-0046,Northern,Teaching,76.7,Yes,No,10,Chest Pain,2026-03-26
+VST-00000712,PAT-000394,Hospital_001,2,193,91,2025-10-03,15,Discharged,DR-0060,Northern,Teaching,63.0,Yes,No,9,Chest Pain,2026-01-16
+VST-00000713,PAT-000398,Hospital_035,3,15,330,2026-02-23,8,Admitted,DR-0147,Eastern,Rural,68.0,Yes,No,10,Mental Health,2026-02-14
+VST-00000714,PAT-000799,Hospital_049,1,43,367,2026-06-27,4,Admitted,DR-0077,Southwestern,Teaching,62.1,No,Yes,1,Neurological,2026-03-23
+VST-00000715,PAT-000673,Hospital_032,1,291,77,2025-07-12,13,Left Without Being Seen,DR-0001,Niagara,Rural,103.7,No,Yes,2,Injury,2026-02-16
+VST-00000716,PAT-000175,Hospital_019,1,234,358,2025-06-19,23,Deceased,DR-0096,GTA,Teaching,51.4,Yes,Yes,4,Injury,2026-07-04
+VST-00000717,PAT-000772,Hospital_008,2,587,310,2025-05-20,22,Deceased,DR-0081,Durham,Teaching,65.6,Yes,No,4,Neurological,2026-01-10
+VST-00000718,PAT-000177,Hospital_009,1,280,415,2025-03-28,12,Discharged,DR-0014,Ottawa,Rural,62.3,Yes,Yes,1,Neurological,2026-06-06
+VST-00000719,PAT-000491,Hospital_033,3,683,419,2025-07-03,21,Deceased,DR-0023,Southwestern,Community,85.0,Yes,No,2,Other,2026-06-05
+VST-00000720,PAT-000551,Hospital_006,4,421,138,2025-01-23,21,Discharged,DR-0153,Ottawa,Teaching,69.1,Yes,Yes,7,Other,2026-01-14
+VST-00000721,PAT-000081,Hospital_043,3,117,15,2025-11-05,21,Deceased,DR-0134,Northern,Teaching,72.4,No,No,3,Chest Pain,2026-06-11
+VST-00000722,PAT-000027,Hospital_040,5,197,338,2025-06-30,22,Transferred,DR-0049,Niagara,Rural,58.0,Yes,No,3,Neurological,2026-06-13
+VST-00000723,PAT-000748,Hospital_045,2,57,395,2025-11-19,12,Left Without Being Seen,DR-0106,Hamilton,Teaching,98.4,No,No,2,Injury,2026-04-29
+VST-00000724,PAT-000632,Hospital_020,3,24,64,2025-08-22,0,Left Without Being Seen,DR-0148,Hamilton,Community,67.7,Yes,Yes,3,Respiratory,2026-07-17
+VST-00000725,PAT-000646,Hospital_038,4,49,249,2025-07-22,0,Transferred,DR-0143,Niagara,Specialty,103.0,No,Yes,10,Injury,2026-07-31
+VST-00000726,PAT-000063,Hospital_046,2,716,87,2026-07-11,22,Left Without Being Seen,DR-0074,GTA,Rural,50.8,No,Yes,7,Pediatric,2026-07-21
+VST-00000727,PAT-000533,Hospital_043,3,332,366,2025-03-04,3,Left Without Being Seen,DR-0111,Northern,Community,68.8,No,Yes,10,Chest Pain,2026-04-15
+VST-00000728,PAT-000014,Hospital_019,3,665,398,2026-07-11,5,Transferred,DR-0141,Ottawa,Rural,99.5,Yes,No,7,Respiratory,2026-06-06
+VST-00000729,PAT-000795,Hospital_030,1,500,89,2025-05-07,5,Transferred,DR-0145,Durham,Teaching,67.2,Yes,Yes,5,Neurological,2026-02-27
+VST-00000730,PAT-000197,Hospital_035,3,218,25,2025-05-22,13,Deceased,DR-0117,Durham,Community,61.5,Yes,Yes,1,Neurological,2026-06-26
+VST-00000731,PAT-000157,Hospital_003,3,414,147,2025-12-13,19,Deceased,DR-0003,Eastern,Rural,64.0,No,No,7,Neurological,2026-07-07
+VST-00000732,PAT-000631,Hospital_024,1,602,432,2026-04-28,23,Left Without Being Seen,DR-0179,Eastern,Rural,101.9,No,No,5,Injury,2026-07-13
+VST-00000733,PAT-000703,Hospital_002,5,385,158,2025-11-24,11,Left Without Being Seen,DR-0155,Ottawa,Community,91.5,Yes,Yes,2,Other,2026-06-28
+VST-00000734,PAT-000585,Hospital_019,5,305,477,2025-10-04,4,Admitted,DR-0132,Eastern,Community,84.3,No,No,5,Injury,2026-04-23
+VST-00000735,PAT-000615,Hospital_027,2,8,451,2025-10-12,19,Left Without Being Seen,DR-0166,Central,Teaching,81.2,No,No,9,Pediatric,2026-07-01
+VST-00000736,PAT-000292,Hospital_005,4,206,294,2026-07-21,5,Deceased,DR-0172,Ottawa,Teaching,104.9,No,Yes,6,Abdominal Pain,2026-02-12
+VST-00000737,PAT-000108,Hospital_008,5,610,387,2025-10-17,12,Admitted,DR-0063,Ottawa,Teaching,73.9,No,No,6,Pediatric,2026-02-27
+VST-00000738,PAT-000645,Hospital_028,2,5,39,2025-10-30,21,Admitted,DR-0052,Central,Teaching,54.3,No,No,1,Other,2026-06-20
+VST-00000739,PAT-000645,Hospital_024,3,418,305,2025-10-20,2,Left Without Being Seen,DR-0100,Hamilton,Community,68.7,Yes,Yes,10,Pediatric,2026-07-27
+VST-00000740,PAT-000153,Hospital_024,4,473,149,2025-04-14,21,Transferred,DR-0032,Niagara,Rural,72.9,No,No,8,Pediatric,2026-03-21
+VST-00000741,PAT-000014,Hospital_026,2,254,211,2026-01-02,10,Deceased,DR-0101,Ottawa,Specialty,56.4,Yes,No,10,Pediatric,2026-04-28
+VST-00000742,PAT-000585,Hospital_025,5,235,330,2025-07-08,8,Deceased,DR-0165,Niagara,Community,62.5,No,Yes,7,Injury,2026-05-09
+VST-00000743,PAT-000324,Hospital_006,3,430,110,2026-06-24,6,Transferred,DR-0154,Southwestern,Specialty,74.6,No,Yes,8,Mental Health,2026-02-27
+VST-00000744,PAT-000717,Hospital_016,4,62,74,2025-02-24,15,Deceased,DR-0109,Hamilton,Specialty,92.5,Yes,No,4,Respiratory,2026-07-11
+VST-00000745,PAT-000343,Hospital_003,2,341,295,2025-04-13,13,Left Without Being Seen,DR-0080,Waterloo,Teaching,84.5,No,Yes,9,Respiratory,2026-04-08
+VST-00000746,PAT-000309,Hospital_036,4,390,18,2026-06-20,21,Left Without Being Seen,DR-0116,Niagara,Rural,73.6,Yes,Yes,7,Mental Health,2026-06-19
+VST-00000747,PAT-000174,Hospital_019,2,555,414,2026-03-18,12,Admitted,DR-0037,Hamilton,Teaching,100.4,Yes,Yes,8,Mental Health,2026-04-15
+VST-00000748,PAT-000397,Hospital_048,3,450,229,2026-04-14,7,Deceased,DR-0015,Niagara,Teaching,101.2,Yes,No,8,Injury,2026-07-21
+VST-00000749,PAT-000683,Hospital_013,4,387,379,2026-04-02,13,Discharged,DR-0067,Hamilton,Specialty,72.6,No,Yes,7,Respiratory,2026-01-08
+VST-00000750,PAT-000161,Hospital_011,4,117,380,2025-05-11,6,Left Without Being Seen,DR-0150,Southwestern,Rural,90.0,Yes,No,5,Abdominal Pain,2026-04-27
+VST-00000751,PAT-000441,Hospital_018,5,193,231,2025-04-09,9,Deceased,DR-0163,Ottawa,Teaching,81.8,No,No,9,Abdominal Pain,2026-05-24
+VST-00000752,PAT-000251,Hospital_014,5,658,404,2025-01-18,15,Discharged,DR-0057,Eastern,Teaching,69.3,No,No,1,Neurological,2026-02-19
+VST-00000753,PAT-000255,Hospital_042,1,550,414,2025-12-03,2,Deceased,DR-0138,Eastern,Specialty,53.2,No,Yes,5,Neurological,2026-04-17
+VST-00000754,PAT-000760,Hospital_037,1,70,36,2025-07-18,0,Deceased,DR-0151,Hamilton,Rural,79.0,Yes,Yes,5,Chest Pain,2026-07-26
+VST-00000755,PAT-000304,Hospital_050,3,105,214,2025-03-18,12,Transferred,DR-0163,Ottawa,Community,94.0,No,Yes,6,Respiratory,2026-05-15
+VST-00000756,PAT-000358,Hospital_013,5,434,60,2025-01-14,9,Deceased,DR-0006,Durham,Teaching,67.3,No,No,10,Other,2026-04-03
+VST-00000757,PAT-000543,Hospital_046,3,59,101,2025-11-04,18,Admitted,DR-0129,Hamilton,Teaching,95.5,Yes,No,10,Mental Health,2026-03-28
+VST-00000758,PAT-000686,Hospital_019,3,707,152,2025-12-11,17,Deceased,DR-0006,Central,Specialty,99.9,Yes,Yes,2,Neurological,2026-02-03
+VST-00000759,PAT-000406,Hospital_005,3,366,421,2026-04-01,20,Deceased,DR-0044,Southwestern,Rural,90.3,No,No,4,Pediatric,2026-02-24
+VST-00000760,PAT-000049,Hospital_023,1,146,279,2025-03-27,13,Admitted,DR-0113,Waterloo,Specialty,62.6,Yes,No,4,Mental Health,2026-07-13
+VST-00000761,PAT-000204,Hospital_036,3,410,297,2025-09-13,12,Deceased,DR-0196,Central,Specialty,52.2,Yes,Yes,6,Chest Pain,2026-06-30
+VST-00000762,PAT-000249,Hospital_018,2,127,449,2026-03-15,4,Deceased,DR-0046,Eastern,Rural,72.3,Yes,Yes,5,Mental Health,2026-03-03
+VST-00000763,PAT-000379,Hospital_029,1,182,23,2025-11-27,15,Left Without Being Seen,DR-0158,Northern,Teaching,62.1,No,Yes,7,Injury,2026-05-16
+VST-00000764,PAT-000627,Hospital_029,2,687,354,2026-06-08,14,Discharged,DR-0037,Southwestern,Rural,72.1,No,Yes,2,Chest Pain,2026-05-01
+VST-00000765,PAT-000408,Hospital_041,5,61,259,2025-01-31,0,Deceased,DR-0099,GTA,Specialty,75.6,No,Yes,6,Mental Health,2026-03-13
+VST-00000766,PAT-000373,Hospital_042,4,77,223,2025-04-26,11,Transferred,DR-0053,Eastern,Specialty,51.0,Yes,Yes,2,Mental Health,2026-06-25
+VST-00000767,PAT-000168,Hospital_014,1,189,112,2025-01-23,7,Transferred,DR-0128,Northern,Specialty,77.7,No,Yes,1,Abdominal Pain,2026-04-16
+VST-00000768,PAT-000609,Hospital_003,2,355,29,2025-08-01,23,Left Without Being Seen,DR-0033,GTA,Specialty,58.0,No,Yes,5,Injury,2026-03-16
+VST-00000769,PAT-000568,Hospital_022,1,648,54,2026-03-18,16,Deceased,DR-0189,Eastern,Community,54.0,Yes,No,4,Pediatric,2026-05-07
+VST-00000770,PAT-000564,Hospital_023,5,467,134,2025-07-18,23,Left Without Being Seen,DR-0099,Niagara,Specialty,73.6,No,Yes,10,Mental Health,2026-01-14
+VST-00000771,PAT-000027,Hospital_048,4,218,256,2025-01-15,7,Deceased,DR-0116,Hamilton,Rural,96.6,No,Yes,9,Neurological,2026-01-05
+VST-00000772,PAT-000538,Hospital_034,2,385,359,2026-04-07,0,Left Without Being Seen,DR-0069,Central,Rural,64.0,Yes,No,9,Other,2026-06-10
+VST-00000773,PAT-000261,Hospital_012,1,53,312,2025-09-30,7,Deceased,DR-0012,Central,Rural,87.7,No,No,9,Mental Health,2026-01-02
+VST-00000774,PAT-000123,Hospital_034,4,55,289,2025-01-30,22,Transferred,DR-0095,Eastern,Community,86.3,No,No,8,Pediatric,2026-07-20
+VST-00000775,PAT-000010,Hospital_002,3,190,260,2025-02-10,18,Deceased,DR-0062,Waterloo,Specialty,91.3,No,No,9,Respiratory,2026-06-11
+VST-00000776,PAT-000202,Hospital_044,2,531,345,2025-01-09,23,Left Without Being Seen,DR-0056,Niagara,Community,63.8,Yes,No,8,Chest Pain,2026-03-07
+VST-00000777,PAT-000800,Hospital_050,4,672,355,2026-07-22,1,Left Without Being Seen,DR-0162,Southwestern,Rural,69.1,Yes,Yes,6,Injury,2026-03-09
+VST-00000778,PAT-000595,Hospital_007,3,564,18,2026-07-26,14,Left Without Being Seen,DR-0084,Waterloo,Community,55.3,Yes,Yes,1,Neurological,2026-05-14
+VST-00000779,PAT-000493,Hospital_025,5,414,428,2025-09-21,12,Discharged,DR-0141,Southwestern,Teaching,71.1,No,Yes,5,Abdominal Pain,2026-06-19
+VST-00000780,PAT-000511,Hospital_036,4,324,409,2025-05-02,0,Left Without Being Seen,DR-0103,Niagara,Community,98.4,No,Yes,5,Pediatric,2026-02-25
+VST-00000781,PAT-000033,Hospital_012,3,704,341,2026-05-20,17,Transferred,DR-0087,Eastern,Rural,76.4,No,No,7,Other,2026-02-24
+VST-00000782,PAT-000437,Hospital_050,1,229,89,2025-04-09,3,Admitted,DR-0071,Central,Specialty,54.5,No,No,10,Respiratory,2026-03-09
+VST-00000783,PAT-000706,Hospital_046,1,562,362,2025-12-23,2,Deceased,DR-0153,Niagara,Community,88.0,No,No,3,Chest Pain,2026-05-11
+VST-00000784,PAT-000148,Hospital_015,4,117,29,2026-01-18,18,Transferred,DR-0003,Northern,Community,62.4,Yes,No,8,Mental Health,2026-02-08
+VST-00000785,PAT-000503,Hospital_012,2,284,112,2026-05-17,10,Deceased,DR-0191,Ottawa,Teaching,73.4,No,No,10,Other,2026-01-17
+VST-00000786,PAT-000516,Hospital_024,1,126,152,2026-03-29,14,Transferred,DR-0031,Niagara,Community,56.4,No,Yes,9,Chest Pain,2026-06-02
+VST-00000787,PAT-000412,Hospital_010,4,528,399,2026-02-08,3,Discharged,DR-0133,Waterloo,Teaching,81.1,Yes,No,5,Chest Pain,2026-02-03
+VST-00000788,PAT-000445,Hospital_042,1,689,277,2025-08-19,10,Deceased,DR-0188,Durham,Specialty,65.5,Yes,No,5,Chest Pain,2026-07-17
+VST-00000789,PAT-000522,Hospital_021,5,302,96,2025-01-02,9,Deceased,DR-0195,Central,Rural,100.8,Yes,No,7,Other,2026-06-21
+VST-00000790,PAT-000348,Hospital_028,4,328,131,2026-06-18,13,Transferred,DR-0144,Durham,Teaching,67.2,No,Yes,10,Injury,2026-06-22
+VST-00000791,PAT-000315,Hospital_006,2,212,265,2025-07-28,6,Admitted,DR-0102,Southwestern,Teaching,78.6,No,No,5,Chest Pain,2026-07-16
+VST-00000792,PAT-000150,Hospital_002,5,308,86,2026-04-24,7,Left Without Being Seen,DR-0157,Waterloo,Teaching,81.4,Yes,Yes,6,Other,2026-06-21
+VST-00000793,PAT-000520,Hospital_028,3,287,379,2026-06-28,5,Deceased,DR-0111,Ottawa,Community,50.7,No,Yes,9,Other,2026-01-08
+VST-00000794,PAT-000037,Hospital_008,5,53,207,2025-06-11,9,Transferred,DR-0193,Central,Community,99.7,Yes,Yes,3,Neurological,2026-04-14
+VST-00000795,PAT-000158,Hospital_017,3,229,251,2026-03-01,4,Deceased,DR-0040,GTA,Specialty,73.0,No,No,6,Pediatric,2026-06-14
+VST-00000796,PAT-000653,Hospital_027,4,60,112,2026-03-27,1,Transferred,DR-0013,Ottawa,Teaching,81.1,No,No,8,Neurological,2026-03-01
+VST-00000797,PAT-000520,Hospital_034,2,355,411,2026-04-09,17,Left Without Being Seen,DR-0177,Eastern,Specialty,55.1,Yes,No,2,Neurological,2026-06-28
+VST-00000798,PAT-000658,Hospital_026,5,114,367,2025-03-06,22,Transferred,DR-0140,Ottawa,Specialty,94.1,Yes,No,9,Abdominal Pain,2026-05-16
+VST-00000799,PAT-000646,Hospital_028,2,246,323,2025-07-30,14,Deceased,DR-0069,GTA,Specialty,53.7,No,No,2,Neurological,2026-04-13
+VST-00000800,PAT-000182,Hospital_049,1,14,40,2025-01-20,8,Transferred,DR-0181,Ottawa,Rural,52.5,No,No,9,Neurological,2026-07-25
+VST-00000801,PAT-000606,Hospital_003,1,203,476,2026-03-31,0,Deceased,DR-0107,Ottawa,Rural,73.3,Yes,Yes,1,Injury,2026-07-22
+VST-00000802,PAT-000471,Hospital_041,3,182,126,2026-04-28,16,Admitted,DR-0115,Niagara,Community,99.6,Yes,No,8,Chest Pain,2026-01-24
+VST-00000803,PAT-000150,Hospital_026,1,384,467,2026-02-21,22,Admitted,DR-0160,Northern,Specialty,71.3,Yes,Yes,7,Injury,2026-01-14
+VST-00000804,PAT-000097,Hospital_015,3,149,459,2025-04-15,8,Deceased,DR-0128,Niagara,Community,51.7,No,Yes,9,Abdominal Pain,2026-01-21
+VST-00000805,PAT-000565,Hospital_002,2,127,316,2026-02-05,22,Deceased,DR-0140,Central,Community,70.1,Yes,Yes,6,Injury,2026-06-22
+VST-00000806,PAT-000439,Hospital_016,4,293,243,2026-06-22,16,Deceased,DR-0037,Southwestern,Rural,87.7,Yes,No,9,Abdominal Pain,2026-07-05
+VST-00000807,PAT-000222,Hospital_014,5,128,418,2026-05-19,4,Admitted,DR-0196,Northern,Community,85.4,Yes,Yes,8,Neurological,2026-03-20
+VST-00000808,PAT-000095,Hospital_050,2,547,256,2025-02-20,11,Left Without Being Seen,DR-0074,Southwestern,Teaching,93.8,No,No,8,Neurological,2026-04-01
+VST-00000809,PAT-000197,Hospital_012,3,120,118,2026-03-08,19,Discharged,DR-0123,GTA,Community,89.9,No,Yes,5,Abdominal Pain,2026-01-04
+VST-00000810,PAT-000707,Hospital_031,1,488,433,2026-07-19,14,Deceased,DR-0145,Niagara,Specialty,91.3,Yes,No,1,Chest Pain,2026-03-12
+VST-00000811,PAT-000795,Hospital_021,3,355,270,2025-10-16,4,Transferred,DR-0095,Eastern,Specialty,61.8,Yes,Yes,7,Neurological,2026-02-21
+VST-00000812,PAT-000462,Hospital_010,3,324,155,2026-05-03,23,Discharged,DR-0042,Northern,Specialty,99.9,No,Yes,5,Mental Health,2026-04-17
+VST-00000813,PAT-000612,Hospital_011,1,66,311,2025-04-09,4,Left Without Being Seen,DR-0184,Durham,Rural,63.0,No,Yes,3,Other,2026-01-05
+VST-00000814,PAT-000521,Hospital_037,3,246,274,2026-04-29,0,Transferred,DR-0170,Southwestern,Teaching,54.2,No,No,9,Pediatric,2026-05-08
+VST-00000815,PAT-000571,Hospital_009,4,232,478,2026-05-18,12,Deceased,DR-0033,Southwestern,Specialty,53.8,No,Yes,2,Chest Pain,2026-03-17
+VST-00000816,PAT-000684,Hospital_020,4,628,160,2025-01-27,10,Discharged,DR-0190,Central,Teaching,68.3,No,Yes,7,Chest Pain,2026-03-04
+VST-00000817,PAT-000339,Hospital_027,2,477,20,2026-01-30,2,Discharged,DR-0169,Central,Teaching,53.2,Yes,No,2,Neurological,2026-03-04
+VST-00000818,PAT-000452,Hospital_010,5,103,251,2026-05-10,23,Left Without Being Seen,DR-0002,Durham,Rural,76.0,No,No,4,Abdominal Pain,2026-07-20
+VST-00000819,PAT-000697,Hospital_047,1,376,392,2025-10-25,10,Discharged,DR-0108,Southwestern,Community,91.0,Yes,Yes,7,Other,2026-01-01
+VST-00000820,PAT-000042,Hospital_038,4,263,449,2025-04-18,17,Deceased,DR-0107,Durham,Community,92.3,No,No,8,Abdominal Pain,2026-05-31
+VST-00000821,PAT-000691,Hospital_035,5,475,436,2025-07-11,20,Admitted,DR-0014,Hamilton,Rural,88.2,No,No,9,Pediatric,2026-07-31
+VST-00000822,PAT-000666,Hospital_007,4,329,455,2026-07-22,8,Discharged,DR-0191,Eastern,Teaching,52.0,Yes,Yes,3,Chest Pain,2026-04-15
+VST-00000823,PAT-000300,Hospital_026,2,27,230,2026-03-15,15,Admitted,DR-0158,Durham,Community,72.9,Yes,No,2,Chest Pain,2026-02-16
+VST-00000824,PAT-000516,Hospital_045,2,616,221,2025-07-26,23,Deceased,DR-0176,GTA,Community,74.0,Yes,Yes,4,Abdominal Pain,2026-03-30
+VST-00000825,PAT-000110,Hospital_041,2,178,395,2026-03-18,10,Deceased,DR-0022,Hamilton,Specialty,59.6,Yes,No,8,Mental Health,2026-04-19
+VST-00000826,PAT-000240,Hospital_027,5,114,80,2025-08-16,0,Left Without Being Seen,DR-0177,Eastern,Community,96.3,Yes,No,1,Chest Pain,2026-01-18
+VST-00000827,PAT-000651,Hospital_006,5,659,69,2025-07-09,7,Discharged,DR-0123,Eastern,Teaching,101.4,Yes,Yes,3,Abdominal Pain,2026-02-04
+VST-00000828,PAT-000271,Hospital_041,2,703,420,2026-03-02,11,Admitted,DR-0025,GTA,Teaching,51.7,No,No,3,Chest Pain,2026-07-05
+VST-00000829,PAT-000357,Hospital_046,1,40,316,2025-03-23,2,Deceased,DR-0161,Hamilton,Teaching,67.7,Yes,No,2,Abdominal Pain,2026-06-27
+VST-00000830,PAT-000065,Hospital_021,1,685,373,2025-11-07,3,Admitted,DR-0042,Central,Teaching,96.2,Yes,Yes,9,Other,2026-07-19
+VST-00000831,PAT-000784,Hospital_022,1,538,108,2026-02-09,14,Discharged,DR-0050,Waterloo,Teaching,82.4,Yes,Yes,8,Abdominal Pain,2026-03-14
+VST-00000832,PAT-000620,Hospital_016,4,115,322,2025-04-06,1,Left Without Being Seen,DR-0095,Ottawa,Rural,56.7,No,Yes,8,Neurological,2026-07-12
+VST-00000833,PAT-000420,Hospital_005,1,584,193,2026-07-23,7,Left Without Being Seen,DR-0139,Eastern,Rural,101.2,Yes,Yes,8,Neurological,2026-02-28
+VST-00000834,PAT-000428,Hospital_048,2,313,459,2026-04-30,19,Deceased,DR-0191,GTA,Rural,60.1,Yes,Yes,5,Other,2026-03-28
+VST-00000835,PAT-000014,Hospital_050,5,76,472,2026-05-11,17,Admitted,DR-0092,Niagara,Community,100.5,No,No,1,Neurological,2026-05-16
+VST-00000836,PAT-000339,Hospital_033,5,79,66,2026-07-13,11,Left Without Being Seen,DR-0116,Hamilton,Teaching,75.9,Yes,No,8,Neurological,2026-05-01
+VST-00000837,PAT-000437,Hospital_028,2,477,51,2025-03-01,22,Transferred,DR-0027,GTA,Rural,59.5,Yes,Yes,1,Other,2026-02-22
+VST-00000838,PAT-000721,Hospital_047,3,244,302,2026-02-04,16,Admitted,DR-0129,Ottawa,Rural,84.2,No,Yes,1,Other,2026-06-16
+VST-00000839,PAT-000575,Hospital_025,1,444,324,2025-01-01,1,Deceased,DR-0082,Eastern,Rural,89.3,No,No,1,Other,2026-03-18
+VST-00000840,PAT-000538,Hospital_007,3,311,171,2025-08-31,18,Left Without Being Seen,DR-0072,Niagara,Community,72.0,Yes,No,4,Neurological,2026-01-25
+VST-00000841,PAT-000600,Hospital_045,5,115,380,2025-08-22,17,Admitted,DR-0049,Southwestern,Rural,102.2,No,No,3,Injury,2026-04-29
+VST-00000842,PAT-000473,Hospital_031,4,96,112,2026-01-14,17,Deceased,DR-0155,Niagara,Teaching,100.5,No,Yes,1,Abdominal Pain,2026-02-22
+VST-00000843,PAT-000107,Hospital_008,2,694,335,2026-05-20,16,Transferred,DR-0018,Durham,Specialty,86.2,No,Yes,10,Mental Health,2026-01-15
+VST-00000844,PAT-000589,Hospital_004,4,488,87,2025-11-24,17,Left Without Being Seen,DR-0013,GTA,Teaching,97.1,Yes,No,1,Respiratory,2026-04-15
+VST-00000845,PAT-000722,Hospital_025,4,8,186,2025-01-02,13,Deceased,DR-0146,GTA,Community,94.8,No,Yes,9,Other,2026-02-20
+VST-00000846,PAT-000472,Hospital_041,5,274,28,2026-03-29,21,Discharged,DR-0068,Ottawa,Teaching,59.5,No,Yes,7,Abdominal Pain,2026-05-07
+VST-00000847,PAT-000459,Hospital_009,2,515,306,2026-03-27,7,Discharged,DR-0146,GTA,Rural,99.5,Yes,Yes,2,Injury,2026-03-26
+VST-00000848,PAT-000128,Hospital_034,4,293,244,2025-01-21,8,Deceased,DR-0096,Central,Teaching,59.4,Yes,Yes,8,Respiratory,2026-07-01
+VST-00000849,PAT-000278,Hospital_032,1,357,208,2026-01-02,1,Admitted,DR-0122,Ottawa,Rural,103.1,Yes,Yes,8,Respiratory,2026-05-23
+VST-00000850,PAT-000528,Hospital_015,5,157,238,2026-07-05,4,Discharged,DR-0021,Northern,Teaching,57.9,Yes,No,3,Pediatric,2026-02-14
+VST-00000851,PAT-000050,Hospital_031,4,706,256,2026-01-09,22,Transferred,DR-0081,Hamilton,Teaching,90.2,No,No,3,Neurological,2026-01-05
+VST-00000852,PAT-000028,Hospital_028,5,482,140,2026-03-10,10,Deceased,DR-0115,Waterloo,Rural,82.4,Yes,Yes,2,Neurological,2026-01-28
+VST-00000853,PAT-000113,Hospital_001,5,85,427,2026-05-21,16,Admitted,DR-0021,Eastern,Rural,96.5,Yes,Yes,10,Mental Health,2026-06-27
+VST-00000854,PAT-000790,Hospital_027,4,118,262,2026-02-24,11,Deceased,DR-0130,Ottawa,Community,94.2,No,Yes,7,Abdominal Pain,2026-06-16
+VST-00000855,PAT-000720,Hospital_029,1,140,196,2025-12-16,22,Discharged,DR-0116,Central,Rural,81.6,Yes,No,9,Injury,2026-04-18
+VST-00000856,PAT-000273,Hospital_004,5,206,153,2025-10-07,9,Admitted,DR-0071,GTA,Community,98.8,No,No,10,Abdominal Pain,2026-01-15
+VST-00000857,PAT-000524,Hospital_030,4,115,265,2025-11-18,13,Transferred,DR-0187,Eastern,Rural,76.9,Yes,Yes,9,Abdominal Pain,2026-05-18
+VST-00000858,PAT-000435,Hospital_049,5,211,97,2025-03-04,0,Transferred,DR-0188,Eastern,Specialty,68.1,No,Yes,8,Chest Pain,2026-01-28
+VST-00000859,PAT-000126,Hospital_009,4,614,314,2025-07-03,16,Deceased,DR-0118,Northern,Community,64.4,No,No,2,Mental Health,2026-03-21
+VST-00000860,PAT-000548,Hospital_032,4,664,363,2026-01-26,1,Discharged,DR-0057,Ottawa,Teaching,89.3,No,Yes,5,Neurological,2026-02-20
+VST-00000861,PAT-000082,Hospital_008,3,509,69,2026-07-13,4,Transferred,DR-0086,Northern,Community,97.6,Yes,Yes,7,Respiratory,2026-04-15
+VST-00000862,PAT-000434,Hospital_028,3,432,202,2026-07-09,8,Discharged,DR-0073,Northern,Teaching,85.4,Yes,No,5,Other,2026-02-19
+VST-00000863,PAT-000435,Hospital_020,3,429,268,2025-03-17,5,Discharged,DR-0180,Northern,Rural,83.4,No,No,5,Abdominal Pain,2026-03-24
+VST-00000864,PAT-000361,Hospital_031,2,129,362,2025-09-11,2,Deceased,DR-0022,Eastern,Specialty,78.9,Yes,Yes,3,Injury,2026-05-28
+VST-00000865,PAT-000463,Hospital_028,4,185,106,2025-01-17,15,Discharged,DR-0198,Ottawa,Community,102.1,Yes,Yes,4,Pediatric,2026-04-16
+VST-00000866,PAT-000532,Hospital_049,5,299,434,2025-10-22,19,Admitted,DR-0127,Durham,Community,73.5,No,No,5,Other,2026-02-18
+VST-00000867,PAT-000174,Hospital_019,3,467,73,2025-12-05,11,Left Without Being Seen,DR-0145,Niagara,Rural,76.2,No,No,1,Respiratory,2026-01-18
+VST-00000868,PAT-000749,Hospital_012,5,99,259,2026-05-27,3,Transferred,DR-0024,Niagara,Rural,64.9,Yes,Yes,10,Pediatric,2026-02-24
+VST-00000869,PAT-000178,Hospital_018,4,46,477,2025-01-12,9,Admitted,DR-0150,Central,Rural,101.7,No,No,2,Injury,2026-01-13
+VST-00000870,PAT-000038,Hospital_029,2,95,211,2026-07-23,1,Deceased,DR-0012,Niagara,Community,64.8,Yes,No,8,Pediatric,2026-06-27
+VST-00000871,PAT-000494,Hospital_021,2,135,334,2026-07-04,7,Deceased,DR-0026,Durham,Specialty,88.6,No,Yes,6,Respiratory,2026-01-30
+VST-00000872,PAT-000598,Hospital_049,3,530,108,2025-10-10,13,Left Without Being Seen,DR-0175,Ottawa,Teaching,97.7,Yes,Yes,5,Pediatric,2026-04-26
+VST-00000873,PAT-000047,Hospital_045,1,437,69,2026-03-09,19,Admitted,DR-0139,Southwestern,Specialty,63.1,Yes,Yes,7,Mental Health,2026-05-08
+VST-00000874,PAT-000005,Hospital_044,4,177,51,2026-07-30,11,Discharged,DR-0144,Northern,Community,71.6,No,Yes,5,Chest Pain,2026-03-29
+VST-00000875,PAT-000289,Hospital_025,3,631,274,2025-12-01,19,Discharged,DR-0194,Ottawa,Specialty,69.1,Yes,No,1,Chest Pain,2026-01-19
+VST-00000876,PAT-000466,Hospital_024,3,30,164,2025-09-01,10,Transferred,DR-0141,Ottawa,Rural,55.1,No,No,1,Abdominal Pain,2026-07-23
+VST-00000877,PAT-000751,Hospital_024,2,203,464,2026-06-18,15,Deceased,DR-0035,Durham,Community,96.2,Yes,Yes,3,Mental Health,2026-05-09
+VST-00000878,PAT-000689,Hospital_008,1,676,298,2026-05-18,8,Discharged,DR-0015,Hamilton,Rural,62.3,Yes,No,3,Respiratory,2026-02-24
+VST-00000879,PAT-000172,Hospital_015,4,398,36,2025-08-07,10,Transferred,DR-0122,Northern,Rural,65.0,Yes,No,8,Injury,2026-02-05
+VST-00000880,PAT-000162,Hospital_028,3,495,91,2026-05-29,7,Admitted,DR-0057,Southwestern,Community,58.7,No,Yes,4,Injury,2026-02-04
+VST-00000881,PAT-000154,Hospital_043,4,343,207,2025-04-13,15,Left Without Being Seen,DR-0136,Eastern,Rural,87.5,Yes,No,4,Chest Pain,2026-06-09
+VST-00000882,PAT-000520,Hospital_045,1,532,399,2025-03-27,22,Deceased,DR-0182,Northern,Rural,90.2,Yes,No,2,Injury,2026-06-03
+VST-00000883,PAT-000448,Hospital_015,3,621,267,2026-01-15,5,Admitted,DR-0132,Durham,Community,58.2,Yes,No,5,Chest Pain,2026-07-29
+VST-00000884,PAT-000028,Hospital_039,2,630,133,2026-02-22,14,Transferred,DR-0137,Central,Teaching,65.2,No,No,5,Respiratory,2026-03-14
+VST-00000885,PAT-000280,Hospital_047,3,149,416,2026-04-20,7,Transferred,DR-0038,Niagara,Community,59.0,Yes,Yes,5,Mental Health,2026-02-21
+VST-00000886,PAT-000497,Hospital_044,3,385,368,2026-04-04,20,Admitted,DR-0127,Durham,Rural,55.1,Yes,Yes,2,Pediatric,2026-03-26
+VST-00000887,PAT-000221,Hospital_008,2,435,144,2025-12-21,12,Deceased,DR-0097,Hamilton,Rural,96.2,Yes,No,8,Abdominal Pain,2026-07-30
+VST-00000888,PAT-000491,Hospital_006,3,642,345,2025-03-30,20,Deceased,DR-0058,Eastern,Community,62.8,No,Yes,6,Neurological,2026-01-05
+VST-00000889,PAT-000126,Hospital_014,3,569,171,2025-04-26,1,Admitted,DR-0187,Southwestern,Teaching,54.3,Yes,No,4,Injury,2026-01-07
+VST-00000890,PAT-000678,Hospital_041,2,140,31,2025-03-27,14,Admitted,DR-0139,Northern,Community,84.7,Yes,No,9,Pediatric,2026-06-11
+VST-00000891,PAT-000570,Hospital_045,4,436,132,2025-01-01,15,Discharged,DR-0160,Waterloo,Specialty,94.4,No,Yes,10,Other,2026-03-22
+VST-00000892,PAT-000440,Hospital_036,1,594,101,2025-12-06,18,Discharged,DR-0023,GTA,Community,84.0,No,Yes,9,Mental Health,2026-03-23
+VST-00000893,PAT-000015,Hospital_037,2,154,241,2026-01-13,6,Admitted,DR-0159,Niagara,Rural,96.6,No,Yes,3,Chest Pain,2026-06-28
+VST-00000894,PAT-000084,Hospital_016,1,410,443,2025-11-27,6,Admitted,DR-0044,Eastern,Specialty,100.2,Yes,Yes,9,Pediatric,2026-04-08
+VST-00000895,PAT-000317,Hospital_044,1,80,188,2025-04-06,23,Transferred,DR-0076,Southwestern,Specialty,93.8,Yes,Yes,10,Pediatric,2026-07-18
+VST-00000896,PAT-000384,Hospital_039,4,579,92,2026-03-19,18,Discharged,DR-0014,Durham,Teaching,50.2,No,Yes,4,Injury,2026-02-11
+VST-00000897,PAT-000427,Hospital_003,1,545,273,2026-06-29,9,Admitted,DR-0145,Ottawa,Community,88.2,No,No,4,Abdominal Pain,2026-07-31
+VST-00000898,PAT-000022,Hospital_024,2,580,280,2026-06-26,20,Deceased,DR-0057,Ottawa,Community,84.3,Yes,No,5,Injury,2026-05-09
+VST-00000899,PAT-000149,Hospital_016,4,132,235,2025-02-04,2,Discharged,DR-0170,Waterloo,Specialty,58.2,Yes,Yes,2,Injury,2026-07-11
+VST-00000900,PAT-000656,Hospital_007,1,104,200,2025-04-12,0,Transferred,DR-0013,Waterloo,Specialty,94.4,No,No,1,Respiratory,2026-06-22
+VST-00000901,PAT-000656,Hospital_010,1,600,239,2026-04-14,21,Transferred,DR-0110,Eastern,Teaching,103.4,Yes,No,6,Mental Health,2026-01-20
+VST-00000902,PAT-000612,Hospital_047,3,147,83,2025-08-08,12,Left Without Being Seen,DR-0191,Eastern,Community,76.0,No,No,3,Neurological,2026-01-04
+VST-00000903,PAT-000494,Hospital_025,2,205,131,2025-05-11,14,Left Without Being Seen,DR-0011,Waterloo,Rural,99.9,No,Yes,2,Other,2026-07-19
+VST-00000904,PAT-000682,Hospital_019,5,224,227,2025-01-10,2,Transferred,DR-0021,Niagara,Specialty,102.0,No,Yes,1,Other,2026-02-21
+VST-00000905,PAT-000477,Hospital_011,2,678,176,2026-05-08,11,Deceased,DR-0067,Durham,Community,72.2,Yes,No,1,Abdominal Pain,2026-07-30
+VST-00000906,PAT-000217,Hospital_033,5,575,294,2025-04-15,0,Admitted,DR-0146,Central,Specialty,80.5,Yes,Yes,4,Mental Health,2026-06-23
+VST-00000907,PAT-000345,Hospital_034,4,144,124,2025-10-08,4,Admitted,DR-0059,Southwestern,Community,57.9,No,Yes,1,Abdominal Pain,2026-03-08
+VST-00000908,PAT-000652,Hospital_018,2,201,472,2025-01-06,11,Transferred,DR-0100,Central,Specialty,74.9,Yes,No,2,Injury,2026-04-02
+VST-00000909,PAT-000128,Hospital_032,3,248,169,2025-06-26,3,Discharged,DR-0139,Southwestern,Community,104.7,Yes,Yes,4,Abdominal Pain,2026-04-22
+VST-00000910,PAT-000620,Hospital_027,3,404,236,2026-06-14,0,Admitted,DR-0101,Durham,Specialty,66.1,No,Yes,2,Other,2026-07-31
+VST-00000911,PAT-000435,Hospital_043,4,122,90,2025-10-15,15,Transferred,DR-0165,Durham,Rural,93.2,No,No,7,Respiratory,2026-07-20
+VST-00000912,PAT-000439,Hospital_037,2,448,203,2025-02-11,5,Deceased,DR-0041,Hamilton,Specialty,88.4,No,No,9,Injury,2026-03-27
+VST-00000913,PAT-000732,Hospital_019,3,484,209,2025-09-07,9,Left Without Being Seen,DR-0116,Durham,Community,52.2,Yes,Yes,8,Pediatric,2026-05-11
+VST-00000914,PAT-000254,Hospital_024,2,695,282,2025-03-21,7,Transferred,DR-0034,Southwestern,Community,98.2,Yes,No,7,Neurological,2026-02-28
+VST-00000915,PAT-000321,Hospital_011,1,676,267,2025-03-05,10,Transferred,DR-0035,Niagara,Specialty,75.0,Yes,Yes,1,Injury,2026-07-04
+VST-00000916,PAT-000765,Hospital_004,2,44,152,2025-07-15,6,Discharged,DR-0125,Hamilton,Teaching,89.7,Yes,Yes,2,Neurological,2026-02-19
+VST-00000917,PAT-000185,Hospital_016,5,561,173,2025-03-05,18,Deceased,DR-0087,Central,Rural,50.5,No,Yes,8,Abdominal Pain,2026-05-23
+VST-00000918,PAT-000127,Hospital_004,4,209,51,2026-07-02,11,Left Without Being Seen,DR-0071,Durham,Teaching,73.8,No,No,5,Pediatric,2026-02-05
+VST-00000919,PAT-000652,Hospital_040,1,686,460,2026-03-08,10,Discharged,DR-0103,Central,Teaching,57.3,No,No,5,Other,2026-02-20
+VST-00000920,PAT-000495,Hospital_003,3,173,416,2025-03-08,9,Discharged,DR-0094,Northern,Community,80.5,No,No,1,Chest Pain,2026-01-02
+VST-00000921,PAT-000582,Hospital_034,3,282,192,2025-02-27,13,Deceased,DR-0053,Central,Specialty,71.9,Yes,Yes,3,Mental Health,2026-03-24
+VST-00000922,PAT-000305,Hospital_042,2,673,124,2026-03-17,1,Transferred,DR-0040,GTA,Community,77.1,No,Yes,3,Chest Pain,2026-06-11
+VST-00000923,PAT-000511,Hospital_003,4,257,255,2025-09-01,12,Transferred,DR-0138,GTA,Community,55.0,No,No,1,Other,2026-07-02
+VST-00000924,PAT-000621,Hospital_001,3,398,344,2026-03-18,0,Discharged,DR-0087,Central,Community,90.7,No,Yes,5,Respiratory,2026-06-06
+VST-00000925,PAT-000727,Hospital_039,1,673,348,2026-02-03,2,Left Without Being Seen,DR-0159,GTA,Community,93.5,No,Yes,7,Injury,2026-02-05
+VST-00000926,PAT-000333,Hospital_022,3,461,469,2025-11-08,3,Deceased,DR-0067,Central,Teaching,78.7,Yes,No,7,Chest Pain,2026-03-01
+VST-00000927,PAT-000426,Hospital_015,3,18,313,2025-04-01,22,Transferred,DR-0021,Niagara,Community,56.8,Yes,Yes,7,Mental Health,2026-03-16
+VST-00000928,PAT-000331,Hospital_012,5,36,152,2025-08-13,6,Admitted,DR-0190,Niagara,Rural,65.3,No,Yes,7,Respiratory,2026-05-30
+VST-00000929,PAT-000280,Hospital_027,1,341,463,2025-06-11,20,Deceased,DR-0105,Durham,Teaching,68.0,Yes,No,7,Other,2026-03-19
+VST-00000930,PAT-000668,Hospital_049,1,650,264,2025-09-16,18,Discharged,DR-0113,Waterloo,Teaching,73.3,Yes,Yes,6,Other,2026-01-16
+VST-00000931,PAT-000403,Hospital_002,2,717,330,2026-06-28,23,Admitted,DR-0038,Southwestern,Specialty,53.7,No,Yes,7,Other,2026-03-31
+VST-00000932,PAT-000624,Hospital_026,3,38,415,2025-01-19,21,Discharged,DR-0047,Ottawa,Specialty,84.1,No,No,8,Chest Pain,2026-06-16
+VST-00000933,PAT-000318,Hospital_045,5,424,354,2025-01-30,2,Transferred,DR-0088,Niagara,Teaching,57.8,No,No,3,Neurological,2026-04-16
+VST-00000934,PAT-000596,Hospital_023,1,149,448,2026-01-16,2,Transferred,DR-0035,Durham,Teaching,59.6,Yes,No,3,Injury,2026-07-28
+VST-00000935,PAT-000539,Hospital_043,3,516,161,2026-01-29,18,Transferred,DR-0134,Central,Teaching,61.6,Yes,No,9,Chest Pain,2026-06-14
+VST-00000936,PAT-000282,Hospital_018,4,242,479,2025-12-11,21,Deceased,DR-0010,GTA,Community,101.3,No,Yes,10,Abdominal Pain,2026-04-25
+VST-00000937,PAT-000105,Hospital_018,1,113,83,2025-04-22,5,Deceased,DR-0011,Central,Rural,53.7,Yes,No,3,Pediatric,2026-06-11
+VST-00000938,PAT-000787,Hospital_045,2,97,411,2025-08-15,22,Left Without Being Seen,DR-0150,Southwestern,Specialty,51.5,Yes,Yes,10,Neurological,2026-02-02
+VST-00000939,PAT-000112,Hospital_038,2,562,190,2025-06-17,4,Admitted,DR-0158,Eastern,Teaching,102.3,No,Yes,4,Abdominal Pain,2026-01-21
+VST-00000940,PAT-000372,Hospital_020,4,600,369,2026-04-08,20,Discharged,DR-0066,Waterloo,Community,54.3,Yes,Yes,7,Chest Pain,2026-03-22
+VST-00000941,PAT-000236,Hospital_038,3,322,140,2025-06-20,16,Left Without Being Seen,DR-0089,Ottawa,Community,95.9,Yes,No,9,Respiratory,2026-02-21
+VST-00000942,PAT-000079,Hospital_001,4,304,307,2025-03-24,8,Deceased,DR-0116,Niagara,Rural,59.8,Yes,Yes,1,Injury,2026-01-14
+VST-00000943,PAT-000772,Hospital_007,5,579,464,2026-05-13,1,Transferred,DR-0164,Waterloo,Community,58.1,Yes,No,1,Abdominal Pain,2026-01-30
+VST-00000944,PAT-000387,Hospital_012,5,25,59,2026-03-02,17,Discharged,DR-0119,Eastern,Community,100.4,Yes,No,6,Chest Pain,2026-04-27
+VST-00000945,PAT-000503,Hospital_010,1,520,440,2026-07-24,19,Discharged,DR-0111,Niagara,Rural,85.4,No,No,6,Neurological,2026-03-01
+VST-00000946,PAT-000287,Hospital_002,1,158,237,2026-05-20,2,Transferred,DR-0018,Hamilton,Community,94.0,No,No,4,Neurological,2026-03-08
+VST-00000947,PAT-000216,Hospital_044,1,720,336,2026-03-15,3,Discharged,DR-0139,Niagara,Teaching,98.6,Yes,Yes,9,Neurological,2026-05-28
+VST-00000948,PAT-000185,Hospital_037,2,57,27,2025-10-30,21,Left Without Being Seen,DR-0156,Northern,Community,99.8,No,No,9,Other,2026-04-13
+VST-00000949,PAT-000645,Hospital_007,4,425,412,2025-05-08,3,Deceased,DR-0096,Hamilton,Teaching,91.0,Yes,Yes,10,Injury,2026-01-16
+VST-00000950,PAT-000487,Hospital_015,4,569,372,2026-03-24,12,Left Without Being Seen,DR-0092,Hamilton,Teaching,83.5,No,No,3,Chest Pain,2026-02-18
+VST-00000951,PAT-000272,Hospital_005,2,564,229,2025-11-18,2,Transferred,DR-0099,Hamilton,Community,85.7,Yes,No,3,Neurological,2026-05-31
+VST-00000952,PAT-000732,Hospital_002,4,200,191,2025-08-13,3,Admitted,DR-0198,Ottawa,Rural,54.1,Yes,Yes,10,Abdominal Pain,2026-02-14
+VST-00000953,PAT-000640,Hospital_038,5,191,387,2025-10-07,16,Transferred,DR-0025,Eastern,Teaching,55.3,Yes,No,9,Chest Pain,2026-04-27
+VST-00000954,PAT-000477,Hospital_045,1,63,472,2025-04-05,5,Discharged,DR-0176,Southwestern,Rural,96.3,Yes,No,10,Neurological,2026-06-05
+VST-00000955,PAT-000386,Hospital_015,5,678,169,2025-11-26,7,Left Without Being Seen,DR-0186,Southwestern,Specialty,80.1,Yes,No,7,Injury,2026-07-31
+VST-00000956,PAT-000197,Hospital_047,1,14,112,2026-03-31,7,Transferred,DR-0051,Hamilton,Rural,76.3,Yes,Yes,6,Abdominal Pain,2026-06-27
+VST-00000957,PAT-000552,Hospital_046,1,471,268,2026-07-08,7,Admitted,DR-0198,Niagara,Community,72.6,No,No,7,Respiratory,2026-07-18
+VST-00000958,PAT-000364,Hospital_024,4,363,471,2025-08-16,2,Discharged,DR-0012,Northern,Specialty,97.6,No,No,3,Other,2026-03-23
+VST-00000959,PAT-000456,Hospital_005,3,540,319,2025-03-06,5,Left Without Being Seen,DR-0090,Northern,Teaching,87.4,No,Yes,10,Other,2026-05-26
+VST-00000960,PAT-000257,Hospital_018,4,262,19,2025-03-09,21,Left Without Being Seen,DR-0142,Niagara,Specialty,78.9,No,Yes,8,Injury,2026-04-03
+VST-00000961,PAT-000263,Hospital_022,2,547,111,2025-06-02,8,Discharged,DR-0036,Eastern,Teaching,103.7,Yes,Yes,3,Respiratory,2026-02-19
+VST-00000962,PAT-000631,Hospital_029,1,325,33,2025-04-20,1,Admitted,DR-0172,Eastern,Rural,56.4,Yes,Yes,1,Respiratory,2026-01-11
+VST-00000963,PAT-000125,Hospital_029,4,271,334,2025-04-10,18,Admitted,DR-0131,Eastern,Community,66.3,No,Yes,2,Chest Pain,2026-06-01
+VST-00000964,PAT-000733,Hospital_028,4,36,364,2025-07-01,9,Deceased,DR-0017,Ottawa,Specialty,81.8,Yes,No,8,Other,2026-04-29
+VST-00000965,PAT-000425,Hospital_010,5,488,154,2026-02-03,14,Deceased,DR-0054,GTA,Specialty,58.1,No,Yes,2,Injury,2026-05-04
+VST-00000966,PAT-000619,Hospital_002,1,419,394,2026-06-10,20,Left Without Being Seen,DR-0101,Southwestern,Community,79.3,Yes,No,6,Other,2026-04-10
+VST-00000967,PAT-000196,Hospital_044,3,530,451,2026-04-16,6,Discharged,DR-0023,Ottawa,Community,70.1,Yes,No,9,Pediatric,2026-05-01
+VST-00000968,PAT-000281,Hospital_021,4,302,174,2025-08-18,3,Admitted,DR-0042,Durham,Teaching,98.0,No,No,2,Mental Health,2026-04-18
+VST-00000969,PAT-000513,Hospital_012,2,246,353,2025-05-29,19,Discharged,DR-0182,Southwestern,Specialty,50.2,No,No,8,Respiratory,2026-01-09
+VST-00000970,PAT-000482,Hospital_009,3,546,458,2025-02-16,22,Discharged,DR-0132,Hamilton,Specialty,55.6,No,Yes,9,Respiratory,2026-05-23
+VST-00000971,PAT-000084,Hospital_021,2,506,246,2025-04-19,2,Left Without Being Seen,DR-0189,Northern,Specialty,67.7,Yes,No,4,Pediatric,2026-01-22
+VST-00000972,PAT-000245,Hospital_012,1,316,44,2026-02-12,7,Admitted,DR-0044,Eastern,Specialty,59.5,Yes,No,10,Abdominal Pain,2026-07-24
+VST-00000973,PAT-000107,Hospital_006,2,31,258,2025-08-23,13,Transferred,DR-0024,Waterloo,Specialty,75.2,Yes,No,10,Pediatric,2026-07-21
+VST-00000974,PAT-000609,Hospital_029,5,73,209,2025-06-27,12,Transferred,DR-0126,Ottawa,Rural,53.5,Yes,No,6,Other,2026-01-11
+VST-00000975,PAT-000056,Hospital_029,2,170,71,2025-05-22,14,Discharged,DR-0171,Northern,Teaching,94.6,Yes,No,1,Pediatric,2026-07-13
+VST-00000976,PAT-000158,Hospital_030,2,116,422,2026-03-16,15,Admitted,DR-0065,Waterloo,Community,80.5,No,Yes,7,Other,2026-05-14
+VST-00000977,PAT-000425,Hospital_048,1,463,271,2025-10-14,0,Left Without Being Seen,DR-0077,Durham,Rural,100.9,Yes,Yes,1,Pediatric,2026-01-28
+VST-00000978,PAT-000130,Hospital_048,4,529,433,2026-05-03,7,Transferred,DR-0004,Ottawa,Rural,64.6,No,No,2,Neurological,2026-05-15
+VST-00000979,PAT-000664,Hospital_039,2,509,299,2025-04-11,23,Admitted,DR-0176,Central,Community,61.8,Yes,No,10,Mental Health,2026-04-18
+VST-00000980,PAT-000514,Hospital_027,3,167,75,2025-11-20,2,Discharged,DR-0187,Northern,Specialty,53.7,Yes,Yes,3,Injury,2026-05-03
+VST-00000981,PAT-000499,Hospital_021,4,679,194,2025-07-15,19,Deceased,DR-0144,Eastern,Specialty,73.5,No,Yes,3,Pediatric,2026-07-13
+VST-00000982,PAT-000315,Hospital_011,4,681,227,2026-04-06,14,Admitted,DR-0008,Ottawa,Rural,100.8,Yes,No,3,Other,2026-06-22
+VST-00000983,PAT-000629,Hospital_044,3,250,159,2025-02-08,14,Discharged,DR-0180,Niagara,Community,92.2,No,No,7,Respiratory,2026-05-04
+VST-00000984,PAT-000542,Hospital_046,3,539,237,2025-01-29,20,Left Without Being Seen,DR-0099,Southwestern,Teaching,62.6,Yes,No,7,Pediatric,2026-07-19
+VST-00000985,PAT-000046,Hospital_047,2,632,374,2026-05-23,4,Deceased,DR-0078,Central,Teaching,61.1,No,No,1,Chest Pain,2026-01-20
+VST-00000986,PAT-000673,Hospital_017,5,19,220,2026-07-22,2,Discharged,DR-0110,Central,Rural,87.8,Yes,No,4,Injury,2026-04-21
+VST-00000987,PAT-000176,Hospital_015,4,335,26,2025-12-10,23,Left Without Being Seen,DR-0054,Northern,Community,89.6,Yes,Yes,8,Respiratory,2026-04-10
+VST-00000988,PAT-000719,Hospital_012,3,61,207,2026-06-14,6,Transferred,DR-0086,Waterloo,Rural,89.4,No,Yes,3,Mental Health,2026-07-12
+VST-00000989,PAT-000019,Hospital_031,1,49,398,2025-12-03,12,Left Without Being Seen,DR-0011,GTA,Specialty,74.8,No,Yes,6,Pediatric,2026-05-07
+VST-00000990,PAT-000626,Hospital_021,2,298,386,2025-01-24,20,Deceased,DR-0127,Southwestern,Teaching,67.4,No,Yes,8,Neurological,2026-05-06
+VST-00000991,PAT-000425,Hospital_017,3,596,207,2025-09-11,18,Admitted,DR-0025,Southwestern,Teaching,81.4,No,Yes,5,Chest Pain,2026-03-14
+VST-00000992,PAT-000785,Hospital_013,4,379,163,2025-11-28,2,Deceased,DR-0020,Niagara,Teaching,52.8,Yes,Yes,3,Pediatric,2026-06-24
+VST-00000993,PAT-000339,Hospital_046,4,509,463,2025-06-10,13,Transferred,DR-0035,Southwestern,Community,97.1,Yes,No,9,Abdominal Pain,2026-03-19
+VST-00000994,PAT-000536,Hospital_044,1,555,327,2026-02-03,11,Deceased,DR-0098,Ottawa,Rural,72.4,Yes,Yes,2,Mental Health,2026-07-29
+VST-00000995,PAT-000697,Hospital_025,5,480,399,2026-01-07,15,Left Without Being Seen,DR-0024,Northern,Community,89.3,No,No,8,Chest Pain,2026-06-23
+VST-00000996,PAT-000257,Hospital_018,3,490,426,2025-03-14,17,Transferred,DR-0145,Southwestern,Teaching,62.5,Yes,No,1,Chest Pain,2026-05-10
+VST-00000997,PAT-000418,Hospital_009,5,242,177,2025-12-02,20,Transferred,DR-0026,Southwestern,Community,75.7,Yes,Yes,10,Abdominal Pain,2026-07-06
+VST-00000998,PAT-000188,Hospital_046,1,159,186,2025-12-10,7,Left Without Being Seen,DR-0055,Northern,Rural,56.6,No,No,7,Injury,2026-06-18
+VST-00000999,PAT-000047,Hospital_028,5,339,215,2026-02-27,1,Deceased,DR-0001,Northern,Rural,93.7,Yes,Yes,2,Abdominal Pain,2026-06-12
+VST-00001000,PAT-000135,Hospital_002,1,372,32,2025-06-08,12,Discharged,DR-0086,Central,Rural,89.6,No,No,2,Respiratory,2026-01-17
