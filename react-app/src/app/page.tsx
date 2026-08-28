@@ -132,6 +132,7 @@ export default function HomePage() {
   const [notifications, setNotifications] = useState<string[]>([]);
   const [accessRequested, setAccessRequested] = useState<string[]>([]);
   const [detailTab, setDetailTab] = useState<'overview' | 'lineage' | 'policies'>('overview');
+  const [recommendations, setRecommendations] = useState<any[]>([]);
 
   const role = ROLE_MAP[persona] || 'OPS_GENERAL_USER';
   const allDatasets = Object.values(CATALOG);
@@ -315,6 +316,33 @@ export default function HomePage() {
         )}
 
         {detailTab === 'policies' && <ApplicablePolicies dataset={d} />}
+
+        {/* AI Recommendations */}
+        <div className="mt-6 bg-white rounded-xl border p-5">
+          <h3 className="font-bold text-sm text-gray-900 mb-1 flex items-center gap-2">
+            <svg className="w-4 h-4 text-violet-600" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
+            AI-Driven Recommendations
+          </h3>
+          <p className="text-xs text-gray-500 mb-3">Related data products based on domain, tag similarity, and co-query patterns</p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
+            {allDatasets.filter(other => other.id !== d.id).map(other => {
+              const tagOverlap = other.tags.filter(t => d.tags.includes(t)).length;
+              const domainMatch = other.domain === d.domain ? 1 : 0;
+              return { ...other, score: tagOverlap * 3 + domainMatch * 2 + (other.ai_ready === d.ai_ready ? 1 : 0) };
+            }).sort((a, b) => b.score - a.score).slice(0, 3).map(rec => (
+              <div key={rec.id} onClick={() => { setSelectedDataset(rec); setDetailTab('overview'); }} className="border rounded-lg p-3 hover:bg-blue-50 cursor-pointer transition group">
+                <div className="flex items-center gap-1.5 mb-1">
+                  <span className={`px-1.5 py-0.5 rounded text-[10px] font-bold ${DOMAIN_COLORS[rec.domain]}`}>{rec.domain}</span>
+                  {rec.ai_ready && <span className="px-1.5 py-0.5 rounded text-[10px] font-bold bg-violet-600 text-white">AI-Ready</span>}
+                </div>
+                <div className="font-medium text-sm text-gray-800 group-hover:text-blue-700">{rec.display_name}</div>
+                <div className="text-xs text-gray-500 mt-1">
+                  {rec.domain === d.domain ? 'Same domain' : `Shared tags: ${rec.tags.filter((t: string) => d.tags.includes(t)).join(', ') || 'related'}`}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
       </div>
     );
   }
