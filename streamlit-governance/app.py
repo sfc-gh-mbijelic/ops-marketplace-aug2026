@@ -130,15 +130,14 @@ with tab_access:
     vr = st.selectbox("Role", ["OPS_GENERAL_USER", "OPS_DATA_ANALYST", "OPS_DATA_SCIENTIST", "OPS_CONTRIBUTOR"])
     if st.button("Show Grants"):
         try:
-            gdf = session.sql(f"SHOW GRANTS TO ROLE {vr}").to_pandas()
-            # Filter to SELECT grants on tables in our database
-            table_grants = gdf[(gdf["privilege"] == "SELECT") & (gdf["granted_on"] == "TABLE")]
-            if not table_grants.empty:
-                st.write(f"**{vr}** has SELECT access to **{len(table_grants)} tables:**")
-                for _, g in table_grants.iterrows():
+            session.sql(f"SHOW GRANTS TO ROLE {vr}").collect()
+            gdf = session.sql('SELECT "privilege", "granted_on", "name" FROM TABLE(RESULT_SCAN(LAST_QUERY_ID())) WHERE "privilege" = \'SELECT\' AND "granted_on" = \'TABLE\'').to_pandas()
+            if not gdf.empty:
+                st.write(f"**{vr}** has SELECT access to **{len(gdf)} tables:**")
+                for _, g in gdf.iterrows():
                     st.write(f"- `{g['name']}`")
             else:
-                st.info(f"{vr} has no direct TABLE grants. Approve a pending request to see changes here.")
+                st.info(f"{vr} has no direct TABLE grants.")
         except Exception as e:
             st.error(str(e))
 
